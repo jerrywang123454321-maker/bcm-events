@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T12:40",
+ "generated_at": "2026-09-16T12:55",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -41,7 +41,7 @@
    "location": "MSB B.100, McGovern Medical School Building",
    "virtual_link": null,
    "description": "Fall series session; sign-up form linked in chat.",
-   "category": "other",
+   "category": "student_org",
    "mandatory": 0,
    "food_provided": 0,
    "organizer": null,
@@ -52,11 +52,11 @@
    "rsvp_notes": null,
    "confidence": 0.6,
    "status": "active",
-   "updated_at": "2026-09-16T12:08:46",
+   "updated_at": "2026-09-16T12:52:48",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/9.html",
-   "search": "mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm other"
+   "search": "mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm student org"
   },
   {
    "id": 15,
@@ -99,7 +99,7 @@
    "location": null,
    "virtual_link": null,
    "description": "N311",
-   "category": "interest_group",
+   "category": "student_org",
    "mandatory": 0,
    "food_provided": 1,
    "organizer": "APAMSA @ BCM",
@@ -110,11 +110,11 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-16T12:39:54",
+   "updated_at": "2026-09-16T12:52:45",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/2.html",
-   "search": "general body meeting #2 apamsa @ bcm n311 apamsa @ bcm interest group"
+   "search": "general body meeting #2 apamsa @ bcm n311 apamsa @ bcm student org"
   },
   {
    "id": 34,
@@ -127,7 +127,7 @@
    "location": "Room N317",
    "virtual_link": null,
    "description": "Kickoff event: 'What is Pediatric Oncology?' talk and Q&A with Dr. Eric Schafer, Associate Professor and Director of the Leukemia Program at Texas Children's Hospital. Dinner provided.",
-   "category": "career",
+   "category": "interest_group",
    "mandatory": 0,
    "food_provided": 1,
    "organizer": "CKC",
@@ -138,13 +138,13 @@
    "rsvp_notes": "RSVP for food; deadline 9/15 has passed.",
    "confidence": 0.93,
    "status": "active",
-   "updated_at": "2026-09-16T12:02:57",
+   "updated_at": "2026-09-16T12:48:49",
    "group_name": "BCM '30 Houston",
    "flyers": [
     "flyers/178888734142740479_0.jpg"
    ],
    "page": "event/34.html",
-   "search": "ckc: introduction to pediatric oncology talk & q&a room n317 ckc kickoff event: 'what is pediatric oncology?' talk and q&a with dr. eric schafer, associate professor and director of the leukemia program at texas children's hospital. dinner provided. bcm '30 houston career / specialty"
+   "search": "ckc: introduction to pediatric oncology talk & q&a room n317 ckc kickoff event: 'what is pediatric oncology?' talk and q&a with dr. eric schafer, associate professor and director of the leukemia program at texas children's hospital. dinner provided. bcm '30 houston interest group"
   },
   {
    "id": 35,
@@ -157,7 +157,7 @@
    "location": "Axelrad Beer Garden",
    "virtual_link": null,
    "description": "Meet OB/GYN residents. Open to students interested in OB/GYN or still undecided. Dinner (tacos) provided.",
-   "category": "career",
+   "category": "interest_group",
    "mandatory": 0,
    "food_provided": 1,
    "organizer": "GOBIG (Gynecology and Obstetrics Interest Group)",
@@ -168,13 +168,13 @@
    "rsvp_notes": "RSVP for tacos using the QR code on the flyer. No URL or deadline was given.",
    "confidence": 0.92,
    "status": "active",
-   "updated_at": "2026-09-16T12:02:58",
+   "updated_at": "2026-09-16T12:48:52",
    "group_name": "BCM '30 Houston",
    "flyers": [
     "flyers/178888864335935604_0.jpg"
    ],
    "page": "event/35.html",
-   "search": "gobig: meet the residents axelrad beer garden gobig (gynecology and obstetrics interest group) meet ob/gyn residents. open to students interested in ob/gyn or still undecided. dinner (tacos) provided. bcm '30 houston career / specialty"
+   "search": "gobig: meet the residents axelrad beer garden gobig (gynecology and obstetrics interest group) meet ob/gyn residents. open to students interested in ob/gyn or still undecided. dinner (tacos) provided. bcm '30 houston interest group"
   },
   {
    "id": 28,
@@ -187,7 +187,7 @@
    "location": "M321/323",
    "virtual_link": null,
    "description": "Faculty panel on neurology subspecialty careers, including Drs. Bellows, Kung, Maheshwari, Kass, Moore, Goldsmith, Jimenez Gomez, Edmonson, Damani, and Dasgupta.",
-   "category": "career",
+   "category": "interest_group",
    "mandatory": 0,
    "food_provided": 1,
    "organizer": "SIGN (Student Interest Group in Neurology)",
@@ -198,13 +198,13 @@
    "rsvp_notes": "RSVP for food.",
    "confidence": 0.95,
    "status": "active",
-   "updated_at": "2026-09-16T12:02:49",
+   "updated_at": "2026-09-16T12:48:44",
    "group_name": "BCM '30 Houston",
    "flyers": [
     "flyers/178834881838578328_0.jpg"
    ],
    "page": "event/28.html",
-   "search": "sign: meet the mentors neurology panel m321/323 sign (student interest group in neurology) faculty panel on neurology subspecialty careers, including drs. bellows, kung, maheshwari, kass, moore, goldsmith, jimenez gomez, edmonson, damani, and dasgupta. bcm '30 houston career / specialty"
+   "search": "sign: meet the mentors neurology panel m321/323 sign (student interest group in neurology) faculty panel on neurology subspecialty careers, including drs. bellows, kung, maheshwari, kass, moore, goldsmith, jimenez gomez, edmonson, damani, and dasgupta. bcm '30 houston interest group"
   },
   {
    "id": 45,
@@ -217,7 +217,7 @@
    "location": "Irving, TX",
    "virtual_link": null,
    "description": "Texas Medical Association Leadership Summit in Irving. Chris Wong offered to carpool or help coordinate housing for anyone going.",
-   "category": "career",
+   "category": "student_org",
    "mandatory": 0,
    "food_provided": 0,
    "organizer": "Texas Medical Association",
@@ -228,11 +228,11 @@
    "rsvp_notes": "Message Chris Wong if you're going and want to carpool or share housing.",
    "confidence": 0.65,
    "status": "active",
-   "updated_at": "2026-09-16T12:03:10",
+   "updated_at": "2026-09-16T12:53:02",
    "group_name": "BCM AMA TMA",
    "flyers": [],
    "page": "event/45.html",
-   "search": "tma leadership summit irving, tx texas medical association texas medical association leadership summit in irving. chris wong offered to carpool or help coordinate housing for anyone going. bcm ama tma career / specialty"
+   "search": "tma leadership summit irving, tx texas medical association texas medical association leadership summit in irving. chris wong offered to carpool or help coordinate housing for anyone going. bcm ama tma student org"
   },
   {
    "id": 31,
@@ -245,7 +245,7 @@
    "location": "Table by the squad rooms",
    "virtual_link": null,
    "description": "Drop in anytime for snacks and tips on getting involved in clinical or wet lab research.",
-   "category": "research",
+   "category": "student_org",
    "mandatory": 0,
    "food_provided": 1,
    "organizer": "FirstGen MD",
@@ -256,14 +256,14 @@
    "rsvp_notes": null,
    "confidence": 0.95,
    "status": "active",
-   "updated_at": "2026-09-16T12:02:53",
+   "updated_at": "2026-09-16T12:52:56",
    "group_name": "BCM '30 Houston",
    "flyers": [
     "flyers/178844998229643492_0.jpg",
     "flyers/178948106652220493_0.jpg"
    ],
    "page": "event/31.html",
-   "search": "firstgen md: snacks + research tips table by the squad rooms firstgen md drop in anytime for snacks and tips on getting involved in clinical or wet lab research. bcm '30 houston research"
+   "search": "firstgen md: snacks + research tips table by the squad rooms firstgen md drop in anytime for snacks and tips on getting involved in clinical or wet lab research. bcm '30 houston student org"
   },
   {
    "id": 13,
@@ -276,7 +276,7 @@
    "location": "Helix Park",
    "virtual_link": null,
    "description": "Casual soccer game with the Baylor Soccer group.",
-   "category": "social",
+   "category": "wellness",
    "mandatory": 0,
    "food_provided": 0,
    "organizer": "Baylor Soccer",
@@ -287,11 +287,11 @@
    "rsvp_notes": null,
    "confidence": 0.85,
    "status": "active",
-   "updated_at": "2026-09-16T12:02:38",
+   "updated_at": "2026-09-16T12:48:38",
    "group_name": "Baylor Soccer \u26bd\ufe0f",
    "flyers": [],
    "page": "event/13.html",
-   "search": "baylor soccer: weekly pickup game helix park baylor soccer casual soccer game with the baylor soccer group. baylor soccer \u26bd\ufe0f social"
+   "search": "baylor soccer: weekly pickup game helix park baylor soccer casual soccer game with the baylor soccer group. baylor soccer \u26bd\ufe0f wellness"
   },
   {
    "id": 6,
@@ -332,7 +332,7 @@
    "location": "The Little Gym, Pearland",
    "virtual_link": null,
    "description": "Fall kickoff for BCM student parents and expectant parents, and their kids. Contact Priscilla Alb\u00e1n-Acu\u00f1a (MS2).",
-   "category": "social",
+   "category": "student_org",
    "mandatory": 0,
    "food_provided": 0,
    "organizer": "BCM CHILD",
@@ -343,11 +343,11 @@
    "rsvp_notes": null,
    "confidence": 0.75,
    "status": "active",
-   "updated_at": "2026-09-16T12:02:59",
+   "updated_at": "2026-09-16T12:52:59",
    "group_name": "BCM '30 Houston",
    "flyers": [],
    "page": "event/36.html",
-   "search": "bcm child: fall kickoff playdate for student parents the little gym, pearland bcm child fall kickoff for bcm student parents and expectant parents, and their kids. contact priscilla alb\u00e1n-acu\u00f1a (ms2). bcm '30 houston social"
+   "search": "bcm child: fall kickoff playdate for student parents the little gym, pearland bcm child fall kickoff for bcm student parents and expectant parents, and their kids. contact priscilla alb\u00e1n-acu\u00f1a (ms2). bcm '30 houston student org"
   },
   {
    "id": 33,
@@ -416,7 +416,7 @@
    "location": "Conference Room N.202, Alkek Building",
    "virtual_link": null,
    "description": "Breakfast and informal conversation with Dr. Hashem El-Serag, Chair of Medicine and VP of the Learning Health System, covering career journeys and joy in academia, with open Q&A.",
-   "category": "career",
+   "category": "interest_group",
    "mandatory": 0,
    "food_provided": 1,
    "organizer": "Internal Medicine Interest Group (shared)",
@@ -427,11 +427,11 @@
    "rsvp_notes": "Space limited to the first 15 RSVPs.",
    "confidence": 0.93,
    "status": "active",
-   "updated_at": "2026-09-16T12:03:11",
+   "updated_at": "2026-09-16T12:48:55",
    "group_name": "BCM Internal Medicine Interest Group 2026-2027",
    "flyers": [],
    "page": "event/46.html",
-   "search": "muffins with mentors: dr. hashem el-serag conference room n.202, alkek building internal medicine interest group (shared) breakfast and informal conversation with dr. hashem el-serag, chair of medicine and vp of the learning health system, covering career journeys and joy in academia, with open q&a. bcm internal medicine interest group 2026-2027 career / specialty"
+   "search": "muffins with mentors: dr. hashem el-serag conference room n.202, alkek building internal medicine interest group (shared) breakfast and informal conversation with dr. hashem el-serag, chair of medicine and vp of the learning health system, covering career journeys and joy in academia, with open q&a. bcm internal medicine interest group 2026-2027 interest group"
   },
   {
    "id": 20,
@@ -558,7 +558,7 @@
    "location": "Axelrad",
    "virtual_link": null,
    "description": "Meet BCM med-peds residents and other students interested in a career in internal medicine and pediatrics. Pizza, food, and drinks provided.",
-   "category": "career",
+   "category": "interest_group",
    "mandatory": 0,
    "food_provided": 1,
    "organizer": "Med-Peds Interest Group",
@@ -569,13 +569,13 @@
    "rsvp_notes": "RSVP through the Google Form (also a QR code on the flyer). No deadline given.",
    "confidence": 0.93,
    "status": "active",
-   "updated_at": "2026-09-16T12:03:13",
+   "updated_at": "2026-09-16T12:48:57",
    "group_name": "BCM Med/Peds Interest Group",
    "flyers": [
     "flyers/178915776145982999_0.jpg"
    ],
    "page": "event/48.html",
-   "search": "med-peds interest group: resident-student mixer axelrad med-peds interest group meet bcm med-peds residents and other students interested in a career in internal medicine and pediatrics. pizza, food, and drinks provided. bcm med/peds interest group career / specialty"
+   "search": "med-peds interest group: resident-student mixer axelrad med-peds interest group meet bcm med-peds residents and other students interested in a career in internal medicine and pediatrics. pizza, food, and drinks provided. bcm med/peds interest group interest group"
   },
   {
    "id": 26,
@@ -616,7 +616,7 @@
    "location": "Rice University, 6100, Main St, Southgate, Houston, TX, 77005",
    "virtual_link": null,
    "description": "Registration Form: https://docs.google.com/forms/d/e/1FAIpQLSd9ofnvSNfDpHz8jia48nrqHwmDdodezquBdGvs8lZLPpiSBQ/viewform",
-   "category": "lecture",
+   "category": "student_org",
    "mandatory": 0,
    "food_provided": 1,
    "organizer": "APAMSA South Region",
@@ -627,11 +627,11 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-16T12:39:47",
+   "updated_at": "2026-09-16T12:52:47",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
-   "search": "south regional conference rice university, 6100, main st, southgate, houston, tx, 77005 apamsa south region registration form: https://docs.google.com/forms/d/e/1faipqlsd9ofnvsnfdphz8jia48nrqhwmddodezqubdgvs8lzlppisbq/viewform apamsa @ bcm lecture / talk"
+   "search": "south regional conference rice university, 6100, main st, southgate, houston, tx, 77005 apamsa south region registration form: https://docs.google.com/forms/d/e/1faipqlsd9ofnvsnfdphz8jia48nrqhwmddodezqubdgvs8lzlppisbq/viewform apamsa @ bcm student org"
   },
   {
    "id": 27,
@@ -910,7 +910,7 @@
    "rsvp_method": "other",
    "rsvp_url": null,
    "rsvp_deadline": null,
-   "rsvp_notes": "Register via Term 2 elective registration. Questions: email a TA (Roman.Gorchs, Neil.Panwalker, William.Suh, Suman.Atluri @bcm.edu).",
+   "rsvp_notes": "Register via Term 2 elective registration. Questions: email a TA (Roman.Gorchs, Neil.Panwalker, William.Suh, Suman.Atluri .edu).",
    "confidence": 0.75,
    "status": "active",
    "updated_at": "2026-09-16T12:03:04",
@@ -990,7 +990,7 @@
    "location": "MSB B.100, McGovern Medical School Building",
    "virtual_link": null,
    "description": "Fall series session; sign-up form linked in chat.",
-   "category": "other",
+   "category": "student_org",
    "mandatory": 0,
    "food_provided": 0,
    "organizer": null,
@@ -1001,11 +1001,11 @@
    "rsvp_notes": null,
    "confidence": 0.6,
    "status": "active",
-   "updated_at": "2026-09-16T12:09:09",
+   "updated_at": "2026-09-16T12:52:51",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/10.html",
-   "search": "mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm other"
+   "search": "mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm student org"
   },
   {
    "id": 14,
@@ -1226,7 +1226,7 @@
    "location": "MSB B.100, McGovern Medical School Building",
    "virtual_link": null,
    "description": "Fall series session; sign-up form linked in chat.",
-   "category": "other",
+   "category": "student_org",
    "mandatory": 0,
    "food_provided": 0,
    "organizer": null,
@@ -1237,11 +1237,11 @@
    "rsvp_notes": null,
    "confidence": 0.6,
    "status": "active",
-   "updated_at": "2026-09-16T12:09:24",
+   "updated_at": "2026-09-16T12:52:54",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/11.html",
-   "search": "mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm other"
+   "search": "mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm student org"
   }
  ]
 }
