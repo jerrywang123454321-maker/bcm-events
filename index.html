@@ -2,855 +2,1427 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
 <meta name="robots" content="noindex">
 <title>BCM Events</title>
-<style>
-  :root { --bg:#f6f7f9; --card:#fff; --text:#1c1f24; --muted:#6b7280; --line:#e5e7eb; --accent:#2563eb; --warn:#b45309; --warnbg:#fef3c7; --bad:#b91c1c; --badbg:#fee2e2; --good:#166534; --goodbg:#dcfce7; --tag:#eef2ff; --tagtext:#3730a3; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#0f1115; --card:#181b21; --text:#e5e7eb; --muted:#9ca3af; --line:#2a2f3a; --accent:#60a5fa; --warn:#fbbf24; --warnbg:#3b2f0b; --bad:#f87171; --badbg:#3b1111; --good:#86efac; --goodbg:#0f2e1a; --tag:#1e2440; --tagtext:#c7d2fe; } }
-  * { box-sizing:border-box; }
-  body { margin:0; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background:var(--bg); color:var(--text); }
-  header { display:flex; flex-wrap:wrap; gap:14px; align-items:center; padding:12px 16px; border-bottom:1px solid var(--line); background:var(--card); position:sticky; top:0; }
-  header .brand { font-weight:700; margin-right:6px; }
-  header a { color:var(--text); text-decoration:none; font-weight:600; }
-  header a.active { color:var(--accent); }
-  header .stamp { margin-left:auto; color:var(--muted); font-size:12px; }
-  main { max-width:820px; margin:0 auto; padding:16px; }
-  h1 { font-size:22px; margin:0 0 12px; }
-  h2 { font-size:14px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; margin:20px 0 8px; }
-  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 14px; margin-bottom:8px; }
-  .card.cancelled .title { text-decoration:line-through; }
-  .row { display:flex; gap:12px; align-items:flex-start; }
-  .time { min-width:84px; color:var(--muted); font-variant-numeric:tabular-nums; font-size:14px; padding-top:2px; }
-  .title { font-weight:600; }
-  .title a { color:inherit; text-decoration:none; }
-  .meta { color:var(--muted); font-size:13px; margin-top:2px; }
-  .tags { margin-top:6px; display:flex; flex-wrap:wrap; gap:6px; }
-  .tag { font-size:12px; padding:2px 8px; border-radius:999px; background:var(--tag); color:var(--tagtext); }
-  .tag.req { background:var(--badbg); color:var(--bad); font-weight:600; }
-  .tag.rsvp { background:var(--warnbg); color:var(--warn); font-weight:600; }
-  .tag.food { background:var(--goodbg); color:var(--good); }
-  .tag.low { background:var(--warnbg); color:var(--warn); }
-  .muted { color:var(--muted); }
-  .flyer { max-width:100%; border-radius:10px; border:1px solid var(--line); margin-top:8px; }
-  .src { border-left:3px solid var(--line); padding:6px 10px; margin:8px 0; font-size:14px; white-space:pre-wrap; }
-  .empty { color:var(--muted); padding:30px 0; text-align:center; }
-  dl { display:grid; grid-template-columns:110px 1fr; gap:6px 12px; font-size:14px; }
-  dt { color:var(--muted); }
-  a { color:var(--accent); word-break:break-word; }
-  .btn { display:inline-block; padding:8px 14px; border-radius:8px; background:var(--accent); color:#fff; text-decoration:none; font-weight:600; margin-top:8px; }
-  footer { color:var(--muted); font-size:12px; text-align:center; padding:24px 16px; }
-</style>
+<link rel="stylesheet" href="./assets/app.css">
 </head>
 <body>
-<header>
-  <span class="brand">BCM Events</span>
-  <a href="./index.html" class="active">Agenda</a>
-  <a href="./rsvp.html" class="">RSVPs</a>
-  <span class="stamp">updated Wed Sep 16, 12:25 PM</span>
+<header class="topbar">
+  <a class="brand" href="./index.html"><span class="logo">📅</span><span class="name">BCM Events</span></a>
+  <nav class="nav" aria-label="Sections">
+    <a href="./index.html" class="active">Agenda</a>
+    <a href="./rsvp.html" class="">RSVPs</a>
+    
+  </nav>
+  <span class="spacer"></span>
+  <span class="stamp">Updated Wed Sep 16, 12:39 PM</span>
+  
+  <a class="btn sm" href="webcal://jerrywang123454321-maker.github.io/bcm-events/bcm-events.ics" title="Subscribe in your calendar app so every event shows up automatically">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+    Subscribe</a>
+  
 </header>
-<main>
-<h1>Upcoming events</h1>
+<main class="container">
+<div class="page-head"><h1>Upcoming events</h1><span class="sub">43 in the next 60 days</span></div>
+<div class="toolbar" data-default-range="all">
+  <div class="row">
+    <label class="search">
+      <span class="sr-only">Search events</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="search" data-search placeholder="Search events, places, hosts" autocomplete="off">
+      <span class="kbd">/</span>
+    </label>
+    <div class="seg" role="group" aria-label="Date range">
+      <button type="button" data-range="today">Today</button>
+      <button type="button" data-range="week">This week</button>
+      <button type="button" data-range="2w">2 weeks</button>
+      <button type="button" data-range="all">All</button>
+      
+    </div>
+    <span class="result-count" data-count aria-live="polite"></span>
+  </div>
+  <div class="row">
+    <div class="chips" role="group" aria-label="Filters">
+      <button type="button" class="chip" data-flag="rsvp">✋ Needs RSVP</button>
+      <button type="button" class="chip" data-flag="food">🍕 Food</button>
+      <button type="button" class="chip" data-flag="req">❗ Required</button>
+      <button type="button" class="chip" data-flag="virtual">💻 Virtual</button>
+      <button type="button" class="chip" data-cat="lecture">Lecture / talk</button><button type="button" class="chip" data-cat="interest_group">Interest group</button><button type="button" class="chip" data-cat="clinical">Clinical / skills</button><button type="button" class="chip" data-cat="service">Service / volunteering</button><button type="button" class="chip" data-cat="social">Social</button><button type="button" class="chip" data-cat="wellness">Wellness</button><button type="button" class="chip" data-cat="career">Career / specialty</button><button type="button" class="chip" data-cat="research">Research</button><button type="button" class="chip" data-cat="deadline">Deadline</button><button type="button" class="chip" data-cat="academic">Academic / curriculum</button><button type="button" class="chip" data-cat="other">Other</button>
+      <button type="button" class="chip" data-flag="cancelled">Show cancelled</button>
+      
+      <button type="button" class="chip clear" hidden>✕ Clear filters</button>
+    </div>
+  </div>
+  
+  <div class="row">
+    <label><span class="sr-only">Posted in</span>
+      <select data-group><option value="">All groups</option><option value="90851137">AMA-MSS Updates</option><option value="93989980">APAMSA @ BCM</option><option value="109012929">Baylor Soccer ⚽️</option><option value="112792775">BCM &#39;30</option><option value="113479301">BCM &#39;30 Houston</option><option value="116072180">BCM AIMS: Artificial Intelligence in Medicine Society</option><option value="69123480">BCM AMA TMA</option><option value="116503399">BCM Internal Medicine Interest Group 2026-2027</option><option value="95499524">BCM Med/Peds Interest Group</option><option value="116355452">Green Squad 2026-2027</option></select>
+    </label>
+  </div>
+  
+</div>
+<div data-agenda data-today="2026-09-16">
+  
+    
+    <div class="day today">Wednesday, September 16 <span class="rel">· Today</span></div>
+    
 
+<article class="event  "
+  data-date="2026-09-16" data-cat="deadline" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="welcome committee: anki highlight challenge submission deadline welcome committee clarification: photos or screenshots of anki stats don&#39;t count. only video clips or skits for the highlight reel count. if you sent a photo, you can send a video instead. bcm &#39;30 houston deadline">
+  <div class="time"><b>All day</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/29.html">Welcome Committee: Anki Highlight Challenge Submission Deadline</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Welcome Committee</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Deadline</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
 
-  <h2>Wednesday, September 16 · today</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">All day</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/29.html">Welcome Committee: Anki Highlight Challenge Submission Deadline</a></div>
-      <div class="meta"> · Welcome Committee</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Deadline</span>
-        
-        
-      </div>
+<article class="event  "
+  data-date="2026-09-16" data-cat="other" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="93989980" data-text="mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm other">
+  <div class="time"><b>5 PM</b><span>to 6 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/9.html">McGovern Session Series (MSB B.100)</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>MSB B.100, McGovern Medical School Building</span>
+      
+      <span class="muted">APAMSA @ BCM</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      
+      <span class="badge cat">Other</span>
+      
+      <span class="badge low">Double-check</span>
     </div>
   </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">5:00 PM – 6:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/9.html">McGovern Session Series (MSB B.100)</a></div>
-      <div class="meta">MSB B.100, McGovern Medical School Building · Victoria Le</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Other</span>
-        
-        <span class="tag low">Double-check</span>
-      </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-16" data-cat="interest_group" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="112792775" data-text="student surgical society: first meeting with dr. rosengart room m112 student surgical society (sss) talk by dr. todd rosengart, professor and chair of the michael e. debakey department of surgery, on surgical training and practice. dress nicely (no sweatpants). bcm &#39;30 interest group">
+  <div class="time"><b>5 PM</b><span>to 6 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/15.html">Student Surgical Society: First Meeting with Dr. Rosengart</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Room M112</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Student Surgical Society (SSS)</span>
+      <span class="muted">BCM &#39;30</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge">RSVP closed Sep 14</span>
+      
+      <span class="badge cat">Interest group</span>
+      
+      
     </div>
   </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">5:00 PM – 6:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/15.html">Student Surgical Society: First Meeting with Dr. Rosengart</a></div>
-      <div class="meta">Room M112 · Student Surgical Society (SSS)</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP by Mon 9/14</span>
-        
-        <span class="tag">Interest group</span>
-        
-        
-      </div>
+  <div class="actions">
+    <a class="btn sm subtle" href="https://forms.gle/fbGGNUMHemYkGLgk9" target="_blank" rel="noopener" title="The stated deadline has passed">Closed</a>
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-16" data-cat="interest_group" data-food="1" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="93989980" data-text="general body meeting #2 apamsa @ bcm n311 apamsa @ bcm interest group">
+  <div class="time"><b>5:30 PM</b><span>to 6:30 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/2.html">General Body Meeting #2</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>APAMSA @ BCM</span>
+      
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      <span class="badge food">Food</span>
+      <span class="badge cat">Interest group</span>
+      
+      
     </div>
   </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">5:30 PM – 6:30 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/2.html">General Body Meeting #2</a></div>
-      <div class="meta">N311 · APAMSA @ BCM</div>
-      <div class="tags">
-        
-        
-        
-        <span class="tag food">Food</span>
-        <span class="tag">Interest group</span>
-        
-        
-      </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-16" data-cat="career" data-food="1" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="ckc: introduction to pediatric oncology talk &amp; q&amp;a room n317 ckc kickoff event: &#39;what is pediatric oncology?&#39; talk and q&amp;a with dr. eric schafer, associate professor and director of the leukemia program at texas children&#39;s hospital. dinner provided. bcm &#39;30 houston career / specialty">
+  <div class="time"><b>5:30 PM</b><span>to 6:30 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/34.html">CKC: Introduction to Pediatric Oncology Talk &amp; Q&amp;A</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Room N317</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>CKC</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge">RSVP closed Sep 15</span>
+      <span class="badge food">Food</span>
+      <span class="badge cat">Career / specialty</span>
+      
+      
     </div>
   </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">5:30 PM – 6:30 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/34.html">CKC: Introduction to Pediatric Oncology Talk &amp; Q&amp;A</a></div>
-      <div class="meta">Room N317 · CKC</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP by Tue 9/15</span>
-        <span class="tag food">Food</span>
-        <span class="tag">Career / specialty</span>
-        
-        
-      </div>
+  <div class="actions">
+    <a class="btn sm subtle" href="https://forms.gle/2gEbKuQqs7zfP69M7" target="_blank" rel="noopener" title="The stated deadline has passed">Closed</a>
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-16" data-cat="career" data-food="1" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="gobig: meet the residents axelrad beer garden gobig (gynecology and obstetrics interest group) meet ob/gyn residents. open to students interested in ob/gyn or still undecided. dinner (tacos) provided. bcm &#39;30 houston career / specialty">
+  <div class="time"><b>5:30 PM</b><span>to 8 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/35.html">GOBIG: Meet the Residents</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Axelrad Beer Garden</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>GOBIG (Gynecology and Obstetrics Interest Group)</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP · link</span>
+      <span class="badge food">Food</span>
+      <span class="badge cat">Career / specialty</span>
+      
+      
     </div>
   </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">5:30 PM – 8:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/35.html">GOBIG: Meet the Residents</a></div>
-      <div class="meta">Axelrad Beer Garden · GOBIG (Gynecology and Obstetrics Interest Group)</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        <span class="tag food">Food</span>
-        <span class="tag">Career / specialty</span>
-        
-        
-      </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-16" data-cat="career" data-food="1" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="sign: meet the mentors neurology panel m321/323 sign (student interest group in neurology) faculty panel on neurology subspecialty careers, including drs. bellows, kung, maheshwari, kass, moore, goldsmith, jimenez gomez, edmonson, damani, and dasgupta. bcm &#39;30 houston career / specialty">
+  <div class="time"><b>6 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/28.html">SIGN: Meet the Mentors Neurology Panel</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>M321/323</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>SIGN (Student Interest Group in Neurology)</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      <span class="badge food">Food</span>
+      <span class="badge cat">Career / specialty</span>
+      
+      
     </div>
   </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">6:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/28.html">SIGN: Meet the Mentors Neurology Panel</a></div>
-      <div class="meta">M321/323 · SIGN (Student Interest Group in Neurology)</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        <span class="tag food">Food</span>
-        <span class="tag">Career / specialty</span>
-        
-        
-      </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSem5cvityZF3Az18BMEWjvaqI1vO4FWm7StBtV5tode1i8skQ/viewform?usp=header" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Thursday, September 17 <span class="rel">· Tomorrow</span></div>
+    
+
+<article class="event  "
+  data-date="2026-09-17" data-cat="career" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="69123480" data-text="tma leadership summit irving, tx texas medical association texas medical association leadership summit in irving. chris wong offered to carpool or help coordinate housing for anyone going. bcm ama tma career / specialty">
+  <div class="time"><b>All day</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/45.html">TMA Leadership Summit</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Irving, TX</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Texas Medical Association</span>
+      <span class="muted">BCM AMA TMA</span>
     </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Career / specialty</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-17" data-cat="research" data-food="1" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="firstgen md: snacks + research tips table by the squad rooms firstgen md drop in anytime for snacks and tips on getting involved in clinical or wet lab research. bcm &#39;30 houston research">
+  <div class="time"><b>12 PM</b><span>to 2 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/31.html">FirstGen MD: Snacks + Research Tips</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Table by the squad rooms</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>FirstGen MD</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      <span class="badge food">Food</span>
+      <span class="badge cat">Research</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-17" data-cat="social" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="109012929" data-text="baylor soccer: weekly pickup game helix park baylor soccer casual soccer game with the baylor soccer group. baylor soccer ⚽️ social">
+  <div class="time"><b>5:45 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/13.html">Baylor Soccer: Weekly Pickup Game</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Helix Park</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Baylor Soccer</span>
+      <span class="muted">Baylor Soccer ⚽️</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Social</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Friday, September 18</div>
+    
+
+<article class="event  "
+  data-date="2026-09-18" data-cat="deadline" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="90851137" data-text="ama-mss i-26 mentorship program: mentor application deadline ama-mss speakers (denise ocampo) mss speakers are recruiting mentors only for the i-26 mentorship program; groups will be 1 mentor to 3-4 mentees, paired by application with location/region prioritized. mentee form opens later depending on mentor numbers. questions to denise ocampo (mss speaker) or lily robistow (mss vice speaker). ama-mss updates deadline">
+  <div class="time"><b>All day</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/6.html">AMA-MSS I-26 Mentorship Program: Mentor Application Deadline</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>AMA-MSS Speakers (Denise Ocampo)</span>
+      <span class="muted">AMA-MSS Updates</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Deadline</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Saturday, September 19</div>
+    
+
+<article class="event  "
+  data-date="2026-09-19" data-cat="social" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="bcm child: fall kickoff playdate for student parents the little gym, pearland bcm child fall kickoff for bcm student parents and expectant parents, and their kids. contact priscilla albán-acuña (ms2). bcm &#39;30 houston social">
+  <div class="time"><b>Time TBD</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/36.html">BCM CHILD: Fall Kickoff Playdate for Student Parents</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>The Little Gym, Pearland</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM CHILD</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      
+      <span class="badge cat">Social</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://forms.gle/72QzpaiWcjjBFsNp8" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Sunday, September 20</div>
+    
+
+<article class="event  "
+  data-date="2026-09-20" data-cat="deadline" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="cardiothoracic surgery interest group: officer application deadline cardiothoracic surgery interest group applications for officer positions with the cardiothoracic surgery interest group. bcm &#39;30 houston deadline">
+  <div class="time"><b>All day</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/33.html">Cardiothoracic Surgery Interest Group: Officer Application Deadline</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Cardiothoracic Surgery Interest Group</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Deadline</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Monday, September 21</div>
+    
+
+<article class="event  "
+  data-date="2026-09-21" data-cat="deadline" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="health heroes: e-board application deadline health heroes open roles: communications representative and 2 curriculum representatives. health heroes teaches health lessons to 4th and 5th graders. bcm &#39;30 houston deadline">
+  <div class="time"><b>All day</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/37.html">Health Heroes: E-Board Application Deadline</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Health Heroes</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Deadline</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Tuesday, September 22</div>
+    
+
+<article class="event  "
+  data-date="2026-09-22" data-cat="career" data-food="1" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="116503399" data-text="muffins with mentors: dr. hashem el-serag conference room n.202, alkek building internal medicine interest group (shared) breakfast and informal conversation with dr. hashem el-serag, chair of medicine and vp of the learning health system, covering career journeys and joy in academia, with open q&amp;a. bcm internal medicine interest group 2026-2027 career / specialty">
+  <div class="time"><b>7:15 AM</b><span>to 8 AM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/46.html">Muffins with Mentors: Dr. Hashem El-Serag</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Conference Room N.202, Alkek Building</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Internal Medicine Interest Group (shared)</span>
+      <span class="muted">BCM Internal Medicine Interest Group 2026-2027</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      <span class="badge food">Food</span>
+      <span class="badge cat">Career / specialty</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://www.signupgenius.com/go/10C084EAFAD2DAAF49-65170376-muffins#/" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-22" data-cat="wellness" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="bcm run club hermann park (near hermann park golf course) bcm running club weekly tuesday group run. moved from 7pm to 6pm because it&#39;s getting dark earlier. bcm &#39;30 houston wellness">
+  <div class="time"><b>6 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/20.html">BCM Run Club</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Hermann Park (near Hermann Park Golf Course)</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM Running Club</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Wellness</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Wednesday, September 23</div>
+    
+
+<article class="event  "
+  data-date="2026-09-23" data-cat="academic" data-food="1" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="disco aim session (houston) kleberg auditorium disco aim session for the houston campus only. lunch provided. bcm &#39;30 houston academic / curriculum">
+  <div class="time"><b>12 PM</b><span>to 1 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/38.html">DISCO AIM Session (Houston)</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Kleberg Auditorium</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>DISCO</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      <span class="badge food">Food</span>
+      <span class="badge cat">Academic / curriculum</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Thursday, September 24</div>
+    
+
+<article class="event  "
+  data-date="2026-09-24" data-cat="service" data-food="1" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="rice rpms med mentor night (m&amp;m night) rice university rice university rpms mentorship committee mentor rice pre-med undergraduates in small-group conversations about applications, interviews, and med school life. parking reimbursed; logistics sent the week before. bcm &#39;30 houston service / volunteering">
+  <div class="time"><b>6:30 PM</b><span>to 7:30 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/32.html">Rice RPMS Med Mentor Night (M&amp;M Night)</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Rice University</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Rice University RPMS Mentorship Committee</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      <span class="badge food">Food</span>
+      <span class="badge cat">Service / volunteering</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSe31UIn8f7rR4GJ2C4-BVwo3KN8a1z-ExKYm7CVHrhtyDLF5A/viewform" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Friday, September 25</div>
+    
+
+<article class="event  "
+  data-date="2026-09-25" data-cat="lecture" data-food="1" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="matthew carter service day: talk from dr. carter room 112 matthew carter service day (mcsd) talk from dr. carter, matthew&#39;s father, with lemonade and free tiny&#39;s cookies. earns 1 slp education point. bcm &#39;30 houston lecture / talk">
+  <div class="time"><b>3:30 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/25.html">Matthew Carter Service Day: Talk from Dr. Carter</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Room 112</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Matthew Carter Service Day (MCSD)</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      <span class="badge food">Food</span>
+      <span class="badge cat">Lecture / talk</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-25" data-cat="career" data-food="1" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="95499524" data-text="med-peds interest group: resident-student mixer axelrad med-peds interest group meet bcm med-peds residents and other students interested in a career in internal medicine and pediatrics. pizza, food, and drinks provided. bcm med/peds interest group career / specialty">
+  <div class="time"><b>6 PM</b><span>to 8 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/48.html">Med-Peds Interest Group: Resident-Student Mixer</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Axelrad</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Med-Peds Interest Group</span>
+      <span class="muted">BCM Med/Peds Interest Group</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      <span class="badge food">Food</span>
+      <span class="badge cat">Career / specialty</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://forms.gle/Bpzx2kvNj8MriGZT6" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Saturday, September 26</div>
+    
+
+<article class="event  "
+  data-date="2026-09-26" data-cat="service" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="matthew carter service day: community volunteering various community sites matthew carter service day (mcsd) morning volunteering at community sites. slp points are based on hours served. bcm &#39;30 houston service / volunteering">
+  <div class="time"><b>Time TBD</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/26.html">Matthew Carter Service Day: Community Volunteering</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Various community sites</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Matthew Carter Service Day (MCSD)</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge">RSVP closed Sep 7</span>
+      
+      <span class="badge cat">Service / volunteering</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn sm subtle" href="https://docs.google.com/spreadsheets/d/15LBi_EXk8ZhGvqbK0ZYvgFQHbF9czdVkQb7ABVfl8OI/edit?gid=1041014375#gid=1041014375" target="_blank" rel="noopener" title="The stated deadline has passed">Closed</a>
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-26" data-cat="lecture" data-food="1" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="93989980" data-text="south regional conference rice university, 6100, main st, southgate, houston, tx, 77005 apamsa south region registration form: https://docs.google.com/forms/d/e/1faipqlsd9ofnvsnfdphz8jia48nrqhwmddodezqubdgvs8lzlppisbq/viewform apamsa @ bcm lecture / talk">
+  <div class="time"><b>9 AM</b><span>to 5 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/3.html">South Regional Conference</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Rice University, 6100, Main St, Southgate, Houston, TX, 77005</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>APAMSA South Region</span>
+      <span class="muted">APAMSA @ BCM</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP by Fri 9/18</span>
+      <span class="badge food">Food</span>
+      <span class="badge cat">Lecture / talk</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSd9ofnvSNfDpHz8jia48nrqHwmDdodezquBdGvs8lZLPpiSBQ/viewform" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-26" data-cat="lecture" data-food="1" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="matthew carter service day: lunch &amp; keynote by dr. ricardo nuila mcmillan auditorium matthew carter service day (mcsd) fadi&#39;s lunch on campus and a keynote from dr. ricardo nuila, author of the people&#39;s hospital. earns 1 slp education point. bcm &#39;30 houston lecture / talk">
+  <div class="time"><b>12:30 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/27.html">Matthew Carter Service Day: Lunch &amp; Keynote by Dr. Ricardo Nuila</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>McMillan Auditorium</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Matthew Carter Service Day (MCSD)</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      <span class="badge food">Food</span>
+      <span class="badge cat">Lecture / talk</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Monday, September 28</div>
+    
+
+<article class="event  "
+  data-date="2026-09-28" data-cat="deadline" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="90851137" data-text="ama-mss travel grant funding application deadline ama-mss at-large officer (isabel &#34;yisa&#34; nguyen) ama mss travel grant funding applications are due 09/28, an alternative funding route to student involvement grant (sig)/msop funding ahead of i-26. details and links in the at-large officer&#39;s shared doc: https://docs.google.com/document/d/1ii-p73njlf0pl4insj9aehmty48legfeftl856zvha4/edit ama-mss updates deadline">
+  <div class="time"><b>All day</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/7.html">AMA-MSS Travel Grant Funding Application Deadline</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>AMA-MSS At-Large Officer (Isabel &#34;Yisa&#34; Nguyen)</span>
+      <span class="muted">AMA-MSS Updates</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Deadline</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-28" data-cat="research" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="surgery medical student research session alkek m321 &amp; m323 soar office &amp; medical student research ambassadors hosted by the soar office and medical student research ambassadors. hear about research from students, residents, and faculty in general, plastic, vascular, and cardiothoracic surgery, and meet possible mentors. you can apply for one of 3 oral presentation spots or give a 1-minute research pitch. bcm &#39;30 houston research">
+  <div class="time"><b>5:30 PM</b><span>to 6:30 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/24.html">Surgery Medical Student Research Session</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Alkek M321 &amp; M323</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>SOAR Office &amp; Medical Student Research Ambassadors</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      
+      <span class="badge cat">Research</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://form.jotform.com/260263686131152" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-28" data-cat="interest_group" data-food="1" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="116503399" data-text="imig: clinical case series with dr. zaven sargsyan n317 internal medicine interest group (imig) interactive case-based session where students build a differential step by step with dr. sargsyan, associate pd of the bcm im residency. bcm internal medicine interest group 2026-2027 interest group">
+  <div class="time"><b>6 PM</b><span>to 7 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/47.html">IMIG: Clinical Case Series with Dr. Zaven Sargsyan</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>N317</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Internal Medicine Interest Group (IMIG)</span>
+      <span class="muted">BCM Internal Medicine Interest Group 2026-2027</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      <span class="badge food">Food</span>
+      <span class="badge cat">Interest group</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://tinyurl.com/CCS-Sept28" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-28" data-cat="deadline" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="93989980" data-text="apamsa big/little/family pairing sign-up deadline apamsa @ bcm fill out the form if you want to take part in apamsa&#39;s big/little/family pairings. apamsa @ bcm deadline">
+  <div class="time"><b>All day</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/12.html">APAMSA Big/Little/Family Pairing Sign-Up Deadline</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>APAMSA @ BCM</span>
+      
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Deadline</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Tuesday, September 29</div>
+    
+
+<article class="event  "
+  data-date="2026-09-29" data-cat="wellness" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="bcm run club hermann park (near hermann park golf course) bcm running club weekly tuesday group run. moved from 7pm to 6pm because it&#39;s getting dark earlier. bcm &#39;30 houston wellness">
+  <div class="time"><b>6 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/21.html">BCM Run Club</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Hermann Park (near Hermann Park Golf Course)</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM Running Club</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Wellness</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Wednesday, September 30</div>
+    
+
+<article class="event  "
+  data-date="2026-09-30" data-cat="deadline" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="90851137" data-text="ama-mss chair-elect application deadline ama-mss speakers (denise ocampo) applications for ama-mss chair-elect are due. tell the speakers if you plan to run or are thinking about it; campaign teams will be limited, and campaign team registration opens after candidates are announced. ama-mss updates deadline">
+  <div class="time"><b>All day</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/8.html">AMA-MSS Chair-Elect Application Deadline</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>AMA-MSS Speakers (Denise Ocampo)</span>
+      <span class="muted">AMA-MSS Updates</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Deadline</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-09-30" data-cat="interest_group" data-food="1" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="116072180" data-text="aims: introductory meeting room m321 bcm aims: artificial intelligence in medicine society intro to bcm ai in medicine society, ways to get involved, and plans for the year. featured speaker is dr. jennifer benjamin (ai in education), the aims faculty sponsor. bcm aims: artificial intelligence in medicine society interest group">
+  <div class="time"><b>12 PM</b><span>to 1 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/44.html">AIMS: Introductory Meeting</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Room M321</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM AIMS: Artificial Intelligence in Medicine Society</span>
+      
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP by Fri 9/25</span>
+      <span class="badge food">Food</span>
+      <span class="badge cat">Interest group</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://forms.gle/KizxYtkmkDkwi5MH9" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Tuesday, October 6</div>
+    
+
+<article class="event  "
+  data-date="2026-10-06" data-cat="interest_group" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="ctsig: journal club on aortic surgery cardiothoracic surgery interest group (ctsig) discussion of a paper on csf drainage in thoracoabdominal aortic aneurysm repair, plus a talk on protecting the brain during aortic arch replacement. all class years welcome; you can sign up to lead discussion. bcm &#39;30 houston interest group">
+  <div class="time"><b>Time TBD</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/39.html">CTSIG: Journal Club on Aortic Surgery</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Cardiothoracic Surgery Interest Group (CTSIG)</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP by Sun 9/27</span>
+      
+      <span class="badge cat">Interest group</span>
+      
+      <span class="badge low">Double-check</span>
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLScak5EkzDsWDhX27BKiD3CT6PGa3HZ1xEaePn7k9Y6Zy1tnQw/viewform?usp=header" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-10-06" data-cat="academic" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="history of anesthesia elective: introduction to anesthesia history microsoft teams bcm department of anesthesiology session 1 of 8 in the term 2 ms1 preclinical elective; speaker james anton, md. grade is 100% attendance based. bcm &#39;30 houston academic / curriculum">
+  <div class="time"><b>12:10 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/40.html">History of Anesthesia Elective: Introduction to Anesthesia History</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Microsoft Teams</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM Department of Anesthesiology</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP · other</span>
+      
+      <span class="badge cat">Academic / curriculum</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-10-06" data-cat="wellness" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="bcm run club hermann park (near hermann park golf course) bcm running club weekly tuesday group run. moved from 7pm to 6pm because it&#39;s getting dark earlier. bcm &#39;30 houston wellness">
+  <div class="time"><b>6 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/22.html">BCM Run Club</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Hermann Park (near Hermann Park Golf Course)</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM Running Club</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Wellness</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Wednesday, October 7</div>
+    
+
+<article class="event  "
+  data-date="2026-10-07" data-cat="research" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="112792775" data-text="soar research grand rounds: study design and methodology soar office, baylor college of medicine soar office lecture series on research for medical students with little or no research experience. bcm &#39;30 research">
+  <div class="time"><b>Time TBD</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/17.html">SOAR Research Grand Rounds: Study Design and Methodology</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>SOAR Office, Baylor College of Medicine</span>
+      <span class="muted">BCM &#39;30</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Research</span>
+      
+      <span class="badge low">Double-check</span>
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-10-07" data-cat="other" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="93989980" data-text="mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm other">
+  <div class="time"><b>5 PM</b><span>to 6 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/10.html">McGovern Session Series (MSB B.100)</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>MSB B.100, McGovern Medical School Building</span>
+      
+      <span class="muted">APAMSA @ BCM</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      
+      <span class="badge cat">Other</span>
+      
+      <span class="badge low">Double-check</span>
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Saturday, October 10</div>
+    
+
+<article class="event  "
+  data-date="2026-10-10" data-cat="service" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="109012929" data-text="bcm 5k/1k: soccer with kids volunteering bcm 5k committee / baylor soccer the bcm 5k committee needs 2-4 volunteers to play soccer with kids during the 5k/1k. you don&#39;t have to stay the whole time. baylor soccer ⚽️ service / volunteering">
+  <div class="time"><b>8:30 AM</b><span>to 10:30 AM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/14.html">BCM 5k/1k: Soccer with Kids Volunteering</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM 5k Committee / Baylor Soccer</span>
+      <span class="muted">Baylor Soccer ⚽️</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      
+      <span class="badge cat">Service / volunteering</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://www.signupgenius.com/go/10C054BAAA923A0FCC34-64860155-bcmcommunity#/" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Tuesday, October 13</div>
+    
+
+<article class="event  "
+  data-date="2026-10-13" data-cat="academic" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="history of anesthesia elective: anesthesia in obstetrics &amp; pain management microsoft teams bcm department of anesthesiology session 2 of 8; speaker maisie jackson, md. grade is 100% attendance based. bcm &#39;30 houston academic / curriculum">
+  <div class="time"><b>12:10 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/41.html">History of Anesthesia Elective: Anesthesia in Obstetrics &amp; Pain Management</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Microsoft Teams</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM Department of Anesthesiology</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP · other</span>
+      
+      <span class="badge cat">Academic / curriculum</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-10-13" data-cat="wellness" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="bcm run club hermann park (near hermann park golf course) bcm running club weekly tuesday group run. moved from 7pm to 6pm because it&#39;s getting dark earlier. bcm &#39;30 houston wellness">
+  <div class="time"><b>6 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/23.html">BCM Run Club</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Hermann Park (near Hermann Park Golf Course)</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM Running Club</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Wellness</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Tuesday, October 20</div>
+    
+
+<article class="event  "
+  data-date="2026-10-20" data-cat="academic" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="history of anesthesia elective: anesthesia &amp; ethical considerations microsoft teams bcm department of anesthesiology session 3 of 8; speaker josh cohen, md. grade is 100% attendance based. bcm &#39;30 houston academic / curriculum">
+  <div class="time"><b>12:10 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/42.html">History of Anesthesia Elective: Anesthesia &amp; Ethical Considerations</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Microsoft Teams</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM Department of Anesthesiology</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP · other</span>
+      
+      <span class="badge cat">Academic / curriculum</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Tuesday, October 27</div>
+    
+
+<article class="event  "
+  data-date="2026-10-27" data-cat="academic" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="113479301" data-text="history of anesthesia elective: early anesthesia techniques &amp; agents microsoft teams bcm department of anesthesiology session 4 of 8; speaker raja palvadi, md. grade is 100% attendance based. bcm &#39;30 houston academic / curriculum">
+  <div class="time"><b>12:10 PM</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/43.html">History of Anesthesia Elective: Early Anesthesia Techniques &amp; Agents</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Microsoft Teams</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>BCM Department of Anesthesiology</span>
+      <span class="muted">BCM &#39;30 Houston</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP · other</span>
+      
+      <span class="badge cat">Academic / curriculum</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Tuesday, November 3</div>
+    
+
+<article class="event  "
+  data-date="2026-11-03" data-cat="service" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="116355452" data-text="joint squad volunteering: packing lunches at kids&#39; meals kids&#39; meals, 8790 hammerly boulevard, houston, tx green squad (natasha mohan) joint squad volunteering event packing lunches, which also earns slp volunteering points. it&#39;s a bit of a drive, so carpooling is encouraged. green squad 2026-2027 service / volunteering">
+  <div class="time"><b>1 PM</b><span>to 3:30 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/49.html">Joint Squad Volunteering: Packing Lunches at Kids&#39; Meals</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Kids&#39; Meals, 8790 Hammerly Boulevard, Houston, TX</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Green Squad (Natasha Mohan)</span>
+      <span class="muted">Green Squad 2026-2027</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      
+      <span class="badge cat">Service / volunteering</span>
+      
+      
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://kidsmealsinc.volunteerhub.com/vv2/" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+  
+    
+    <div class="day ">Wednesday, November 4</div>
+    
+
+<article class="event  "
+  data-date="2026-11-04" data-cat="research" data-food="0" data-req="0"
+  data-rsvp="0" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="112792775" data-text="soar research grand rounds: data sources and analysis soar office, baylor college of medicine soar office lecture series on research for medical students with little or no research experience. bcm &#39;30 research">
+  <div class="time"><b>Time TBD</b></div>
+  <div class="body">
+    <div class="title"><a href="./event/18.html">SOAR Research Grand Rounds: Data Sources and Analysis</a></div>
+    <div class="meta">
+      
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>SOAR Office, Baylor College of Medicine</span>
+      <span class="muted">BCM &#39;30</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      
+      
+      <span class="badge cat">Research</span>
+      
+      <span class="badge low">Double-check</span>
+    </div>
+  </div>
+  <div class="actions">
+    
+    
+  </div>
+</article>
+
+<article class="event  "
+  data-date="2026-11-04" data-cat="other" data-food="0" data-req="0"
+  data-rsvp="1" data-virtual="0" data-cancelled="0"
+  data-hidden="0" data-group="93989980" data-text="mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm other">
+  <div class="time"><b>5 PM</b><span>to 6 PM</span></div>
+  <div class="body">
+    <div class="title"><a href="./event/11.html">McGovern Session Series (MSB B.100)</a></div>
+    <div class="meta">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>MSB B.100, McGovern Medical School Building</span>
+      
+      <span class="muted">APAMSA @ BCM</span>
+    </div>
+    <div class="badges">
+      
+      
+      
+      <span class="badge rsvp">RSVP</span>
+      
+      <span class="badge cat">Other</span>
+      
+      <span class="badge low">Double-check</span>
+    </div>
+  </div>
+  <div class="actions">
+    <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform" target="_blank" rel="noopener">RSVP</a>
+    
+    
+  </div>
+</article>
+  
+  <div class="empty" data-empty>
+    <div class="big">🗓️</div>
+    <div>No events match these filters.</div>
+    <button type="button" class="btn" onclick="document.querySelector('.chip.clear')?.click(); document.querySelector('[data-range=all]')?.click();">Show everything</button>
   </div>
 </div>
-
-  <h2>Thursday, September 17</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">All day</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/45.html">TMA Leadership Summit</a></div>
-      <div class="meta">Irving, TX · Texas Medical Association</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Career / specialty</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">12:00 PM – 2:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/31.html">FirstGen MD: Snacks + Research Tips</a></div>
-      <div class="meta">Table by the squad rooms · FirstGen MD</div>
-      <div class="tags">
-        
-        
-        
-        <span class="tag food">Food</span>
-        <span class="tag">Research</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">5:45 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/13.html">Baylor Soccer: Weekly Pickup Game</a></div>
-      <div class="meta">Helix Park · Baylor Soccer</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Social</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Friday, September 18</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">All day</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/6.html">AMA-MSS I-26 Mentorship Program: Mentor Application Deadline</a></div>
-      <div class="meta"> · AMA-MSS Speakers (Denise Ocampo)</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Deadline</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Saturday, September 19</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">Time TBD</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/36.html">BCM CHILD: Fall Kickoff Playdate for Student Parents</a></div>
-      <div class="meta">The Little Gym, Pearland · BCM CHILD</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Social</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Sunday, September 20</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">All day</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/33.html">Cardiothoracic Surgery Interest Group: Officer Application Deadline</a></div>
-      <div class="meta"> · Cardiothoracic Surgery Interest Group</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Deadline</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Monday, September 21</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">All day</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/37.html">Health Heroes: E-Board Application Deadline</a></div>
-      <div class="meta"> · Health Heroes</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Deadline</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Tuesday, September 22</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">7:15 AM – 8:00 AM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/46.html">Muffins with Mentors: Dr. Hashem El-Serag</a></div>
-      <div class="meta">Conference Room N.202, Alkek Building · Internal Medicine Interest Group (shared)</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        <span class="tag food">Food</span>
-        <span class="tag">Career / specialty</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">6:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/20.html">BCM Run Club</a></div>
-      <div class="meta">Hermann Park (near Hermann Park Golf Course) · BCM Running Club</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Wellness</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Wednesday, September 23</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">12:00 PM – 1:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/38.html">DISCO AIM Session (Houston)</a></div>
-      <div class="meta">Kleberg Auditorium · DISCO</div>
-      <div class="tags">
-        
-        
-        
-        <span class="tag food">Food</span>
-        <span class="tag">Academic / curriculum</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Thursday, September 24</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">6:30 PM – 7:30 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/32.html">Rice RPMS Med Mentor Night (M&amp;M Night)</a></div>
-      <div class="meta">Rice University · Rice University RPMS Mentorship Committee</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        <span class="tag food">Food</span>
-        <span class="tag">Service / volunteering</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Friday, September 25</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">3:30 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/25.html">Matthew Carter Service Day: Talk from Dr. Carter</a></div>
-      <div class="meta">Room 112 · Matthew Carter Service Day (MCSD)</div>
-      <div class="tags">
-        
-        
-        
-        <span class="tag food">Food</span>
-        <span class="tag">Lecture / talk</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">6:00 PM – 8:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/48.html">Med-Peds Interest Group: Resident-Student Mixer</a></div>
-      <div class="meta">Axelrad · Med-Peds Interest Group</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        <span class="tag food">Food</span>
-        <span class="tag">Career / specialty</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Saturday, September 26</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">Time TBD</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/26.html">Matthew Carter Service Day: Community Volunteering</a></div>
-      <div class="meta">Various community sites · Matthew Carter Service Day (MCSD)</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP by Mon 9/7</span>
-        
-        <span class="tag">Service / volunteering</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">9:00 AM – 5:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/3.html">South Regional Conference</a></div>
-      <div class="meta">Rice University, 6100, Main St, Southgate, Houston, TX, 77005 · APAMSA South Region</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP by Fri 9/18</span>
-        <span class="tag food">Food</span>
-        <span class="tag">Lecture / talk</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">12:30 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/27.html">Matthew Carter Service Day: Lunch &amp; Keynote by Dr. Ricardo Nuila</a></div>
-      <div class="meta">McMillan Auditorium · Matthew Carter Service Day (MCSD)</div>
-      <div class="tags">
-        
-        
-        
-        <span class="tag food">Food</span>
-        <span class="tag">Lecture / talk</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Monday, September 28</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">All day</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/7.html">AMA-MSS Travel Grant Funding Application Deadline</a></div>
-      <div class="meta"> · AMA-MSS At-Large Officer (Isabel &#34;Yisa&#34; Nguyen)</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Deadline</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">5:30 PM – 6:30 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/24.html">Surgery Medical Student Research Session</a></div>
-      <div class="meta">Alkek M321 &amp; M323 · SOAR Office &amp; Medical Student Research Ambassadors</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Research</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">6:00 PM – 7:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/47.html">IMIG: Clinical Case Series with Dr. Zaven Sargsyan</a></div>
-      <div class="meta">N317 · Internal Medicine Interest Group (IMIG)</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        <span class="tag food">Food</span>
-        <span class="tag">Interest group</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">All day</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/12.html">APAMSA Big/Little/Family Pairing Sign-Up Deadline</a></div>
-      <div class="meta"> · APAMSA @ BCM</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Deadline</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Tuesday, September 29</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">6:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/21.html">BCM Run Club</a></div>
-      <div class="meta">Hermann Park (near Hermann Park Golf Course) · BCM Running Club</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Wellness</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Wednesday, September 30</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">All day</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/8.html">AMA-MSS Chair-Elect Application Deadline</a></div>
-      <div class="meta"> · AMA-MSS Speakers (Denise Ocampo)</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Deadline</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">12:00 PM – 1:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/44.html">AIMS: Introductory Meeting</a></div>
-      <div class="meta">Room M321 · BCM AIMS: Artificial Intelligence in Medicine Society</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP by Fri 9/25</span>
-        <span class="tag food">Food</span>
-        <span class="tag">Interest group</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Tuesday, October 6</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">Time TBD</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/39.html">CTSIG: Journal Club on Aortic Surgery</a></div>
-      <div class="meta"> · Cardiothoracic Surgery Interest Group (CTSIG)</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP by Sun 9/27</span>
-        
-        <span class="tag">Interest group</span>
-        
-        <span class="tag low">Double-check</span>
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">12:10 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/40.html">History of Anesthesia Elective: Introduction to Anesthesia History</a></div>
-      <div class="meta">Microsoft Teams · BCM Department of Anesthesiology</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Academic / curriculum</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">6:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/22.html">BCM Run Club</a></div>
-      <div class="meta">Hermann Park (near Hermann Park Golf Course) · BCM Running Club</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Wellness</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Wednesday, October 7</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">Time TBD</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/17.html">SOAR Research Grand Rounds: Study Design and Methodology</a></div>
-      <div class="meta"> · SOAR Office, Baylor College of Medicine</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Research</span>
-        
-        <span class="tag low">Double-check</span>
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">5:00 PM – 6:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/10.html">McGovern Session Series (MSB B.100)</a></div>
-      <div class="meta">MSB B.100, McGovern Medical School Building · Victoria Le</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Other</span>
-        
-        <span class="tag low">Double-check</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Saturday, October 10</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">8:30 AM – 10:30 AM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/14.html">BCM 5k/1k: Soccer with Kids Volunteering</a></div>
-      <div class="meta"> · BCM 5k Committee / Baylor Soccer</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Service / volunteering</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Tuesday, October 13</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">12:10 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/41.html">History of Anesthesia Elective: Anesthesia in Obstetrics &amp; Pain Management</a></div>
-      <div class="meta">Microsoft Teams · BCM Department of Anesthesiology</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Academic / curriculum</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">6:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/23.html">BCM Run Club</a></div>
-      <div class="meta">Hermann Park (near Hermann Park Golf Course) · BCM Running Club</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Wellness</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Tuesday, October 20</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">12:10 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/42.html">History of Anesthesia Elective: Anesthesia &amp; Ethical Considerations</a></div>
-      <div class="meta">Microsoft Teams · BCM Department of Anesthesiology</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Academic / curriculum</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Tuesday, October 27</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">12:10 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/43.html">History of Anesthesia Elective: Early Anesthesia Techniques &amp; Agents</a></div>
-      <div class="meta">Microsoft Teams · BCM Department of Anesthesiology</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Academic / curriculum</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Tuesday, November 3</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">1:00 PM – 3:30 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/49.html">Joint Squad Volunteering: Packing Lunches at Kids&#39; Meals</a></div>
-      <div class="meta">Kids&#39; Meals, 8790 Hammerly Boulevard, Houston, TX · Green Squad (Natasha Mohan)</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Service / volunteering</span>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
-
-  <h2>Wednesday, November 4</h2>
-  <div class="card ">
-  <div class="row">
-    <div class="time">Time TBD</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/18.html">SOAR Research Grand Rounds: Data Sources and Analysis</a></div>
-      <div class="meta"> · SOAR Office, Baylor College of Medicine</div>
-      <div class="tags">
-        
-        
-        
-        
-        <span class="tag">Research</span>
-        
-        <span class="tag low">Double-check</span>
-      </div>
-    </div>
-  </div>
-</div><div class="card ">
-  <div class="row">
-    <div class="time">5:00 PM – 6:00 PM</div>
-    <div style="flex:1">
-      <div class="title"><a href="./event/11.html">McGovern Session Series (MSB B.100)</a></div>
-      <div class="meta">MSB B.100, McGovern Medical School Building · Victoria Le</div>
-      <div class="tags">
-        
-        
-        <span class="tag rsvp">RSVP</span>
-        
-        <span class="tag">Other</span>
-        
-        <span class="tag low">Double-check</span>
-      </div>
-    </div>
-  </div>
-</div>
-
 </main>
 <footer>Auto-collected from BCM GroupMe announcements. Always confirm details with the organizer.</footer>
+<script src="./assets/app.js" defer></script>
 </body>
 </html>

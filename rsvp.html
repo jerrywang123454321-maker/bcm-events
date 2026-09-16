@@ -2,179 +2,401 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
 <meta name="robots" content="noindex">
 <title>RSVPs · BCM Events</title>
-<style>
-  :root { --bg:#f6f7f9; --card:#fff; --text:#1c1f24; --muted:#6b7280; --line:#e5e7eb; --accent:#2563eb; --warn:#b45309; --warnbg:#fef3c7; --bad:#b91c1c; --badbg:#fee2e2; --good:#166534; --goodbg:#dcfce7; --tag:#eef2ff; --tagtext:#3730a3; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#0f1115; --card:#181b21; --text:#e5e7eb; --muted:#9ca3af; --line:#2a2f3a; --accent:#60a5fa; --warn:#fbbf24; --warnbg:#3b2f0b; --bad:#f87171; --badbg:#3b1111; --good:#86efac; --goodbg:#0f2e1a; --tag:#1e2440; --tagtext:#c7d2fe; } }
-  * { box-sizing:border-box; }
-  body { margin:0; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background:var(--bg); color:var(--text); }
-  header { display:flex; flex-wrap:wrap; gap:14px; align-items:center; padding:12px 16px; border-bottom:1px solid var(--line); background:var(--card); position:sticky; top:0; }
-  header .brand { font-weight:700; margin-right:6px; }
-  header a { color:var(--text); text-decoration:none; font-weight:600; }
-  header a.active { color:var(--accent); }
-  header .stamp { margin-left:auto; color:var(--muted); font-size:12px; }
-  main { max-width:820px; margin:0 auto; padding:16px; }
-  h1 { font-size:22px; margin:0 0 12px; }
-  h2 { font-size:14px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; margin:20px 0 8px; }
-  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 14px; margin-bottom:8px; }
-  .card.cancelled .title { text-decoration:line-through; }
-  .row { display:flex; gap:12px; align-items:flex-start; }
-  .time { min-width:84px; color:var(--muted); font-variant-numeric:tabular-nums; font-size:14px; padding-top:2px; }
-  .title { font-weight:600; }
-  .title a { color:inherit; text-decoration:none; }
-  .meta { color:var(--muted); font-size:13px; margin-top:2px; }
-  .tags { margin-top:6px; display:flex; flex-wrap:wrap; gap:6px; }
-  .tag { font-size:12px; padding:2px 8px; border-radius:999px; background:var(--tag); color:var(--tagtext); }
-  .tag.req { background:var(--badbg); color:var(--bad); font-weight:600; }
-  .tag.rsvp { background:var(--warnbg); color:var(--warn); font-weight:600; }
-  .tag.food { background:var(--goodbg); color:var(--good); }
-  .tag.low { background:var(--warnbg); color:var(--warn); }
-  .muted { color:var(--muted); }
-  .flyer { max-width:100%; border-radius:10px; border:1px solid var(--line); margin-top:8px; }
-  .src { border-left:3px solid var(--line); padding:6px 10px; margin:8px 0; font-size:14px; white-space:pre-wrap; }
-  .empty { color:var(--muted); padding:30px 0; text-align:center; }
-  dl { display:grid; grid-template-columns:110px 1fr; gap:6px 12px; font-size:14px; }
-  dt { color:var(--muted); }
-  a { color:var(--accent); word-break:break-word; }
-  .btn { display:inline-block; padding:8px 14px; border-radius:8px; background:var(--accent); color:#fff; text-decoration:none; font-weight:600; margin-top:8px; }
-  footer { color:var(--muted); font-size:12px; text-align:center; padding:24px 16px; }
-</style>
+<link rel="stylesheet" href="./assets/app.css">
 </head>
 <body>
-<header>
-  <span class="brand">BCM Events</span>
-  <a href="./index.html" class="">Agenda</a>
-  <a href="./rsvp.html" class="active">RSVPs</a>
-  <span class="stamp">updated Wed Sep 16, 12:25 PM</span>
+<header class="topbar">
+  <a class="brand" href="./index.html"><span class="logo">📅</span><span class="name">BCM Events</span></a>
+  <nav class="nav" aria-label="Sections">
+    <a href="./index.html" class="">Agenda</a>
+    <a href="./rsvp.html" class="active">RSVPs</a>
+    
+  </nav>
+  <span class="spacer"></span>
+  <span class="stamp">Updated Wed Sep 16, 12:39 PM</span>
+  
+  <a class="btn sm" href="webcal://jerrywang123454321-maker.github.io/bcm-events/bcm-events.ics" title="Subscribe in your calendar app so every event shows up automatically">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+    Subscribe</a>
+  
 </header>
-<main>
-<h1>RSVPs</h1>
-<p class="muted">Events that asked for an RSVP or sign-up, soonest deadline first.</p>
+<main class="container">
+<div class="page-head"><h1>RSVPs</h1><span class="sub">Sign-ups and registrations, soonest deadline first</span></div>
 
 
-<div class="card">
-  <div class="title"><a href="./event/3.html">South Regional Conference</a> <span class="muted">· Sat Sep 26, 9:00 AM</span></div>
-  <div class="meta"><strong>Due Fri Sep 18</strong> · reply in chat · Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP &#39;I&#39;m in&#39; on the GroupMe calendar event by Friday 9/18.</div>
-  <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd9ofnvSNfDpHz8jia48nrqHwmDdodezquBdGvs8lZLPpiSBQ/viewform" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/44.html">AIMS: Introductory Meeting</a> <span class="muted">· Wed Sep 30, 12:00 PM</span></div>
-  <div class="meta"><strong>Due Fri Sep 25</strong> · form · RSVP for food headcount.</div>
-  <a class="btn" href="https://forms.gle/KizxYtkmkDkwi5MH9" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/39.html">CTSIG: Journal Club on Aortic Surgery</a> <span class="muted">· Tue Oct 6, 12:00 AM</span></div>
-  <div class="meta"><strong>Due Sun Sep 27</strong> · form · Sign up by 9/27. There&#39;s an option to be a Discussion Leader.</div>
-  <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScak5EkzDsWDhX27BKiD3CT6PGa3HZ1xEaePn7k9Y6Zy1tnQw/viewform?usp=header" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/9.html">McGovern Session Series (MSB B.100)</a> <span class="muted">· Wed Sep 16, 5:00 PM</span></div>
-  <div class="meta">No deadline given · form</div>
-  <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/35.html">GOBIG: Meet the Residents</a> <span class="muted">· Wed Sep 16, 5:30 PM</span></div>
-  <div class="meta">No deadline given · link · RSVP for tacos using the QR code on the flyer. No URL or deadline was given.</div>
+  <h2 class="section">Due this week</h2>
   
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/28.html">SIGN: Meet the Mentors Neurology Panel</a> <span class="muted">· Wed Sep 16, 6:00 PM</span></div>
-  <div class="meta">No deadline given · form · RSVP for food.</div>
-  <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSem5cvityZF3Az18BMEWjvaqI1vO4FWm7StBtV5tode1i8skQ/viewform?usp=header" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/36.html">BCM CHILD: Fall Kickoff Playdate for Student Parents</a> <span class="muted">· Sat Sep 19, 12:00 AM</span></div>
-  <div class="meta">No deadline given · link</div>
-  <a class="btn" href="https://forms.gle/72QzpaiWcjjBFsNp8" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/46.html">Muffins with Mentors: Dr. Hashem El-Serag</a> <span class="muted">· Tue Sep 22, 7:15 AM</span></div>
-  <div class="meta">No deadline given · link · Space limited to the first 15 RSVPs.</div>
-  <a class="btn" href="https://www.signupgenius.com/go/10C084EAFAD2DAAF49-65170376-muffins#/" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/32.html">Rice RPMS Med Mentor Night (M&amp;M Night)</a> <span class="muted">· Thu Sep 24, 6:30 PM</span></div>
-  <div class="meta">No deadline given · form · Fill out the form with your availability; there&#39;s also an option to be contacted about later meetings.</div>
-  <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe31UIn8f7rR4GJ2C4-BVwo3KN8a1z-ExKYm7CVHrhtyDLF5A/viewform" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/48.html">Med-Peds Interest Group: Resident-Student Mixer</a> <span class="muted">· Fri Sep 25, 6:00 PM</span></div>
-  <div class="meta">No deadline given · form · RSVP through the Google Form (also a QR code on the flyer). No deadline given.</div>
-  <a class="btn" href="https://forms.gle/Bpzx2kvNj8MriGZT6" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/24.html">Surgery Medical Student Research Session</a> <span class="muted">· Mon Sep 28, 5:30 PM</span></div>
-  <div class="meta">No deadline given · link · The sign-up form is also used to submit for oral presentations or 1-minute pitches.</div>
-  <a class="btn" href="https://form.jotform.com/260263686131152" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/47.html">IMIG: Clinical Case Series with Dr. Zaven Sargsyan</a> <span class="muted">· Mon Sep 28, 6:00 PM</span></div>
-  <div class="meta">No deadline given · link · RSVP for food.</div>
-  <a class="btn" href="https://tinyurl.com/CCS-Sept28" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/40.html">History of Anesthesia Elective: Introduction to Anesthesia History</a> <span class="muted">· Tue Oct 6, 12:10 PM</span></div>
-  <div class="meta">No deadline given · other · Register via Term 2 elective registration. Questions: email a TA (Roman.Gorchs, Neil.Panwalker, William.Suh, Suman.Atluri @bcm.edu).</div>
   
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/10.html">McGovern Session Series (MSB B.100)</a> <span class="muted">· Wed Oct 7, 5:00 PM</span></div>
-  <div class="meta">No deadline given · form</div>
-  <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/14.html">BCM 5k/1k: Soccer with Kids Volunteering</a> <span class="muted">· Sat Oct 10, 8:30 AM</span></div>
-  <div class="meta">No deadline given · link · Like the GroupMe message to sign up. Only 2-4 volunteers are needed.</div>
-  <a class="btn" href="https://www.signupgenius.com/go/10C054BAAA923A0FCC34-64860155-bcmcommunity#/" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/41.html">History of Anesthesia Elective: Anesthesia in Obstetrics &amp; Pain Management</a> <span class="muted">· Tue Oct 13, 12:10 PM</span></div>
-  <div class="meta">No deadline given · other · Register via Term 2 elective registration.</div>
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/3.html">South Regional Conference</a></div>
+      <div class="meta">Sat Sep 26 · 9 AM – 5 PM · Rice University, 6100, Main St, Southgate, Houston, TX, 77005</div>
+      <div class="meta">
+        <span class="due" data-due="2026-09-18T23:59:00" data-due-label="Fri Sep 18">Fri Sep 18</span>
+        
+         · reply in chat
+         · Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP &#39;I&#39;m in&#39; on the GroupMe calendar event by Friday 9/18.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSd9ofnvSNfDpHz8jia48nrqHwmDdodezquBdGvs8lZLPpiSBQ/viewform" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
   
-</div>
 
-<div class="card">
-  <div class="title"><a href="./event/42.html">History of Anesthesia Elective: Anesthesia &amp; Ethical Considerations</a> <span class="muted">· Tue Oct 20, 12:10 PM</span></div>
-  <div class="meta">No deadline given · other · Register via Term 2 elective registration.</div>
+  <h2 class="section">Later</h2>
   
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/43.html">History of Anesthesia Elective: Early Anesthesia Techniques &amp; Agents</a> <span class="muted">· Tue Oct 27, 12:10 PM</span></div>
-  <div class="meta">No deadline given · other · Register via Term 2 elective registration.</div>
   
-</div>
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/44.html">AIMS: Introductory Meeting</a></div>
+      <div class="meta">Wed Sep 30 · 12 PM – 1 PM · Room M321</div>
+      <div class="meta">
+        <span class="due" data-due="2026-09-25T23:59:00" data-due-label="Fri Sep 25">Fri Sep 25</span>
+        
+         · form
+         · RSVP for food headcount.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://forms.gle/KizxYtkmkDkwi5MH9" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/39.html">CTSIG: Journal Club on Aortic Surgery</a></div>
+      <div class="meta">Tue Oct 6 · Time TBD</div>
+      <div class="meta">
+        <span class="due" data-due="2026-09-27T23:59:00" data-due-label="Sun Sep 27">Sun Sep 27</span>
+        
+         · form
+         · Sign up by 9/27. There&#39;s an option to be a Discussion Leader.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLScak5EkzDsWDhX27BKiD3CT6PGa3HZ1xEaePn7k9Y6Zy1tnQw/viewform?usp=header" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
 
-<div class="card">
-  <div class="title"><a href="./event/49.html">Joint Squad Volunteering: Packing Lunches at Kids&#39; Meals</a> <span class="muted">· Tue Nov 3, 1:00 PM</span></div>
-  <div class="meta">No deadline given · link · Sign up for the afternoon VOLUNTEER shift on Nov 3 (NOT the bag decorating shift) on VolunteerHub. Also fill out the squad Google Form: https://docs.google.com/forms/d/e/1FAIpQLSestykgJkCd5BnWeI9KzsbZRWUX9Sr9TRa-ZdlN-YWIibkS0g/viewform?usp=publish-editor. Spots are limited (37 left when the screenshot was taken).</div>
-  <a class="btn" href="https://kidsmealsinc.volunteerhub.com/vv2/" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
-
-<div class="card">
-  <div class="title"><a href="./event/11.html">McGovern Session Series (MSB B.100)</a> <span class="muted">· Wed Nov 4, 5:00 PM</span></div>
-  <div class="meta">No deadline given · form</div>
-  <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform" target="_blank" rel="noopener">Open RSVP form</a>
-</div>
+  <h2 class="section">No deadline given</h2>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/9.html">McGovern Session Series (MSB B.100)</a></div>
+      <div class="meta">Wed Sep 16 · 5 PM – 6 PM · MSB B.100, McGovern Medical School Building</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · form
+        
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/35.html">GOBIG: Meet the Residents</a></div>
+      <div class="meta">Wed Sep 16 · 5:30 PM – 8 PM · Axelrad Beer Garden</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · link
+         · RSVP for tacos using the QR code on the flyer. No URL or deadline was given.
+      </div>
+    </div>
+    <div class="actions">
+      <span class="badge rsvp">RSVP in the group chat</span>
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/28.html">SIGN: Meet the Mentors Neurology Panel</a></div>
+      <div class="meta">Wed Sep 16 · 6 PM · M321/323</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · form
+         · RSVP for food.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSem5cvityZF3Az18BMEWjvaqI1vO4FWm7StBtV5tode1i8skQ/viewform?usp=header" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/36.html">BCM CHILD: Fall Kickoff Playdate for Student Parents</a></div>
+      <div class="meta">Sat Sep 19 · Time TBD · The Little Gym, Pearland</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · link
+        
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://forms.gle/72QzpaiWcjjBFsNp8" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/46.html">Muffins with Mentors: Dr. Hashem El-Serag</a></div>
+      <div class="meta">Tue Sep 22 · 7:15 AM – 8 AM · Conference Room N.202, Alkek Building</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · link
+         · Space limited to the first 15 RSVPs.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://www.signupgenius.com/go/10C084EAFAD2DAAF49-65170376-muffins#/" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/32.html">Rice RPMS Med Mentor Night (M&amp;M Night)</a></div>
+      <div class="meta">Thu Sep 24 · 6:30 PM – 7:30 PM · Rice University</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · form
+         · Fill out the form with your availability; there&#39;s also an option to be contacted about later meetings.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSe31UIn8f7rR4GJ2C4-BVwo3KN8a1z-ExKYm7CVHrhtyDLF5A/viewform" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/48.html">Med-Peds Interest Group: Resident-Student Mixer</a></div>
+      <div class="meta">Fri Sep 25 · 6 PM – 8 PM · Axelrad</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · form
+         · RSVP through the Google Form (also a QR code on the flyer). No deadline given.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://forms.gle/Bpzx2kvNj8MriGZT6" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/24.html">Surgery Medical Student Research Session</a></div>
+      <div class="meta">Mon Sep 28 · 5:30 PM – 6:30 PM · Alkek M321 &amp; M323</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · link
+         · The sign-up form is also used to submit for oral presentations or 1-minute pitches.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://form.jotform.com/260263686131152" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/47.html">IMIG: Clinical Case Series with Dr. Zaven Sargsyan</a></div>
+      <div class="meta">Mon Sep 28 · 6 PM – 7 PM · N317</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · link
+         · RSVP for food.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://tinyurl.com/CCS-Sept28" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/40.html">History of Anesthesia Elective: Introduction to Anesthesia History</a></div>
+      <div class="meta">Tue Oct 6 · 12:10 PM · Microsoft Teams</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · other
+         · Register via Term 2 elective registration. Questions: email a TA (Roman.Gorchs, Neil.Panwalker, William.Suh, Suman.Atluri @bcm.edu).
+      </div>
+    </div>
+    <div class="actions">
+      <span class="badge rsvp">RSVP in the group chat</span>
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/10.html">McGovern Session Series (MSB B.100)</a></div>
+      <div class="meta">Wed Oct 7 · 5 PM – 6 PM · MSB B.100, McGovern Medical School Building</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · form
+        
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/14.html">BCM 5k/1k: Soccer with Kids Volunteering</a></div>
+      <div class="meta">Sat Oct 10 · 8:30 AM – 10:30 AM</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · link
+         · Like the GroupMe message to sign up. Only 2-4 volunteers are needed.
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://www.signupgenius.com/go/10C054BAAA923A0FCC34-64860155-bcmcommunity#/" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/41.html">History of Anesthesia Elective: Anesthesia in Obstetrics &amp; Pain Management</a></div>
+      <div class="meta">Tue Oct 13 · 12:10 PM · Microsoft Teams</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · other
+         · Register via Term 2 elective registration.
+      </div>
+    </div>
+    <div class="actions">
+      <span class="badge rsvp">RSVP in the group chat</span>
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/42.html">History of Anesthesia Elective: Anesthesia &amp; Ethical Considerations</a></div>
+      <div class="meta">Tue Oct 20 · 12:10 PM · Microsoft Teams</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · other
+         · Register via Term 2 elective registration.
+      </div>
+    </div>
+    <div class="actions">
+      <span class="badge rsvp">RSVP in the group chat</span>
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/43.html">History of Anesthesia Elective: Early Anesthesia Techniques &amp; Agents</a></div>
+      <div class="meta">Tue Oct 27 · 12:10 PM · Microsoft Teams</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · other
+         · Register via Term 2 elective registration.
+      </div>
+    </div>
+    <div class="actions">
+      <span class="badge rsvp">RSVP in the group chat</span>
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/49.html">Joint Squad Volunteering: Packing Lunches at Kids&#39; Meals</a></div>
+      <div class="meta">Tue Nov 3 · 1 PM – 3:30 PM · Kids&#39; Meals, 8790 Hammerly Boulevard, Houston, TX</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · link
+         · Sign up for the afternoon VOLUNTEER shift on Nov 3 (NOT the bag decorating shift) on VolunteerHub. Also fill out the squad Google Form: https://docs.google.com/forms/d/e/1FAIpQLSestykgJkCd5BnWeI9KzsbZRWUX9Sr9TRa-ZdlN-YWIibkS0g/viewform?usp=publish-editor. Spots are limited (37 left when the screenshot was taken).
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://kidsmealsinc.volunteerhub.com/vv2/" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="rsvp-item">
+    <div>
+      <div class="title"><a href="./event/11.html">McGovern Session Series (MSB B.100)</a></div>
+      <div class="meta">Wed Nov 4 · 5 PM – 6 PM · MSB B.100, McGovern Medical School Building</div>
+      <div class="meta">
+        <span class="due">No deadline given</span>
+         · form
+        
+      </div>
+    </div>
+    <div class="actions">
+      <a class="btn primary sm" href="https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform" target="_blank" rel="noopener">Open RSVP form</a>
+      
+      
+    </div>
+  </div>
+  
 
 </main>
 <footer>Auto-collected from BCM GroupMe announcements. Always confirm details with the organizer.</footer>
+<script src="./assets/app.js" defer></script>
 </body>
 </html>

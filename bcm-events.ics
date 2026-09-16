@@ -1,0 +1,395 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:eventscan-9@local
+DTSTAMP:20260916T123954
+DTSTART:20260916T170000
+DTEND:20260916T180000
+SUMMARY:McGovern Session Series (MSB B.100)
+LOCATION:MSB B.100\, McGovern Medical School Building
+DESCRIPTION:Fall series session\; sign-up form linked in chat.\nRSVP required: https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform
+URL:https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-15@local
+DTSTAMP:20260916T123954
+DTSTART:20260916T170000
+DTEND:20260916T180000
+SUMMARY:Student Surgical Society: First Meeting with Dr. Rosengart
+LOCATION:Room M112
+DESCRIPTION:Talk by Dr. Todd Rosengart\, Professor and Chair of the Michael E. DeBakey Department of Surgery\, on surgical training and practice. Dress nicely (no sweatpants).\nRSVP required by 2026-09-14T23:59:00: https://forms.gle/fbGGNUMHemYkGLgk9
+URL:https://forms.gle/fbGGNUMHemYkGLgk9
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-2@local
+DTSTAMP:20260916T123954
+DTSTART:20260916T173000
+DTEND:20260916T183000
+SUMMARY:General Body Meeting #2
+DESCRIPTION:N311
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-34@local
+DTSTAMP:20260916T123954
+DTSTART:20260916T173000
+DTEND:20260916T183000
+SUMMARY:CKC: Introduction to Pediatric Oncology Talk & Q&A
+LOCATION:Room N317
+DESCRIPTION:Kickoff event: 'What is Pediatric Oncology?' talk and Q&A with Dr. Eric Schafer\, Associate Professor and Director of the Leukemia Program at Texas Children's Hospital. Dinner provided.\nRSVP required by 2026-09-15T23:59:00: https://forms.gle/2gEbKuQqs7zfP69M7
+URL:https://forms.gle/2gEbKuQqs7zfP69M7
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-35@local
+DTSTAMP:20260916T123954
+DTSTART:20260916T173000
+DTEND:20260916T200000
+SUMMARY:GOBIG: Meet the Residents
+LOCATION:Axelrad Beer Garden
+DESCRIPTION:Meet OB/GYN residents. Open to students interested in OB/GYN or still undecided. Dinner (tacos) provided.\nRSVP required
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-28@local
+DTSTAMP:20260916T123954
+DTSTART:20260916T180000
+DTEND:20260916T190000
+SUMMARY:SIGN: Meet the Mentors Neurology Panel
+LOCATION:M321/323
+DESCRIPTION:Faculty panel on neurology subspecialty careers\, including Drs. Bellows\, Kung\, Maheshwari\, Kass\, Moore\, Goldsmith\, Jimenez Gomez\, Edmonson\, Damani\, and Dasgupta.\nRSVP required: https://docs.google.com/forms/d/e/1FAIpQLSem5cvityZF3Az18BMEWjvaqI1vO4FWm7StBtV5tode1i8skQ/viewform?usp=header
+URL:https://docs.google.com/forms/d/e/1FAIpQLSem5cvityZF3Az18BMEWjvaqI1vO4FWm7StBtV5tode1i8skQ/viewform?usp=header
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-45@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:TMA Leadership Summit
+LOCATION:Irving\, TX
+DESCRIPTION:Texas Medical Association Leadership Summit in Irving. Chris Wong offered to carpool or help coordinate housing for anyone going.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-31@local
+DTSTAMP:20260916T123954
+DTSTART:20260917T120000
+DTEND:20260917T140000
+SUMMARY:FirstGen MD: Snacks + Research Tips
+LOCATION:Table by the squad rooms
+DESCRIPTION:Drop in anytime for snacks and tips on getting involved in clinical or wet lab research.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-13@local
+DTSTAMP:20260916T123954
+DTSTART:20260917T174500
+DTEND:20260917T184500
+SUMMARY:Baylor Soccer: Weekly Pickup Game
+LOCATION:Helix Park
+DESCRIPTION:Casual soccer game with the Baylor Soccer group.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-6@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:AMA-MSS I-26 Mentorship Program: Mentor Application Deadline
+DESCRIPTION:MSS Speakers are recruiting mentors only for the I-26 mentorship program\; groups will be 1 mentor to 3-4 mentees\, paired by application with location/region prioritized. Mentee form opens later depending on mentor numbers. Questions to Denise Ocampo (MSS Speaker) or Lily Robistow (MSS Vice Speaker).
+URL:https://forms.gle/vRGpjfxU5JZSMmLt9
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-36@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:BCM CHILD: Fall Kickoff Playdate for Student Parents
+LOCATION:The Little Gym\, Pearland
+DESCRIPTION:Fall kickoff for BCM student parents and expectant parents\, and their kids. Contact Priscilla Albán-Acuña (MS2).\nRSVP required: https://forms.gle/72QzpaiWcjjBFsNp8
+URL:https://forms.gle/72QzpaiWcjjBFsNp8
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-33@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Cardiothoracic Surgery Interest Group: Officer Application Deadline
+DESCRIPTION:Applications for officer positions with the Cardiothoracic Surgery Interest Group.
+URL:https://docs.google.com/forms/d/e/1FAIpQLScNfDlbaJiumQuG30oDY1PU4mAtl3pHgJ4S0Hp0kPWo1B8qvw/viewform?usp=header
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-37@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Health Heroes: E-Board Application Deadline
+DESCRIPTION:Open roles: Communications Representative and 2 Curriculum Representatives. Health Heroes teaches health lessons to 4th and 5th graders.
+URL:https://docs.google.com/forms/d/e/1FAIpQLScRzi23JBHaLJdbLyG39t8h23N2LHxgDi44r7-MK8lKK2YVPA/viewform?usp=header
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-46@local
+DTSTAMP:20260916T123954
+DTSTART:20260922T071500
+DTEND:20260922T080000
+SUMMARY:Muffins with Mentors: Dr. Hashem El-Serag
+LOCATION:Conference Room N.202\, Alkek Building
+DESCRIPTION:Breakfast and informal conversation with Dr. Hashem El-Serag\, Chair of Medicine and VP of the Learning Health System\, covering career journeys and joy in academia\, with open Q&A.\nRSVP required: https://www.signupgenius.com/go/10C084EAFAD2DAAF49-65170376-muffins#/
+URL:https://www.signupgenius.com/go/10C084EAFAD2DAAF49-65170376-muffins#/
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-20@local
+DTSTAMP:20260916T123954
+DTSTART:20260922T180000
+DTEND:20260922T190000
+SUMMARY:BCM Run Club
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's getting dark earlier.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-38@local
+DTSTAMP:20260916T123954
+DTSTART:20260923T120000
+DTEND:20260923T130000
+SUMMARY:DISCO AIM Session (Houston)
+LOCATION:Kleberg Auditorium
+DESCRIPTION:AIM session for the Houston campus only. Lunch provided.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-32@local
+DTSTAMP:20260916T123954
+DTSTART:20260924T183000
+DTEND:20260924T193000
+SUMMARY:Rice RPMS Med Mentor Night (M&M Night)
+LOCATION:Rice University
+DESCRIPTION:Mentor Rice pre-med undergraduates in small-group conversations about applications\, interviews\, and med school life. Parking reimbursed\; logistics sent the week before.\nRSVP required: https://docs.google.com/forms/d/e/1FAIpQLSe31UIn8f7rR4GJ2C4-BVwo3KN8a1z-ExKYm7CVHrhtyDLF5A/viewform
+URL:https://docs.google.com/forms/d/e/1FAIpQLSe31UIn8f7rR4GJ2C4-BVwo3KN8a1z-ExKYm7CVHrhtyDLF5A/viewform
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-25@local
+DTSTAMP:20260916T123954
+DTSTART:20260925T153000
+DTEND:20260925T163000
+SUMMARY:Matthew Carter Service Day: Talk from Dr. Carter
+LOCATION:Room 112
+DESCRIPTION:Talk from Dr. Carter\, Matthew's father\, with lemonade and free Tiny's cookies. Earns 1 SLP Education Point.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-48@local
+DTSTAMP:20260916T123954
+DTSTART:20260925T180000
+DTEND:20260925T200000
+SUMMARY:Med-Peds Interest Group: Resident-Student Mixer
+LOCATION:Axelrad
+DESCRIPTION:Meet BCM med-peds residents and other students interested in a career in internal medicine and pediatrics. Pizza\, food\, and drinks provided.\nRSVP required: https://forms.gle/Bpzx2kvNj8MriGZT6
+URL:https://forms.gle/Bpzx2kvNj8MriGZT6
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-26@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Matthew Carter Service Day: Community Volunteering
+LOCATION:Various community sites
+DESCRIPTION:Morning volunteering at community sites. SLP points are based on hours served.\nRSVP required by 2026-09-07T23:59:00: https://docs.google.com/spreadsheets/d/15LBi_EXk8ZhGvqbK0ZYvgFQHbF9czdVkQb7ABVfl8OI/edit?gid=1041014375#gid=1041014375
+URL:https://docs.google.com/spreadsheets/d/15LBi_EXk8ZhGvqbK0ZYvgFQHbF9czdVkQb7ABVfl8OI/edit?gid=1041014375#gid=1041014375
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-3@local
+DTSTAMP:20260916T123954
+DTSTART:20260926T090000
+DTEND:20260926T170000
+SUMMARY:South Regional Conference
+LOCATION:Rice University\, 6100\, Main St\, Southgate\, Houston\, TX\, 77005
+DESCRIPTION:Registration Form: https://docs.google.com/forms/d/e/1FAIpQLSd9ofnvSNfDpHz8jia48nrqHwmDdodezquBdGvs8lZLPpiSBQ/viewform\nRSVP required by 2026-09-18T23:59:00: https://docs.google.com/forms/d/e/1FAIpQLSd9ofnvSNfDpHz8jia48nrqHwmDdodezquBdGvs8lZLPpiSBQ/viewform
+URL:https://docs.google.com/forms/d/e/1FAIpQLSd9ofnvSNfDpHz8jia48nrqHwmDdodezquBdGvs8lZLPpiSBQ/viewform
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-27@local
+DTSTAMP:20260916T123954
+DTSTART:20260926T123000
+DTEND:20260926T133000
+SUMMARY:Matthew Carter Service Day: Lunch & Keynote by Dr. Ricardo Nuila
+LOCATION:McMillan Auditorium
+DESCRIPTION:Fadi's lunch on campus and a keynote from Dr. Ricardo Nuila\, author of The People's Hospital. Earns 1 SLP Education Point.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-7@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:AMA-MSS Travel Grant Funding Application Deadline
+DESCRIPTION:AMA MSS Travel Grant funding applications are due 09/28\, an alternative funding route to Student Involvement Grant (SIG)/MSOP funding ahead of I-26. Details and links in the At-Large Officer's shared doc: https://docs.google.com/document/d/1Ii-p73NJlf0Pl4InSJ9AEHmtY48LEgfEFTL856ZVHA4/edit
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-24@local
+DTSTAMP:20260916T123954
+DTSTART:20260928T173000
+DTEND:20260928T183000
+SUMMARY:Surgery Medical Student Research Session
+LOCATION:Alkek M321 & M323
+DESCRIPTION:Hosted by the SOAR Office and Medical Student Research Ambassadors. Hear about research from students\, residents\, and faculty in general\, plastic\, vascular\, and cardiothoracic surgery\, and meet possible mentors. You can apply for one of 3 oral presentation spots or give a 1-minute research pitch.\nRSVP required: https://form.jotform.com/260263686131152
+URL:https://form.jotform.com/260263686131152
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-47@local
+DTSTAMP:20260916T123954
+DTSTART:20260928T180000
+DTEND:20260928T190000
+SUMMARY:IMIG: Clinical Case Series with Dr. Zaven Sargsyan
+LOCATION:N317
+DESCRIPTION:Interactive case-based session where students build a differential step by step with Dr. Sargsyan\, Associate PD of the BCM IM Residency.\nRSVP required: https://tinyurl.com/CCS-Sept28
+URL:https://tinyurl.com/CCS-Sept28
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-12@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:APAMSA Big/Little/Family Pairing Sign-Up Deadline
+DESCRIPTION:Fill out the form if you want to take part in APAMSA's big/little/family pairings.
+URL:https://forms.gle/dL59h2yob8apLq8H8
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-21@local
+DTSTAMP:20260916T123954
+DTSTART:20260929T180000
+DTEND:20260929T190000
+SUMMARY:BCM Run Club
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's getting dark earlier.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-8@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:AMA-MSS Chair-Elect Application Deadline
+DESCRIPTION:Applications for AMA-MSS Chair-elect are due. Tell the Speakers if you plan to run or are thinking about it\; campaign teams will be limited\, and campaign team registration opens after candidates are announced.
+URL:https://ama.jotform.com/240041562636147
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-44@local
+DTSTAMP:20260916T123954
+DTSTART:20260930T120000
+DTEND:20260930T130000
+SUMMARY:AIMS: Introductory Meeting
+LOCATION:Room M321
+DESCRIPTION:Intro to BCM AI in Medicine Society\, ways to get involved\, and plans for the year. Featured speaker is Dr. Jennifer Benjamin (AI in Education)\, the AIMS faculty sponsor.\nRSVP required by 2026-09-25T23:59:00: https://forms.gle/KizxYtkmkDkwi5MH9
+URL:https://forms.gle/KizxYtkmkDkwi5MH9
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-39@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:CTSIG: Journal Club on Aortic Surgery
+DESCRIPTION:Discussion of a paper on CSF drainage in thoracoabdominal aortic aneurysm repair\, plus a talk on protecting the brain during aortic arch replacement. All class years welcome\; you can sign up to lead discussion.\nRSVP required by 2026-09-27T23:59:00: https://docs.google.com/forms/d/e/1FAIpQLScak5EkzDsWDhX27BKiD3CT6PGa3HZ1xEaePn7k9Y6Zy1tnQw/viewform?usp=header
+URL:https://docs.google.com/forms/d/e/1FAIpQLScak5EkzDsWDhX27BKiD3CT6PGa3HZ1xEaePn7k9Y6Zy1tnQw/viewform?usp=header
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-40@local
+DTSTAMP:20260916T123954
+DTSTART:20261006T121000
+DTEND:20261006T131000
+SUMMARY:History of Anesthesia Elective: Introduction to Anesthesia History
+LOCATION:Microsoft Teams
+DESCRIPTION:Session 1 of 8 in the Term 2 MS1 preclinical elective\; speaker James Anton\, MD. Grade is 100% attendance based.\nRSVP required
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-22@local
+DTSTAMP:20260916T123954
+DTSTART:20261006T180000
+DTEND:20261006T190000
+SUMMARY:BCM Run Club
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's getting dark earlier.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-17@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:SOAR Research Grand Rounds: Study Design and Methodology
+DESCRIPTION:SOAR office lecture series on research for medical students with little or no research experience.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-10@local
+DTSTAMP:20260916T123954
+DTSTART:20261007T170000
+DTEND:20261007T180000
+SUMMARY:McGovern Session Series (MSB B.100)
+LOCATION:MSB B.100\, McGovern Medical School Building
+DESCRIPTION:Fall series session\; sign-up form linked in chat.\nRSVP required: https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform
+URL:https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-14@local
+DTSTAMP:20260916T123954
+DTSTART:20261010T083000
+DTEND:20261010T103000
+SUMMARY:BCM 5k/1k: Soccer with Kids Volunteering
+DESCRIPTION:The BCM 5k committee needs 2-4 volunteers to play soccer with kids during the 5k/1k. You don't have to stay the whole time.\nRSVP required: https://www.signupgenius.com/go/10C054BAAA923A0FCC34-64860155-bcmcommunity#/
+URL:https://www.signupgenius.com/go/10C054BAAA923A0FCC34-64860155-bcmcommunity#/
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-41@local
+DTSTAMP:20260916T123954
+DTSTART:20261013T121000
+DTEND:20261013T131000
+SUMMARY:History of Anesthesia Elective: Anesthesia in Obstetrics & Pain Management
+LOCATION:Microsoft Teams
+DESCRIPTION:Session 2 of 8\; speaker Maisie Jackson\, MD. Grade is 100% attendance based.\nRSVP required
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-23@local
+DTSTAMP:20260916T123954
+DTSTART:20261013T180000
+DTEND:20261013T190000
+SUMMARY:BCM Run Club
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's getting dark earlier.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-42@local
+DTSTAMP:20260916T123954
+DTSTART:20261020T121000
+DTEND:20261020T131000
+SUMMARY:History of Anesthesia Elective: Anesthesia & Ethical Considerations
+LOCATION:Microsoft Teams
+DESCRIPTION:Session 3 of 8\; speaker Josh Cohen\, MD. Grade is 100% attendance based.\nRSVP required
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-43@local
+DTSTAMP:20260916T123954
+DTSTART:20261027T121000
+DTEND:20261027T131000
+SUMMARY:History of Anesthesia Elective: Early Anesthesia Techniques & Agents
+LOCATION:Microsoft Teams
+DESCRIPTION:Session 4 of 8\; speaker Raja Palvadi\, MD. Grade is 100% attendance based.\nRSVP required
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-49@local
+DTSTAMP:20260916T123954
+DTSTART:20261103T130000
+DTEND:20261103T153000
+SUMMARY:Joint Squad Volunteering: Packing Lunches at Kids' Meals
+LOCATION:Kids' Meals\, 8790 Hammerly Boulevard\, Houston\, TX
+DESCRIPTION:Joint squad volunteering event packing lunches\, which also earns SLP volunteering points. It's a bit of a drive\, so carpooling is encouraged.\nRSVP required: https://kidsmealsinc.volunteerhub.com/vv2/
+URL:https://kidsmealsinc.volunteerhub.com/vv2/
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-18@local
+DTSTAMP:20260916T123954
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
+DESCRIPTION:SOAR office lecture series on research for medical students with little or no research experience.
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-11@local
+DTSTAMP:20260916T123954
+DTSTART:20261104T170000
+DTEND:20261104T180000
+SUMMARY:McGovern Session Series (MSB B.100)
+LOCATION:MSB B.100\, McGovern Medical School Building
+DESCRIPTION:Fall series session\; sign-up form linked in chat.\nRSVP required: https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform
+URL:https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQEHhYO5MZ86sdTPw/viewform
+END:VEVENT
+END:VCALENDAR
