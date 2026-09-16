@@ -6,8 +6,9 @@
   const toolbar = $(".toolbar");
   const list = $("[data-agenda]");
   const cal = $("[data-calendar]");
-  const today = (list || cal || document.body).dataset.today || new Date().toISOString().slice(0, 10);
-  const addDays = (iso, n) => { const d = new Date(iso + "T00:00:00"); d.setDate(d.getDate() + n); return d.toISOString().slice(0, 10); };
+  const today = (list || cal || document.body).dataset.today || (function (d) { return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); })(new Date());
+  const localIso = d => d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+  const addDays = (iso, n) => { const d = new Date(iso + "T00:00:00"); d.setDate(d.getDate() + n); return localIso(d); };
 
   // ---------- sticky offsets ----------
   function measure() {
@@ -124,7 +125,7 @@
     let inMonthShown = 0;
     for (let i = 0; i < 42; i++) {
       const d = new Date(start); d.setDate(start.getDate() + i);
-      const iso = d.toISOString().slice(0, 10);
+      const iso = localIso(d);
       const inMonth = d.getMonth() === m - 1;
       const dayEvents = (byDay[iso] || []).sort((a, b) => a.sort.localeCompare(b.sort));
       if (inMonth) inMonthShown += dayEvents.length;
@@ -164,6 +165,21 @@
   if (cal && state.month && state.month !== today.slice(0, 7)) selectedDay = state.month + "-01";
   apply();
 
+  // ---------- theme toggle ----------
+  $$("[data-theme-toggle]").forEach(b => b.addEventListener("click", () => {
+    const root = document.documentElement;
+    const dark = root.getAttribute("data-theme") === "dark" || (!root.getAttribute("data-theme") && root.classList.contains("system-dark"));
+    const next = dark ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("theme", next); } catch (e) {}
+  }));
+
+  // ---------- jump to today ----------
+  $$("[data-jump-today]").forEach(b => b.addEventListener("click", () => {
+    const target = $(".day.today:not([hidden])") || $$(".day").find(d => !d.hidden && d.nextElementSibling && d.dataset.date >= today);
+    if (target) { const y = target.getBoundingClientRect().top + window.scrollY - (56 + (toolbar ? toolbar.offsetHeight : 0)) - 4; window.scrollTo({ top: y, behavior: "smooth" }); }
+  }));
+
   // ---------- toast ----------
   function toast(msg) {
     let t = $(".toast"); if (!t) { t = document.createElement("div"); t.className = "toast"; document.body.appendChild(t); }
@@ -181,7 +197,7 @@
     const lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//eventscan//EN", "BEGIN:VEVENT", "UID:eventscan-" + d.id + "@local", "DTSTAMP:" + icsDate(new Date().toISOString())];
     if (d.allday === "1") {
       const day = d.start.slice(0, 10).replace(/-/g, ""); const next = new Date(d.start.slice(0, 10) + "T00:00:00"); next.setDate(next.getDate() + 1);
-      lines.push("DTSTART;VALUE=DATE:" + day, "DTEND;VALUE=DATE:" + next.toISOString().slice(0, 10).replace(/-/g, ""));
+      lines.push("DTSTART;VALUE=DATE:" + day, "DTEND;VALUE=DATE:" + localIso(next).replace(/-/g, ""));
     } else {
       lines.push("DTSTART:" + icsDate(d.start), "DTEND:" + icsDate(d.end));
     }

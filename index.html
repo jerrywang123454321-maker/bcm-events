@@ -7,6 +7,7 @@
 <meta name="robots" content="noindex">
 <title>BCM Events</title>
 <link rel="stylesheet" href="./assets/app.css">
+<script>(function(){try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark"){document.documentElement.setAttribute("data-theme",t);}var m=window.matchMedia("(prefers-color-scheme: dark)");function s(){document.documentElement.classList.toggle("system-dark",m.matches);}s();m.addEventListener("change",s);}catch(e){}})();</script>
 </head>
 <body>
 <header class="topbar">
@@ -18,7 +19,11 @@
     
   </nav>
   <span class="spacer"></span>
-  <span class="stamp">Updated Wed Sep 16, 12:55 PM</span>
+  <span class="stamp">Updated Wed Sep 16, 1:19 PM</span>
+  <button type="button" class="btn icon subtle theme-toggle" data-theme-toggle aria-label="Switch light or dark mode" title="Light / dark">
+    <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+    <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+  </button>
   
   <a class="btn sm" href="webcal://jerrywang123454321-maker.github.io/bcm-events/bcm-events.ics" title="Subscribe in your calendar app so every event shows up automatically">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
@@ -43,6 +48,7 @@
       
     </div>
     <span class="result-count" data-count aria-live="polite"></span>
+    <button type="button" class="btn sm jump" data-jump-today>Today ↓</button>
   </div>
   <div class="row">
     <div class="chips" role="group" aria-label="Filters">
@@ -67,7 +73,7 @@
 <div data-agenda data-today="2026-09-16">
   
     
-    <div class="day today">Wednesday, September 16 <span class="rel">· Today</span></div>
+    <div class="day today" data-date="2026-09-16">Wednesday, September 16 <span class="rel">· Today</span></div>
     
 
 <article class="event  "
@@ -84,6 +90,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -113,6 +120,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -143,6 +151,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge">RSVP closed Sep 14</span>
@@ -172,6 +181,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -201,6 +211,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge">RSVP closed Sep 15</span>
@@ -230,6 +241,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP · link</span>
@@ -259,6 +271,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -276,7 +289,7 @@
 </article>
   
     
-    <div class="day ">Thursday, September 17 <span class="rel">· Tomorrow</span></div>
+    <div class="day " data-date="2026-09-17">Thursday, September 17 <span class="rel">· Tomorrow</span></div>
     
 
 <article class="event  "
@@ -293,6 +306,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -322,6 +336,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -351,6 +366,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -367,7 +383,7 @@
 </article>
   
     
-    <div class="day ">Friday, September 18</div>
+    <div class="day " data-date="2026-09-18">Friday, September 18</div>
     
 
 <article class="event  "
@@ -384,6 +400,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -400,7 +417,7 @@
 </article>
   
     
-    <div class="day ">Saturday, September 19</div>
+    <div class="day " data-date="2026-09-19">Saturday, September 19</div>
     
 
 <article class="event  "
@@ -417,6 +434,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -434,7 +452,7 @@
 </article>
   
     
-    <div class="day ">Sunday, September 20</div>
+    <div class="day " data-date="2026-09-20">Sunday, September 20</div>
     
 
 <article class="event  "
@@ -451,6 +469,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -467,7 +486,7 @@
 </article>
   
     
-    <div class="day ">Monday, September 21</div>
+    <div class="day " data-date="2026-09-21">Monday, September 21</div>
     
 
 <article class="event  "
@@ -484,6 +503,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -500,7 +520,7 @@
 </article>
   
     
-    <div class="day ">Tuesday, September 22</div>
+    <div class="day " data-date="2026-09-22">Tuesday, September 22</div>
     
 
 <article class="event  "
@@ -517,6 +537,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -547,6 +568,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -563,7 +585,7 @@
 </article>
   
     
-    <div class="day ">Wednesday, September 23</div>
+    <div class="day " data-date="2026-09-23">Wednesday, September 23</div>
     
 
 <article class="event  "
@@ -580,6 +602,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -596,7 +619,7 @@
 </article>
   
     
-    <div class="day ">Thursday, September 24</div>
+    <div class="day " data-date="2026-09-24">Thursday, September 24</div>
     
 
 <article class="event  "
@@ -613,6 +636,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -630,7 +654,7 @@
 </article>
   
     
-    <div class="day ">Friday, September 25</div>
+    <div class="day " data-date="2026-09-25">Friday, September 25</div>
     
 
 <article class="event  "
@@ -647,6 +671,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -676,6 +701,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -693,7 +719,7 @@
 </article>
   
     
-    <div class="day ">Saturday, September 26</div>
+    <div class="day " data-date="2026-09-26">Saturday, September 26</div>
     
 
 <article class="event  "
@@ -710,6 +736,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge">RSVP closed Sep 7</span>
@@ -739,6 +766,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP by Fri 9/18</span>
@@ -769,6 +797,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -785,7 +814,7 @@
 </article>
   
     
-    <div class="day ">Monday, September 28</div>
+    <div class="day " data-date="2026-09-28">Monday, September 28</div>
     
 
 <article class="event  "
@@ -802,6 +831,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -831,6 +861,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -861,6 +892,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -891,6 +923,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -907,7 +940,7 @@
 </article>
   
     
-    <div class="day ">Tuesday, September 29</div>
+    <div class="day " data-date="2026-09-29">Tuesday, September 29</div>
     
 
 <article class="event  "
@@ -924,6 +957,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -940,7 +974,7 @@
 </article>
   
     
-    <div class="day ">Wednesday, September 30</div>
+    <div class="day " data-date="2026-09-30">Wednesday, September 30</div>
     
 
 <article class="event  "
@@ -957,6 +991,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -986,6 +1021,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP by Fri 9/25</span>
@@ -1003,7 +1039,7 @@
 </article>
   
     
-    <div class="day ">Tuesday, October 6</div>
+    <div class="day " data-date="2026-10-06">Tuesday, October 6</div>
     
 
 <article class="event  "
@@ -1020,6 +1056,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP by Sun 9/27</span>
@@ -1050,6 +1087,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP · other</span>
@@ -1079,6 +1117,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -1095,7 +1134,7 @@
 </article>
   
     
-    <div class="day ">Wednesday, October 7</div>
+    <div class="day " data-date="2026-10-07">Wednesday, October 7</div>
     
 
 <article class="event  "
@@ -1112,6 +1151,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -1141,6 +1181,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -1158,7 +1199,7 @@
 </article>
   
     
-    <div class="day ">Saturday, October 10</div>
+    <div class="day " data-date="2026-10-10">Saturday, October 10</div>
     
 
 <article class="event  "
@@ -1175,6 +1216,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -1192,7 +1234,7 @@
 </article>
   
     
-    <div class="day ">Tuesday, October 13</div>
+    <div class="day " data-date="2026-10-13">Tuesday, October 13</div>
     
 
 <article class="event  "
@@ -1209,6 +1251,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP · other</span>
@@ -1238,6 +1281,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -1254,7 +1298,7 @@
 </article>
   
     
-    <div class="day ">Tuesday, October 20</div>
+    <div class="day " data-date="2026-10-20">Tuesday, October 20</div>
     
 
 <article class="event  "
@@ -1271,6 +1315,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP · other</span>
@@ -1287,7 +1332,7 @@
 </article>
   
     
-    <div class="day ">Tuesday, October 27</div>
+    <div class="day " data-date="2026-10-27">Tuesday, October 27</div>
     
 
 <article class="event  "
@@ -1304,6 +1349,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP · other</span>
@@ -1320,7 +1366,7 @@
 </article>
   
     
-    <div class="day ">Tuesday, November 3</div>
+    <div class="day " data-date="2026-11-03">Tuesday, November 3</div>
     
 
 <article class="event  "
@@ -1337,6 +1383,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -1354,7 +1401,7 @@
 </article>
   
     
-    <div class="day ">Wednesday, November 4</div>
+    <div class="day " data-date="2026-11-04">Wednesday, November 4</div>
     
 
 <article class="event  "
@@ -1371,6 +1418,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       
@@ -1400,6 +1448,7 @@
     </div>
     <div class="badges">
       
+      <span class="badge new">New</span>
       
       
       <span class="badge rsvp">RSVP</span>
@@ -1423,7 +1472,7 @@
   </div>
 </div>
 </main>
-<footer>Auto-collected from BCM GroupMe announcements. Always confirm details with the organizer.</footer>
+<footer>Unofficial, student-run. Auto-collected from BCM GroupMe announcements; always confirm details with the organizer.</footer>
 <script src="./assets/app.js" defer></script>
 </body>
 </html>
