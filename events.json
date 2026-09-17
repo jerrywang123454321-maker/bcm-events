@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T15:00",
+ "generated_at": "2026-09-17T17:35",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -426,7 +426,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-17T15:00:28",
+   "updated_at": "2026-09-17T17:00:03",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -482,10 +482,12 @@
    "rsvp_notes": "RSVP through the QR code on the flyer. The Google Form posted just before it is probably the same RSVP.",
    "confidence": 0.9,
    "status": "active",
-   "updated_at": "2026-09-17T11:00:32",
+   "updated_at": "2026-09-17T17:35:13",
    "group_name": "BCM Med/Peds Interest Group",
    "flyers": [
-    "flyers/178966035133683103_0.jpg"
+    "flyers/178966035133683103_0.jpg",
+    "flyers/178967820875035164_0.jpg",
+    "flyers/178967820875035164_1.jpg"
    ],
    "page": "event/53.html",
    "search": "imig: im residents & med students field day social hermann park, picnic area near parking lot e bcm internal medicine interest group meet bcm im and med-peds residents with sports, games, snacks, and sunset. pets welcome. bcm med/peds interest group interest group"
