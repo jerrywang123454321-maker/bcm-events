@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T11:00",
+ "generated_at": "2026-09-17T13:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -83,9 +83,11 @@
    "rsvp_notes": null,
    "confidence": 0.85,
    "status": "active",
-   "updated_at": "2026-09-16T23:00:10",
+   "updated_at": "2026-09-17T13:00:24",
    "group_name": "Baylor Soccer \u26bd\ufe0f",
-   "flyers": [],
+   "flyers": [
+    "flyers/178966691199029322_0.jpg"
+   ],
    "page": "event/13.html",
    "search": "baylor soccer: weekly pickup game helix park baylor soccer casual soccer game with the baylor soccer group. baylor soccer \u26bd\ufe0f wellness"
   },
@@ -423,7 +425,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-17T11:00:06",
+   "updated_at": "2026-09-17T13:00:02",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
