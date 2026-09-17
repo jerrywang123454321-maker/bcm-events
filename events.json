@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T09:00",
+ "generated_at": "2026-09-17T11:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -24,7 +24,7 @@
    "rsvp_notes": "Message Chris Wong if you're going and want to carpool or share housing.",
    "confidence": 0.65,
    "status": "active",
-   "updated_at": "2026-09-16T12:53:02",
+   "updated_at": "2026-09-17T11:00:17",
    "group_name": "BCM AMA TMA",
    "flyers": [],
    "page": "event/45.html",
@@ -423,7 +423,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-17T09:00:02",
+   "updated_at": "2026-09-17T11:00:06",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -456,6 +456,36 @@
    "flyers": [],
    "page": "event/27.html",
    "search": "matthew carter service day: lunch & keynote by dr. ricardo nuila mcmillan auditorium matthew carter service day (mcsd) fadi's lunch on campus and a keynote from dr. ricardo nuila, author of the people's hospital. earns 1 slp education point. bcm '30 houston lecture / talk"
+  },
+  {
+   "id": 53,
+   "title": "IMIG: IM Residents & Med Students Field Day Social",
+   "start_at": "2026-09-26T17:30:00",
+   "end_at": "2026-09-26T19:30:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "Hermann Park, picnic area near Parking Lot E",
+   "virtual_link": null,
+   "description": "Meet BCM IM and Med-Peds residents with sports, games, snacks, and sunset. Pets welcome.",
+   "category": "interest_group",
+   "mandatory": 0,
+   "food_provided": 1,
+   "organizer": "BCM Internal Medicine Interest Group",
+   "rsvp_required": 1,
+   "rsvp_method": "form",
+   "rsvp_url": "https://docs.google.com/forms/d/e/1FAIpQLSdRgXnk4peqMGOvs3XkIH-dx3QCaqaPGCLBFD94VJs2_CPTXw/viewform",
+   "rsvp_deadline": null,
+   "rsvp_notes": "RSVP through the QR code on the flyer. The Google Form posted just before it is probably the same RSVP.",
+   "confidence": 0.9,
+   "status": "active",
+   "updated_at": "2026-09-17T11:00:32",
+   "group_name": "BCM Med/Peds Interest Group",
+   "flyers": [
+    "flyers/178966035133683103_0.jpg"
+   ],
+   "page": "event/53.html",
+   "search": "imig: im residents & med students field day social hermann park, picnic area near parking lot e bcm internal medicine interest group meet bcm im and med-peds residents with sports, games, snacks, and sunset. pets welcome. bcm med/peds interest group interest group"
   },
   {
    "id": 51,
