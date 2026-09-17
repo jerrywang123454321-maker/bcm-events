@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T13:00",
+ "generated_at": "2026-09-17T15:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -71,7 +71,7 @@
    "date_uncertain": 0,
    "location": "Helix Park",
    "virtual_link": null,
-   "description": "Casual soccer game with the Baylor Soccer group.",
+   "description": "Parking correction: disregard the earlier Wyndale St suggestion since Wyndale is metered throughout the day. Park on Canterbury St anytime after 4 pm (shown relative to the Helix Park pin on the attached map); carpooling encouraged.",
    "category": "wellness",
    "mandatory": 0,
    "food_provided": 0,
@@ -83,13 +83,14 @@
    "rsvp_notes": null,
    "confidence": 0.85,
    "status": "active",
-   "updated_at": "2026-09-17T13:00:24",
+   "updated_at": "2026-09-17T15:00:46",
    "group_name": "Baylor Soccer \u26bd\ufe0f",
    "flyers": [
-    "flyers/178966691199029322_0.jpg"
+    "flyers/178966691199029322_0.jpg",
+    "flyers/178967308242896929_0.jpg"
    ],
    "page": "event/13.html",
-   "search": "baylor soccer: weekly pickup game helix park baylor soccer casual soccer game with the baylor soccer group. baylor soccer \u26bd\ufe0f wellness"
+   "search": "baylor soccer: weekly pickup game helix park baylor soccer parking correction: disregard the earlier wyndale st suggestion since wyndale is metered throughout the day. park on canterbury st anytime after 4 pm (shown relative to the helix park pin on the attached map); carpooling encouraged. baylor soccer \u26bd\ufe0f wellness"
   },
   {
    "id": 6,
@@ -425,7 +426,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-17T13:00:02",
+   "updated_at": "2026-09-17T15:00:28",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
