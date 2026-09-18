@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T11:00",
+ "generated_at": "2026-09-18T13:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -392,7 +392,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-18T11:00:04",
+   "updated_at": "2026-09-18T13:00:04",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -715,6 +715,36 @@
    "flyers": [],
    "page": "event/39.html",
    "search": "ctsig: journal club on aortic surgery cardiothoracic surgery interest group (ctsig) discussion of a paper on csf drainage in thoracoabdominal aortic aneurysm repair, plus a talk on protecting the brain during aortic arch replacement. all class years welcome; you can sign up to lead discussion. bcm '30 houston interest group"
+  },
+  {
+   "id": 55,
+   "title": "BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering",
+   "start_at": "2026-10-06T10:00:00",
+   "end_at": "2026-10-06T12:00:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "BPSOS-Houston, 11360 Bellaire Blvd., Ste. 910, Houston, TX 77072",
+   "virtual_link": null,
+   "description": "Monthly free health clinic run by Boat People SOS, a national non-profit supporting Vietnamese immigrants and refugees. Free services include general health exams (glucose, cholesterol, hepatitis), flu shots, behavioral health, hearing tests, women's wellness, health insurance enrollment, and more. Organizers will email more info closer to the date.",
+   "category": "service",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "APAMSA / BPSOS-Houston",
+   "rsvp_required": 1,
+   "rsvp_method": "link",
+   "rsvp_url": "https://www.signupgenius.com/go/10C0F4EAAA723A0FA7-61361761-2026#/",
+   "rsvp_deadline": null,
+   "rsvp_notes": "Volunteers sign up via SignUpGenius; you can sign up for any of the clinics planned for the rest of the year. (The bit.ly/2ndTuesClinic link on the flyer is patient registration, not volunteer sign-up.)",
+   "confidence": 0.9,
+   "status": "active",
+   "updated_at": "2026-09-18T13:00:35",
+   "group_name": "APAMSA @ BCM",
+   "flyers": [
+    "flyers/178975278447262750_0.jpg"
+   ],
+   "page": "event/55.html",
+   "search": "bpsos-houston 2nd tuesday health clinic: volunteering bpsos-houston, 11360 bellaire blvd., ste. 910, houston, tx 77072 apamsa / bpsos-houston monthly free health clinic run by boat people sos, a national non-profit supporting vietnamese immigrants and refugees. free services include general health exams (glucose, cholesterol, hepatitis), flu shots, behavioral health, hearing tests, women's wellness, health insurance enrollment, and more. organizers will email more info closer to the date. apamsa @ bcm service / volunteering"
   },
   {
    "id": 40,
@@ -1067,6 +1097,36 @@
    "flyers": [],
    "page": "event/11.html",
    "search": "mcgovern session series (msb b.100) msb b.100, mcgovern medical school building victoria le fall series session; sign-up form linked in chat. apamsa @ bcm student org"
+  },
+  {
+   "id": 56,
+   "title": "BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering",
+   "start_at": "2026-11-10T10:00:00",
+   "end_at": "2026-11-10T12:00:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "BPSOS-Houston, 11360 Bellaire Blvd., Ste. 910, Houston, TX 77072",
+   "virtual_link": null,
+   "description": "Monthly free health clinic run by Boat People SOS serving the Vietnamese immigrant and refugee community. Free services include health screenings, flu shots, behavioral health, hearing tests, and insurance enrollment assistance.",
+   "category": "service",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "APAMSA / BPSOS-Houston",
+   "rsvp_required": 1,
+   "rsvp_method": "link",
+   "rsvp_url": "https://www.signupgenius.com/go/10C0F4EAAA723A0FA7-61361761-2026#/",
+   "rsvp_deadline": null,
+   "rsvp_notes": "Volunteers sign up via SignUpGenius; slots are posted for all remaining clinics this year.",
+   "confidence": 0.9,
+   "status": "active",
+   "updated_at": "2026-09-18T13:00:36",
+   "group_name": "APAMSA @ BCM",
+   "flyers": [
+    "flyers/178975278447262750_0.jpg"
+   ],
+   "page": "event/56.html",
+   "search": "bpsos-houston 2nd tuesday health clinic: volunteering bpsos-houston, 11360 bellaire blvd., ste. 910, houston, tx 77072 apamsa / bpsos-houston monthly free health clinic run by boat people sos serving the vietnamese immigrant and refugee community. free services include health screenings, flu shots, behavioral health, hearing tests, and insurance enrollment assistance. apamsa @ bcm service / volunteering"
   }
  ]
 }
