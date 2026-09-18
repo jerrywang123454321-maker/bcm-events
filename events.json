@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T07:01",
+ "generated_at": "2026-09-18T09:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -29,6 +29,34 @@
    "flyers": [],
    "page": "event/45.html",
    "search": "tma leadership summit irving, tx texas medical association texas medical association leadership summit in irving. chris wong offered to carpool or help coordinate housing for anyone going. bcm ama tma student org"
+  },
+  {
+   "id": 54,
+   "title": "Medical Mandarin Session",
+   "start_at": "2026-09-18T12:00:00",
+   "end_at": null,
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "MSB B.635, McGovern Medical School Building",
+   "virtual_link": null,
+   "description": "Confirmation in chat that Medical Mandarin is meeting today at noon in MSB B.635 at McGovern.",
+   "category": "student_org",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "APAMSA",
+   "rsvp_required": 0,
+   "rsvp_method": "none",
+   "rsvp_url": null,
+   "rsvp_deadline": null,
+   "rsvp_notes": null,
+   "confidence": 0.82,
+   "status": "active",
+   "updated_at": "2026-09-18T09:00:13",
+   "group_name": "APAMSA @ BCM",
+   "flyers": [],
+   "page": "event/54.html",
+   "search": "medical mandarin session msb b.635, mcgovern medical school building apamsa confirmation in chat that medical mandarin is meeting today at noon in msb b.635 at mcgovern. apamsa @ bcm student org"
   },
   {
    "id": 6,
@@ -364,7 +392,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-18T07:01:10",
+   "updated_at": "2026-09-18T09:00:02",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
