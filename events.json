@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T15:00",
+ "generated_at": "2026-09-19T17:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -392,7 +392,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-19T15:00:05",
+   "updated_at": "2026-09-19T17:00:02",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -687,6 +687,34 @@
    ],
    "page": "event/44.html",
    "search": "aims: introductory meeting room m321 bcm aims: artificial intelligence in medicine society intro to bcm ai in medicine society, ways to get involved, and plans for the year. featured speaker is dr. jennifer benjamin (ai in education), the aims faculty sponsor. bcm aims: artificial intelligence in medicine society interest group"
+  },
+  {
+   "id": 61,
+   "title": "Anki Challenge: Video Clip Submission Deadline (Extended)",
+   "start_at": "2026-10-02T23:59:00",
+   "end_at": null,
+   "all_day": 1,
+   "time_known": 0,
+   "date_uncertain": 0,
+   "location": null,
+   "virtual_link": null,
+   "description": "Deadline extended to October 2nd after Student Affairs increased the prize pool: $100/$50/$25 gift cards for 1st/2nd/3rd place plus $150 toward a PRN hangout for the PRN with the best collection of highlights. Submissions must be VIDEO CLIPS, not screenshots \u2014 unedited funny or impressive Anki moments are fine.",
+   "category": "deadline",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "BCM Student Affairs",
+   "rsvp_required": 0,
+   "rsvp_method": "form",
+   "rsvp_url": "https://forms.gle/d74e1qZTf1tisf4NA",
+   "rsvp_deadline": null,
+   "rsvp_notes": "Submit entries via the Google Form; individual and PRN-level prizes available.",
+   "confidence": 0.9,
+   "status": "active",
+   "updated_at": "2026-09-19T17:00:14",
+   "group_name": "BCM '30 Houston",
+   "flyers": [],
+   "page": "event/61.html",
+   "search": "anki challenge: video clip submission deadline (extended) bcm student affairs deadline extended to october 2nd after student affairs increased the prize pool: $100/$50/$25 gift cards for 1st/2nd/3rd place plus $150 toward a prn hangout for the prn with the best collection of highlights. submissions must be video clips, not screenshots \u2014 unedited funny or impressive anki moments are fine. bcm '30 houston deadline"
   },
   {
    "id": 39,
