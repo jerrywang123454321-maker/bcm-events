@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T15:00",
+ "generated_at": "2026-09-20T17:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -63,7 +63,7 @@
    "title": "Dream Outside the Box: Tuesday Volunteering Session",
    "start_at": "2026-09-22T00:00:00",
    "end_at": null,
-   "all_day": 0,
+   "all_day": 1,
    "time_known": 0,
    "date_uncertain": 0,
    "location": null,
@@ -80,7 +80,7 @@
    "rsvp_notes": "Sign up via the Google Form by Sunday night (9/20).",
    "confidence": 0.82,
    "status": "active",
-   "updated_at": "2026-09-18T15:02:06",
+   "updated_at": "2026-09-20T17:00:16",
    "group_name": "Dream Outside the Box 2025-2026",
    "flyers": [],
    "page": "event/60.html",
@@ -336,7 +336,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-20T15:00:04",
+   "updated_at": "2026-09-20T17:00:03",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
