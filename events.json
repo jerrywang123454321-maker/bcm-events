@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T09:00",
+ "generated_at": "2026-09-21T11:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -336,7 +336,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-21T09:00:03",
+   "updated_at": "2026-09-21T11:00:20",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -401,6 +401,34 @@
    ],
    "page": "event/53.html",
    "search": "imig: im residents & med students field day social hermann park, picnic area near parking lot e bcm internal medicine interest group meet bcm im and med-peds residents with sports, games, snacks, and sunset. pets welcome. bcm med/peds interest group interest group"
+  },
+  {
+   "id": 63,
+   "title": "National APAMSA Book Club",
+   "start_at": "2026-09-27T17:00:00",
+   "end_at": "2026-09-27T18:00:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "https://zoom.us/j/91799194446?pwd=u6sqVkvbbbYSEaZEDIsZ8y8pJY5yj1.1",
+   "virtual_link": null,
+   "description": "Celebrate \ud83c\udf3a Hawaiian History Month \ud83c\udf3a by reading and discussing \u201cThe Killing Spell\u201d by Shay Kauwe with National APAMSA!\n\n+1 APAMSA point\n\nFor attendance, take a screenshot of you in the Zoom with your camera on and DM Audrey on GroupMe.",
+   "category": "other",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": null,
+   "rsvp_required": 0,
+   "rsvp_method": "none",
+   "rsvp_url": null,
+   "rsvp_deadline": null,
+   "rsvp_notes": null,
+   "confidence": 1.0,
+   "status": "active",
+   "updated_at": "2026-09-21T11:00:20",
+   "group_name": "APAMSA @ BCM",
+   "flyers": [],
+   "page": "event/63.html",
+   "search": "national apamsa book club https://zoom.us/j/91799194446?pwd=u6sqvkvbbbyseazedisz8y8pjy5yj1.1 celebrate \ud83c\udf3a hawaiian history month \ud83c\udf3a by reading and discussing \u201cthe killing spell\u201d by shay kauwe with national apamsa!\n\n+1 apamsa point\n\nfor attendance, take a screenshot of you in the zoom with your camera on and dm audrey on groupme. apamsa @ bcm other"
   },
   {
    "id": 51,
