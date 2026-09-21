@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T11:00",
+ "generated_at": "2026-09-21T13:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -336,7 +336,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-21T11:00:20",
+   "updated_at": "2026-09-21T13:00:14",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -424,7 +424,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-21T11:00:20",
+   "updated_at": "2026-09-21T13:00:14",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/63.html",
@@ -659,6 +659,36 @@
    ],
    "page": "event/44.html",
    "search": "aims: introductory meeting room m321 bcm aims: artificial intelligence in medicine society intro to bcm ai in medicine society, ways to get involved, and plans for the year. featured speaker is dr. jennifer benjamin (ai in education), the aims faculty sponsor. bcm aims: artificial intelligence in medicine society interest group"
+  },
+  {
+   "id": 64,
+   "title": "MEEIT 414: Research Mentorship and Scholarly Development Elective (Session 1)",
+   "start_at": "2026-10-01T17:30:00",
+   "end_at": "2026-10-01T18:30:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "Virtual via Microsoft Teams",
+   "virtual_link": null,
+   "description": "Term II pre-clinical elective for MS1s in Houston and Temple, 0.5 credit (8 hours) across 8 synchronous sessions. Session 1 covers Building Your Scholarly Roadmap; taught by faculty with peer support from MS2-MS3 Student Research Fellows.",
+   "category": "research",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "Baylor College of Medicine (MEEIT 414 elective)",
+   "rsvp_required": 0,
+   "rsvp_method": "none",
+   "rsvp_url": null,
+   "rsvp_deadline": null,
+   "rsvp_notes": "Enrollment capped at 2-40 students; students sign up through Term 2 elective registration. Questions to [email removed] or [email removed].",
+   "confidence": 0.82,
+   "status": "active",
+   "updated_at": "2026-09-21T13:00:43",
+   "group_name": "BCM '30",
+   "flyers": [
+    "flyers/179000812192626701_0.jpg"
+   ],
+   "page": "event/64.html",
+   "search": "meeit 414: research mentorship and scholarly development elective (session 1) virtual via microsoft teams baylor college of medicine (meeit 414 elective) term ii pre-clinical elective for ms1s in houston and temple, 0.5 credit (8 hours) across 8 synchronous sessions. session 1 covers building your scholarly roadmap; taught by faculty with peer support from ms2-ms3 student research fellows. bcm '30 research"
   },
   {
    "id": 61,
@@ -981,6 +1011,36 @@
    "search": "bcm run club hermann park (near hermann park golf course) bcm running club weekly tuesday group run. moved from 7pm to 6pm because it's getting dark earlier. bcm '30 houston wellness"
   },
   {
+   "id": 65,
+   "title": "MEEIT 414: Research Mentorship and Scholarly Development Elective (Session 2)",
+   "start_at": "2026-10-15T17:30:00",
+   "end_at": "2026-10-15T18:30:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 1,
+   "location": "Virtual via Microsoft Teams",
+   "virtual_link": null,
+   "description": "Second of 8 biweekly synchronous sessions; topic: Establishing Effective Mentoring Relationships. Students may bring an existing BCM faculty research project or join without one.",
+   "category": "research",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "Baylor College of Medicine (MEEIT 414 elective)",
+   "rsvp_required": 0,
+   "rsvp_method": "none",
+   "rsvp_url": null,
+   "rsvp_deadline": null,
+   "rsvp_notes": null,
+   "confidence": 0.7,
+   "status": "active",
+   "updated_at": "2026-09-21T13:00:43",
+   "group_name": "BCM '30",
+   "flyers": [
+    "flyers/179000812192626701_0.jpg"
+   ],
+   "page": "event/65.html",
+   "search": "meeit 414: research mentorship and scholarly development elective (session 2) virtual via microsoft teams baylor college of medicine (meeit 414 elective) second of 8 biweekly synchronous sessions; topic: establishing effective mentoring relationships. students may bring an existing bcm faculty research project or join without one. bcm '30 research"
+  },
+  {
    "id": 42,
    "title": "History of Anesthesia Elective: Anesthesia & Ethical Considerations",
    "start_at": "2026-10-20T12:10:00",
@@ -1039,6 +1099,36 @@
    ],
    "page": "event/43.html",
    "search": "history of anesthesia elective: early anesthesia techniques & agents microsoft teams bcm department of anesthesiology session 4 of 8; speaker raja palvadi, md. grade is 100% attendance based. bcm '30 houston academic / curriculum"
+  },
+  {
+   "id": 66,
+   "title": "MEEIT 414: Research Mentorship and Scholarly Development Elective (Session 3)",
+   "start_at": "2026-10-29T17:30:00",
+   "end_at": "2026-10-29T18:30:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 1,
+   "location": "Virtual via Microsoft Teams",
+   "virtual_link": null,
+   "description": "Third of 8 biweekly synchronous sessions; topic: Project Planning and Research Development.",
+   "category": "research",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "Baylor College of Medicine (MEEIT 414 elective)",
+   "rsvp_required": 0,
+   "rsvp_method": "none",
+   "rsvp_url": null,
+   "rsvp_deadline": null,
+   "rsvp_notes": null,
+   "confidence": 0.7,
+   "status": "active",
+   "updated_at": "2026-09-21T13:00:43",
+   "group_name": "BCM '30",
+   "flyers": [
+    "flyers/179000812192626701_0.jpg"
+   ],
+   "page": "event/66.html",
+   "search": "meeit 414: research mentorship and scholarly development elective (session 3) virtual via microsoft teams baylor college of medicine (meeit 414 elective) third of 8 biweekly synchronous sessions; topic: project planning and research development. bcm '30 research"
   },
   {
    "id": 49,
@@ -1157,6 +1247,36 @@
    ],
    "page": "event/56.html",
    "search": "bpsos-houston 2nd tuesday health clinic: volunteering bpsos-houston, 11360 bellaire blvd., ste. 910, houston, tx 77072 apamsa / bpsos-houston monthly free health clinic run by boat people sos serving the vietnamese immigrant and refugee community. free services include health screenings, flu shots, behavioral health, hearing tests, and insurance enrollment assistance. apamsa @ bcm service / volunteering"
+  },
+  {
+   "id": 67,
+   "title": "MEEIT 414: Research Mentorship and Scholarly Development Elective (Session 4)",
+   "start_at": "2026-11-12T17:30:00",
+   "end_at": "2026-11-12T18:30:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 1,
+   "location": "Virtual via Microsoft Teams",
+   "virtual_link": null,
+   "description": "Fourth of 8 biweekly synchronous sessions; topic: Communication, Feedback, and Collaboration.",
+   "category": "research",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "Baylor College of Medicine (MEEIT 414 elective)",
+   "rsvp_required": 0,
+   "rsvp_method": "none",
+   "rsvp_url": null,
+   "rsvp_deadline": null,
+   "rsvp_notes": null,
+   "confidence": 0.68,
+   "status": "active",
+   "updated_at": "2026-09-21T13:00:43",
+   "group_name": "BCM '30",
+   "flyers": [
+    "flyers/179000812192626701_0.jpg"
+   ],
+   "page": "event/67.html",
+   "search": "meeit 414: research mentorship and scholarly development elective (session 4) virtual via microsoft teams baylor college of medicine (meeit 414 elective) fourth of 8 biweekly synchronous sessions; topic: communication, feedback, and collaboration. bcm '30 research"
   }
  ]
 }
