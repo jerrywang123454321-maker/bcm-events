@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T11:00",
+ "generated_at": "2026-09-24T13:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -24,9 +24,11 @@
    "rsvp_notes": null,
    "confidence": 0.9,
    "status": "active",
-   "updated_at": "2026-09-23T19:00:16",
+   "updated_at": "2026-09-24T13:00:15",
    "group_name": "Baylor Soccer \u26bd\ufe0f",
-   "flyers": [],
+   "flyers": [
+    "flyers/179026658022013515_0.jpg"
+   ],
    "page": "event/70.html",
    "search": "baylor soccer: pickup game helix park baylor soccer weekly thursday pickup soccer game. location inferred from prior messages (helix park); free street parking available on canterbury street after 4 pm, and carpooling is encouraged since parking inspectors have issued warnings nearby. baylor soccer \u26bd\ufe0f wellness"
   },
@@ -224,7 +226,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-24T11:00:03",
+   "updated_at": "2026-09-24T13:00:02",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -312,7 +314,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-24T11:00:03",
+   "updated_at": "2026-09-24T13:00:02",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/63.html",
@@ -456,7 +458,7 @@
    "rsvp_notes": "RSVP for food.",
    "confidence": 0.95,
    "status": "active",
-   "updated_at": "2026-09-16T12:03:12",
+   "updated_at": "2026-09-24T13:00:21",
    "group_name": "BCM Internal Medicine Interest Group 2026-2027",
    "flyers": [
     "flyers/178915026360263062_0.jpg"
