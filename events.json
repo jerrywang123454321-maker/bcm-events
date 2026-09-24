@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T15:10",
+ "generated_at": "2026-09-23T19:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -54,7 +54,7 @@
    "rsvp_notes": null,
    "confidence": 0.95,
    "status": "active",
-   "updated_at": "2026-09-21T15:07:35",
+   "updated_at": "2026-09-23T19:00:15",
    "group_name": "Baylor Golf\u26f3\ufe0f",
    "flyers": [
     "flyers/179001467111705904_0.jpg",
@@ -85,7 +85,7 @@
    "rsvp_notes": null,
    "confidence": 0.9,
    "status": "active",
-   "updated_at": "2026-09-21T21:00:28",
+   "updated_at": "2026-09-23T19:00:16",
    "group_name": "Baylor Soccer \u26bd\ufe0f",
    "flyers": [],
    "page": "event/70.html",
@@ -255,7 +255,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-23T15:00:04",
+   "updated_at": "2026-09-23T19:00:06",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -343,7 +343,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-23T15:00:04",
+   "updated_at": "2026-09-23T19:00:14",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/63.html",
@@ -601,7 +601,7 @@
    "rsvp_notes": "Enrollment capped at 2-40 students; students sign up through Term 2 elective registration. Questions to [email removed] or [email removed].",
    "confidence": 0.82,
    "status": "active",
-   "updated_at": "2026-09-21T13:00:43",
+   "updated_at": "2026-09-23T19:00:14",
    "group_name": "BCM '30",
    "flyers": [
     "flyers/179000812192626701_0.jpg"
@@ -659,7 +659,7 @@
    "rsvp_notes": null,
    "confidence": 0.92,
    "status": "active",
-   "updated_at": "2026-09-23T15:08:55",
+   "updated_at": "2026-09-23T19:00:17",
    "group_name": "Dream Outside the Box 2025-2026",
    "flyers": [],
    "page": "event/73.html",
@@ -891,7 +891,7 @@
    "rsvp_notes": "Sign up via the race registration link and join team \"BCM Medical Students\" ([passcode removed]).",
    "confidence": 0.85,
    "status": "active",
-   "updated_at": "2026-09-22T11:04:17",
+   "updated_at": "2026-09-23T19:00:16",
    "group_name": "BCM '30 Houston",
    "flyers": [],
    "page": "event/71.html",
@@ -949,7 +949,7 @@
    "rsvp_notes": "RSVP via the REDCap link or the QR code in the announcement; questions can be submitted in advance.",
    "confidence": 0.8,
    "status": "active",
-   "updated_at": "2026-09-23T15:10:03",
+   "updated_at": "2026-09-23T19:00:17",
    "group_name": "BCM '30",
    "flyers": [
     "flyers/179017345155371080_0.jpg"
@@ -1037,7 +1037,7 @@
    "rsvp_notes": null,
    "confidence": 0.7,
    "status": "active",
-   "updated_at": "2026-09-21T13:00:43",
+   "updated_at": "2026-09-23T19:00:15",
    "group_name": "BCM '30",
    "flyers": [
     "flyers/179000812192626701_0.jpg"
@@ -1127,7 +1127,7 @@
    "rsvp_notes": null,
    "confidence": 0.7,
    "status": "active",
-   "updated_at": "2026-09-21T13:00:43",
+   "updated_at": "2026-09-23T19:00:15",
    "group_name": "BCM '30",
    "flyers": [
     "flyers/179000812192626701_0.jpg"
@@ -1276,7 +1276,7 @@
    "rsvp_notes": null,
    "confidence": 0.68,
    "status": "active",
-   "updated_at": "2026-09-21T13:00:43",
+   "updated_at": "2026-09-23T19:00:15",
    "group_name": "BCM '30",
    "flyers": [
     "flyers/179000812192626701_0.jpg"
