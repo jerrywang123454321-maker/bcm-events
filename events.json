@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T19:00",
+ "generated_at": "2026-09-23T21:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -118,6 +118,36 @@
    "flyers": [],
    "page": "event/32.html",
    "search": "rice rpms med mentor night (m&m night) rice university rice university rpms mentorship committee mentor rice pre-med undergraduates in small-group conversations about applications, interviews, and med school life. parking reimbursed; logistics sent the week before. bcm '30 houston service / volunteering"
+  },
+  {
+   "id": 74,
+   "title": "Yearbook Club Coffee Fundraiser (Morning Session)",
+   "start_at": "2026-09-25T10:00:00",
+   "end_at": "2026-09-25T10:50:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "Squad Rooms",
+   "virtual_link": null,
+   "description": "Yearbook Club is selling coffee between exams to raise funds. Morning sale session; a second session runs 12:00-12:50 PM the same day.",
+   "category": "student_org",
+   "mandatory": 0,
+   "food_provided": 1,
+   "organizer": "Yearbook Club",
+   "rsvp_required": 0,
+   "rsvp_method": "none",
+   "rsvp_url": null,
+   "rsvp_deadline": null,
+   "rsvp_notes": null,
+   "confidence": 0.92,
+   "status": "active",
+   "updated_at": "2026-09-23T21:00:37",
+   "group_name": "BCM '30 Houston",
+   "flyers": [
+    "flyers/179019633026653581_0.jpg"
+   ],
+   "page": "event/74.html",
+   "search": "yearbook club coffee fundraiser (morning session) squad rooms yearbook club yearbook club is selling coffee between exams to raise funds. morning sale session; a second session runs 12:00-12:50 pm the same day. bcm '30 houston student org"
   },
   {
    "id": 25,
@@ -255,7 +285,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-23T19:00:06",
+   "updated_at": "2026-09-23T21:00:07",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -343,7 +373,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-23T19:00:14",
+   "updated_at": "2026-09-23T21:00:07",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/63.html",
@@ -434,6 +464,36 @@
    ],
    "page": "event/24.html",
    "search": "surgery medical student research session alkek m321 & m323 soar office & medical student research ambassadors hosted by the soar office and medical student research ambassadors. hear about research from students, residents, and faculty in general, plastic, vascular, and cardiothoracic surgery, and meet possible mentors. you can apply for one of 3 oral presentation spots or give a 1-minute research pitch. bcm '30 houston research"
+  },
+  {
+   "id": 75,
+   "title": "MediTech: Club Kickoff Meeting",
+   "start_at": "2026-09-28T17:30:00",
+   "end_at": "2026-09-28T18:30:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "Alkek N311",
+   "virtual_link": null,
+   "description": "First MediTech meeting of the year covering medical innovation from the clinician side: device design, digital health, patents and startups, plus the year's planned speakers, workshops, and research/industry opportunities around the TMC. No engineering background needed.",
+   "category": "student_org",
+   "mandatory": 0,
+   "food_provided": 1,
+   "organizer": "MediTech",
+   "rsvp_required": 1,
+   "rsvp_method": "other",
+   "rsvp_url": null,
+   "rsvp_deadline": null,
+   "rsvp_notes": "RSVP via the QR code on the flyer so organizers order enough food; no URL provided in the message or flyer text.",
+   "confidence": 0.95,
+   "status": "active",
+   "updated_at": "2026-09-23T21:00:37",
+   "group_name": "BCM '30 Houston",
+   "flyers": [
+    "flyers/179021500292847863_0.jpg"
+   ],
+   "page": "event/75.html",
+   "search": "meditech: club kickoff meeting alkek n311 meditech first meditech meeting of the year covering medical innovation from the clinician side: device design, digital health, patents and startups, plus the year's planned speakers, workshops, and research/industry opportunities around the tmc. no engineering background needed. bcm '30 houston student org"
   },
   {
    "id": 47,
