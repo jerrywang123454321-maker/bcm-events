@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T19:06",
+ "generated_at": "2026-09-24T21:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -282,7 +282,7 @@
    "rsvp_notes": "Registration $30 (early bird $25 ended 8/31). To join the BCM group order ticket discount, RSVP 'I'm in' on the GroupMe calendar event by Friday 9/18.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-24T19:05:42",
+   "updated_at": "2026-09-24T21:00:05",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/3.html",
@@ -370,7 +370,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-24T19:05:42",
+   "updated_at": "2026-09-24T21:00:05",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/63.html",
@@ -722,6 +722,36 @@
    "flyers": [],
    "page": "event/61.html",
    "search": "anki challenge: video clip submission deadline (extended) bcm student affairs deadline extended to october 2nd after student affairs increased the prize pool: $100/$50/$25 gift cards for 1st/2nd/3rd place plus $150 toward a prn hangout for the prn with the best collection of highlights. submissions must be video clips, not screenshots \u2014 unedited funny or impressive anki moments are fine. bcm '30 houston deadline"
+  },
+  {
+   "id": 79,
+   "title": "APAMSA Mid-Autumn Festival Social",
+   "start_at": "2026-10-03T12:00:00",
+   "end_at": "2026-10-03T14:00:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "Sam's house",
+   "virtual_link": null,
+   "description": "Mid-Autumn festival celebration with lantern-making, mooncake tasting, and food for everyone. Mahjong and tien len will be set up on the side for anyone who wants to play.",
+   "category": "student_org",
+   "mandatory": 0,
+   "food_provided": 1,
+   "organizer": "APAMSA",
+   "rsvp_required": 1,
+   "rsvp_method": "form",
+   "rsvp_url": "https://forms.gle/yPjsKLyChkXDDVos9",
+   "rsvp_deadline": null,
+   "rsvp_notes": "Fill out the Google Form if you plan to attend; no deadline stated.",
+   "confidence": 0.93,
+   "status": "active",
+   "updated_at": "2026-09-24T21:00:21",
+   "group_name": "APAMSA @ BCM",
+   "flyers": [
+    "flyers/179029932787275879_0.jpg"
+   ],
+   "page": "event/79.html",
+   "search": "apamsa mid-autumn festival social sam's house apamsa mid-autumn festival celebration with lantern-making, mooncake tasting, and food for everyone. mahjong and tien len will be set up on the side for anyone who wants to play. apamsa @ bcm student org"
   },
   {
    "id": 73,
