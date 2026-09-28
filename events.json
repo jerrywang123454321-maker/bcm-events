@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T15:00",
+ "generated_at": "2026-09-28T17:01",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -127,9 +127,9 @@
    "all_day": 0,
    "time_known": 1,
    "date_uncertain": 0,
-   "location": "N317",
+   "location": "N315",
    "virtual_link": null,
-   "description": "Interactive case-based session where students build a differential step by step with Dr. Sargsyan, Associate PD of the BCM IM Residency.",
+   "description": "Room changed from N317 to N315 for the first Clinical Case Series with Dr. Zaven Sargsyan. Dinner from Luna Pizzeria will be provided.",
    "category": "interest_group",
    "mandatory": 0,
    "food_provided": 1,
@@ -138,10 +138,10 @@
    "rsvp_method": "link",
    "rsvp_url": "https://tinyurl.com/CCS-Sept28",
    "rsvp_deadline": null,
-   "rsvp_notes": "RSVP for food.",
-   "confidence": 0.95,
+   "rsvp_notes": "RSVP link shared in an earlier message for this session; not repeated in the update.",
+   "confidence": 0.93,
    "status": "active",
-   "updated_at": "2026-09-28T13:00:24",
+   "updated_at": "2026-09-28T17:00:45",
    "group_name": "BCM Internal Medicine Interest Group 2026-2027",
    "flyers": [
     "flyers/178915026360263062_0.jpg",
@@ -149,7 +149,7 @@
     "flyers/179061435054033488_0.jpg"
    ],
    "page": "event/47.html",
-   "search": "imig: clinical case series with dr. zaven sargsyan n317 internal medicine interest group (imig) interactive case-based session where students build a differential step by step with dr. sargsyan, associate pd of the bcm im residency. bcm internal medicine interest group 2026-2027 interest group"
+   "search": "imig: clinical case series with dr. zaven sargsyan n315 internal medicine interest group (imig) room changed from n317 to n315 for the first clinical case series with dr. zaven sargsyan. dinner from luna pizzeria will be provided. bcm internal medicine interest group 2026-2027 interest group"
   },
   {
    "id": 89,
@@ -173,7 +173,7 @@
    "rsvp_notes": "Enroll in the elective beforehand, or DM Jeremy Birkmire (MS3) for the Zoom link.",
    "confidence": 0.85,
    "status": "active",
-   "updated_at": "2026-09-27T19:06:13",
+   "updated_at": "2026-09-28T17:00:35",
    "group_name": "BCM '30 Houston",
    "flyers": [],
    "page": "event/89.html",
@@ -496,6 +496,37 @@
    "search": "ama-mss virtual reference committee: governing council reports comment period closes ama-mss because the governing council reports were delayed in completion, the vrc comment period for those reports only remains open until thursday, october 1st. ama-mss updates deadline"
   },
   {
+   "id": 94,
+   "title": "Cabo Bob's Profit Share Fundraiser (Med Prom & Socials)",
+   "start_at": "2026-10-02T16:00:00",
+   "end_at": "2026-10-02T21:00:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "Cabo Bob's, 1810 Fountain View Dr, Houston, TX 77057",
+   "virtual_link": null,
+   "description": "34% of proceeds go toward med prom and socials. You MUST show the flyer at checkout and say you're part of the BCM profit share. Also a squad competition \u2014 the squad with the most attendees gets extra money for the year toward food/activities. Bring MS2 parents and friends.",
+   "category": "student_org",
+   "mandatory": 0,
+   "food_provided": 1,
+   "organizer": "BCM Class of '30 Med Prom & Socials Committee",
+   "rsvp_required": 0,
+   "rsvp_method": "form",
+   "rsvp_url": null,
+   "rsvp_deadline": null,
+   "rsvp_notes": "No advance RSVP; organizer will send a Google form on Friday to record attendance for the squad competition.",
+   "confidence": 0.95,
+   "status": "active",
+   "updated_at": "2026-09-28T17:01:03",
+   "group_name": "BCM '30 Houston",
+   "flyers": [
+    "flyers/179062936865964989_0.jpg",
+    "flyers/179063134178256161_0.jpg"
+   ],
+   "page": "event/94.html",
+   "search": "cabo bob's profit share fundraiser (med prom & socials) cabo bob's, 1810 fountain view dr, houston, tx 77057 bcm class of '30 med prom & socials committee 34% of proceeds go toward med prom and socials. you must show the flyer at checkout and say you're part of the bcm profit share. also a squad competition \u2014 the squad with the most attendees gets extra money for the year toward food/activities. bring ms2 parents and friends. bcm '30 houston student org"
+  },
+  {
    "id": 93,
    "title": "BCM COAG: Climbing Social",
    "start_at": "2026-10-02T17:00:00",
@@ -634,7 +665,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-28T15:00:06",
+   "updated_at": "2026-09-28T17:00:07",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/80.html",
