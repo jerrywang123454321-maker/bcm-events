@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T19:08",
+ "generated_at": "2026-09-27T21:01",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -54,7 +54,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-27T19:05:35",
+   "updated_at": "2026-09-27T21:00:42",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/63.html",
@@ -425,7 +425,7 @@
    "rsvp_notes": "Tell the Speakers if you intend to run.",
    "confidence": 0.9,
    "status": "active",
-   "updated_at": "2026-09-16T12:02:36",
+   "updated_at": "2026-09-27T21:01:02",
    "group_name": "AMA-MSS Updates",
    "flyers": [],
    "page": "event/8.html",
@@ -715,7 +715,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-27T19:05:35",
+   "updated_at": "2026-09-27T21:00:42",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/80.html",
