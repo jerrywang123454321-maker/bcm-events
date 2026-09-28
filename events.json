@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T07:00",
+ "generated_at": "2026-09-28T09:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -494,6 +494,36 @@
    "search": "ama-mss virtual reference committee: governing council reports comment period closes ama-mss because the governing council reports were delayed in completion, the vrc comment period for those reports only remains open until thursday, october 1st. ama-mss updates deadline"
   },
   {
+   "id": 93,
+   "title": "BCM COAG: Climbing Social",
+   "start_at": "2026-10-02T17:00:00",
+   "end_at": "2026-10-02T19:00:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "Momentum Silver Street",
+   "virtual_link": null,
+   "description": "Climbing and Outdoor Adventure Group social at Momentum Silver Street; all levels welcome, and the first 20 sign-ups climb for free.",
+   "category": "wellness",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "BCM COAG (Climbing and Outdoor Adventure Group)",
+   "rsvp_required": 1,
+   "rsvp_method": "link",
+   "rsvp_url": "https://docs.google.com/spreadsheets/d/1H8HCCl8ufKgn1NLcJKOD-gCDC4hII7qk2ZV6CRpy6rU/edit?usp=sharing",
+   "rsvp_deadline": null,
+   "rsvp_notes": "Sign up on the linked Google Sheet; only the first 20 sign-ups climb for free.",
+   "confidence": 0.95,
+   "status": "active",
+   "updated_at": "2026-09-28T09:00:33",
+   "group_name": "BCM '30 Houston",
+   "flyers": [
+    "flyers/179060359268278653_0.jpg"
+   ],
+   "page": "event/93.html",
+   "search": "bcm coag: climbing social momentum silver street bcm coag (climbing and outdoor adventure group) climbing and outdoor adventure group social at momentum silver street; all levels welcome, and the first 20 sign-ups climb for free. bcm '30 houston wellness"
+  },
+  {
    "id": 59,
    "title": "Research Survey on Confidence & Self-Efficacy in Research: Closing Date (Extended)",
    "start_at": "2026-10-02T23:59:00",
@@ -601,7 +631,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-28T07:00:18",
+   "updated_at": "2026-09-28T09:00:04",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/80.html",
