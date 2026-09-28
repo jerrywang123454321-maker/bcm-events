@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T09:00",
+ "generated_at": "2026-09-28T11:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -80,10 +80,11 @@
    "rsvp_notes": "The sign-up form is also used to submit for oral presentations or 1-minute pitches.",
    "confidence": 0.92,
    "status": "active",
-   "updated_at": "2026-09-16T12:02:46",
+   "updated_at": "2026-09-28T11:00:25",
    "group_name": "BCM '30 Houston",
    "flyers": [
-    "flyers/178778447784700502_0.jpg"
+    "flyers/178778447784700502_0.jpg",
+    "flyers/179060998966975159_0.jpg"
    ],
    "page": "event/24.html",
    "search": "surgery medical student research session alkek m321 & m323 soar office & medical student research ambassadors hosted by the soar office and medical student research ambassadors. hear about research from students, residents, and faculty in general, plastic, vascular, and cardiothoracic surgery, and meet possible mentors. you can apply for one of 3 oral presentation spots or give a 1-minute research pitch. bcm '30 houston research"
@@ -515,10 +516,11 @@
    "rsvp_notes": "Sign up on the linked Google Sheet; only the first 20 sign-ups climb for free.",
    "confidence": 0.95,
    "status": "active",
-   "updated_at": "2026-09-28T09:00:33",
+   "updated_at": "2026-09-28T11:00:38",
    "group_name": "BCM '30 Houston",
    "flyers": [
-    "flyers/179060359268278653_0.jpg"
+    "flyers/179060359268278653_0.jpg",
+    "flyers/179060658514164829_0.jpg"
    ],
    "page": "event/93.html",
    "search": "bcm coag: climbing social momentum silver street bcm coag (climbing and outdoor adventure group) climbing and outdoor adventure group social at momentum silver street; all levels welcome, and the first 20 sign-ups climb for free. bcm '30 houston wellness"
@@ -631,7 +633,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-28T09:00:04",
+   "updated_at": "2026-09-28T11:00:06",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/80.html",
