@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T21:00",
+ "generated_at": "2026-09-28T23:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -410,6 +410,34 @@
    "search": "medical mandarin language club: meeting with dr. wen bu n311 medical mandarin language club learn practical medical mandarin with bcm professor dr. wen bu. no prior mandarin experience required. food will be provided. bcm '30 houston student org"
   },
   {
+   "id": 95,
+   "title": "Intro to the MD/MBA Dual Degree",
+   "start_at": "2026-09-30T18:00:00",
+   "end_at": "2026-09-30T19:00:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "M321",
+   "virtual_link": null,
+   "description": "RSVP: https://forms.gle/GDAwJB9Ywcz5GXuH8\n\nJoin the BHA for our first general body meeting! Meet Dr. Brann, the program director, and hear from two MS4s who just completed their MBA year.",
+   "category": "interest_group",
+   "mandatory": 0,
+   "food_provided": 1,
+   "organizer": "Business & Healthcare Administration Interest Group (BHA)",
+   "rsvp_required": 1,
+   "rsvp_method": "form",
+   "rsvp_url": "https://forms.gle/GDAwJB9Ywcz5GXuH8",
+   "rsvp_deadline": "2026-09-29T23:59:00",
+   "rsvp_notes": "RSVP via Google Form by tomorrow (9/29) so organizers can get a headcount for food.",
+   "confidence": 1.0,
+   "status": "active",
+   "updated_at": "2026-09-28T23:00:19",
+   "group_name": "Business & Healthcare Administration Interest Group",
+   "flyers": [],
+   "page": "event/95.html",
+   "search": "intro to the md/mba dual degree m321 business & healthcare administration interest group (bha) rsvp: https://forms.gle/gdawjb9ywcz5gxuh8\n\njoin the bha for our first general body meeting! meet dr. brann, the program director, and hear from two ms4s who just completed their mba year. business & healthcare administration interest group interest group"
+  },
+  {
    "id": 64,
    "title": "MEEIT 414: Research Mentorship and Scholarly Development Elective (Session 1)",
    "start_at": "2026-10-01T17:30:00",
@@ -665,7 +693,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-28T21:00:05",
+   "updated_at": "2026-09-28T23:00:06",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/80.html",
