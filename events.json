@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T13:00",
+ "generated_at": "2026-09-29T15:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -108,7 +108,7 @@
    "rsvp_notes": "Tell the Speakers if you intend to run.",
    "confidence": 0.9,
    "status": "active",
-   "updated_at": "2026-09-27T21:01:02",
+   "updated_at": "2026-09-29T15:00:20",
    "group_name": "AMA-MSS Updates",
    "flyers": [],
    "page": "event/8.html",
@@ -226,7 +226,7 @@
    "rsvp_notes": "RSVP via Google Form by tomorrow (9/29) so organizers can get a headcount for food.",
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-29T13:00:07",
+   "updated_at": "2026-09-29T15:00:06",
    "group_name": "Business & Healthcare Administration Interest Group",
    "flyers": [],
    "page": "event/95.html",
@@ -516,7 +516,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-29T13:00:05",
+   "updated_at": "2026-09-29T15:00:04",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/80.html",
