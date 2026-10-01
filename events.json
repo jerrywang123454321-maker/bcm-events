@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T21:00",
+ "generated_at": "2026-09-30T23:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -170,7 +170,7 @@
    "rsvp_notes": "RSVP via Google Form by tomorrow (9/29) so organizers can get a headcount for food.",
    "confidence": 0.93,
    "status": "active",
-   "updated_at": "2026-09-30T21:00:07",
+   "updated_at": "2026-09-30T23:00:06",
    "group_name": "Business & Healthcare Administration Interest Group",
    "flyers": [],
    "page": "event/95.html",
@@ -488,7 +488,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-30T21:00:05",
+   "updated_at": "2026-09-30T23:00:04",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/80.html",
