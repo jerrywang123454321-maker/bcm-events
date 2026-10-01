@@ -188,6 +188,19 @@
   $$("[data-copy-link]").forEach(b => b.addEventListener("click", async () => {
     try { await navigator.clipboard.writeText(location.href); toast("Link copied"); } catch (e) { toast("Copy failed"); }
   }));
+  $$("[data-copy]").forEach(b => b.addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(b.dataset.copy); toast("Link copied"); } catch (e) { toast("Copy failed"); }
+  }));
+
+  // ---------- freshness: "Updated 2 hours ago", and a warning when the site has gone stale ----------
+  $$("[data-generated]").forEach(el => {
+    const gen = new Date(el.dataset.generated); if (isNaN(gen)) return;
+    const mins = Math.round((Date.now() - gen) / 60000);
+    const ago = mins < 2 ? "just now" : mins < 60 ? mins + " min ago" : mins < 1440 ? Math.round(mins / 60) + (Math.round(mins / 60) === 1 ? " hour ago" : " hours ago") : Math.round(mins / 1440) + (Math.round(mins / 1440) === 1 ? " day ago" : " days ago");
+    el.textContent = "Updated " + ago; el.title = gen.toLocaleString();
+    const stale = $("[data-stale]");
+    if (stale && mins > 12 * 60) { $("[data-stale-when]", stale).textContent = gen.toLocaleString(undefined, { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }); stale.hidden = false; }
+  });
 
   // ---------- add to calendar (.ics) ----------
   function icsDate(iso) { return iso.replace(/[-:]/g, "").slice(0, 15); }
