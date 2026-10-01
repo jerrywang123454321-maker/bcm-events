@@ -1024,6 +1024,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/96.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-105@local
+DTSTAMP:20261001T220028Z
+LAST-MODIFIED:20261001T220028Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:When Medicine Gets It Wrong Elective: Class Session on the Opioid E
+ pidemic
+STATUS:CONFIRMED
+DESCRIPTION:Session of the new MS1/MS2 elective 'When Medicine Gets It Wron
+ g\,' covering the opioid epidemic and how practices become standard of car
+ e. Billed as the last class before the add/drop period ends. The meeting l
+ ink is not posted publicly\; message the MS3 student leader in the group c
+ hat for it.\nHost: When Medicine Gets It Wrong Elective (MS1/MS2 elective)
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/105
+ .html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/105.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-87@local
 DTSTAMP:20261001T190629Z
 LAST-MODIFIED:20261001T190629Z
@@ -1106,6 +1125,22 @@ DESCRIPTION:Deadline extended to October 2nd after Student Affairs increase
  ressive Anki moments are fine.\nHost: BCM Student Affairs\nDetails: https:
  //jerrywang123454321-maker.github.io/bcm-events/event/61.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/61.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-106@local
+DTSTAMP:20261001T220028Z
+LAST-MODIFIED:20261001T220028Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:When Medicine Gets It Wrong Elective: Add/Drop Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Last day to add or drop the new MS1/MS2 elective 'When Medicine
+  Gets It Wrong\,' which covers how medicine arrives at standard of care\, 
+ publishing stronger papers\, and topics such as the opioid epidemic.\nHost
+ : When Medicine Gets It Wrong Elective (MS1/MS2 elective)\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/106.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/106.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
