@@ -3,38 +3,8 @@ VERSION:2.0
 PRODID:-//eventscan//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:eventscan-85@local
-DTSTAMP:20260930T150019
-DTSTART:20260930T170000
-DTEND:20260930T180000
-SUMMARY:Student Clinical Skills Society: Telehealth Clinical Skills Lecture with Dr. Eric Lee
-LOCATION:Virtual (Microsoft Teams)
-DESCRIPTION:Virtual session with Dr. Eric Lee on how to perform physical exams during a telemedicine/telehealth visit.\nRSVP required
-URL:https://teams.microsoft.com/meet/255426566062853?p=2eJHFWXc9nD45uEKXW
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-83@local
-DTSTAMP:20260930T150019
-DTSTART:20260930T180000
-DTEND:20260930T190000
-SUMMARY:Medical Mandarin Language Club: Meeting with Dr. Wen Bu
-LOCATION:N311
-DESCRIPTION:Learn practical medical Mandarin with BCM Professor Dr. Wen Bu. No prior Mandarin experience required. Food will be provided.\nRSVP required: https://forms.gle/achzKVvDVwrEFSr6A
-URL:https://forms.gle/achzKVvDVwrEFSr6A
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-95@local
-DTSTAMP:20260930T150019
-DTSTART:20260930T180000
-DTEND:20260930T190000
-SUMMARY:Intro to the MD/MBA Dual Degree
-LOCATION:M321
-DESCRIPTION:RSVP: https://forms.gle/GDAwJB9Ywcz5GXuH8\n\nJoin the BHA for our first general body meeting! Meet Dr. Brann\, the program director\, and hear from two MS4s who just completed their MBA year.\nRSVP required by 2026-09-29T23:59:00: https://forms.gle/GDAwJB9Ywcz5GXuH8
-URL:https://forms.gle/GDAwJB9Ywcz5GXuH8
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-100@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:DAUP Completion Deadline
@@ -42,7 +12,7 @@ DESCRIPTION:Classmates note the DAUP attestation (from the 9/24 school email) is
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-64@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261001T173000
 DTEND:20261001T183000
 SUMMARY:MEEIT 414: Research Mentorship and Scholarly Development Elective (Session 1)
@@ -51,7 +21,7 @@ DESCRIPTION:Term II pre-clinical elective for MS1s in Houston and Temple\, 0.5 c
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-96@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261001T174500
 DTEND:20261001T184500
 SUMMARY:Baylor Soccer: Thursday Pickup Game
@@ -59,7 +29,7 @@ DESCRIPTION:Casual pickup soccer with the Baylor Soccer group. No location given
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-90@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261001T180000
 DTEND:20261001T190000
 SUMMARY:MEPSY 570: When Appraisal Fails — Real-World EBM (Session 2)
@@ -68,7 +38,7 @@ DESCRIPTION:Second session of the 0.5-credit virtual MS1/MS2 real-world EBM elec
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-87@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:AMA-MSS Virtual Reference Committee: Governing Council Reports Comment Period Closes
@@ -76,7 +46,7 @@ DESCRIPTION:Because the governing council reports were delayed in completion\, t
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-94@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261002T160000
 DTEND:20261002T210000
 SUMMARY:Cabo Bob's Profit Share Fundraiser (Med Prom & Socials)
@@ -85,7 +55,7 @@ DESCRIPTION:34% of proceeds go toward med prom and socials. You MUST show the fl
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-93@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261002T170000
 DTEND:20261002T190000
 SUMMARY:BCM COAG: Climbing Social
@@ -95,7 +65,7 @@ URL:https://docs.google.com/spreadsheets/d/1H8HCCl8ufKgn1NLcJKOD-gCDC4hII7qk2ZV6
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-59@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Research Survey on Confidence & Self-Efficacy in Research: Closing Date (Extended)
@@ -103,7 +73,7 @@ DESCRIPTION:Survey on self-efficacy and research\, takes about 3 minutes. Deadli
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-61@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Anki Challenge: Video Clip Submission Deadline (Extended)
@@ -112,7 +82,7 @@ URL:https://forms.gle/d74e1qZTf1tisf4NA
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-79@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261003T120000
 DTEND:20261003T140000
 SUMMARY:APAMSA Mid-Autumn Festival Social
@@ -122,14 +92,14 @@ URL:https://forms.gle/yPjsKLyChkXDDVos9
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-80@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261003T120000
 DTEND:20261003T235959
 SUMMARY:Mid-Autumn Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-73@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Dream Outside the Box: Exec Application Deadline
@@ -138,7 +108,7 @@ URL:https://docs.google.com/forms/d/e/1FAIpQLScwCNGSMesmZFEvpvy2aL22fsc9-_FtEMQI
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-91@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261005T180000
 DTEND:20261005T190000
 SUMMARY:MEPSY 570: When Appraisal Fails — Real-World EBM (Session 3)
@@ -147,7 +117,7 @@ DESCRIPTION:Third session of the 0.5-credit virtual MS1/MS2 real-world EBM elect
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-39@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:CTSIG: Journal Club on Aortic Surgery
@@ -156,7 +126,7 @@ URL:https://docs.google.com/forms/d/e/1FAIpQLScak5EkzDsWDhX27BKiD3CT6PGa3HZ1xEae
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-55@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261006T100000
 DTEND:20261006T120000
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
@@ -166,7 +136,7 @@ URL:https://www.signupgenius.com/go/10C0F4EAAA723A0FA7-61361761-2026#/
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-40@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261006T121000
 DTEND:20261006T131000
 SUMMARY:History of Anesthesia Elective: Introduction to Anesthesia History
@@ -175,7 +145,7 @@ DESCRIPTION:Session 1 of 8 in the Term 2 MS1 preclinical elective\; speaker Jame
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-22@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261006T180000
 DTEND:20261006T190000
 SUMMARY:BCM Run Club
@@ -184,7 +154,7 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's getting
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-97@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261006T180000
 DTEND:20261006T190000
 SUMMARY:Baylor Students Against Cancer & IMIG: Intro to a Career in Hematology & Oncology
@@ -194,7 +164,7 @@ URL:https://forms.gle/rwz3StXku4HdedPb8
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-98@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261006T193000
 DTEND:20261006T200000
 SUMMARY:AOA Carolyn L. Kuckein Student Research Fellowship Info Session
@@ -204,7 +174,7 @@ URL:https://teams.microsoft.com/meet/218676382386665?p=F2TguMZF4aJvT1zp9R
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-17@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:SOAR Research Grand Rounds: Study Design and Methodology
@@ -212,7 +182,7 @@ DESCRIPTION:SOAR office lecture series on research for medical students with lit
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-10@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261007T170000
 DTEND:20261007T180000
 SUMMARY:McGovern Session Series (MSB B.100)
@@ -222,7 +192,7 @@ URL:https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-92@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261008T180000
 DTEND:20261008T190000
 SUMMARY:MEPSY 570: When Appraisal Fails — Real-World EBM (Session 4)
@@ -231,7 +201,7 @@ DESCRIPTION:Fourth session of the 0.5-credit virtual MS1/MS2 real-world EBM elec
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-58@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:AFFIRM: Interventional Radiology Educational Day for Women Medical Students
@@ -241,7 +211,7 @@ URL:https://AFFIRMinitiative.org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-71@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:BCM 5k & Health Fair
@@ -250,7 +220,7 @@ URL:https://baylorcollegeofmedicine5kkids1k.itsyourrace.com/event.aspx?id=14694
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-14@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261010T083000
 DTEND:20261010T103000
 SUMMARY:BCM 5k/1k: Soccer with Kids Volunteering
@@ -259,7 +229,7 @@ URL:https://www.signupgenius.com/go/10C054BAAA923A0FCC34-64860155-bcmcommunity#/
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-72@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261012T120000
 DTEND:20261012T130000
 SUMMARY:Research Grand Rounds: Idea Generation and Methodology
@@ -269,7 +239,7 @@ URL:https://redcap.research.bcm.edu/redcap/surveys/?s=C37sWzQp5oZYP2EA
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-41@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261013T121000
 DTEND:20261013T131000
 SUMMARY:History of Anesthesia Elective: Anesthesia in Obstetrics & Pain Management
@@ -278,7 +248,7 @@ DESCRIPTION:Session 2 of 8\; speaker Maisie Jackson\, MD. Grade is 100% attendan
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-23@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261013T180000
 DTEND:20261013T190000
 SUMMARY:BCM Run Club
@@ -287,7 +257,7 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's getting
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-65@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261015T173000
 DTEND:20261015T183000
 SUMMARY:MEEIT 414: Research Mentorship and Scholarly Development Elective (Session 2)
@@ -296,7 +266,7 @@ DESCRIPTION:Second of 8 biweekly synchronous sessions\; topic: Establishing Effe
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-84@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:BCM Ambassadors: Houston Campus Open House (Ambassador Sign-Ups)
@@ -306,7 +276,7 @@ URL:https://docs.google.com/spreadsheets/d/1HXDCvOjqp0jh01i2Y0HGvWx9GbRo4n_1sux4
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-42@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261020T121000
 DTEND:20261020T131000
 SUMMARY:History of Anesthesia Elective: Anesthesia & Ethical Considerations
@@ -315,7 +285,7 @@ DESCRIPTION:Session 3 of 8\; speaker Josh Cohen\, MD. Grade is 100% attendance b
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-99@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:AOA Kuckein Student Research Fellowship: Mini Proposal Deadline
@@ -323,7 +293,7 @@ DESCRIPTION:Mini proposals for the AOA Carolyn L. Kuckein Student Research Fello
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-43@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261027T121000
 DTEND:20261027T131000
 SUMMARY:History of Anesthesia Elective: Early Anesthesia Techniques & Agents
@@ -332,7 +302,7 @@ DESCRIPTION:Session 4 of 8\; speaker Raja Palvadi\, MD. Grade is 100% attendance
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-101@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Epic Gold Login Validation Deadline
@@ -340,7 +310,7 @@ DESCRIPTION:Epic Gold login validation must be completed\; a classmate cites an 
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-66@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261029T173000
 DTEND:20261029T183000
 SUMMARY:MEEIT 414: Research Mentorship and Scholarly Development Elective (Session 3)
@@ -349,7 +319,7 @@ DESCRIPTION:Third of 8 biweekly synchronous sessions\; topic: Project Planning a
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-49@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261103T130000
 DTEND:20261103T153000
 SUMMARY:Joint Squad Volunteering: Packing Lunches at Kids' Meals
@@ -359,7 +329,7 @@ URL:https://kidsmealsinc.volunteerhub.com/vv2/
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-18@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
@@ -367,7 +337,7 @@ DESCRIPTION:SOAR office lecture series on research for medical students with lit
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-11@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261104T170000
 DTEND:20261104T180000
 SUMMARY:McGovern Session Series (MSB B.100)
@@ -377,7 +347,7 @@ URL:https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lkD5J9PQE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-56@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261110T100000
 DTEND:20261110T120000
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
@@ -387,7 +357,7 @@ URL:https://www.signupgenius.com/go/10C0F4EAAA723A0FA7-61361761-2026#/
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-67@local
-DTSTAMP:20260930T150019
+DTSTAMP:20260930T190055
 DTSTART:20261112T173000
 DTEND:20261112T183000
 SUMMARY:MEEIT 414: Research Mentorship and Scholarly Development Elective (Session 4)

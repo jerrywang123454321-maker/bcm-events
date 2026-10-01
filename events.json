@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T15:00",
+ "generated_at": "2026-09-30T19:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -110,7 +110,7 @@
    "rsvp_notes": "RSVP via the QR code on the flyer; no RSVP URL was provided in the message text.",
    "confidence": 0.94,
    "status": "active",
-   "updated_at": "2026-09-26T23:02:14",
+   "updated_at": "2026-09-30T19:00:26",
    "group_name": "BCM '30 Houston",
    "flyers": [
     "flyers/179047485304341259_0.jpg"
@@ -158,7 +158,7 @@
    "date_uncertain": 0,
    "location": "M321",
    "virtual_link": null,
-   "description": "RSVP: https://forms.gle/GDAwJB9Ywcz5GXuH8\n\nJoin the BHA for our first general body meeting! Meet Dr. Brann, the program director, and hear from two MS4s who just completed their MBA year.",
+   "description": "BHA's first general body meeting on the MD/MBA program, featuring Dr. Brann (program director) and 2 MS4s who just completed their MBA year. A Microsoft Teams link is now available for those who cannot attend in person.",
    "category": "interest_group",
    "mandatory": 0,
    "food_provided": 1,
@@ -168,13 +168,13 @@
    "rsvp_url": "https://forms.gle/GDAwJB9Ywcz5GXuH8",
    "rsvp_deadline": "2026-09-29T23:59:00",
    "rsvp_notes": "RSVP via Google Form by tomorrow (9/29) so organizers can get a headcount for food.",
-   "confidence": 1.0,
+   "confidence": 0.93,
    "status": "active",
-   "updated_at": "2026-09-30T15:00:05",
+   "updated_at": "2026-09-30T19:00:54",
    "group_name": "Business & Healthcare Administration Interest Group",
    "flyers": [],
    "page": "event/95.html",
-   "search": "intro to the md/mba dual degree m321 business & healthcare administration interest group (bha) rsvp: https://forms.gle/gdawjb9ywcz5gxuh8\n\njoin the bha for our first general body meeting! meet dr. brann, the program director, and hear from two ms4s who just completed their mba year. business & healthcare administration interest group interest group"
+   "search": "intro to the md/mba dual degree m321 business & healthcare administration interest group (bha) bha's first general body meeting on the md/mba program, featuring dr. brann (program director) and 2 ms4s who just completed their mba year. a microsoft teams link is now available for those who cannot attend in person. business & healthcare administration interest group interest group"
   },
   {
    "id": 100,
@@ -371,7 +371,7 @@
    "rsvp_notes": "Sign up on the linked Google Sheet; only the first 20 sign-ups climb for free.",
    "confidence": 0.95,
    "status": "active",
-   "updated_at": "2026-09-28T11:00:38",
+   "updated_at": "2026-09-30T19:00:43",
    "group_name": "BCM '30 Houston",
    "flyers": [
     "flyers/179060359268278653_0.jpg",
@@ -488,7 +488,7 @@
    "rsvp_notes": null,
    "confidence": 1.0,
    "status": "active",
-   "updated_at": "2026-09-30T15:00:03",
+   "updated_at": "2026-09-30T19:00:06",
    "group_name": "APAMSA @ BCM",
    "flyers": [],
    "page": "event/80.html",
