@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T11:00",
+ "generated_at": "2026-10-02T13:31",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -19,17 +19,18 @@
    "organizer": "BCM Class of '30 Med Prom & Socials Committee",
    "rsvp_required": 0,
    "rsvp_method": "form",
-   "rsvp_url": null,
+   "rsvp_url": "https://forms.gle/EE3PhSdF1Gb81mVDA",
    "rsvp_deadline": null,
    "rsvp_notes": "No advance RSVP; organizer will send a Google form on Friday to record attendance for the squad competition.",
    "confidence": 0.95,
    "status": "active",
-   "updated_at": "2026-10-02T07:01:35",
+   "updated_at": "2026-10-02T13:31:07",
    "virtual": false,
    "group_name": "BCM '30 Houston",
    "flyers": [
     "flyers/179062936865964989_0.jpg",
-    "flyers/179063134178256161_0.jpg"
+    "flyers/179063134178256161_0.jpg",
+    "flyers/179095863116073161_0.jpg"
    ],
    "page": "event/94.html",
    "search": "cabo bob's profit share fundraiser (med prom & socials) cabo bob's, 1810 fountain view dr, houston, tx 77057 bcm class of '30 med prom & socials committee 34% of proceeds go toward med prom and socials. you must show the flyer at checkout and say you're part of the bcm profit share. also a squad competition \u2014 the squad with the most attendees gets extra money for the year toward food/activities. bring ms2 parents and friends. bcm '30 houston student org"
