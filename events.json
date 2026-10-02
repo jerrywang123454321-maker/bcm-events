@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T13:31",
+ "generated_at": "2026-10-02T15:04",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -633,6 +633,37 @@
    ],
    "page": "event/72.html",
    "search": "research grand rounds: idea generation and methodology mcmillan auditorium soar research grand rounds next session in the soar research grand rounds series, covering idea generation and methodology, presented by dr. sarkar. questions are collected in advance so the session can target attendees' knowledge gaps, with live q&a at the end; food provided and a teams link for those who cannot attend in person. bcm '30 research"
+  },
+  {
+   "id": 109,
+   "title": "BSAC Cancer Talk Series: Lung Cancer Care \u2014 From Diagnosis to Treatment",
+   "start_at": "2026-10-12T17:00:00",
+   "end_at": "2026-10-12T19:00:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "Room N315, BCM Houston Campus",
+   "virtual_link": null,
+   "description": "First lecture of the Baylor Students Against Cancer talk series, featuring Dr. Shanda Blackmon, cardiothoracic surgeon and Director of the BCM Lung Institute, on thoracic oncology, lung cancer surgery, and clinical care. Come with questions; food will be provided. A virtual option is available for Temple students.",
+   "category": "interest_group",
+   "mandatory": 0,
+   "food_provided": 1,
+   "organizer": "Baylor Students Against Cancer (BSAC) and Student Surgical Society",
+   "rsvp_required": 1,
+   "rsvp_method": "link",
+   "rsvp_url": "https://forms.gle/tLLV8dRSsasJxUPz9",
+   "rsvp_deadline": null,
+   "rsvp_notes": "RSVP for food; flyer also has a QR code to the same sign-up. No deadline stated.",
+   "confidence": 0.95,
+   "status": "active",
+   "updated_at": "2026-10-02T15:04:10",
+   "virtual": false,
+   "group_name": "Baylor Students Against Cancer",
+   "flyers": [
+    "flyers/179097083115441944_0.jpg"
+   ],
+   "page": "event/109.html",
+   "search": "bsac cancer talk series: lung cancer care \u2014 from diagnosis to treatment room n315, bcm houston campus baylor students against cancer (bsac) and student surgical society first lecture of the baylor students against cancer talk series, featuring dr. shanda blackmon, cardiothoracic surgeon and director of the bcm lung institute, on thoracic oncology, lung cancer surgery, and clinical care. come with questions; food will be provided. a virtual option is available for temple students. baylor students against cancer interest group"
   },
   {
    "id": 23,
