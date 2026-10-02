@@ -1197,6 +1197,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/39.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-107@local
+DTSTAMP:20261002T000036Z
+LAST-MODIFIED:20261002T000036Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Dream Outside the Box: Volunteer Session
+STATUS:CONFIRMED
+DESCRIPTION:Volunteer opportunity with Dream Outside the Box on Tuesday 10/
+ 6. Sign up with the Google Form\; the chat suggests sessions run in the af
+ ternoon at the school site with parking available around the school. No st
+ art time was given in the message.\nTime not announced yet.\nHost: Dream O
+ utside the Box\nRSVP requested by Sun Oct 4\, 11:59 PM: https://forms.gle/
+ JVocEvuohDnUpZAe8\nDetails: https://jerrywang123454321-maker.github.io/bcm
+ -events/event/107.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/107.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-55@local
 DTSTAMP:20261001T190629Z
 LAST-MODIFIED:20261001T190629Z
