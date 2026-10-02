@@ -1044,8 +1044,8 @@ CATEGORIES:Academic / curriculum
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-87@local
-DTSTAMP:20261001T190629Z
-LAST-MODIFIED:20261001T190629Z
+DTSTAMP:20261002T020014Z
+LAST-MODIFIED:20261002T020014Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:AMA-MSS Virtual Reference Committee: Governing Council Reports Comm
@@ -1142,6 +1142,27 @@ DESCRIPTION:Last day to add or drop the new MS1/MS2 elective 'When Medicine
  //jerrywang123454321-maker.github.io/bcm-events/event/106.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/106.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-108@local
+DTSTAMP:20261002T020036Z
+LAST-MODIFIED:20261002T020036Z
+DTSTART:20261003T133000Z
+DTEND:20261003T173000Z
+SUMMARY:IMCO: Pulmonology Medical Sciences Teaching Session
+STATUS:CONFIRMED
+LOCATION:Southside Community Centre
+DESCRIPTION:First event of Intercity Medical Careers Outreach (IMCO)\, a BC
+ M internal medicine resident-founded program that teaches kids ages 8-14 a
+ bout health through hands-on activities. Volunteers help teach a pulmonolo
+ gy-focused science session\; the event is approved for SLP service credit.
+  Ongoing involvement includes developing lessons\, teaching monthly sessio
+ ns\, and supporting school outreach events.\nHost: Intercity Medical Caree
+ rs Outreach (IMCO)\nRSVP requested: https://forms.gle/k9qJV3nkY6hF3xKY6\nD
+ etails: https://jerrywang123454321-maker.github.io/bcm-events/event/108.ht
+ ml
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/108.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-79@local

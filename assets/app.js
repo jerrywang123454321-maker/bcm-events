@@ -224,6 +224,22 @@
     document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 2000);
   }));
 
+  // ---------- password-protected site: flyers are encrypted files, decrypted with the key remembered at unlock ----------
+  (async function () {
+    const imgs = $$("img[data-enc-src]"); const meta = $('meta[name="site-key"]');
+    if (!imgs.length || !meta || !window.crypto || !crypto.subtle) return;
+    let raw = null; try { raw = sessionStorage.getItem("eventscan-key:" + meta.content) || localStorage.getItem("eventscan-key:" + meta.content); } catch (e) {}
+    if (!raw) return;
+    const key = await crypto.subtle.importKey("raw", Uint8Array.from(atob(raw), c => c.charCodeAt(0)), "AES-GCM", false, ["decrypt"]);
+    for (const img of imgs) {
+      try {
+        const buf = new Uint8Array(await (await fetch(img.dataset.encSrc)).arrayBuffer());
+        const plain = await crypto.subtle.decrypt({ name: "AES-GCM", iv: buf.slice(0, 12) }, key, buf.slice(12));
+        img.src = URL.createObjectURL(new Blob([plain], { type: "image/jpeg" })); img.classList.remove("enc");
+      } catch (e) { img.alt = "Flyer couldn't be unlocked"; }
+    }
+  })();
+
   // ---------- relative deadlines ----------
   $$("[data-due]").forEach(el => {
     const due = new Date(el.dataset.due); const now = new Date();

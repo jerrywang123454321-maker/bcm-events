@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T19:00",
+ "generated_at": "2026-10-01T21:00",
  "timezone": "America/Chicago",
  "events": [
   {
@@ -113,7 +113,7 @@
    "rsvp_notes": null,
    "confidence": 0.82,
    "status": "active",
-   "updated_at": "2026-10-01T14:06:29",
+   "updated_at": "2026-10-01T21:00:14",
    "virtual": false,
    "group_name": "AMA-MSS Updates",
    "flyers": [],
@@ -270,6 +270,35 @@
    "flyers": [],
    "page": "event/106.html",
    "search": "when medicine gets it wrong elective: add/drop deadline when medicine gets it wrong elective (ms1/ms2 elective) last day to add or drop the new ms1/ms2 elective 'when medicine gets it wrong,' which covers how medicine arrives at standard of care, publishing stronger papers, and topics such as the opioid epidemic. bcm '30 houston deadline"
+  },
+  {
+   "id": 108,
+   "title": "IMCO: Pulmonology Medical Sciences Teaching Session",
+   "start_at": "2026-10-03T08:30:00",
+   "end_at": "2026-10-03T12:30:00",
+   "all_day": 0,
+   "time_known": 1,
+   "date_uncertain": 0,
+   "location": "Southside Community Centre",
+   "virtual_link": null,
+   "description": "First event of Intercity Medical Careers Outreach (IMCO), a BCM internal medicine resident-founded program that teaches kids ages 8-14 about health through hands-on activities. Volunteers help teach a pulmonology-focused science session; the event is approved for SLP service credit. Ongoing involvement includes developing lessons, teaching monthly sessions, and supporting school outreach events.",
+   "category": "service",
+   "mandatory": 0,
+   "food_provided": 0,
+   "organizer": "Intercity Medical Careers Outreach (IMCO)",
+   "rsvp_required": 1,
+   "rsvp_method": "form",
+   "rsvp_url": "https://forms.gle/k9qJV3nkY6hF3xKY6",
+   "rsvp_deadline": null,
+   "rsvp_notes": "The Google Form is for expressing interest in future IMCO events; the message does not state a required sign-up or deadline for the Oct 3 session. Message says to reach out to the sender directly if interested.",
+   "confidence": 0.93,
+   "status": "active",
+   "updated_at": "2026-10-01T21:00:36",
+   "virtual": false,
+   "group_name": "BCM Internal Medicine Interest Group 2026-2027",
+   "flyers": [],
+   "page": "event/108.html",
+   "search": "imco: pulmonology medical sciences teaching session southside community centre intercity medical careers outreach (imco) first event of intercity medical careers outreach (imco), a bcm internal medicine resident-founded program that teaches kids ages 8-14 about health through hands-on activities. volunteers help teach a pulmonology-focused science session; the event is approved for slp service credit. ongoing involvement includes developing lessons, teaching monthly sessions, and supporting school outreach events. bcm internal medicine interest group 2026-2027 service / volunteering"
   },
   {
    "id": 79,
