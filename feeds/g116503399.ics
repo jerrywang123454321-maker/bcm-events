@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · BCM Internal Medicine Interest Group 2026-2027
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-46@local
+DTSTAMP:20260916T174855Z
+LAST-MODIFIED:20260916T174855Z
+DTSTART:20260922T121500Z
+DTEND:20260922T130000Z
+SUMMARY:Muffins with Mentors: Dr. Hashem El-Serag
+STATUS:CONFIRMED
+LOCATION:Conference Room N.202\, Alkek Building
+DESCRIPTION:Breakfast and informal conversation with Dr. Hashem El-Serag\, 
+ Chair of Medicine and VP of the Learning Health System\, covering career j
+ ourneys and joy in academia\, with open Q&A.\nHost: Internal Medicine Inte
+ rest Group (shared)\nRSVP requested: https://www.signupgenius.com/go/10C08
+ 4EAFAD2DAAF49-65170376-muffins#/\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/46.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/46.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-47@local
+DTSTAMP:20260928T220045Z
+LAST-MODIFIED:20260928T220045Z
+DTSTART:20260928T230000Z
+DTEND:20260929T000000Z
+SUMMARY:IMIG: Clinical Case Series with Dr. Zaven Sargsyan
+STATUS:CONFIRMED
+LOCATION:N315
+DESCRIPTION:Room changed from N317 to N315 for the first Clinical Case Seri
+ es with Dr. Zaven Sargsyan. Dinner from Luna Pizzeria will be provided.\nH
+ ost: Internal Medicine Interest Group (IMIG)\nRSVP requested: https://tiny
+ url.com/CCS-Sept28\nDetails: https://jerrywang123454321-maker.github.io/bc
+ m-events/event/47.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/47.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-108@local
+DTSTAMP:20261003T132526Z
+LAST-MODIFIED:20261003T132526Z
+DTSTART:20261003T133000Z
+DTEND:20261003T173000Z
+SUMMARY:IMCO: Pulmonology Medical Sciences Teaching Session
+STATUS:CONFIRMED
+LOCATION:Southside Community Centre
+DESCRIPTION:First event of Intercity Medical Careers Outreach (IMCO)\, a BC
+ M internal medicine resident-founded program that teaches kids ages 8-14 a
+ bout health through hands-on activities. Volunteers help teach a pulmonolo
+ gy-focused science session\; the event is approved for SLP service credit.
+  Ongoing involvement includes developing lessons\, teaching monthly sessio
+ ns\, and supporting school outreach events.\nHost: Intercity Medical Caree
+ rs Outreach (IMCO)\nRSVP requested: https://forms.gle/k9qJV3nkY6hF3xKY6\nD
+ etails: https://jerrywang123454321-maker.github.io/bcm-events/event/108.ht
+ ml
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/108.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-118@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+SUMMARY:IMIG: Primary Care Panel
+STATUS:CONFIRMED
+LOCATION:Room M321\, BCM Houston Campus
+DESCRIPTION:Panel discussion with primary care physicians practicing at Bay
+ lor Concierge\, Smith\, and McNair clinics about how internal medicine tra
+ ining translates into primary care practice\, with time for questions. Foo
+ d provided and the event counts for 1 SLP point.\nHost: Internal Medicine 
+ Interest Group (IMIG)\nRSVP requested: https://forms.gle/LiQxrV3ydvBV53eu8
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/118
+ .html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/118.html
+CATEGORIES:Interest group
+END:VEVENT
+END:VCALENDAR

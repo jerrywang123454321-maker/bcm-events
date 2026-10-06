@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · SOAR Research Grand Rounds
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+END:VCALENDAR

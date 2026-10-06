@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · AMA-MSS Updates
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-6@local
+DTSTAMP:20260916T170236Z
+LAST-MODIFIED:20260916T170236Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:AMA-MSS I-26 Mentorship Program: Mentor Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:MSS Speakers are recruiting mentors only for the I-26 mentorshi
+ p program\; groups will be 1 mentor to 3-4 mentees\, paired by application
+  with location/region prioritized. Mentee form opens later depending on me
+ ntor numbers. Questions to Denise Ocampo (MSS Speaker) or Lily Robistow (M
+ SS Vice Speaker).\nHost: AMA-MSS Speakers\nDetails: https://jerrywang12345
+ 4321-maker.github.io/bcm-events/event/6.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/6.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-51@local
+DTSTAMP:20260927T160110Z
+LAST-MODIFIED:20260927T160110Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:AMA-MSS Virtual Reference Committee: Comment Period Closes
+STATUS:CONFIRMED
+DESCRIPTION:The MSS Virtual Reference Committee forum\, where all MSS membe
+ rs can comment on resolutions and reports\, opened September 14 at 11:59 A
+ M PT and closes September 27. Resolution authors get one extra day\, until
+  September 28.\nHost: AMA-MSS\nOnline option: link in the group chat.\nDet
+ ails: https://jerrywang123454321-maker.github.io/bcm-events/event/51.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/51.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-7@local
+DTSTAMP:20260916T170236Z
+LAST-MODIFIED:20260916T170236Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:AMA-MSS Travel Grant Funding Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:AMA MSS Travel Grant funding applications are due 09/28\, an al
+ ternative funding route to Student Involvement Grant (SIG)/MSOP funding ah
+ ead of I-26. Details and links in the At-Large Officer's shared doc: https
+ ://docs.google.com/document/d/1Ii-p73NJlf0Pl4InSJ9AEHmtY48LEgfEFTL856ZVHA4
+ /edit\nHost: AMA-MSS At-Large Officer (Isabel "Yisa" Nguyen)\nDetails: htt
+ ps://jerrywang123454321-maker.github.io/bcm-events/event/7.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/7.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-86@local
+DTSTAMP:20260927T160110Z
+LAST-MODIFIED:20260927T160110Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:AMA-MSS Virtual Reference Committee: Authors' Response Day
+STATUS:CONFIRMED
+DESCRIPTION:Day set aside for authors of each resolution to respectfully re
+ spond to testimony posted on their resolution during the Virtual Reference
+  Committee.\nHost: AMA-MSS\nDetails: https://jerrywang123454321-maker.gith
+ ub.io/bcm-events/event/86.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/86.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-8@local
+DTSTAMP:20261001T190346Z
+LAST-MODIFIED:20261001T190346Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:AMA-MSS Chair-Elect Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications for AMA-MSS Chair-elect are due. Tell the Speakers
+  if you plan to run or are thinking about it\; campaign teams will be limi
+ ted\, and campaign team registration opens after candidates are announced.
+ \nHost: AMA-MSS Speakers\nDetails: https://jerrywang123454321-maker.github
+ .io/bcm-events/event/8.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/8.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-87@local
+DTSTAMP:20261002T020014Z
+LAST-MODIFIED:20261002T020014Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:AMA-MSS Virtual Reference Committee: Governing Council Reports Comm
+ ent Period Closes
+STATUS:CONFIRMED
+DESCRIPTION:Because the governing council reports were delayed in completio
+ n\, the VRC comment period for those reports only remains open until Thurs
+ day\, October 1st.\nHost: AMA-MSS\nDetails: https://jerrywang123454321-mak
+ er.github.io/bcm-events/event/87.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/87.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-115@local
+DTSTAMP:20261006T180057Z
+LAST-MODIFIED:20261006T180057Z
+DTSTART:20261006T000000Z
+DTEND:20261006T013000Z
+SUMMARY:AMA-MSS Advocacy in Action Workshop (Night 1)
+STATUS:CONFIRMED
+LOCATION:Virtual
+DESCRIPTION:Virtual\, 8–9:30 PM Eastern (7–8:30 PM Central). Three-nigh
+ t virtual advocacy workshop combining the former Physicians of the Future 
+ Summit with Advocacy in Action. Keynote speakers are former AMA MSS\, RFS\
+ , and/or YPS members\, several now in state and federal office\; programmi
+ ng includes issue briefs on GME reform\, the Patients First Act (Medicare 
+ reform)\, and maternal health access. Participants receive a folder of adv
+ ocacy materials with templates\, social media graphics\, and the issue bri
+ efs.\nHost: AMA-MSS\nRSVP requested: https://www.ama-assn.org/membership/e
+ vents/advocacy-action-workshop\nDetails: https://jerrywang123454321-maker.
+ github.io/bcm-events/event/115.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/115.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-124@local
+DTSTAMP:20261006T180057Z
+LAST-MODIFIED:20261006T180057Z
+DTSTART:20261007T000000Z
+DTEND:20261007T013000Z
+SUMMARY:AMA-MSS Advocacy in Action Workshop (Night 2)
+STATUS:CONFIRMED
+LOCATION:Virtual
+DESCRIPTION:Virtual\, 8–9:30 PM Eastern (7–8:30 PM Central). Second nig
+ ht of the three-night virtual AMA-MSS advocacy workshop. Includes keynote 
+ speakers who are former AMA MSS/RFS/YPS members\, issue briefs on GME refo
+ rm\, Medicare reform\, and maternal health access\, and distribution of an
+  advocacy materials folder.\nHost: AMA-MSS\nRSVP requested: https://www.am
+ a-assn.org/membership/events/advocacy-action-workshop\nDetails: https://je
+ rrywang123454321-maker.github.io/bcm-events/event/124.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/124.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-116@local
+DTSTAMP:20261006T180057Z
+LAST-MODIFIED:20261006T180057Z
+DTSTART:20261008T000000Z
+DTEND:20261008T013000Z
+SUMMARY:AMA-MSS Advocacy in Action Workshop (Night 3)
+STATUS:CONFIRMED
+LOCATION:Virtual
+DESCRIPTION:Virtual\, 8–9:30 PM Eastern (7–8:30 PM Central). Final nigh
+ t of the three-night virtual AMA-MSS advocacy workshop. Includes keynote s
+ peakers who are former AMA MSS/RFS/YPS members\, issue briefs on GME refor
+ m\, Medicare reform\, and maternal health access\, and distribution of an 
+ advocacy materials folder.\nHost: AMA-MSS\nRSVP requested: https://www.ama
+ -assn.org/membership/events/advocacy-action-workshop\nDetails: https://jer
+ rywang123454321-maker.github.io/bcm-events/event/116.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/116.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-103@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:AMA-MSS Governing Council Election: Campaign Team Registration Dead
+ line
+STATUS:CONFIRMED
+DESCRIPTION:Candidates for the I-26 Governing Council election (Student Rep
+ resentative to the BOT and MSS Chair-Elect) have been announced\, and camp
+ aign team registration is now open. All candidates and campaign team membe
+ rs must complete the registration form to qualify for campaigning\; no lat
+ e submissions will be accepted. Register for a campaign team only after di
+ scussing with the candidate and reviewing the Speakers' ruling.\nHost: AMA
+ -MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event
+ /103.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/103.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-112@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Joan F. Giambalvo Fund for the Advancement of Women: Application De
+ adline (Extended)
+STATUS:CONFIRMED
+DESCRIPTION:Extended deadline for the Joan F. Giambalvo Fund\, presented by
+  the AMA Women Physicians Section with the AMA Foundation. Provides schola
+ rships of up to $10\,000 for research advancing the study of women in the 
+ medical profession and issues affecting women physicians and medical stude
+ nts. Application instructions and a list of past recipients are posted on 
+ the AMA website.\nHost: AMA-MSS\nDetails: https://jerrywang123454321-maker
+ .github.io/bcm-events/event/112.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/112.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-113@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:NRMP Medical Student Director Nomination Deadline
+STATUS:CONFIRMED
+DESCRIPTION:The National Resident Matching Program is accepting nominations
+  for a Medical Student Director with a term beginning July 1\, 2027. Nomin
+ ee packets must include the application form from the NRMP website\, a CV 
+ or resume\, and a letter of support from the nominee's dean of student aff
+ airs or academic affairs\, submitted directly to NRMP's administrative inb
+ ox. Additional details are in the document attached in the chat.\nHost: AM
+ A-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/113.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/113.html
+CATEGORIES:Deadline
+END:VEVENT
+END:VCALENDAR

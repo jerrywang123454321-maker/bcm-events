@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · BCM Volleyball Monday
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-62@local
+DTSTAMP:20260921T140018Z
+LAST-MODIFIED:20260921T140018Z
+DTSTART:20260921T230000Z
+DTEND:20260922T000000Z
+SUMMARY:Sand Volleyball Pickup Game
+STATUS:CONFIRMED
+LOCATION:UTHealth Rec Center sand volleyball courts
+DESCRIPTION:Informal group sand volleyball game organized in the BCM Volley
+ ball Monday chat. Per earlier chatter\, the sand courts are down the stree
+ t from the rec center.\nHost: BCM Volleyball (student group chat)\nDetails
+ : https://jerrywang123454321-maker.github.io/bcm-events/event/62.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/62.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-117@local
+DTSTAMP:20261005T140047Z
+LAST-MODIFIED:20261005T140047Z
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+SUMMARY:Indoor Volleyball (Monday Pickup)
+STATUS:CONFIRMED
+DESCRIPTION:Casual indoor volleyball pickup with BCM students. Group chatte
+ r suggests play typically runs until around 8pm and a BCM gym membership m
+ ay be needed for the facility.\nHost: BCM Volleyball (student pickup group
+ )\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/11
+ 7.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/117.html
+CATEGORIES:Wellness
+END:VEVENT
+END:VCALENDAR

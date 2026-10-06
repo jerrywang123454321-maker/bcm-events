@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · BCM AMA TMA
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-45@local
+DTSTAMP:20260917T160017Z
+LAST-MODIFIED:20260917T160017Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:TMA Leadership Summit
+STATUS:CONFIRMED
+LOCATION:Irving\, TX
+DESCRIPTION:Texas Medical Association Leadership Summit in Irving. Chris Wo
+ ng offered to carpool or help coordinate housing for anyone going.\nHost: 
+ Texas Medical Association\nDetails: https://jerrywang123454321-maker.githu
+ b.io/bcm-events/event/45.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/45.html
+CATEGORIES:Student org
+END:VEVENT
+END:VCALENDAR

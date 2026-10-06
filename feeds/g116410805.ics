@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · IHI @ BCM
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-5@local
+DTSTAMP:20260930T200006Z
+LAST-MODIFIED:20260930T200006Z
+DTSTART:20260914T223000Z
+DTEND:20260915T045959Z
+SUMMARY:IHI First General Meeting!
+STATUS:CONFIRMED
+LOCATION:N311
+DESCRIPTION:Our first general meeting of the year! Learn more about what IH
+ I is about\, with opportunities to get more involved.\n\nPlease like if yo
+ u’re going so we can get enough food 🙈\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/5.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/5.html
+CATEGORIES:Student org
+END:VEVENT
+END:VCALENDAR

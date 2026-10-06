@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · Baylor Golf⛳️
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-68@local
+DTSTAMP:20260924T000015Z
+LAST-MODIFIED:20260924T000015Z
+DTSTART:20260923T233000Z
+DTEND:20260924T003000Z
+SUMMARY:BCM Golf: Free Driving Range Session & Putting Contest
+STATUS:CONFIRMED
+LOCATION:Hermann Park Golf Course (flyer: "Herman Park Golf Course")
+DESCRIPTION:Free driving range session open to all skill levels\, beginners
+  welcome. Includes a putting contest with a prize giveaway.\nHost: BCM Gol
+ f (Baylor Golf)\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
+ vents/event/68.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/68.html
+CATEGORIES:Wellness
+END:VEVENT
+END:VCALENDAR

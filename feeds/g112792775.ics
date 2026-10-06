@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · BCM '30
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-16@local
+DTSTAMP:20260916T174841Z
+LAST-MODIFIED:20260916T174841Z
+DTSTART:20260915T230000Z
+DTEND:20260916T000000Z
+SUMMARY:Ophthalmology Interest Group: Intro to Ophthalmology SSM Panel
+STATUS:CONFIRMED
+LOCATION:Room N311 (Houston)\; Teams (Temple)
+DESCRIPTION:Panel with ophthalmology specialty-specific mentors Dr. William
+ s and Dr. Blieden for MS1s and MS2s. Topics: shadowing\, research\, mentor
+ ship\, and ways to get involved at BCM.\nHost: Ophthalmology Interest Grou
+ p (OIG)\nRSVP requested: https://forms.gle/8hpjWJuTXpNcjk8W6\nDetails: htt
+ ps://jerrywang123454321-maker.github.io/bcm-events/event/16.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/16.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-15@local
+DTSTAMP:20260916T170239Z
+LAST-MODIFIED:20260916T170239Z
+DTSTART:20260916T220000Z
+DTEND:20260916T230000Z
+SUMMARY:Student Surgical Society: First Meeting with Dr. Rosengart
+STATUS:CONFIRMED
+LOCATION:Room M112
+DESCRIPTION:Talk by Dr. Todd Rosengart\, Professor and Chair of the Michael
+  E. DeBakey Department of Surgery\, on surgical training and practice. Dre
+ ss nicely (no sweatpants).\nHost: Student Surgical Society (SSS)\nRSVP req
+ uested by Mon Sep 14\, 11:59 PM: https://forms.gle/fbGGNUMHemYkGLgk9\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/15.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/15.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-64@local
+DTSTAMP:20261001T190629Z
+LAST-MODIFIED:20261001T190629Z
+DTSTART:20261001T223000Z
+DTEND:20261001T233000Z
+SUMMARY:MEEIT 414: Research Mentorship and Scholarly Development Elective (
+ Session 1)
+STATUS:CONFIRMED
+LOCATION:Virtual via Microsoft Teams
+DESCRIPTION:Term II pre-clinical elective for MS1s in Houston and Temple\, 
+ 0.5 credit (8 hours) across 8 synchronous sessions. Session 1 covers Build
+ ing Your Scholarly Roadmap\; taught by faculty with peer support from MS2-
+ MS3 Student Research Fellows.\nHost: Baylor College of Medicine (MEEIT 414
+  elective)\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
+ /event/64.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/64.html
+CATEGORIES:Research
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-98@local
+DTSTAMP:20261006T120229Z
+LAST-MODIFIED:20261006T120229Z
+DTSTART:20261007T003000Z
+DTEND:20261007T010000Z
+SUMMARY:AOA Carolyn L. Kuckein Student Research Fellowship Info Session
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Overview of the AOA Carolyn L. Kuckein Student Research Fellows
+ hip\, which funds medical student research in clinical investigation\, bas
+ ic science\, epidemiology\, social science/health services research\, and 
+ leadership or professionalism. Covers eligibility\, the application proces
+ s\, and tips for a strong mini proposal\; previous recipient Malay Shah wi
+ ll share his experience and answer questions.\nHost: AOA (Alpha Omega Alph
+ a)\nOnline option: link in the group chat.\nDetails: https://jerrywang1234
+ 54321-maker.github.io/bcm-events/event/98.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/98.html
+CATEGORIES:Research
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-58@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:AFFIRM: Interventional Radiology Educational Day for Women Medical 
+ Students
+STATUS:CONFIRMED
+LOCATION:Texas Medical Center\, Houston\, TX
+DESCRIPTION:One-day event hosted by AFFIRM (Advancing Future Females in Int
+ erventional Radiology and Medicine)\, co-founded by PGY-5 IR resident Sydn
+ ey Cooper. Includes hands-on procedural workshops with industry partner de
+ vices\, short sessions on IR\, radiation considerations and career pathway
+ s\, networking with attendings/fellows/residents/program leadership\, and 
+ an attending and trainee Q&A.\nHost: AFFIRM (Advancing Future Females in I
+ nterventional Radiology and Medicine)\nRSVP requested: https://AFFIRMiniti
+ ative.org\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
+ event/58.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/58.html
+CATEGORIES:Career / specialty
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-72@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261012T170000Z
+DTEND:20261012T180000Z
+SUMMARY:Research Grand Rounds: Idea Generation and Methodology
+STATUS:CONFIRMED
+LOCATION:McMillan Auditorium
+DESCRIPTION:Next session in the SOAR Research Grand Rounds series\, coverin
+ g idea generation and methodology\, presented by Dr. Sarkar. Questions are
+  collected in advance so the session can target attendees' knowledge gaps\
+ , with live Q&A at the end\; food provided and a Teams link for those who 
+ cannot attend in person.\nHost: SOAR Research Grand Rounds\nRSVP requested
+ : https://redcap.research.bcm.edu/redcap/surveys/?s=C37sWzQp5oZYP2EA\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/72.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/72.html
+CATEGORIES:Research
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-99@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:AOA Kuckein Student Research Fellowship: Mini Proposal Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Mini proposals for the AOA Carolyn L. Kuckein Student Research 
+ Fellowship are due Thursday\, October 22\, 2026. Application details and p
+ roposal tips are covered at the October 6 info session.\nHost: AOA (Alpha 
+ Omega Alpha)\nDetails: https://jerrywang123454321-maker.github.io/bcm-even
+ ts/event/99.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/99.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-18@local
+DTSTAMP:20261006T180054Z
+LAST-MODIFIED:20261006T180054Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
+STATUS:CONFIRMED
+DESCRIPTION:Third session of the SOAR Research Grand Rounds faculty lecture
+  series for medical students with little or no research experience\; topic
+  is Data Sources and Analysis. Time and format for this session had not be
+ en announced as of Oct 1. The date comes from the series flyer\; the Octob
+ er session moved from Oct 7 to Oct 12\, so confirm closer to the date.\nTi
+ me not announced yet.\nHost: SOAR Office\, Baylor College of Medicine\nDet
+ ails: https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
+CATEGORIES:Research
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-19@local
+DTSTAMP:20261006T180055Z
+LAST-MODIFIED:20261006T180055Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:SOAR Research Grand Rounds: From Data to Manuscript
+STATUS:CONFIRMED
+DESCRIPTION:Fourth session of the SOAR Research Grand Rounds faculty lectur
+ e series for medical students with little or no research experience\; topi
+ c is From Data to Manuscript. The series flyer lists the date\; time and f
+ ormat for this session have not been announced. The date comes from the se
+ ries flyer\; the October session moved from Oct 7 to Oct 12\, so confirm c
+ loser to the date.\nTime not announced yet.\nHost: SOAR Office\, Baylor Co
+ llege of Medicine\nDetails: https://jerrywang123454321-maker.github.io/bcm
+ -events/event/19.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/19.html
+CATEGORIES:Research
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · BCM Ambassadors 2026-2027
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-76@local
+DTSTAMP:20260924T200030Z
+LAST-MODIFIED:20260924T200030Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:BCM Ambassadors Social: Open Spots
+STATUS:CONFIRMED
+DESCRIPTION:Four remaining spots for tonight's ambassadors social. To claim
+  a spot\, text your name\, campus\, and BCM email in the group chat by 5pm
+ .\nTime not announced yet.\nHost: BCM Ambassadors\nRSVP requested by Thu S
+ ep 24\, 5:00 PM\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
+ vents/event/76.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/76.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-84@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:BCM Ambassadors: Houston Campus Open House (Ambassador Sign-Ups)
+STATUS:CONFIRMED
+LOCATION:BCM Houston campus
+DESCRIPTION:First Houston campus open house of the year\; ambassadors sign 
+ up via the shared Google Sheet. Sign up for only one open house so everyon
+ e gets a chance to attend.\nTime not announced yet.\nHost: BCM Ambassadors
+ \nRSVP requested: https://docs.google.com/spreadsheets/d/1HXDCvOjqp0jh01i2
+ Y0HGvWx9GbRo4n_1sux4Ef_7eRY/edit?usp=sharing\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/84.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/84.html
+CATEGORIES:Student org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · BCM AIMS: Artificial Intelligence in Medicine So
+ ciety
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-44@local
+DTSTAMP:20261001T190355Z
+LAST-MODIFIED:20261001T190355Z
+DTSTART:20260930T170000Z
+DTEND:20260930T180000Z
+SUMMARY:AIMS: Introductory Meeting
+STATUS:CONFIRMED
+LOCATION:Room M321
+DESCRIPTION:Intro to BCM AI in Medicine Society\, ways to get involved\, an
+ d plans for the year. Featured speaker is Dr. Jennifer Benjamin (AI in Edu
+ cation)\, the AIMS faculty sponsor.\nHost: BCM AIMS: Artificial Intelligen
+ ce in Medicine Society\nRSVP requested by Fri Sep 25\, 11:59 PM: https://f
+ orms.gle/KizxYtkmkDkwi5MH9\nDetails: https://jerrywang123454321-maker.gith
+ ub.io/bcm-events/event/44.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/44.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-110@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261026T220000Z
+DTEND:20261026T230000Z
+SUMMARY:AIMS Journal Club: AI in Surgery with Dr. Abbas Rana
+STATUS:CONFIRMED
+LOCATION:M321/M323\, BCM Houston Campus
+DESCRIPTION:AI in Medicine Society's first journal club\, moderated by Dr. 
+ Abbas Rana (Professor of Surgery\, Co-Director of ATLAS A.I.). Discussion 
+ of a paper on the current state of artificial intelligence in liver transp
+ lantation\, plus an optional second paper on the Pediatric Heart Listing M
+ ortality score if time permits. No background knowledge of AI required\; f
+ ood will be served.\nHost: BCM AIMS (Artificial Intelligence in Medicine S
+ ociety)\nRSVP requested by Fri Oct 23\, 11:59 PM: https://forms.gle/d4HjWA
+ pWsC72ocoXA\nDetails: https://jerrywang123454321-maker.github.io/bcm-event
+ s/event/110.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/110.html
+CATEGORIES:Interest group
+END:VEVENT
+END:VCALENDAR

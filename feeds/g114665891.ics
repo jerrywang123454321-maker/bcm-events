@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · Street Medicine Student Coalition!
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-81@local
+DTSTAMP:20260927T180021Z
+LAST-MODIFIED:20260927T180021Z
+DTSTART:20260927T180000Z
+DTEND:20260927T190000Z
+SUMMARY:Street Medicine: Sunday Volunteering Shift
+STATUS:CONFIRMED
+LOCATION:Cullen lobby (building next to the fountain)\, TMC
+DESCRIPTION:TMC Rounds volunteering: meet in the Cullen lobby at 1 PM for a
+  brief logistics talk\, then head out handing out sandwiches\, snacks\, an
+ d drinks. Do not wear anything with the Baylor name or logo\; bring sunscr
+ een\, a hat\, and water\, and packaged snacks to hand out if you can.\nHos
+ t: Street Medicine Student Coalition\nRSVP requested by Sun Sep 27\, 12:00
+  AM: https://m.signupgenius.com/#!/showSignUp/10C054BAAA92CABFFCE9-6518455
+ 0-street?useFullSite=false\nDetails: https://jerrywang123454321-maker.gith
+ ub.io/bcm-events/event/81.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/81.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+END:VCALENDAR

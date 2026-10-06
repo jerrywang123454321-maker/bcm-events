@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · Baylor Students Against Cancer
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-97@local
+DTSTAMP:20261006T120228Z
+LAST-MODIFIED:20261006T120228Z
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+SUMMARY:Baylor Students Against Cancer & IMIG: Intro to a Career in Hematol
+ ogy & Oncology
+STATUS:CONFIRMED
+LOCATION:Room M321\, BCM Houston Campus
+DESCRIPTION:Talk with Dr. Courtney Miller-Chism\, BCM Hematology/Oncology F
+ ellowship Program Director\, on the field of heme/onc\, fellowship trainin
+ g\, career paths\, and ways to get involved during medical school. Dinner 
+ provided.\nHost: Baylor Students Against Cancer & Internal Medicine Intere
+ st Group (IMIG)\nRSVP requested by Mon Oct 5\, 11:59 PM: https://forms.gle
+ /rwz3StXku4HdedPb8\nDetails: https://jerrywang123454321-maker.github.io/bc
+ m-events/event/97.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/97.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-109@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261012T220000Z
+DTEND:20261013T000000Z
+SUMMARY:BSAC Cancer Talk Series: Lung Cancer Care — From Diagnosis to Tre
+ atment
+STATUS:CONFIRMED
+LOCATION:Room N315\, BCM Houston Campus
+DESCRIPTION:First lecture of the Baylor Students Against Cancer talk series
+ \, featuring Dr. Shanda Blackmon\, cardiothoracic surgeon and Director of 
+ the BCM Lung Institute\, on thoracic oncology\, lung cancer surgery\, and 
+ clinical care. Come with questions\; food will be provided. A virtual opti
+ on is available for Temple students.\nHost: Baylor Students Against Cancer
+  (BSAC) and Student Surgical Society\nRSVP requested: https://forms.gle/tL
+ LV8dRSsasJxUPz9\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
+ vents/event/109.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/109.html
+CATEGORIES:Interest group
+END:VEVENT
+END:VCALENDAR

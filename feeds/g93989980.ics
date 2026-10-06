@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · APAMSA @ BCM
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-1@local
+DTSTAMP:20260930T200003Z
+LAST-MODIFIED:20260930T200003Z
+DTSTART:20260913T050000Z
+DTEND:20260914T045500Z
+SUMMARY:MS1 Rep Apps Due!
+STATUS:CONFIRMED
+LOCATION:https://forms.gle/1LNY6u3AC9kvGezC7
+DESCRIPTION:Form: https://forms.gle/1LNY6u3AC9kvGezC7\nDetails: https://jer
+ rywang123454321-maker.github.io/bcm-events/event/1.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/1.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-9@local
+DTSTAMP:20260916T175248Z
+LAST-MODIFIED:20260916T175248Z
+DTSTART:20260916T220000Z
+DTEND:20260916T230000Z
+SUMMARY:McGovern Session Series (MSB B.100)
+STATUS:CONFIRMED
+LOCATION:MSB B.100\, McGovern Medical School Building
+DESCRIPTION:Fall series session\; sign-up form linked in chat.\nRSVP reques
+ ted: https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lk
+ D5J9PQEHhYO5MZ86sdTPw/viewform\nDetails: https://jerrywang123454321-maker.
+ github.io/bcm-events/event/9.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/9.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-2@local
+DTSTAMP:20260930T200003Z
+LAST-MODIFIED:20260930T200003Z
+DTSTART:20260916T223000Z
+DTEND:20260916T233000Z
+SUMMARY:General Body Meeting #2
+STATUS:CONFIRMED
+DESCRIPTION:N311\nHost: APAMSA @ BCM\nDetails: https://jerrywang123454321-m
+ aker.github.io/bcm-events/event/2.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/2.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-54@local
+DTSTAMP:20260918T160029Z
+LAST-MODIFIED:20260918T160029Z
+DTSTART:20260918T170000Z
+DTEND:20260918T180000Z
+SUMMARY:Medical Mandarin Session
+STATUS:CONFIRMED
+LOCATION:MSB B.635\, McGovern Medical School Building
+DESCRIPTION:Confirmation in chat that Medical Mandarin is meeting today at 
+ noon in MSB B.635 at McGovern.\nHost: APAMSA\nRSVP requested: https://docs
+ .google.com/forms/d/15aHWhsSJsHcY4dorZpy9HtmKEEYPpl2LdCBpiFXh_0E/edit\nDet
+ ails: https://jerrywang123454321-maker.github.io/bcm-events/event/54.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/54.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-69@local
+DTSTAMP:20260924T000016Z
+LAST-MODIFIED:20260924T000016Z
+DTSTART:20260922T223000Z
+DTEND:20260922T233000Z
+SUMMARY:Medical Korean Session 1: Intro to Medical Korean
+STATUS:CONFIRMED
+LOCATION:MSB B.100\, McGovern Medical School Building
+DESCRIPTION:First session of a Medical Korean language workshop series host
+ ed by McGovern APAMSA\, covering introductory medical Korean. Flyer says '
+ RSVP FOR FOOD!!' with a QR code sign-up.\nHost: McGovern APAMSA\nRSVP requ
+ ested\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/69.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/69.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-3@local
+DTSTAMP:20260930T200003Z
+LAST-MODIFIED:20260930T200003Z
+DTSTART:20260926T140000Z
+DTEND:20260926T220000Z
+SUMMARY:South Regional Conference
+STATUS:CONFIRMED
+LOCATION:Rice University\, 6100\, Main St\, Southgate\, Houston\, TX\, 7700
+ 5
+DESCRIPTION:Registration Form: https://docs.google.com/forms/d/e/1FAIpQLSd9
+ ofnvSNfDpHz8jia48nrqHwmDdodezquBdGvs8lZLPpiSBQ/viewform\nHost: APAMSA Sout
+ h Region\nRSVP requested by Fri Sep 18\, 11:59 PM: https://docs.google.com
+ /forms/d/e/1FAIpQLSd9ofnvSNfDpHz8jia48nrqHwmDdodezquBdGvs8lZLPpiSBQ/viewfo
+ rm\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/3
+ .html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/3.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-63@local
+DTSTAMP:20261001T185724Z
+LAST-MODIFIED:20261001T185724Z
+DTSTART:20260927T220000Z
+DTEND:20260927T230000Z
+SUMMARY:National APAMSA Book Club
+STATUS:CONFIRMED
+LOCATION:[meeting link in the group chat]
+DESCRIPTION:Celebrate 🌺 Hawaiian History Month 🌺 by reading and discu
+ ssing “The Killing Spell” by Shay Kauwe with National APAMSA!\n\n+1 AP
+ AMSA point\n\nFor attendance\, take a screenshot of you in the Zoom with y
+ our camera on and DM Audrey on GroupMe.\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/63.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/63.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-12@local
+DTSTAMP:20260916T170238Z
+LAST-MODIFIED:20260916T170238Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:APAMSA Big/Little/Family Pairing Sign-Up Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Fill out the form if you want to take part in APAMSA's big/litt
+ le/family pairings.\nHost: APAMSA @ BCM\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/12.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/12.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-79@local
+DTSTAMP:20261003T180044Z
+LAST-MODIFIED:20261003T180044Z
+DTSTART:20261003T170000Z
+DTEND:20261003T190000Z
+SUMMARY:APAMSA Mid-Autumn Festival Social
+STATUS:CONFIRMED
+LOCATION:A member's home (address in the group chat)
+DESCRIPTION:Mid-Autumn festival celebration with lantern-making\, mooncake 
+ tasting\, and food for everyone. Mahjong and tien len will be set up on th
+ e side for anyone who wants to play.\nHost: APAMSA\nRSVP requested: https:
+ //forms.gle/yPjsKLyChkXDDVos9\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/79.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/79.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-55@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261006T150000Z
+DTEND:20261006T170000Z
+SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
+STATUS:CONFIRMED
+LOCATION:BPSOS-Houston\, 11360 Bellaire Blvd.\, Ste. 910\, Houston\, TX 770
+ 72
+DESCRIPTION:Update: the BPSOS clinic has been approved for 3 SLP (Service L
+ earning Program) points. An email with more information should be sent no 
+ later than the day before the clinic\; let the organizer know if you do no
+ t receive it.\nHost: APAMSA\nRSVP requested: https://www.signupgenius.com/
+ go/10C0F4EAAA723A0FA7-61361761-2026#/\nDetails: https://jerrywang123454321
+ -maker.github.io/bcm-events/event/55.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/55.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-10@local
+DTSTAMP:20261006T180052Z
+LAST-MODIFIED:20261006T180052Z
+DTSTART:20261007T220000Z
+DTEND:20261007T230000Z
+SUMMARY:McGovern APAMSA: Medical Vietnamese Session
+STATUS:CONFIRMED
+LOCATION:MSB B.100\, McGovern Medical School Building
+DESCRIPTION:Medical Vietnamese ("Medical Viet") session hosted by McGovern 
+ APAMSA at the McGovern Medical School building\, open to BCM students. Som
+ etimes there's food. Sign up with the form.\nHost: McGovern APAMSA\nRSVP r
+ equested: https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKz
+ Kd_lkD5J9PQEHhYO5MZ86sdTPw/viewform\nDetails: https://jerrywang123454321-m
+ aker.github.io/bcm-events/event/10.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/10.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-11@local
+DTSTAMP:20261006T180053Z
+LAST-MODIFIED:20261006T180053Z
+DTSTART:20261104T230000Z
+DTEND:20261105T000000Z
+SUMMARY:McGovern APAMSA: Medical Vietnamese Session
+STATUS:CONFIRMED
+LOCATION:MSB B.100\, McGovern Medical School Building
+DESCRIPTION:Medical Vietnamese ("Medical Viet") session hosted by McGovern 
+ APAMSA at the McGovern Medical School building\, open to BCM students. Som
+ etimes there's food. Sign up with the form.\nHost: McGovern APAMSA\nRSVP r
+ equested: https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKz
+ Kd_lkD5J9PQEHhYO5MZ86sdTPw/viewform\nDetails: https://jerrywang123454321-m
+ aker.github.io/bcm-events/event/11.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/11.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-56@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261110T160000Z
+DTEND:20261110T180000Z
+SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
+STATUS:CONFIRMED
+LOCATION:BPSOS-Houston\, 11360 Bellaire Blvd.\, Ste. 910\, Houston\, TX 770
+ 72
+DESCRIPTION:Monthly free health clinic run by Boat People SOS serving the V
+ ietnamese immigrant and refugee community. Free services include health sc
+ reenings\, flu shots\, behavioral health\, hearing tests\, and insurance e
+ nrollment assistance.\nHost: APAMSA / BPSOS-Houston\nRSVP requested: https
+ ://www.signupgenius.com/go/10C0F4EAAA723A0FA7-61361761-2026#/\nDetails: ht
+ tps://jerrywang123454321-maker.github.io/bcm-events/event/56.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/56.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+END:VCALENDAR

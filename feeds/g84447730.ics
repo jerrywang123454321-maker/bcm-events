@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · Siempre Unidos - BCM Medical Spanish
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-122@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261016T230000Z
+DTEND:20261017T000000Z
+SUMMARY:Caminar y Charlar: Spanish Conversation Walk (McGovern x BCM)
+STATUS:CONFIRMED
+LOCATION:Hermann Park
+DESCRIPTION:Medical students from McGovern and BCM walk together in Hermann
+  Park while practicing conversational Spanish. All levels welcome\, from b
+ eginners to native speakers. Sign up in advance with the Google Form if yo
+ u plan to attend.\nHost: Siempre Unidos - BCM Medical Spanish (with McGove
+ rn Medical School)\nRSVP requested: https://forms.gle/1ZYJ5MXe5Q6NsrQs7\nD
+ etails: https://jerrywang123454321-maker.github.io/bcm-events/event/122.ht
+ ml
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/122.html
+CATEGORIES:Student org
+END:VEVENT
+END:VCALENDAR

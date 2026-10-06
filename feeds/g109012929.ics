@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · Baylor Soccer ⚽️
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-13@local
+DTSTAMP:20260917T200046Z
+LAST-MODIFIED:20260917T200046Z
+DTSTART:20260917T224500Z
+DTEND:20260917T234500Z
+SUMMARY:Baylor Soccer: Weekly Pickup Game
+STATUS:CONFIRMED
+LOCATION:Helix Park
+DESCRIPTION:Parking correction: disregard the earlier Wyndale St suggestion
+  since Wyndale is metered throughout the day. Park on Canterbury St anytim
+ e after 4 pm (shown relative to the Helix Park pin on the attached map)\; 
+ carpooling encouraged.\nHost: Baylor Soccer\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/13.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/13.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-70@local
+DTSTAMP:20260924T180015Z
+LAST-MODIFIED:20260924T180015Z
+DTSTART:20260924T224500Z
+DTEND:20260924T234500Z
+SUMMARY:Baylor Soccer: Pickup Game
+STATUS:CONFIRMED
+LOCATION:Helix Park
+DESCRIPTION:Weekly Thursday pickup soccer game. Location inferred from prio
+ r messages (Helix Park)\; free street parking available on Canterbury Stre
+ et after 4 pm\, and carpooling is encouraged since parking inspectors have
+  issued warnings nearby.\nHost: Baylor Soccer\nDetails: https://jerrywang1
+ 23454321-maker.github.io/bcm-events/event/70.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/70.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-96@local
+DTSTAMP:20261001T190629Z
+LAST-MODIFIED:20261001T190629Z
+DTSTART:20261001T224500Z
+DTEND:20261001T234500Z
+SUMMARY:Baylor Soccer: Thursday Pickup Game
+STATUS:CONFIRMED
+LOCATION:Main Helix fields
+DESCRIPTION:Casual weekly Thursday soccer pickup game on the main Helix fie
+ lds. Organizers say the game is on even if it rains. Anyone can drop in\; 
+ bring cleats and both a light and dark shirt if you have them.\nHost: Bayl
+ or Soccer\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
+ event/96.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/96.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-125@local
+DTSTAMP:20261006T180058Z
+LAST-MODIFIED:20261006T180058Z
+DTSTART:20261008T223000Z
+DTEND:20261008T233000Z
+SUMMARY:Baylor Soccer: Pickup Game
+STATUS:CONFIRMED
+DESCRIPTION:Casual pickup soccer with the Baylor Soccer group\, starting at
+  5:30 PM now that the weather is cooler. Open to anyone who wants to drop 
+ in\; bring cleats/shin guards if you have them.\nHost: Baylor Soccer\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/125.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/125.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-14@local
+DTSTAMP:20261006T180054Z
+LAST-MODIFIED:20261006T180054Z
+DTSTART:20261010T130000Z
+DTEND:20261010T153000Z
+SUMMARY:BCM 5K & Well-Being Fair: Volunteering
+STATUS:CONFIRMED
+DESCRIPTION:Volunteers help in the Kids Zone\, cheer at the finish line\, a
+ nd hand out water (sign up on SignUpGenius). Baylor Soccer also needs 2–
+ 4 people to play soccer with kids from 8:30–10:30 AM\; like the post in 
+ the Baylor Soccer chat.\nHost: BCM 5k Committee / Baylor Soccer\nRSVP requ
+ ested: https://www.signupgenius.com/go/10C054BAAA923A0FCC34-64860155-bcmco
+ mmunity#/\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
+ event/14.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/14.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+END:VCALENDAR

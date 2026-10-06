@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · Green Squad 2026-2027
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-78@local
+DTSTAMP:20260925T000607Z
+LAST-MODIFIED:20260925T000607Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Green Squad MS1 Post-Exam Donuts & Brownies
+STATUS:CONFIRMED
+LOCATION:Green Squad room
+DESCRIPTION:Dr. Lin\, green squad faculty director\, is bringing donuts for
+  green squad MS1s after the morning FOM exam\, and Afraaz is bringing brow
+ nies. Stop by the squad room for a quick snack.\nTime not announced yet.\n
+ Host: Green Squad\nDetails: https://jerrywang123454321-maker.github.io/bcm
+ -events/event/78.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/78.html
+CATEGORIES:Social
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-111@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261011T150000Z
+DTEND:20261011T170000Z
+SUMMARY:Green Squad Pickleball Social
+STATUS:CONFIRMED
+LOCATION:Ion Pickle Lab\, 4203 Fannin St
+DESCRIPTION:Casual pickleball games with the Green Squad. All skill levels 
+ welcome. Bring your own paddle\; a limited number of paddles will be avail
+ able to rent for $5.\nHost: Green Squad\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/111.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/111.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-49@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261103T190000Z
+DTEND:20261103T213000Z
+SUMMARY:Joint Squad Volunteering: Packing Lunches at Kids' Meals
+STATUS:CONFIRMED
+LOCATION:Kids' Meals\, 8790 Hammerly Boulevard\, Houston\, TX
+DESCRIPTION:Joint squad volunteering event packing lunches\, which also ear
+ ns SLP volunteering points. It's a bit of a drive\, so carpooling is encou
+ raged.\nHost: Green Squad\nRSVP requested: https://kidsmealsinc.volunteerh
+ ub.com/vv2/\nDetails: https://jerrywang123454321-maker.github.io/bcm-event
+ s/event/49.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/49.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+END:VCALENDAR

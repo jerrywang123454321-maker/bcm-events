@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · CMDA @ BCM
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-4@local
+DTSTAMP:20260930T200005Z
+LAST-MODIFIED:20260930T200005Z
+DTSTART:20260909T233000Z
+DTEND:20260910T010000Z
+SUMMARY:BCM SOAP Bible Study
+STATUS:CONFIRMED
+LOCATION:5925 Almeda Road
+DESCRIPTION:Monthly SOAP Bible study!\nDinner and drinks will be provided. 
+ It’ll be a time of studying the Word\, sharing what stood out to us\, ap
+ plying it in our own lives\, and praying together. This is meant to be a s
+ afe and casual space. Excited to see you all there!\nDetails: https://jerr
+ ywang123454321-maker.github.io/bcm-events/event/4.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/4.html
+CATEGORIES:Student org
+END:VEVENT
+END:VCALENDAR

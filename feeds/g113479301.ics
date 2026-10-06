@@ -1,0 +1,768 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · BCM '30 Houston
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-30@local
+DTSTAMP:20260916T174846Z
+LAST-MODIFIED:20260916T174846Z
+DTSTART:20260915T223000Z
+DTEND:20260915T233000Z
+SUMMARY:IMIG: Caring for Older Adults Panel
+STATUS:CONFIRMED
+LOCATION:M321/323
+DESCRIPTION:Round-table panel on geriatrics with Dr. Kristina Little\, Dr. 
+ Syed Ahsan Rizvi\, and Dr. Angela Catic\; counts for 1 SLP education point
+ .\nHost: Internal Medicine Interest Group (IMIG)\nRSVP requested by Sun Se
+ p 13\, 11:59 PM: https://docs.google.com/forms/d/e/1FAIpQLSdk7sHF-biXdfURF
+ 6wFTF4JwM3wcKNSyTTttDS6BhA-tResYg/viewform?usp=header\nDetails: https://je
+ rrywang123454321-maker.github.io/bcm-events/event/30.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/30.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-29@local
+DTSTAMP:20260916T170250Z
+LAST-MODIFIED:20260916T170250Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Welcome Committee: Anki Highlight Challenge Submission Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Clarification: photos or screenshots of Anki stats don't count.
+  Only video clips or skits for the highlight reel count. If you sent a pho
+ to\, you can send a video instead.\nHost: Welcome Committee\nDetails: http
+ s://jerrywang123454321-maker.github.io/bcm-events/event/29.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/29.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-52@local
+DTSTAMP:20260916T220033Z
+LAST-MODIFIED:20260916T220033Z
+DTSTART:20260916T220000Z
+DTEND:20260916T230000Z
+SUMMARY:IRIG: Intro to IR Event
+STATUS:CONFIRMED
+LOCATION:Room 323
+DESCRIPTION:Meet the Interventional Radiology Interest Group team and learn
+  about interventional radiology. Shawarma provided.\nHost: Interventional 
+ Radiology Interest Group (IRIG)\nDetails: https://jerrywang123454321-maker
+ .github.io/bcm-events/event/52.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/52.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-34@local
+DTSTAMP:20260917T120853Z
+LAST-MODIFIED:20260917T120853Z
+DTSTART:20260916T223000Z
+DTEND:20260916T233000Z
+SUMMARY:CKC: Introduction to Pediatric Oncology Talk & Q&A
+STATUS:CONFIRMED
+LOCATION:Room N317
+DESCRIPTION:Kickoff event: 'What is Pediatric Oncology?' talk and Q&A with 
+ Dr. Eric Schafer\, Associate Professor and Director of the Leukemia Progra
+ m at Texas Children's Hospital. Dinner provided.\nHost: CKC\nRSVP requeste
+ d by Tue Sep 15\, 11:59 PM: https://forms.gle/2gEbKuQqs7zfP69M7\nDetails: 
+ https://jerrywang123454321-maker.github.io/bcm-events/event/34.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/34.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-35@local
+DTSTAMP:20260916T174852Z
+LAST-MODIFIED:20260916T174852Z
+DTSTART:20260916T223000Z
+DTEND:20260917T010000Z
+SUMMARY:GOBIG: Meet the Residents
+STATUS:CONFIRMED
+LOCATION:Axelrad Beer Garden
+DESCRIPTION:Meet OB/GYN residents. Open to students interested in OB/GYN or
+  still undecided. Dinner (tacos) provided.\nHost: GOBIG (Gynecology and Ob
+ stetrics Interest Group)\nRSVP requested\nDetails: https://jerrywang123454
+ 321-maker.github.io/bcm-events/event/35.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/35.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-28@local
+DTSTAMP:20260916T174844Z
+LAST-MODIFIED:20260916T174844Z
+DTSTART:20260916T230000Z
+DTEND:20260917T000000Z
+SUMMARY:SIGN: Meet the Mentors Neurology Panel
+STATUS:CONFIRMED
+LOCATION:M321/323
+DESCRIPTION:Faculty panel on neurology subspecialty careers\, including Drs
+ . Bellows\, Kung\, Maheshwari\, Kass\, Moore\, Goldsmith\, Jimenez Gomez\,
+  Edmonson\, Damani\, and Dasgupta.\nHost: SIGN (Student Interest Group in 
+ Neurology)\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSem5c
+ vityZF3Az18BMEWjvaqI1vO4FWm7StBtV5tode1i8skQ/viewform?usp=header\nDetails:
+  https://jerrywang123454321-maker.github.io/bcm-events/event/28.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/28.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-31@local
+DTSTAMP:20260916T175256Z
+LAST-MODIFIED:20260916T175256Z
+DTSTART:20260917T170000Z
+DTEND:20260917T190000Z
+SUMMARY:FirstGen MD: Snacks + Research Tips
+STATUS:CONFIRMED
+LOCATION:Table by the squad rooms
+DESCRIPTION:Drop in anytime for snacks and tips on getting involved in clin
+ ical or wet lab research.\nHost: FirstGen MD\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/31.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/31.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-36@local
+DTSTAMP:20260916T175259Z
+LAST-MODIFIED:20260916T175259Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:BCM CHILD: Fall Kickoff Playdate for Student Parents
+STATUS:CONFIRMED
+LOCATION:The Little Gym\, Pearland
+DESCRIPTION:Fall kickoff for BCM student parents and expectant parents\, an
+ d their kids. Contact Priscilla Albán-Acuña (MS2).\nTime not announced y
+ et.\nHost: BCM CHILD\nRSVP requested: https://forms.gle/72QzpaiWcjjBFsNp8\
+ nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/36.h
+ tml
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/36.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-33@local
+DTSTAMP:20260916T170255Z
+LAST-MODIFIED:20260916T170255Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Cardiothoracic Surgery Interest Group: Officer Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications for officer positions with the Cardiothoracic Surg
+ ery Interest Group.\nHost: Cardiothoracic Surgery Interest Group\nDetails:
+  https://jerrywang123454321-maker.github.io/bcm-events/event/33.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/33.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-37@local
+DTSTAMP:20260922T020035Z
+LAST-MODIFIED:20260922T020035Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Health Heroes: E-Board Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Open roles: Communications Representative and 2 Curriculum Repr
+ esentatives. Health Heroes teaches health lessons to 4th and 5th graders.\
+ nHost: Health Heroes\nDetails: https://jerrywang123454321-maker.github.io/
+ bcm-events/event/37.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/37.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-20@local
+DTSTAMP:20260922T160417Z
+LAST-MODIFIED:20260922T160417Z
+DTSTART:20260922T230000Z
+DTEND:20260923T000000Z
+SUMMARY:BCM Run Club
+STATUS:CONFIRMED
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
+ tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/20.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/20.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-38@local
+DTSTAMP:20260916T170301Z
+LAST-MODIFIED:20260916T170301Z
+DTSTART:20260923T170000Z
+DTEND:20260923T180000Z
+SUMMARY:DISCO AIM Session (Houston)
+STATUS:CONFIRMED
+LOCATION:Kleberg Auditorium
+DESCRIPTION:AIM session for the Houston campus only. Lunch provided.\nHost:
+  DISCO\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/eve
+ nt/38.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/38.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-32@local
+DTSTAMP:20260916T170254Z
+LAST-MODIFIED:20260916T170254Z
+DTSTART:20260924T233000Z
+DTEND:20260925T003000Z
+SUMMARY:Rice RPMS Med Mentor Night (M&M Night)
+STATUS:CONFIRMED
+LOCATION:Rice University
+DESCRIPTION:Mentor Rice pre-med undergraduates in small-group conversations
+  about applications\, interviews\, and med school life. Parking reimbursed
+ \; logistics sent the week before.\nHost: Rice University RPMS Mentorship 
+ Committee\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSe31UI
+ n8f7rR4GJ2C4-BVwo3KN8a1z-ExKYm7CVHrhtyDLF5A/viewform\nDetails: https://jer
+ rywang123454321-maker.github.io/bcm-events/event/32.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/32.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-74@local
+DTSTAMP:20260924T020037Z
+LAST-MODIFIED:20260924T020037Z
+DTSTART:20260925T150000Z
+DTEND:20260925T155000Z
+SUMMARY:Yearbook Club Coffee Fundraiser (Morning Session)
+STATUS:CONFIRMED
+LOCATION:Squad Rooms
+DESCRIPTION:Yearbook Club is selling coffee between exams to raise funds. M
+ orning sale session\; a second session runs 12:00-12:50 PM the same day.\n
+ Host: Yearbook Club\nDetails: https://jerrywang123454321-maker.github.io/b
+ cm-events/event/74.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/74.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-25@local
+DTSTAMP:20260925T201323Z
+LAST-MODIFIED:20260925T201323Z
+DTSTART:20260925T203000Z
+DTEND:20260925T213000Z
+SUMMARY:Matthew Carter Service Day: Talk from Dr. Carter
+STATUS:CONFIRMED
+LOCATION:Cullen Auditorium
+DESCRIPTION:Location changed from Room 112 to Cullen Auditorium. Free Tiny'
+ s cookies will be provided.\nHost: Matthew Carter Service Day\nDetails: ht
+ tps://jerrywang123454321-maker.github.io/bcm-events/event/25.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/25.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-26@local
+DTSTAMP:20260926T140020Z
+LAST-MODIFIED:20260926T140020Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Matthew Carter Service Day: Community Volunteering
+STATUS:CONFIRMED
+LOCATION:Various community sites
+DESCRIPTION:Morning volunteering at community sites. SLP points are based o
+ n hours served.\nHost: Matthew Carter Service Day (MCSD)\nRSVP requested b
+ y Mon Sep 7\, 11:59 PM: https://docs.google.com/spreadsheets/d/15LBi_EXk8Z
+ hGvqbK0ZYvgFQHbF9czdVkQb7ABVfl8OI/edit?gid=1041014375#gid=1041014375\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/26.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/26.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-27@local
+DTSTAMP:20260926T180910Z
+LAST-MODIFIED:20260926T180910Z
+DTSTART:20260926T173000Z
+DTEND:20260926T183000Z
+SUMMARY:Matthew Carter Service Day: Lunch & Keynote by Dr. Ricardo Nuila
+STATUS:CONFIRMED
+LOCATION:McMillan Auditorium
+DESCRIPTION:Organizers will make an announcement about parking reimbursemen
+ t before the talk begins\; funds are available to reimburse students who h
+ ad to pay for campus parking. Bring your Baylor badge for front-lot parkin
+ g and carpool if possible.\nHost: Matthew Carter Service Day\nDetails: htt
+ ps://jerrywang123454321-maker.github.io/bcm-events/event/27.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/27.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-82@local
+DTSTAMP:20260926T020650Z
+LAST-MODIFIED:20260926T020650Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Longitudinal Community Care\, Practices\, and Services Elective: Di
+ dactic Leader Application Deadline (Extended)
+STATUS:CONFIRMED
+DESCRIPTION:Deadline extended to Sunday\, September 27 to apply as a didact
+ ic leader for the Longitudinal Community Care\, Practices\, and Services e
+ lective\, which begins in Term 2 and connects students with faculty and th
+ e Care of the Underserved Pathway. Participation may support future capsto
+ ne acceptance and a student-led longitudinal community project that can be
+  presented\, published\, or listed on residency applications.\nHost: Longi
+ tudinal Community Care\, Practices\, and Services Elective\nDetails: https
+ ://jerrywang123454321-maker.github.io/bcm-events/event/82.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/82.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-24@local
+DTSTAMP:20260928T160025Z
+LAST-MODIFIED:20260928T160025Z
+DTSTART:20260928T223000Z
+DTEND:20260928T233000Z
+SUMMARY:Surgery Medical Student Research Session
+STATUS:CONFIRMED
+LOCATION:Alkek M321 & M323
+DESCRIPTION:Hosted by the SOAR Office and Medical Student Research Ambassad
+ ors. Hear about research from students\, residents\, and faculty in genera
+ l\, plastic\, vascular\, and cardiothoracic surgery\, and meet possible me
+ ntors. You can apply for one of 3 oral presentation spots or give a 1-minu
+ te research pitch.\nHost: SOAR Office & Medical Student Research Ambassado
+ rs\nRSVP requested: https://form.jotform.com/260263686131152\nDetails: htt
+ ps://jerrywang123454321-maker.github.io/bcm-events/event/24.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/24.html
+CATEGORIES:Research
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-75@local
+DTSTAMP:20260924T020037Z
+LAST-MODIFIED:20260924T020037Z
+DTSTART:20260928T223000Z
+DTEND:20260928T233000Z
+SUMMARY:MediTech: Club Kickoff Meeting
+STATUS:CONFIRMED
+LOCATION:Alkek N311
+DESCRIPTION:First MediTech meeting of the year covering medical innovation 
+ from the clinician side: device design\, digital health\, patents and star
+ tups\, plus the year's planned speakers\, workshops\, and research/industr
+ y opportunities around the TMC. No engineering background needed.\nHost: M
+ ediTech\nRSVP requested\nDetails: https://jerrywang123454321-maker.github.
+ io/bcm-events/event/75.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/75.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-89@local
+DTSTAMP:20260928T220035Z
+LAST-MODIFIED:20260928T220035Z
+DTSTART:20260928T230000Z
+DTEND:20260929T000000Z
+SUMMARY:MEPSY 570: When Appraisal Fails — Real-World EBM (Session 1)
+STATUS:CONFIRMED
+LOCATION:Virtual (Zoom)\; Houston + Temple
+DESCRIPTION:First lecture of a new 0.5-credit MS1/MS2 virtual elective on r
+ eal-world evidence-based medicine\, covering medical reversals\, misleadin
+ g studies\, bias\, and COVID-era EBM failures. Completion-based final proj
+ ect fulfills a clerkship requirement\; prospective students can drop into 
+ Lecture 1 to sample it.\nHost: BCM MEPSY 570 Elective\nRSVP requested\nDet
+ ails: https://jerrywang123454321-maker.github.io/bcm-events/event/89.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/89.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-21@local
+DTSTAMP:20260929T140011Z
+LAST-MODIFIED:20260929T140011Z
+DTSTART:20260929T230000Z
+DTEND:20260930T000000Z
+SUMMARY:BCM Run Club
+STATUS:CONFIRMED
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
+ tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/21.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/21.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-88@local
+DTSTAMP:20261001T190408Z
+LAST-MODIFIED:20261001T190408Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Class Mini Coffee Shop Fundraiser: Coffee Pickup
+STATUS:CONFIRMED
+LOCATION:Baylor Loop
+DESCRIPTION:Morning pickup for pre-ordered coffee from the class mini coffe
+ e shop fundraiser\; pickup is at the Baylor Loop at approximately 7:55 AM.
+ \nHost: Med Prom & Socials Committee\nRSVP requested by Wed Sep 30\, 12:00
+  AM: https://forms.gle/CkbU2Yn5QDRMMmJT9\nDetails: https://jerrywang123454
+ 321-maker.github.io/bcm-events/event/88.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/88.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-85@local
+DTSTAMP:20261001T190408Z
+LAST-MODIFIED:20261001T190408Z
+DTSTART:20260930T220000Z
+DTEND:20260930T230000Z
+SUMMARY:Student Clinical Skills Society: Telehealth Clinical Skills Lecture
+  with Dr. Eric Lee
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Virtual session with Dr. Eric Lee on how to perform physical ex
+ ams during a telemedicine/telehealth visit.\nHost: Student Clinical Skills
+  Society\nRSVP requested\nOnline option: link in the group chat.\nDetails:
+  https://jerrywang123454321-maker.github.io/bcm-events/event/85.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/85.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-83@local
+DTSTAMP:20261001T190406Z
+LAST-MODIFIED:20261001T190406Z
+DTSTART:20260930T230000Z
+DTEND:20261001T000000Z
+SUMMARY:Medical Mandarin Language Club: Meeting with Dr. Wen Bu
+STATUS:CONFIRMED
+LOCATION:N311
+DESCRIPTION:Learn practical medical Mandarin with BCM Professor Dr. Wen Bu.
+  No prior Mandarin experience required. Food will be provided.\nHost: Medi
+ cal Mandarin Language Club\nRSVP requested: https://forms.gle/achzKVvDVwrE
+ FSr6A\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/83.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/83.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-100@local
+DTSTAMP:20261001T190412Z
+LAST-MODIFIED:20261001T190412Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:DAUP Completion Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Classmates note the DAUP attestation (from the 9/24 school emai
+ l) is due tomorrow. One student wrote 'DUAP'\, a typo for DAUP.\nDetails: 
+ https://jerrywang123454321-maker.github.io/bcm-events/event/100.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/100.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-105@local
+DTSTAMP:20261001T220028Z
+LAST-MODIFIED:20261001T220028Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:When Medicine Gets It Wrong Elective: Class Session on the Opioid E
+ pidemic
+STATUS:CONFIRMED
+DESCRIPTION:Session of the new MS1/MS2 elective 'When Medicine Gets It Wron
+ g\,' covering the opioid epidemic and how practices become standard of car
+ e. Billed as the last class before the add/drop period ends. The meeting l
+ ink is not posted publicly\; message the MS3 student leader in the group c
+ hat for it.\nHost: When Medicine Gets It Wrong Elective (MS1/MS2 elective)
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/105
+ .html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/105.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-94@local
+DTSTAMP:20261002T183107Z
+LAST-MODIFIED:20261002T183107Z
+DTSTART:20261002T210000Z
+DTEND:20261003T020000Z
+SUMMARY:Cabo Bob's Profit Share Fundraiser (Med Prom & Socials)
+STATUS:CONFIRMED
+LOCATION:Cabo Bob's\, 1810 Fountain View Dr\, Houston\, TX 77057
+DESCRIPTION:34% of proceeds go toward med prom and socials. You MUST show t
+ he flyer at checkout and say you're part of the BCM profit share. Also a s
+ quad competition — the squad with the most attendees gets extra money fo
+ r the year toward food/activities. Bring MS2 parents and friends.\nHost: B
+ CM Class of '30 Med Prom & Socials Committee\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/94.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/94.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-93@local
+DTSTAMP:20261002T220017Z
+LAST-MODIFIED:20261002T220017Z
+DTSTART:20261002T220000Z
+DTEND:20261003T000000Z
+SUMMARY:BCM COAG: Climbing Social
+STATUS:CONFIRMED
+LOCATION:Momentum Silver Street
+DESCRIPTION:Climbing and Outdoor Adventure Group social at Momentum Silver 
+ Street\; all levels welcome\, and the first 20 sign-ups climb for free.\nH
+ ost: BCM COAG (Climbing and Outdoor Adventure Group)\nRSVP requested: http
+ s://docs.google.com/spreadsheets/d/1H8HCCl8ufKgn1NLcJKOD-gCDC4hII7qk2ZV6CR
+ py6rU/edit?usp=sharing\nDetails: https://jerrywang123454321-maker.github.i
+ o/bcm-events/event/93.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/93.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-59@local
+DTSTAMP:20261002T120135Z
+LAST-MODIFIED:20261002T120135Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Research Survey on Confidence & Self-Efficacy in Research: Closing 
+ Date (Extended)
+STATUS:CONFIRMED
+DESCRIPTION:Survey on self-efficacy and research\, takes about 3 minutes. D
+ eadline extended by one week from the original September 25 closing date\;
+  link was shared as an Outlook safelinks URL in the chat.\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/59.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/59.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-61@local
+DTSTAMP:20261002T120135Z
+LAST-MODIFIED:20261002T120135Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Anki Challenge: Video Clip Submission Deadline (Extended)
+STATUS:CONFIRMED
+DESCRIPTION:Deadline extended to October 2nd after Student Affairs increase
+ d the prize pool: $100/$50/$25 gift cards for 1st/2nd/3rd place plus $150 
+ toward a PRN hangout for the PRN with the best collection of highlights. S
+ ubmissions must be VIDEO CLIPS\, not screenshots — unedited funny or imp
+ ressive Anki moments are fine.\nHost: BCM Student Affairs\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/61.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/61.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-106@local
+DTSTAMP:20261002T120135Z
+LAST-MODIFIED:20261002T120135Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:When Medicine Gets It Wrong Elective: Add/Drop Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Last day to add or drop the new MS1/MS2 elective 'When Medicine
+  Gets It Wrong\,' which covers how medicine arrives at standard of care\, 
+ publishing stronger papers\, and topics such as the opioid epidemic.\nHost
+ : When Medicine Gets It Wrong Elective (MS1/MS2 elective)\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/106.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/106.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-114@local
+DTSTAMP:20261005T120050Z
+LAST-MODIFIED:20261005T120050Z
+DTSTART:20261005T223000Z
+DTEND:20261005T233000Z
+SUMMARY:PM&R Interest Group: What is PM&R?
+STATUS:CONFIRMED
+LOCATION:Baylor Main\, M321\, 1 Baylor Plz\, Houston\, TX 77030
+DESCRIPTION:Intro session on Physical Medicine & Rehabilitation with a pres
+ entation by Dr. Charnay followed by Q&A. Snacks and drinks provided.\nHost
+ : PM&R Student Interest Group\nRSVP requested: https://forms.gle/MNiuhG8j7
+ nWhhx9c7\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
+ vent/114.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/114.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-39@local
+DTSTAMP:20261006T180055Z
+LAST-MODIFIED:20261006T180055Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:CTSIG: Journal Club on Aortic Surgery
+STATUS:CONFIRMED
+LOCATION:Microsoft Teams
+DESCRIPTION:Discussion of a paper on CSF drainage in thoracoabdominal aorti
+ c aneurysm repair\, plus a talk on protecting the brain during aortic arch
+  replacement. All class years welcome\; you can sign up to lead discussion
+ . Heads up: the post says "Sunday October 6"\, but October 6 is a Tuesday\
+ , and no time was given\, so check with CTSIG.\nTime not announced yet.\nH
+ ost: Cardiothoracic Surgery Interest Group (CTSIG)\nRSVP requested by Sun 
+ Sep 27\, 11:59 PM: https://docs.google.com/forms/d/e/1FAIpQLScak5EkzDsWDhX
+ 27BKiD3CT6PGa3HZ1xEaePn7k9Y6Zy1tnQw/viewform?usp=header\nDetails: https://
+ jerrywang123454321-maker.github.io/bcm-events/event/39.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/39.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-40@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261006T171000Z
+DTEND:20261006T181000Z
+SUMMARY:History of Anesthesia Elective: Introduction to Anesthesia History
+STATUS:CONFIRMED
+LOCATION:Microsoft Teams
+DESCRIPTION:Session 1 of 8 in the Term 2 MS1 preclinical elective\; speaker
+  James Anton\, MD. Grade is 100% attendance based.\nHost: BCM Department o
+ f Anesthesiology\nRSVP requested\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/40.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/40.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-22@local
+DTSTAMP:20261006T180051Z
+LAST-MODIFIED:20261006T180051Z
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+SUMMARY:BCM Run Club
+STATUS:CONFIRMED
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
+ tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/22.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/22.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-121@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261007T230000Z
+DTEND:20261008T000000Z
+SUMMARY:Pharm Phriends: CRR Pharm Review — Pharmacology of Antithrombotic
+ s
+STATUS:CONFIRMED
+LOCATION:Kleberg (Houston campus)
+DESCRIPTION:First Pharm Phriends review session of the series\, covering th
+ e pharmacology of antithrombotics as part of the CRR block pharm review. P
+ eer-led session open to students.\nDetails: https://jerrywang123454321-mak
+ er.github.io/bcm-events/event/121.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/121.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-123@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+SUMMARY:Histo Buddies x IMIG: CRR Test 1 Review (Pulmonary & Renal Histolog
+ y)
+STATUS:CONFIRMED
+LOCATION:N315
+DESCRIPTION:First Histo Buddies session\, hosted by the Pathology Interest 
+ Group (PIG) with IMIG\, reviewing for CRR Test 1. Covers pulmonary and ren
+ al histology\, nephritic vs. nephrotic pathology and histology\, plus ques
+ tion strategies and practice problems curated by IMIG and PIG. Bring any o
+ ther questions you have.\nHost: Pathology Interest Group (PIG) in collabor
+ ation with IMIG\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
+ vents/event/123.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/123.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-71@local
+DTSTAMP:20261006T180056Z
+LAST-MODIFIED:20261006T180056Z
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+SUMMARY:BCM 5K & Well-Being Fair
+STATUS:CONFIRMED
+DESCRIPTION:BCM's annual 5K and Well-Being Fair\, starting at 8:00 AM. Regi
+ ster online and join the student team "BCM Medical Students" (the team pas
+ sword is in the original post below).\nHost: Baylor College of Medicine (B
+ CM 5k/1k)\nRSVP requested: https://baylorcollegeofmedicine5kkids1k.itsyour
+ race.com/event.aspx?id=14694\nDetails: https://jerrywang123454321-maker.gi
+ thub.io/bcm-events/event/71.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/71.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-23@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261013T230000Z
+DTEND:20261014T000000Z
+SUMMARY:BCM Run Club
+STATUS:CONFIRMED
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
+ tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/23.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/23.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-120@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:BCM LIVE: Performer Sign-Up Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Deadline to sign up to perform in BCM LIVE\, Student Senate's a
+ nnual talent show on Nov 9. Acts of any kind are accepted — singing\, da
+ ncing\, instruments\, skits\, standup\, magic\, etc. Performers earn bonus
+  squad cup points.\nHost: BCM Student Senate\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/120.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/120.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-104@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:ACGME Proposed Residency Requirement Changes: Public Comment Deadli
+ ne
+STATUS:CONFIRMED
+DESCRIPTION:ACGME is proposing changes to residency program requirements th
+ at could reduce resident protections\, and is accepting public feedback th
+ rough October 22. Students\, residents\, fellows\, program directors\, and
+  the general public can submit comments\; a browser extension/web tool was
+  shared in the chat to help auto-fill the comment survey with prewritten o
+ bjections.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
+ /event/104.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/104.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-101@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Epic Gold Login Validation Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Epic Gold login validation must be completed\; a classmate cite
+ s an email received 9/29 stating October 28.\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/101.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/101.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-119@local
+DTSTAMP:20261006T120227Z
+LAST-MODIFIED:20261006T120227Z
+DTSTART:20261110T000000Z
+DTEND:20261110T010000Z
+SUMMARY:BCM LIVE: Student Senate Talent & Performance Show
+STATUS:CONFIRMED
+LOCATION:Rayzor Lounge
+DESCRIPTION:Student Senate's annual talent and performance show featuring a
+ cts from classmates (singing\, dancing\, instruments\, skits\, standup\, m
+ agic\, and more). Free dinner is provided\, and attending earns points for
+  your squad in the squad cup competition\, with bonus points for performer
+ s. Performer sign-ups close Oct 19.\nHost: BCM Student Senate\nDetails: ht
+ tps://jerrywang123454321-maker.github.io/bcm-events/event/119.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/119.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-102@local
+DTSTAMP:20261006T120229Z
+LAST-MODIFIED:20261006T120229Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Dean's Distinction in High Value Care: MS1 Sign-Up Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Baylor is offering a Dean's Distinction in High Value Care for 
+ MS1s interested in QI\, healthcare costs\, research\, or High Value Care. 
+ Most requirements are virtual and spread throughout the year\, and it can 
+ count toward the QI pathway. Signing up is non-binding.\nHost: Baylor Coll
+ ege of Medicine (Dean's Distinction in High Value Care)\nRSVP requested by
+  Fri Dec 4\, 11:59 PM: https://forms.cloud.microsoft/r/hn7NekY19F\nDetails
+ : https://jerrywang123454321-maker.github.io/bcm-events/event/102.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/102.html
+CATEGORIES:Deadline
+END:VEVENT
+END:VCALENDAR
