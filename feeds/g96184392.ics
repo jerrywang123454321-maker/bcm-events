@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · Curing Kids' Cancer 26-27
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-126@local
+DTSTAMP:20261006T222533Z
+LAST-MODIFIED:20261006T222533Z
+DTSTART:20261014T170000Z
+DTEND:20261014T180000Z
+SUMMARY:Curing Kids' Cancer: Fall Arts and Crafts Event
+STATUS:CONFIRMED
+LOCATION:McMillian Auditorium
+DESCRIPTION:CKC's annual fall arts and crafts event in partnership with the
+  Texas Children's Hospital Heme/Onc team: make puzzles\, coloring books\, 
+ and cards for kids on the TCH Heme/Onc service. Food will be provided and 
+ attendance counts as 1 SLP volunteering point.\nHost: BCM Curing Kids' Can
+ cer (CKC)\nRSVP requested: https://forms.gle/Gh1JY3vbA6wG7kGJ8\nDetails: h
+ ttps://jerrywang123454321-maker.github.io/bcm-events/event/126.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/126.html
+CATEGORIES:Interest group
+END:VEVENT
+END:VCALENDAR
