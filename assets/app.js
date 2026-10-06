@@ -18,6 +18,36 @@
     set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} },
   };
 
+  // ---------- anonymous usage counts (GoatCounter: no cookies, nothing about who you are) ----------
+  // Only the page's path and taps on a few buttons are counted, never event titles or the key after "#".
+  // Open any page with #nocount once to stop counting this device (the site owner's own visits).
+  const counter = $('meta[name="goatcounter"]');
+  const counting = (function () {
+    if (!counter || location.protocol !== "https:" || navigator.webdriver) return false;
+    if (/[#&]nocount\b/.test(location.hash)) {
+      store.set("nocount", "1");
+      try { history.replaceState(null, "", location.pathname + location.search); } catch (e) {}
+    }
+    return store.get("nocount") !== "1";
+  })();
+  function count(path, event) {
+    if (!counting) return;
+    let ref = "";
+    try { const r = new URL(document.referrer); if (r.host !== location.host) ref = r.origin + r.pathname; } catch (e) {}
+    const url = counter.content + "?" + new URLSearchParams({ p: path, r: ref, e: event ? "true" : "false", s: String(screen.width || ""),
+      b: "0", rnd: Math.random().toString(36).slice(2) });
+    try { if (navigator.sendBeacon && navigator.sendBeacon(url)) return; } catch (e) {}
+    new Image().src = url;
+  }
+  if (counting) {
+    count(location.pathname, false);
+    let via = null; try { via = sessionStorage.getItem("unlocked-via"); sessionStorage.removeItem("unlocked-via"); } catch (e) {}
+    if (via === "link" || via === "password") count("unlock-" + via, true);
+    const standalone = (window.matchMedia && matchMedia("(display-mode: standalone)").matches) || navigator.standalone;
+    try { if (standalone && !sessionStorage.getItem("counted-home")) { sessionStorage.setItem("counted-home", "1"); count("home-screen", true); } } catch (e) {}
+    document.addEventListener("click", e => { const t = e.target.closest && e.target.closest("[data-count]"); if (t) count(t.dataset.count, true); });
+  }
+
   // ---------- the page's events, embedded as JSON (agenda and calendar) ----------
   const DATA = (function () { const el = $("#events-data"); if (!el) return []; try { return JSON.parse(el.textContent) || []; } catch (e) { return []; } })();
   const byId = new Map(DATA.map(e => [String(e.id), e]));
@@ -388,6 +418,7 @@
       follows = loadSet("my-orgs");
       follows.has(id) ? follows.delete(id) : follows.add(id);
       saveFollows(); render();
+      if (follows.has(id)) count("follow", true);
       toast(follows.has(id) ? "Following " + name + ". Tap My orgs on the agenda to see just the chats you follow." : "Stopped following " + name, 3500);
     });
   });
@@ -408,6 +439,7 @@
       plans = loadSet("my-plans");
       plans.has(id) ? plans.delete(id) : plans.add(id);
       savePlans();
+      if (plans.has(id)) count("going", true);
       $$('[data-plan="' + id + '"]').forEach(renderPlan);
       if (toolbar) apply();
       toast(plans.has(id) ? "Added to My plans. Find them all under My plans on the agenda." : "Removed from My plans", plans.has(id) ? 3000 : 1800);
@@ -429,6 +461,7 @@
     const url = b.dataset.shareLink || shareLink(b.dataset.shareUrl);
     const keyed = url.indexOf("#key=") >= 0;
     const data = { title: b.dataset.title || document.title, url };
+    count("share", true);
     if (b.dataset.text) data.text = b.dataset.text;
     if (navigator.share) {
       try { await navigator.share(data); return; } catch (e) { if (e && e.name === "AbortError") return; }
@@ -571,6 +604,7 @@
     btn.disabled = true;
     try {
       await botPost(form.dataset.bot, "📥 Chat request: " + (name || "(no name)") + " → " + m[0]);
+      count("chat-request", true);
       form.reset(); sayIn(status, "Sent, thanks! It'll show up once it's added.", true);
     } catch (err) {
       sayIn(status, "Couldn't send that right now. Please try again in a bit.", false);
@@ -589,6 +623,7 @@
     btn.disabled = true;
     try {
       await botPost(d.bot, text);
+      count("report", true);
       form.reset(); sayIn(status, "Thanks! It gets checked against the group chats before anything changes.", true);
     } catch (err) {
       sayIn(status, "Couldn't send that right now. Please try again in a bit.", false);

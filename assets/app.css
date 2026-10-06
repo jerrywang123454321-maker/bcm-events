@@ -415,3 +415,9 @@ dialog.picker::backdrop { background: rgba(8, 14, 30, .45); }
 .fw-note { margin: 14px 0 0; text-align: center; }
 .linkish { padding: 0; border: 0; background: none; color: var(--accent); font: inherit; text-decoration: underline; cursor: pointer; }
 
+
+/* ---------- dashboard: usage ---------- */
+.usage-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 190px), 1fr)); gap: 12px; }
+.usage-stat { padding: 14px 16px; }
+.usage-num { font-size: 28px; font-weight: 700; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.usage-delta { color: var(--text-2); margin-top: 4px; }
