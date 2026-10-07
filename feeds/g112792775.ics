@@ -84,8 +84,8 @@ CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-58@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:AFFIRM: Interventional Radiology Educational Day for Women Medical 
@@ -106,27 +106,28 @@ CATEGORIES:Career / specialty
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-72@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160154Z
+LAST-MODIFIED:20261007T160154Z
 DTSTART:20261012T170000Z
 DTEND:20261012T180000Z
 SUMMARY:Research Grand Rounds: Idea Generation and Methodology
 STATUS:CONFIRMED
 LOCATION:McMillan Auditorium
-DESCRIPTION:Next session in the SOAR Research Grand Rounds series\, coverin
- g idea generation and methodology\, presented by Dr. Sarkar. Questions are
-  collected in advance so the session can target attendees' knowledge gaps\
- , with live Q&A at the end\; food provided and a Teams link for those who 
- cannot attend in person.\nHost: SOAR Research Grand Rounds\nRSVP requested
- : https://redcap.research.bcm.edu/redcap/surveys/?s=C37sWzQp5oZYP2EA\nDeta
- ils: https://jerrywang123454321-maker.github.io/bcm-events/event/72.html
+DESCRIPTION:Session with Dr. Sarkar on research idea generation and methodo
+ logy. The REDCap registration form that had been broken is working again\;
+  register in advance to submit questions. Food is provided for in-person a
+ ttendees in McMillian\, and a Teams link will be shared so the session can
+  also be attended virtually.\nHost: SOAR / Research Grand Rounds\nRSVP req
+ uested: https://redcap.research.bcm.edu/redcap/surveys/?s=C37sWzQp5oZYP2EA
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/72.
+ html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/72.html
 CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-99@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:AOA Kuckein Student Research Fellowship: Mini Proposal Deadline
@@ -141,8 +142,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-18@local
-DTSTAMP:20261006T180054Z
-LAST-MODIFIED:20261006T180054Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
@@ -159,8 +160,8 @@ CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-19@local
-DTSTAMP:20261006T180055Z
-LAST-MODIFIED:20261006T180055Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:SOAR Research Grand Rounds: From Data to Manuscript

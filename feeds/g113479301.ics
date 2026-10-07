@@ -613,8 +613,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-121@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART:20261007T230000Z
 DTEND:20261008T000000Z
 SUMMARY:Pharm Phriends: CRR Pharm Review — Pharmacology of Antithrombotic
@@ -630,8 +630,8 @@ CATEGORIES:Academic / curriculum
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-123@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART:20261008T230000Z
 DTEND:20261009T000000Z
 SUMMARY:Histo Buddies x IMIG: CRR Test 1 Review (Pulmonary & Renal Histolog
@@ -650,25 +650,26 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-71@local
-DTSTAMP:20261006T180056Z
-LAST-MODIFIED:20261006T180056Z
+DTSTAMP:20261007T160154Z
+LAST-MODIFIED:20261007T160154Z
 DTSTART:20261010T130000Z
 DTEND:20261010T140000Z
 SUMMARY:BCM 5K & Well-Being Fair
 STATUS:CONFIRMED
+LOCATION:Baylor College of Medicine
 DESCRIPTION:BCM's annual 5K and Well-Being Fair\, starting at 8:00 AM. Regi
  ster online and join the student team "BCM Medical Students" (the team pas
  sword is in the original post below).\nHost: Baylor College of Medicine (B
- CM 5k/1k)\nRSVP requested: https://baylorcollegeofmedicine5kkids1k.itsyour
- race.com/event.aspx?id=14694\nDetails: https://jerrywang123454321-maker.gi
- thub.io/bcm-events/event/71.html
+ CM 5k/1k)\nRSVP requested by Fri Oct 9\, 11:59 PM: https://baylorcollegeof
+ medicine5kkids1k.itsyourrace.com/event.aspx?id=14694\nDetails: https://jer
+ rywang123454321-maker.github.io/bcm-events/event/71.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/71.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-23@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART:20261013T230000Z
 DTEND:20261014T000000Z
 SUMMARY:BCM Run Club
@@ -682,8 +683,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-120@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:BCM LIVE: Performer Sign-Up Deadline
@@ -697,9 +698,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/120.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-131@local
+DTSTAMP:20261007T160154Z
+LAST-MODIFIED:20261007T160154Z
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+SUMMARY:BCM Run Club
+STATUS:CONFIRMED
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
+ tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/131.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/131.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-104@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:ACGME Proposed Residency Requirement Changes: Public Comment Deadli
@@ -716,9 +732,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/104.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-132@local
+DTSTAMP:20261007T160155Z
+LAST-MODIFIED:20261007T160155Z
+DTSTART:20261027T230000Z
+DTEND:20261028T000000Z
+SUMMARY:BCM Run Club
+STATUS:CONFIRMED
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
+ tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/132.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/132.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-101@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Epic Gold Login Validation Deadline
@@ -730,9 +761,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/101.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-133@local
+DTSTAMP:20261007T160155Z
+LAST-MODIFIED:20261007T160155Z
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+SUMMARY:BCM Run Club
+STATUS:CONFIRMED
+LOCATION:Hermann Park (near Hermann Park Golf Course)
+DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
+ tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/133.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/133.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-119@local
-DTSTAMP:20261006T120227Z
-LAST-MODIFIED:20261006T120227Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART:20261110T000000Z
 DTEND:20261110T010000Z
 SUMMARY:BCM LIVE: Student Senate Talent & Performance Show
@@ -749,8 +795,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-102@local
-DTSTAMP:20261006T120229Z
-LAST-MODIFIED:20261006T120229Z
+DTSTAMP:20261007T160151Z
+LAST-MODIFIED:20261007T160151Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Dean's Distinction in High Value Care: MS1 Sign-Up Deadline
