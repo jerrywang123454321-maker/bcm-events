@@ -1634,21 +1634,22 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-72@local
-DTSTAMP:20261007T160154Z
-LAST-MODIFIED:20261007T160154Z
+DTSTAMP:20261007T185624Z
+LAST-MODIFIED:20261007T185624Z
 DTSTART:20261012T170000Z
 DTEND:20261012T180000Z
-SUMMARY:Research Grand Rounds: Idea Generation and Methodology
+SUMMARY:SOAR Research Grand Rounds: Idea Generation and Methodology
 STATUS:CONFIRMED
-LOCATION:McMillan Auditorium
-DESCRIPTION:Session with Dr. Sarkar on research idea generation and methodo
- logy. The REDCap registration form that had been broken is working again\;
-  register in advance to submit questions. Food is provided for in-person a
- ttendees in McMillian\, and a Teams link will be shared so the session can
-  also be attended virtually.\nHost: SOAR / Research Grand Rounds\nRSVP req
- uested: https://redcap.research.bcm.edu/redcap/surveys/?s=C37sWzQp5oZYP2EA
- \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/72.
- html
+LOCATION:McMillian Auditorium
+DESCRIPTION:Second session of SOAR's research lecture series\, presented by
+  Dr. Arindam Sarkar\, MD\, covering how to generate research ideas and cho
+ ose methodology. Food provided for in-person attendees in McMillian\; a Te
+ ams link will be sent over the weekend for those who cannot attend in pers
+ on. Remaining series: Data Sources and Analysis (Nov 4\, 2026)\, From Data
+  to Manuscript (Dec 2\, 2026)\, Presenting Your Research (Jan 2027)\, AI i
+ n Research (Feb 2027).\nHost: SOAR\nRSVP requested: https://redcap.researc
+ h.bcm.edu/redcap/surveys/?s=JEYTF7XW479DWHEX\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/72.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/72.html
 CATEGORIES:Research
 END:VEVENT
@@ -1672,6 +1673,42 @@ DESCRIPTION:First lecture of the Baylor Students Against Cancer talk series
  vents/event/109.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/109.html
 CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-135@local
+DTSTAMP:20261007T185625Z
+LAST-MODIFIED:20261007T185625Z
+DTSTART:20261012T230000Z
+DTEND:20261013T000000Z
+SUMMARY:AIG General Body Meeting with SSMs: Q&A and Info Session
+STATUS:CONFIRMED
+LOCATION:McMillian Auditorium
+DESCRIPTION:Anesthesia Interest Group general body meeting and info session
+  with the student specialty mentors\, featuring a Q&A with Dr. Donnelly an
+ d Dr. Jackson. Dinner provided.\nHost: Anesthesia Interest Group (AIG)\nRS
+ VP requested: https://docs.google.com/forms/d/e/1FAIpQLScTNLcp1QHcSvIvcmBI
+ d74jeI0ApdJ3Iz95g2fLeEHIy0H5yw/viewform\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/135.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/135.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-136@local
+DTSTAMP:20261007T185625Z
+LAST-MODIFIED:20261007T185625Z
+DTSTART:20261012T230000Z
+DTEND:20261013T000000Z
+SUMMARY:Siempre Unidos: Medical Spanish Workshop — Cardiac H&P
+STATUS:CONFIRMED
+LOCATION:M321
+DESCRIPTION:Practice vocabulary and phrases used to perform a cardiac-focus
+ ed history and physical in Spanish. All Spanish levels welcome\, and atten
+ dance is worth 1 SLP point. RSVP via the link for food.\nHost: Siempre Uni
+ dos (BCM Medical Spanish)\nRSVP requested: https://tinyurl.com/SiempreUnid
+ os-Oct12\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
+ vent/136.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/136.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-23@local
@@ -1965,6 +2002,29 @@ DESCRIPTION:Third session of the SOAR Research Grand Rounds faculty lecture
  ails: https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
 CATEGORIES:Research
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-134@local
+DTSTAMP:20261007T185625Z
+LAST-MODIFIED:20261007T185625Z
+DTSTART:20261104T190000Z
+DTEND:20261104T230000Z
+SUMMARY:AIG: POCUS Workshop Ultrasound Model Volunteers (ISCCCP at MD Ander
+ son)
+STATUS:CONFIRMED
+LOCATION:MD Anderson Cancer Center\, Pickens Tower\, 1400 Pressler St.\, Ho
+ uston\, TX 77030 (Rooms FCT3.4141–FCT3.4144)
+DESCRIPTION:Volunteer as an ultrasound model for the Point of Care Ultrasou
+ nd workshop at the 2026 International Symposium of Critical Care in Cancer
+  Patients\, directed by MD Anderson anesthesiologists Dr. Dilip Thakar\, D
+ r. Jagtar Singh Heir\, and Dr. Olakunle Idowu. Volunteers arrive 1:00 PM\;
+  workshop runs 2:00–5:00 PM. Unpaid\; 7–8 male medical student volunte
+ ers needed. Good exposure to POCUS and networking with MD Anderson anesthe
+ siologists.\nHost: Anesthesia Interest Group (AIG)\nRSVP requested by Fri 
+ Sep 18\, 11:59 PM\nDetails: https://jerrywang123454321-maker.github.io/bcm
+ -events/event/134.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/134.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-11@local

@@ -106,21 +106,22 @@ CATEGORIES:Career / specialty
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-72@local
-DTSTAMP:20261007T160154Z
-LAST-MODIFIED:20261007T160154Z
+DTSTAMP:20261007T185624Z
+LAST-MODIFIED:20261007T185624Z
 DTSTART:20261012T170000Z
 DTEND:20261012T180000Z
-SUMMARY:Research Grand Rounds: Idea Generation and Methodology
+SUMMARY:SOAR Research Grand Rounds: Idea Generation and Methodology
 STATUS:CONFIRMED
-LOCATION:McMillan Auditorium
-DESCRIPTION:Session with Dr. Sarkar on research idea generation and methodo
- logy. The REDCap registration form that had been broken is working again\;
-  register in advance to submit questions. Food is provided for in-person a
- ttendees in McMillian\, and a Teams link will be shared so the session can
-  also be attended virtually.\nHost: SOAR / Research Grand Rounds\nRSVP req
- uested: https://redcap.research.bcm.edu/redcap/surveys/?s=C37sWzQp5oZYP2EA
- \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/72.
- html
+LOCATION:McMillian Auditorium
+DESCRIPTION:Second session of SOAR's research lecture series\, presented by
+  Dr. Arindam Sarkar\, MD\, covering how to generate research ideas and cho
+ ose methodology. Food provided for in-person attendees in McMillian\; a Te
+ ams link will be sent over the weekend for those who cannot attend in pers
+ on. Remaining series: Data Sources and Analysis (Nov 4\, 2026)\, From Data
+  to Manuscript (Dec 2\, 2026)\, Presenting Your Research (Jan 2027)\, AI i
+ n Research (Feb 2027).\nHost: SOAR\nRSVP requested: https://redcap.researc
+ h.bcm.edu/redcap/surveys/?s=JEYTF7XW479DWHEX\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/72.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/72.html
 CATEGORIES:Research
 END:VEVENT

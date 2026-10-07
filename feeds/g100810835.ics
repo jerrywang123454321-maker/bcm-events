@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventscan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BCM Events · BCM AIG
+X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
+ ails with the organizer.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-135@local
+DTSTAMP:20261007T185625Z
+LAST-MODIFIED:20261007T185625Z
+DTSTART:20261012T230000Z
+DTEND:20261013T000000Z
+SUMMARY:AIG General Body Meeting with SSMs: Q&A and Info Session
+STATUS:CONFIRMED
+LOCATION:McMillian Auditorium
+DESCRIPTION:Anesthesia Interest Group general body meeting and info session
+  with the student specialty mentors\, featuring a Q&A with Dr. Donnelly an
+ d Dr. Jackson. Dinner provided.\nHost: Anesthesia Interest Group (AIG)\nRS
+ VP requested: https://docs.google.com/forms/d/e/1FAIpQLScTNLcp1QHcSvIvcmBI
+ d74jeI0ApdJ3Iz95g2fLeEHIy0H5yw/viewform\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/135.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/135.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-134@local
+DTSTAMP:20261007T185625Z
+LAST-MODIFIED:20261007T185625Z
+DTSTART:20261104T190000Z
+DTEND:20261104T230000Z
+SUMMARY:AIG: POCUS Workshop Ultrasound Model Volunteers (ISCCCP at MD Ander
+ son)
+STATUS:CONFIRMED
+LOCATION:MD Anderson Cancer Center\, Pickens Tower\, 1400 Pressler St.\, Ho
+ uston\, TX 77030 (Rooms FCT3.4141–FCT3.4144)
+DESCRIPTION:Volunteer as an ultrasound model for the Point of Care Ultrasou
+ nd workshop at the 2026 International Symposium of Critical Care in Cancer
+  Patients\, directed by MD Anderson anesthesiologists Dr. Dilip Thakar\, D
+ r. Jagtar Singh Heir\, and Dr. Olakunle Idowu. Volunteers arrive 1:00 PM\;
+  workshop runs 2:00–5:00 PM. Unpaid\; 7–8 male medical student volunte
+ ers needed. Good exposure to POCUS and networking with MD Anderson anesthe
+ siologists.\nHost: Anesthesia Interest Group (AIG)\nRSVP requested by Fri 
+ Sep 18\, 11:59 PM\nDetails: https://jerrywang123454321-maker.github.io/bcm
+ -events/event/134.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/134.html
+CATEGORIES:Interest group
+END:VEVENT
+END:VCALENDAR
