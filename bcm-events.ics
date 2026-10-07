@@ -1198,6 +1198,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/73.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-158@local
+DTSTAMP:20261007T221806Z
+LAST-MODIFIED:20261007T221806Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Street Medicine Student Coalition: Clothing Drive
+STATUS:CONFIRMED
+LOCATION:Donation box in the squad rooms\, BCM
+DESCRIPTION:Month-long clothing drive to support the unhoused community. Dr
+ op off any clothing in new or good condition (shirts\, jackets\, shoes\, s
+ ocks) in the collection box in the squad rooms. Flyer lists the drive runn
+ ing 10/5 through 11/02.\nHost: BCM Street Medicine Student Coalition\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/158.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/158.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-114@local
 DTSTAMP:20261005T120050Z
 LAST-MODIFIED:20261005T120050Z
@@ -1341,8 +1358,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-97@local
-DTSTAMP:20261007T120016Z
-LAST-MODIFIED:20261007T120016Z
+DTSTAMP:20261007T221648Z
+LAST-MODIFIED:20261007T221648Z
 DTSTART:20261006T230000Z
 DTEND:20261007T000000Z
 SUMMARY:Baylor Students Against Cancer & IMIG: Intro to a Career in Hematol
@@ -1418,8 +1435,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-121@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T221131Z
+LAST-MODIFIED:20261007T221131Z
 DTSTART:20261007T230000Z
 DTEND:20261008T000000Z
 SUMMARY:Pharm Phriends: CRR Pharm Review — Pharmacology of Antithrombotic
@@ -1451,8 +1468,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-116@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T221012Z
+LAST-MODIFIED:20261007T221012Z
 DTSTART:20261008T000000Z
 DTEND:20261008T013000Z
 SUMMARY:AMA-MSS Advocacy in Action Workshop (Night 3)
@@ -1488,6 +1505,44 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/129.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-156@local
+DTSTAMP:20261007T222124Z
+LAST-MODIFIED:20261007T222124Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:BCM LMSA: Hispanic Heritage Month Dinner & Discussions
+STATUS:CONFIRMED
+LOCATION:M323
+DESCRIPTION:Celebrate Hispanic Heritage Month with BCM LMSA and hear about 
+ the journeys of Latino physicians Dr. Yesenia Rojas-Khalil (MD\, FACS\, FA
+ SCRS) and Dr. Juan Vitelio Rodriguez (MD\, FASCP). Pupusas will be served.
+ \nTime not announced yet.\nHost: BCM LMSA\nRSVP requested: https://docs.go
+ ogle.com/forms/d/e/1FAIpQLSdk--9AWFVs8lV_K6JEPzpbSNnxJkOnwiT-BLOBjTTQ3QgR9
+ A/viewform\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
+ /event/156.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/156.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-148@local
+DTSTAMP:20261007T222121Z
+LAST-MODIFIED:20261007T222121Z
+DTSTART:20261008T220000Z
+DTEND:20261008T230000Z
+SUMMARY:Walk with a Doc: PM&R and Sports Medicine — From Injury Preventio
+ n to Recovery
+STATUS:CONFIRMED
+LOCATION:Room M323
+DESCRIPTION:A sports medicine specialist and Section Chief of Sports Medici
+ ne introduces students to PM&R and sports medicine\, focusing on common te
+ ndon injuries and their prevention\, diagnosis and treatment. Food will be
+  provided.\nHost: Walk with a Doc (WWAD)\nRSVP requested: https://forms.gl
+ e/SFoFHk9hpmr9a1rA6\nDetails: https://jerrywang123454321-maker.github.io/b
+ cm-events/event/148.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/148.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-125@local
 DTSTAMP:20261007T160151Z
 LAST-MODIFIED:20261007T160151Z
@@ -1503,9 +1558,52 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/125.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-145@local
+DTSTAMP:20261007T222120Z
+LAST-MODIFIED:20261007T222120Z
+DTSTART:20261008T223000Z
+DTEND:20261008T233000Z
+SUMMARY:SIGN: Meet the Mentors Research Panel
+STATUS:CONFIRMED
+LOCATION:M321/323\, BCM Houston Campus
+DESCRIPTION:Student Interest Group in Neurology hosts six neurologists — 
+ Dr. Vaishnav Krishnan (epilepsy)\, Dr. Pushan Dasgupta (neuro-oncology)\, 
+ Dr. Thomas Lloyd (neuromuscular)\, Dr. Mohammad Hirzallah (neurocritical c
+ are)\, Dr. Joshua Shulman (neurogenetics AD/PD)\, and Dr. Sarah Berth (ALS
+ ) — to talk about careers in neurology research and how med students can
+  get involved. Billed as a good way to find a mentor for your inquiry proj
+ ect. Food provided for those who RSVP.\nHost: SIGN (Student Interest Group
+  in Neurology)\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLS
+ eSY5h2R0nRXPEGsD_xekWeCLuoxXqmqfDIjnVd3cphc3-gxQ/viewform\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/145.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/145.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-152@local
+DTSTAMP:20261007T222123Z
+LAST-MODIFIED:20261007T222123Z
+DTSTART:20261008T223000Z
+DTEND:20261009T000000Z
+SUMMARY:AMC Visiting Scholar Dinner — Learner\, Teacher\, Scholar: Growin
+ g All Three (Dr. Kelsey Miller\, Harvard Medical School)
+STATUS:CONFIRMED
+DESCRIPTION:Small-group dinner conversation with Dr. Kelsey Miller\, MD\, M
+ Ed\, a pediatric EM physician and medical education leader from Harvard Me
+ dical School\, covering clinical education research\, maximizing the clerk
+ ship experience\, and bedside teaching. Spots are very limited and RSVP-on
+ ly\; priority goes to upperclassmen first-come\, first-served\, with remai
+ ning spots opened to MS1s. Organizers confirm spots after RSVPs are receiv
+ ed.\nHost: AMC (Academic Medicine Club)\nRSVP requested: https://forms.gle
+ /2qPe7L71AbZmbaeeA\nDetails: https://jerrywang123454321-maker.github.io/bc
+ m-events/event/152.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/152.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-123@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T221648Z
+LAST-MODIFIED:20261007T221648Z
 DTSTART:20261008T230000Z
 DTEND:20261009T000000Z
 SUMMARY:Histo Buddies x IMIG: CRR Test 1 Review (Pulmonary & Renal Histolog
@@ -1521,6 +1619,74 @@ DESCRIPTION:First Histo Buddies session\, hosted by the Pathology Interest
  vents/event/123.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/123.html
 CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-150@local
+DTSTAMP:20261007T222122Z
+LAST-MODIFIED:20261007T222122Z
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+SUMMARY:Ophthalmology Interest Group: Joint Networking Meeting with McGover
+ n and EnMed
+STATUS:CONFIRMED
+LOCATION:Simone on Sunset
+DESCRIPTION:Joint ophthalmology interest group meeting with McGovern and En
+ Med students for networking over food and drinks. Open to anyone intereste
+ d in ophthalmology.\nHost: Ophthalmology Interest Group (OIG)\nRSVP reques
+ ted\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/
+ 150.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/150.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-146@local
+DTSTAMP:20261007T222120Z
+LAST-MODIFIED:20261007T222120Z
+DTSTART:20261009T170000Z
+DTEND:20261009T180000Z
+SUMMARY:Street Medicine Student Coalition: Fall Bake Sale
+STATUS:CONFIRMED
+DESCRIPTION:Street Medicine Student Coalition's first bake sale\, held righ
+ t after the CRR exam. Fall-themed desserts are sold to raise money for sup
+ plies handed out to the unhoused\, so bring a way to pay.\nHost: Street Me
+ dicine Student Coalition\nDetails: https://jerrywang123454321-maker.github
+ .io/bcm-events/event/146.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/146.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-159@local
+DTSTAMP:20261007T222125Z
+LAST-MODIFIED:20261007T222125Z
+DTSTART:20261009T230000Z
+DTEND:20261010T010000Z
+SUMMARY:Baylor Class Social: Happy Hour at Social Beer Garden HTX
+STATUS:CONFIRMED
+LOCATION:Social Beer Garden HTX\, 3101 San Jacinto St\, Houston\, TX 77004
+DESCRIPTION:Post-exam class happy hour to unwind after the pulmonary/infect
+ ious disease block exam. Two free parking lots are available\, but carpool
+ ing is recommended. Food and drinks are available for purchase at the venu
+ e.\nHost: BCM Class of 2030\nDetails: https://jerrywang123454321-maker.git
+ hub.io/bcm-events/event/159.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/159.html
+CATEGORIES:Social
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-143@local
+DTSTAMP:20261007T222119Z
+LAST-MODIFIED:20261007T222119Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:BPSA MS1 Representative Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:The Baylor Pediatric Student Association is seeking MS1 represe
+ ntatives for the school year. Open to anyone interested in pediatrics or w
+ anting to be more involved in pediatric events and opportunities\; apply v
+ ia the Google Form.\nHost: Baylor Pediatric Student Association (BPSA)\nDe
+ tails: https://jerrywang123454321-maker.github.io/bcm-events/event/143.htm
+ l
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/143.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-58@local
@@ -1613,6 +1779,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/111.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-140@local
+DTSTAMP:20261007T222118Z
+LAST-MODIFIED:20261007T222118Z
+DTSTART:20261011T190000Z
+DTEND:20261011T220000Z
+SUMMARY:BCM Pride: Volunteering at Bering Open Gate
+STATUS:CONFIRMED
+LOCATION:Bering Open Gate\, 1440 Harold Street\, Houston\, TX
+DESCRIPTION:Volunteer at an LGBTQIA+ inclusive homeless resource center: so
+ rt clothes\, cook and package meals\, and assemble hygiene kits. No sign-u
+ p needed — drop in for as long or as little as you can. SLP approved\, 1
+  hour = 1 point.\nHost: BCM Pride\nDetails: https://jerrywang123454321-mak
+ er.github.io/bcm-events/event/140.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/140.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-103@local
 DTSTAMP:20261007T160151Z
 LAST-MODIFIED:20261007T160151Z
@@ -1654,8 +1837,8 @@ CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-109@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T221541Z
+LAST-MODIFIED:20261007T221541Z
 DTSTART:20261012T220000Z
 DTEND:20261013T000000Z
 SUMMARY:BSAC Cancer Talk Series: Lung Cancer Care — From Diagnosis to Tre
@@ -1675,8 +1858,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-135@local
-DTSTAMP:20261007T185625Z
-LAST-MODIFIED:20261007T185625Z
+DTSTAMP:20261007T221541Z
+LAST-MODIFIED:20261007T221541Z
 DTSTART:20261012T230000Z
 DTEND:20261013T000000Z
 SUMMARY:AIG General Body Meeting with SSMs: Q&A and Info Session
@@ -1693,8 +1876,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-136@local
-DTSTAMP:20261007T185625Z
-LAST-MODIFIED:20261007T185625Z
+DTSTAMP:20261007T221745Z
+LAST-MODIFIED:20261007T221745Z
 DTSTART:20261012T230000Z
 DTEND:20261013T000000Z
 SUMMARY:Siempre Unidos: Medical Spanish Workshop — Cardiac H&P
@@ -1707,6 +1890,44 @@ DESCRIPTION:Practice vocabulary and phrases used to perform a cardiac-focus
  os-Oct12\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
  vent/136.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/136.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-141@local
+DTSTAMP:20261007T222118Z
+LAST-MODIFIED:20261007T222118Z
+DTSTART:20261012T230000Z
+DTEND:20261013T003000Z
+SUMMARY:AWS Bracelet-Making Service Hour
+STATUS:CONFIRMED
+LOCATION:Room M323
+DESCRIPTION:Drop in with the Association of Women Surgeons and the Bodyguar
+ ds Program to make bracelets with encouraging\, self-esteem-boosting messa
+ ges for patients at Harris Health's Smith Clinic Breast Surgery Clinic. Su
+ pplies and snacks provided\; counts for up to 2 SLP service points.\nHost:
+  Association of Women Surgeons (AWS) & Bodyguards Program\nRSVP requested:
+  https://www.signupgenius.com/go/10C054BA5AB2FA0F9CE9-66182352-bracelet\nD
+ etails: https://jerrywang123454321-maker.github.io/bcm-events/event/141.ht
+ ml
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/141.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-137@local
+DTSTAMP:20261007T222117Z
+LAST-MODIFIED:20261007T222117Z
+DTSTART:20261013T000000Z
+DTEND:20261013T010000Z
+SUMMARY:AMA LGBTQ+ Section: Interim 101 Meeting
+STATUS:CONFIRMED
+DESCRIPTION:Virtual intro session on the AMA and Interim 2026: hear from AM
+ A LGBTQ+ Section leadership about their strategic plan\, current policy in
+ itiatives\, upcoming events\, and ways to get involved. Open to those new 
+ to the Section as well as returning members. 7–8 PM Central.\nHost: AMA 
+ LGBTQ+ Section (via AMA-MSS)\nRSVP requested\nOnline option: link in the g
+ roup chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
+ /event/137.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/137.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
@@ -1726,8 +1947,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-126@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T221648Z
+LAST-MODIFIED:20261007T221648Z
 DTSTART:20261014T170000Z
 DTEND:20261014T180000Z
 SUMMARY:Curing Kids' Cancer: Fall Arts and Crafts Event
@@ -1743,9 +1964,63 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/126.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-139@local
+DTSTAMP:20261007T222118Z
+LAST-MODIFIED:20261007T222118Z
+DTSTART:20261014T230000Z
+DTEND:20261015T000000Z
+SUMMARY:GOBIG Wine & Gyn: Perinatal Psychiatry Discussion
+STATUS:CONFIRMED
+LOCATION:A member's home (address in the group chat)
+DESCRIPTION:Casual conversation over dinner and drinks on perinatal psychia
+ try\, hosted by GOBIG. This follow-up message supplies the RSVP form link 
+ for the event.\nHost: GOBIG\nRSVP requested: https://docs.google.com/forms
+ /d/e/1FAIpQLScpZgDn8K_bvo_gmYj63e9WVRUv01wHxPD6Fe30W03zQR5glQ/viewform?usp
+ =dialog\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
+ ent/139.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/139.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-142@local
+DTSTAMP:20261007T222119Z
+LAST-MODIFIED:20261007T222119Z
+DTSTART:20261015T230000Z
+DTEND:20261016T000000Z
+SUMMARY:AMWA General Body Meeting
+STATUS:CONFIRMED
+LOCATION:M321
+DESCRIPTION:American Medical Women's Association general body meeting with 
+ dinner\, community time\, mentorship between classes\, and networking with
+  female physicians. The group will share plans for the rest of the semeste
+ r.\nHost: AMWA (American Medical Women's Association)\nRSVP requested: htt
+ ps://forms.gle/7DfWov3LivJXLiXR8\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/142.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/142.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-153@local
+DTSTAMP:20261007T222123Z
+LAST-MODIFIED:20261007T222123Z
+DTSTART:20261015T233000Z
+DTEND:20261016T003000Z
+SUMMARY:BUN: Research as a Med Student Meeting
+STATUS:CONFIRMED
+LOCATION:M323
+DESCRIPTION:Annual Baylor Urology Network meeting on the how and why of res
+ earch as a medical student\, including ongoing projects and how to get inv
+ olved. Open to anyone considering research\, not just students interested 
+ in urology. Food provided.\nHost: BUN (Baylor Urology Network)\nRSVP reque
+ sted: https://forms.gle/yLazoJ6mQpkFQDNx7\nDetails: https://jerrywang12345
+ 4321-maker.github.io/bcm-events/event/153.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/153.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-122@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T221745Z
+LAST-MODIFIED:20261007T221745Z
 DTSTART:20261016T230000Z
 DTEND:20261017T000000Z
 SUMMARY:Caminar y Charlar: Spanish Conversation Walk (McGovern x BCM)
@@ -1799,6 +2074,58 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/112.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-151@local
+DTSTAMP:20261007T222122Z
+LAST-MODIFIED:20261007T222122Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:PsychMinded MS1 Representative Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:PsychMinded is accepting applications for MS1 representatives. 
+ Submit the Google Form application by the deadline\; questions can be dire
+ cted to the PsychMinded MS2 coordinator listed in the chat.\nHost: PsychMi
+ nded\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event
+ /151.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/151.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-157@local
+DTSTAMP:20261007T222124Z
+LAST-MODIFIED:20261007T222124Z
+DTSTART:20261019T223000Z
+DTEND:20261020T003000Z
+SUMMARY:Emergency Medicine Interest Group: Game Night
+STATUS:CONFIRMED
+LOCATION:Room M321
+DESCRIPTION:Come-and-go board game night to meet other students interested 
+ in emergency medicine and take a study break.\nHost: Emergency Medicine In
+ terest Group (EMIG)\nDetails: https://jerrywang123454321-maker.github.io/b
+ cm-events/event/157.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/157.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-147@local
+DTSTAMP:20261007T222121Z
+LAST-MODIFIED:20261007T222121Z
+DTSTART:20261019T230000Z
+DTEND:20261020T000000Z
+SUMMARY:AWS MS3/4 Core Rotations Advice Panel
+STATUS:CONFIRMED
+LOCATION:Room M321
+DESCRIPTION:In-person panel led by MS4s who applied for general surgery\, c
+ overing advice for core clerkships (especially the surgery core)\, OR etiq
+ uette\, research\, resume-building and networking. Geared toward students 
+ at all levels interested in a surgical specialty. Dinner provided.\nHost: 
+ Association of Women Surgeons (AWS)\nRSVP requested: https://docs.google.c
+ om/forms/d/e/1FAIpQLSci-pqjqk3tjLgpRlqfUo1AmQu3tZk0Neo0uTTekJangpFklQ/view
+ form?usp=header\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
+ vents/event/147.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/147.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-120@local
 DTSTAMP:20261007T160151Z
 LAST-MODIFIED:20261007T160151Z
@@ -1816,8 +2143,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-118@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T221541Z
+LAST-MODIFIED:20261007T221541Z
 DTSTART:20261020T230000Z
 DTEND:20261021T000000Z
 SUMMARY:IMIG: Primary Care Panel
@@ -1849,6 +2176,40 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/131.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-154@local
+DTSTAMP:20261007T222123Z
+LAST-MODIFIED:20261007T222123Z
+DTSTART:20261021T170000Z
+DTEND:20261021T180000Z
+SUMMARY:First Generation MD: Fall Craft Social — Pumpkin Painting
+STATUS:CONFIRMED
+LOCATION:M321
+DESCRIPTION:Paint a pumpkin\, grab Oreos\, and enjoy some fall fun with Fir
+ st Generation MD. Sign up in advance to claim a pumpkin to paint.\nHost: F
+ irst Generation MD\nRSVP requested: https://forms.gle/QaFwdhFxpBgvuiaH8\nD
+ etails: https://jerrywang123454321-maker.github.io/bcm-events/event/154.ht
+ ml
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/154.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-149@local
+DTSTAMP:20261007T222121Z
+LAST-MODIFIED:20261007T222121Z
+DTSTART:20261022T170000Z
+DTEND:20261022T180000Z
+SUMMARY:PsychMinded: Psychotherapy as Practice and Service
+STATUS:CONFIRMED
+LOCATION:Room N302
+DESCRIPTION:Talk on psychotherapy and what it involves\, given by a BCM psy
+ chiatry faculty member. Snacks provided and the event counts for 1 SLP poi
+ nt.\nHost: PsychMinded\nRSVP requested: https://forms.gle/216dtSGNUa22zxrw
+ 7\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/14
+ 9.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/149.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-99@local
 DTSTAMP:20261007T160151Z
 LAST-MODIFIED:20261007T160151Z
@@ -1866,8 +2227,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-104@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T222116Z
+LAST-MODIFIED:20261007T222116Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:ACGME Proposed Residency Requirement Changes: Public Comment Deadli
@@ -1878,10 +2239,31 @@ DESCRIPTION:ACGME is proposing changes to residency program requirements th
  rough October 22. Students\, residents\, fellows\, program directors\, and
   the general public can submit comments\; a browser extension/web tool was
   shared in the chat to help auto-fill the comment survey with prewritten o
- bjections.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
- /event/104.html
+ bjections.\nHost: AMA-MSS\nDetails: https://jerrywang123454321-maker.githu
+ b.io/bcm-events/event/104.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/104.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-138@local
+DTSTAMP:20261007T222117Z
+LAST-MODIFIED:20261007T222117Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:AIM at Melanoma: Steps Against Melanoma Houston (Volunteering)
+STATUS:CONFIRMED
+LOCATION:Houston\, TX
+DESCRIPTION:Awareness walk supporting melanoma survivors and their families
+ \, with many booths and UT Health dermatologists usually present. Voluntee
+ ring counts for SLP site hours via Bodyguards. Volunteers sign up for a ro
+ le through SignUpGenius\; separately you can register for the event itself
+  as an individual for free and get a free t-shirt.\nTime not announced yet
+ .\nHost: AIM at Melanoma (shared via Baylor Students Against Cancer)\nRSVP
+  requested: https://www.signupgenius.com/go/10C0445AFA728A7F8C34-64394925-
+ houston#/\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
+ event/138.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/138.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-110@local
@@ -1920,6 +2302,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/132.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-144@local
+DTSTAMP:20261007T222119Z
+LAST-MODIFIED:20261007T222119Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Student Surgical Society: Introductory Suture Workshop
+STATUS:CONFIRMED
+DESCRIPTION:First suture workshop of the semester\, focused on introductory
+  suturing and knot tying so students feel prepared in the OR. Space is lim
+ ited to the first 20 sign-ups.\nTime not announced yet.\nHost: Student Sur
+ gical Society\nRSVP requested: https://forms.gle/tsXBjoq51K6AjUEeA\nDetail
+ s: https://jerrywang123454321-maker.github.io/bcm-events/event/144.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/144.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-101@local
 DTSTAMP:20261007T160151Z
 LAST-MODIFIED:20261007T160151Z
@@ -1932,6 +2330,23 @@ DESCRIPTION:Epic Gold login validation must be completed\; a classmate cite
  3454321-maker.github.io/bcm-events/event/101.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/101.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-155@local
+DTSTAMP:20261007T222124Z
+LAST-MODIFIED:20261007T222124Z
+DTSTART:20261029T210000Z
+DTEND:20261030T000000Z
+SUMMARY:First Generation MD: Ice Cream Fundraiser at Jeni's
+STATUS:CONFIRMED
+LOCATION:Jeni's Ice Cream\, Rice Village — 5411 Morningside Dr\, Houston\
+ , TX 77005
+DESCRIPTION:Drop-in fundraiser supporting First Generation MD: pop in for a
+  scoop and bring friends. Purchases support the organization.\nHost: First
+  Generation MD\nDetails: https://jerrywang123454321-maker.github.io/bcm-ev
+ ents/event/155.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/155.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-113@local

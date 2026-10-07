@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
 UID:eventscan-97@local
-DTSTAMP:20261007T120016Z
-LAST-MODIFIED:20261007T120016Z
+DTSTAMP:20261007T221648Z
+LAST-MODIFIED:20261007T221648Z
 DTSTART:20261006T230000Z
 DTEND:20261007T000000Z
 SUMMARY:Baylor Students Against Cancer & IMIG: Intro to a Career in Hematol
@@ -31,8 +31,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-109@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T221541Z
+LAST-MODIFIED:20261007T221541Z
 DTSTART:20261012T220000Z
 DTEND:20261013T000000Z
 SUMMARY:BSAC Cancer Talk Series: Lung Cancer Care — From Diagnosis to Tre
@@ -49,5 +49,26 @@ DESCRIPTION:First lecture of the Baylor Students Against Cancer talk series
  vents/event/109.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/109.html
 CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-138@local
+DTSTAMP:20261007T222117Z
+LAST-MODIFIED:20261007T222117Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:AIM at Melanoma: Steps Against Melanoma Houston (Volunteering)
+STATUS:CONFIRMED
+LOCATION:Houston\, TX
+DESCRIPTION:Awareness walk supporting melanoma survivors and their families
+ \, with many booths and UT Health dermatologists usually present. Voluntee
+ ring counts for SLP site hours via Bodyguards. Volunteers sign up for a ro
+ le through SignUpGenius\; separately you can register for the event itself
+  as an individual for free and get a free t-shirt.\nTime not announced yet
+ .\nHost: AIM at Melanoma (shared via Baylor Students Against Cancer)\nRSVP
+  requested: https://www.signupgenius.com/go/10C0445AFA728A7F8C34-64394925-
+ houston#/\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
+ event/138.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/138.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 END:VCALENDAR

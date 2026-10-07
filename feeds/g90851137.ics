@@ -149,8 +149,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-116@local
-DTSTAMP:20261007T160151Z
-LAST-MODIFIED:20261007T160151Z
+DTSTAMP:20261007T221012Z
+LAST-MODIFIED:20261007T221012Z
 DTSTART:20261008T000000Z
 DTEND:20261008T013000Z
 SUMMARY:AMA-MSS Advocacy in Action Workshop (Night 3)
@@ -185,6 +185,24 @@ DESCRIPTION:Candidates for the I-26 Governing Council election (Student Rep
  /103.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/103.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-137@local
+DTSTAMP:20261007T222117Z
+LAST-MODIFIED:20261007T222117Z
+DTSTART:20261013T000000Z
+DTEND:20261013T010000Z
+SUMMARY:AMA LGBTQ+ Section: Interim 101 Meeting
+STATUS:CONFIRMED
+DESCRIPTION:Virtual intro session on the AMA and Interim 2026: hear from AM
+ A LGBTQ+ Section leadership about their strategic plan\, current policy in
+ itiatives\, upcoming events\, and ways to get involved. Open to those new 
+ to the Section as well as returning members. 7–8 PM Central.\nHost: AMA 
+ LGBTQ+ Section (via AMA-MSS)\nRSVP requested\nOnline option: link in the g
+ roup chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
+ /event/137.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/137.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-112@local
