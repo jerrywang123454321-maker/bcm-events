@@ -25,4 +25,23 @@ DESCRIPTION:Free driving range session open to all skill levels\, beginners
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/68.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-129@local
+DTSTAMP:20261007T010037Z
+LAST-MODIFIED:20261007T010037Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Baylor Golf x First Tee: Volunteer Application Due
+STATUS:CONFIRMED
+DESCRIPTION:Baylor Golf is organizing group volunteering with First Tee - G
+ reater Houston\, which uses golf to mentor kids. Interested members must c
+ omplete the volunteer application (takes about 5 minutes) and send it to t
+ he Baylor Golf organizer via GroupMe or BCM email so all forms can be subm
+ itted together\; the group is also working on getting it approved for SLP 
+ volunteering. Volunteer dates and locations will be announced later.\nHost
+ : Baylor Golf\nDetails: https://jerrywang123454321-maker.github.io/bcm-eve
+ nts/event/129.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/129.html
+CATEGORIES:Deadline
+END:VEVENT
 END:VCALENDAR

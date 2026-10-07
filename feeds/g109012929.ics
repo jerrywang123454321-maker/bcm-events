@@ -61,6 +61,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/96.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-130@local
+DTSTAMP:20261007T010037Z
+LAST-MODIFIED:20261007T010037Z
+DTSTART:20261007T230000Z
+DTEND:20261008T000000Z
+SUMMARY:Baylor Soccer: Championship Semifinal vs McGovern
+STATUS:CONFIRMED
+LOCATION:UT Rec Center
+DESCRIPTION:Baylor's intramural soccer team defends its title against McGov
+ ern. Semifinal kicks off at 6 pm\, with the final at 7 pm if Baylor wins. 
+ Come out to play or cheer.\nHost: Baylor Soccer\nDetails: https://jerrywan
+ g123454321-maker.github.io/bcm-events/event/130.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/130.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-125@local
 DTSTAMP:20261006T180058Z
 LAST-MODIFIED:20261006T180058Z
