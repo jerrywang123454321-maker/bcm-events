@@ -1545,6 +1545,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/71.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-128@local
+DTSTAMP:20261007T000318Z
+LAST-MODIFIED:20261007T000318Z
+DTSTART:20261010T193000Z
+DTEND:20261010T203000Z
+SUMMARY:UT vs OU Game Watch at Little Woodrow's Midtown
+STATUS:CONFIRMED
+LOCATION:Little Woodrow's Midtown
+DESCRIPTION:Informal classmate gathering at Little Woodrow's Midtown to wat
+ ch the UT vs OU rivalry game. Bar venue\, so expect to buy your own food a
+ nd drinks.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
+ /event/128.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/128.html
+CATEGORIES:Social
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-111@local
 DTSTAMP:20261006T120227Z
 LAST-MODIFIED:20261006T120227Z
@@ -1637,8 +1653,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-126@local
-DTSTAMP:20261006T222533Z
-LAST-MODIFIED:20261006T222533Z
+DTSTAMP:20261007T000317Z
+LAST-MODIFIED:20261007T000317Z
 DTSTART:20261014T170000Z
 DTEND:20261014T180000Z
 SUMMARY:Curing Kids' Cancer: Fall Arts and Crafts Event
