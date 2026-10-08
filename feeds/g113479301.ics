@@ -646,25 +646,6 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/121.html
 CATEGORIES:Academic / curriculum
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-156@local
-DTSTAMP:20261008T121036Z
-LAST-MODIFIED:20261008T121036Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:BCM LMSA: Hispanic Heritage Month Dinner & Discussions
-STATUS:CONFIRMED
-LOCATION:M323
-DESCRIPTION:Celebrate Hispanic Heritage Month with BCM LMSA and hear about 
- the journeys of Latino physicians Dr. Yesenia Rojas-Khalil (MD\, FACS\, FA
- SCRS) and Dr. Juan Vitelio Rodriguez (MD\, FASCP). Pupusas will be served.
- \nTime not announced yet.\nHost: BCM LMSA\nRSVP requested: https://docs.go
- ogle.com/forms/d/e/1FAIpQLSdk--9AWFVs8lV_K6JEPzpbSNnxJkOnwiT-BLOBjTTQ3QgR9
- A/viewform\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
- /event/156.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/156.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-148@local
 DTSTAMP:20261008T121036Z
 LAST-MODIFIED:20261008T121036Z
@@ -763,6 +744,23 @@ DESCRIPTION:Joint ophthalmology interest group meeting with McGovern and En
  150.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/150.html
 CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-156@local
+DTSTAMP:20261008T160055Z
+LAST-MODIFIED:20261008T160055Z
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+SUMMARY:BCM LMSA: Hispanic Heritage Month Dinner & Discussions
+STATUS:CONFIRMED
+LOCATION:M323
+DESCRIPTION:Hispanic Heritage Month celebration featuring Latino physicians
+  sharing their journeys in medicine. Food provided (pupusas).\nHost: BCM L
+ MSA\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSdk--9AWFVs8
+ lV_K6JEPzpbSNnxJkOnwiT-BLOBjTTQ3QgR9A/viewform\nDetails: https://jerrywang
+ 123454321-maker.github.io/bcm-events/event/156.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/156.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-146@local

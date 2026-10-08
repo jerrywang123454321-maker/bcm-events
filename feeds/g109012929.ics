@@ -78,16 +78,17 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-125@local
-DTSTAMP:20261008T121036Z
-LAST-MODIFIED:20261008T121036Z
+DTSTAMP:20261008T160054Z
+LAST-MODIFIED:20261008T160054Z
 DTSTART:20261008T223000Z
 DTEND:20261008T233000Z
 SUMMARY:Baylor Soccer: Pickup Game
 STATUS:CONFIRMED
-DESCRIPTION:Casual pickup soccer with the Baylor Soccer group\, starting at
-  5:30 PM now that the weather is cooler. Open to anyone who wants to drop 
- in\; bring cleats/shin guards if you have them.\nHost: Baylor Soccer\nDeta
- ils: https://jerrywang123454321-maker.github.io/bcm-events/event/125.html
+LOCATION:Helix (Helix Park)
+DESCRIPTION:Casual pickup soccer with the Baylor Soccer group\, moved up sl
+ ightly to a 5:30 PM start (not 5:45) and held at Helix. Organizer notes it
+  should be good vibes\; bring athletic gear.\nHost: Baylor Soccer\nDetails
+ : https://jerrywang123454321-maker.github.io/bcm-events/event/125.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/125.html
 CATEGORIES:Wellness
 END:VEVENT
