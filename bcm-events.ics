@@ -1930,6 +1930,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/137.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-164@local
+DTSTAMP:20261008T200023Z
+LAST-MODIFIED:20261008T200023Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Dream Outside the Box: Volunteering Session
+STATUS:CONFIRMED
+DESCRIPTION:Volunteer slot with Dream Outside the Box on Tuesday 10/13. Sig
+ n up via the Google Form\; the chat asks that everyone sign up by Sunday n
+ ight. No start time was given in the message.\nTime not announced yet.\nHo
+ st: Dream Outside the Box\nRSVP requested by Sun Oct 11\, 11:59 PM: https:
+ //docs.google.com/forms/d/e/1FAIpQLSdVO3hmjy66GeWibUGimcWVchSzOFXHTFeM7JyX
+ eiX8QIU9og/viewform\nDetails: https://jerrywang123454321-maker.github.io/b
+ cm-events/event/164.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/164.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-23@local
 DTSTAMP:20261008T121036Z
 LAST-MODIFIED:20261008T121036Z
