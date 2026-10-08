@@ -190,6 +190,46 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/10.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-161@local
+DTSTAMP:20261008T020030Z
+LAST-MODIFIED:20261008T020030Z
+DTSTART:20261014T000000Z
+DTEND:20261014T010000Z
+SUMMARY:APAMSA: Becoming a Physician Advocate with Kelly Cheung\, MD
+STATUS:CONFIRMED
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Conversation with Kelly Cheung\, MD\, a UCLA Geriatrics and Pal
+ liative Medicine fellow\, on her path to medicine and her advocacy for ger
+ iatrics and palliative care\, plus how pre-health and medical students can
+  find their own advocacy voices. Worth +1 APAMSA point for attendance — 
+ DM Audrey a screenshot of yourself in the meeting with camera on. Attendee
+ s are asked to stay for the session rather than dropping in and out\, out 
+ of respect for the speaker.\nHost: APAMSA\nOnline option: link in the grou
+ p chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
+ ent/161.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/161.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-160@local
+DTSTAMP:20261008T020030Z
+LAST-MODIFIED:20261008T020030Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:APAMSA LOTUSES: Advocacy Through Storytelling Scholarship — Submi
+ ssion Deadline
+STATUS:CONFIRMED
+DESCRIPTION:National APAMSA LOTUSES scholarship: submit a personal story or
+  reflection about patient care\, barriers to healthcare access\, discrimin
+ ation in medical education\, or another experience shaping your perspectiv
+ e as a future physician. Award is $500 plus a free ticket to the HEAL Summ
+ it (travel expenses likely not included). Eligibility is limited to dues-p
+ aying APAMSA members\, and membership will be verified.\nHost: APAMSA\nDet
+ ails: https://jerrywang123454321-maker.github.io/bcm-events/event/160.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/160.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-11@local
 DTSTAMP:20261007T160151Z
 LAST-MODIFIED:20261007T160151Z
