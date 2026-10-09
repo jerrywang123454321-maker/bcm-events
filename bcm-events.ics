@@ -2021,6 +2021,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/139.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-167@local
+DTSTAMP:20261009T200357Z
+LAST-MODIFIED:20261009T200357Z
+DTSTART:20261015T210000Z
+DTEND:20261015T223000Z
+SUMMARY:BCM Pride: Tie-Dye Event
+STATUS:CONFIRMED
+LOCATION:BCM Courtyard
+DESCRIPTION:Tie-dye in the BCM courtyard to kick off fall\, hosted by BCM P
+ ride. BYOG (bring your own garment)\; BCM Pride shirts are available for p
+ urchase. All are welcome\; weather permitting.\nHost: BCM Pride\nRSVP requ
+ ested\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/167.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/167.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-142@local
 DTSTAMP:20261009T123716Z
 LAST-MODIFIED:20261009T123716Z
@@ -2143,6 +2160,27 @@ DESCRIPTION:PsychMinded is accepting applications for MS1 representatives.
  /151.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/151.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-166@local
+DTSTAMP:20261009T200357Z
+LAST-MODIFIED:20261009T200357Z
+DTSTART:20261019T210000Z
+DTEND:20261019T223000Z
+SUMMARY:Chicken Nugget Tasting: Biostatistics Workshop
+STATUS:CONFIRMED
+LOCATION:N311
+DESCRIPTION:A 1.5-hour hands-on workshop for MS1s and MS2s interested in su
+ rgery\, covering basic biostatistics applicable to research and STEP 1 by 
+ creating\, collecting\, and analyzing data from tasting chicken nuggets (p
+ rovided free). Only 10 students will be taken\; selected participants will
+  be contacted Tuesday\, October 13 to confirm.\nRSVP requested by Mon Oct 
+ 12\, 11:59 PM: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=U7
+ o9qE0SMk2I8LcoianpJoIW_Eqi5DRBkshgMoA4vCRUN1RTT09YMVE3NVVKNjJBU0JDWERIUUU4
+ Sy4u\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event
+ /166.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/166.html
+CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-157@local
