@@ -31,15 +31,17 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-163@local
-DTSTAMP:20261008T180128Z
-LAST-MODIFIED:20261008T180128Z
+DTSTAMP:20261009T123717Z
+LAST-MODIFIED:20261009T123717Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Round 1 MD/MBA Apps Due
 STATUS:CONFIRMED
-DESCRIPTION:https://business.rice.edu/mba-admissions/guide\nHost: Business 
- & Healthcare Administration Interest Group\nDetails: https://jerrywang1234
- 54321-maker.github.io/bcm-events/event/163.html
+DESCRIPTION:Round 1 application deadline for the MD/MBA program\, posted on
+  the interest group's GroupMe calendar. Requirements and timelines are in 
+ the Rice Business MBA admissions guide (business.rice.edu/mba-admissions/g
+ uide).\nHost: Business & Healthcare Administration Interest Group\nDetails
+ : https://jerrywang123454321-maker.github.io/bcm-events/event/163.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/163.html
 CATEGORIES:Deadline
 END:VEVENT
