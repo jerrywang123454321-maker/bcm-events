@@ -1746,8 +1746,8 @@ CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-111@local
-DTSTAMP:20261010T134215Z
-LAST-MODIFIED:20261010T134215Z
+DTSTAMP:20261010T194442Z
+LAST-MODIFIED:20261010T194442Z
 DTSTART:20261011T150000Z
 DTEND:20261011T170000Z
 SUMMARY:Green Squad Pickleball Social
@@ -2304,6 +2304,24 @@ DESCRIPTION:Paint a pumpkin\, grab Oreos\, and enjoy some fall fun with Fir
  ml
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/154.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-171@local
+DTSTAMP:20261010T194443Z
+LAST-MODIFIED:20261010T194443Z
+DTSTART:20261021T230000Z
+DTEND:20261022T000000Z
+SUMMARY:IMIG: EKG Workshop with IM Residents
+STATUS:CONFIRMED
+LOCATION:Room N315
+DESCRIPTION:Hands-on EKG workshop presented by the Internal Medicine Intere
+ st Group and led by current IM residents. A chance to learn and practice s
+ kills related to cardiac physiology alongside the CRR course.\nHost: IMIG 
+ (Internal Medicine Interest Group)\nRSVP requested: https://forms.gle/diY1
+ v7ZVjvcVgqjWA\nDetails: https://jerrywang123454321-maker.github.io/bcm-eve
+ nts/event/171.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/171.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-149@local
