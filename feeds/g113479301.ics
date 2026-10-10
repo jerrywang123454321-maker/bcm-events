@@ -814,8 +814,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-71@local
-DTSTAMP:20261010T134215Z
-LAST-MODIFIED:20261010T134215Z
+DTSTAMP:20261010T162610Z
+LAST-MODIFIED:20261010T162610Z
 DTSTART:20261010T130000Z
 DTEND:20261010T140000Z
 SUMMARY:BCM 5K & Well-Being Fair
@@ -881,6 +881,25 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
  454321-maker.github.io/bcm-events/event/23.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/23.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-169@local
+DTSTAMP:20261010T162629Z
+LAST-MODIFIED:20261010T162629Z
+DTSTART:20261014T220000Z
+DTEND:20261014T230000Z
+SUMMARY:Albert Schweitzer Fellowship (ASF) Info Session
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Info session on the Albert Schweitzer Fellowship\, a year-long 
+ fellowship for graduate and professional students to address local health 
+ needs through community-based service projects\, with mentorship\, leaders
+ hip development sessions\, and community partnerships. A $15 gift card wil
+ l be raffled off to one attendee.\nOnline option: link in the group chat.\
+ nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/169.
+ html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/169.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-139@local
@@ -1026,6 +1045,24 @@ DESCRIPTION:In-person panel led by MS4s who applied for general surgery\, c
  vents/event/147.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/147.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-170@local
+DTSTAMP:20261010T162629Z
+LAST-MODIFIED:20261010T162629Z
+DTSTART:20261019T230000Z
+DTEND:20261020T000000Z
+SUMMARY:SIGN x HARC — Beyond Aphasia: Stories of Recovery and Advocacy
+STATUS:CONFIRMED
+LOCATION:M323
+DESCRIPTION:Adults living with aphasia from the Houston Aphasia Recovery Ce
+ nter (HARC) share first-hand stories of stroke and aphasia recovery and ad
+ vocacy. Worth 1 SLP talk point\; RSVP to be counted for food.\nHost: SIGN 
+ (Student Interest Group in Neurology)\nRSVP requested: https://forms.gle/q
+ WjLJatGoxcQhyxE9\nDetails: https://jerrywang123454321-maker.github.io/bcm-
+ events/event/170.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/170.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-120@local
