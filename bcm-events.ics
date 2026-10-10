@@ -2023,6 +2023,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/139.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-172@local
+DTSTAMP:20261010T200029Z
+LAST-MODIFIED:20261010T200029Z
+DTSTART:20261015T180000Z
+DTEND:20261015T190000Z
+SUMMARY:Anki Q&A with MS2s
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:MS2s answer questions about using Anki now that MS1s have start
+ ed their first organ block. Questions can be submitted ahead of time via a
+  Google Form\, or you can just drop in and listen to other students' quest
+ ions.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/172.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/172.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-167@local
 DTSTAMP:20261010T134215Z
 LAST-MODIFIED:20261010T134215Z
