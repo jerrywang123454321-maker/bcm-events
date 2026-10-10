@@ -266,4 +266,23 @@ DESCRIPTION:Monthly free health clinic run by Boat People SOS serving the V
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/56.html
 CATEGORIES:Service / volunteering
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-57@local
+DTSTAMP:20261001T190359Z
+LAST-MODIFIED:20261001T190359Z
+DTSTART:20261208T160000Z
+DTEND:20261208T180000Z
+SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
+STATUS:CONFIRMED
+LOCATION:BPSOS-Houston\, 11360 Bellaire Blvd.\, Ste. 910\, Houston\, TX 770
+ 72
+DESCRIPTION:Final 2026 monthly free health clinic run by Boat People SOS fo
+ r the Vietnamese immigrant and refugee community\, offering screenings\, f
+ lu shots\, behavioral health\, and insurance enrollment help.\nHost: APAMS
+ A / BPSOS-Houston\nRSVP requested: https://www.signupgenius.com/go/10C0F4E
+ AAA723A0FA7-61361761-2026#/\nDetails: https://jerrywang123454321-maker.git
+ hub.io/bcm-events/event/57.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/57.html
+CATEGORIES:Service / volunteering
+END:VEVENT
 END:VCALENDAR
