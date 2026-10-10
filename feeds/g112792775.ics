@@ -141,6 +141,21 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/99.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-168@local
+DTSTAMP:20261010T000230Z
+LAST-MODIFIED:20261010T000230Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:ChatGPT Plus Free 4-Month Student Offer: Claim Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Medical students can claim four months of ChatGPT Plus for free
+ \, but the offer must be claimed by October 31. A classmate shared the cla
+ im link in the group chat.\nDetails: https://jerrywang123454321-maker.gith
+ ub.io/bcm-events/event/168.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/168.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-18@local
 DTSTAMP:20261009T123716Z
 LAST-MODIFIED:20261009T123716Z

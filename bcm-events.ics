@@ -1655,18 +1655,18 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-159@local
-DTSTAMP:20261009T123716Z
-LAST-MODIFIED:20261009T123716Z
+DTSTAMP:20261010T000229Z
+LAST-MODIFIED:20261010T000229Z
 DTSTART:20261009T230000Z
 DTEND:20261010T010000Z
 SUMMARY:Baylor Class Social: Happy Hour at Social Beer Garden HTX
 STATUS:CONFIRMED
 LOCATION:Social Beer Garden HTX\, 3101 San Jacinto St\, Houston\, TX 77004
-DESCRIPTION:Post-exam class happy hour to unwind after the pulmonary/infect
- ious disease block exam. Two free parking lots are available\, but carpool
- ing is recommended. Food and drinks are available for purchase at the venu
- e.\nHost: BCM Class of 2030\nDetails: https://jerrywang123454321-maker.git
- hub.io/bcm-events/event/159.html
+DESCRIPTION:Post-exam class happy hour\, 6-8pm. Heads-up from a classmate: 
+ the venue is hosting a book-fair-type event the same evening\, so it is ex
+ tremely crowded and parking is essentially unavailable. Consider carpoolin
+ g\, rideshare\, or the rail.\nHost: BCM Class of 2030\nDetails: https://je
+ rrywang123454321-maker.github.io/bcm-events/event/159.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/159.html
 CATEGORIES:Social
 END:VEVENT
@@ -2477,6 +2477,21 @@ DESCRIPTION:The National Resident Matching Program is accepting nominations
  A-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
  t/113.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/113.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-168@local
+DTSTAMP:20261010T000230Z
+LAST-MODIFIED:20261010T000230Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:ChatGPT Plus Free 4-Month Student Offer: Claim Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Medical students can claim four months of ChatGPT Plus for free
+ \, but the offer must be claimed by October 31. A classmate shared the cla
+ im link in the group chat.\nDetails: https://jerrywang123454321-maker.gith
+ ub.io/bcm-events/event/168.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/168.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
