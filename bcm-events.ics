@@ -1877,8 +1877,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-136@local
-DTSTAMP:20261011T121039Z
-LAST-MODIFIED:20261011T121039Z
+DTSTAMP:20261012T040030Z
+LAST-MODIFIED:20261012T040030Z
 DTSTART:20261012T230000Z
 DTEND:20261013T000000Z
 SUMMARY:Siempre Unidos: Medical Spanish Workshop — Cardiac H&P
@@ -1933,19 +1933,18 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-164@local
-DTSTAMP:20261011T121039Z
-LAST-MODIFIED:20261011T121039Z
+DTSTAMP:20261012T040020Z
+LAST-MODIFIED:20261012T040020Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Dream Outside the Box: Volunteering Session
 STATUS:CONFIRMED
 DESCRIPTION:Volunteer slot with Dream Outside the Box on Tuesday 10/13. Sig
  n up via the Google Form\; the chat asks that everyone sign up by Sunday n
- ight. No start time was given in the message.\nTime not announced yet.\nHo
- st: Dream Outside the Box\nRSVP requested by Sun Oct 11\, 11:59 PM: https:
- //docs.google.com/forms/d/e/1FAIpQLSdVO3hmjy66GeWibUGimcWVchSzOFXHTFeM7JyX
- eiX8QIU9og/viewform\nDetails: https://jerrywang123454321-maker.github.io/b
- cm-events/event/164.html
+ ight. No start time was given in the message.\nHost: Dream Outside the Box
+ \nRSVP requested by Sun Oct 11\, 11:59 PM: https://docs.google.com/forms/d
+ /e/1FAIpQLSdVO3hmjy66GeWibUGimcWVchSzOFXHTFeM7JyXeiX8QIU9og/viewform\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/164.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/164.html
 CATEGORIES:Service / volunteering
 END:VEVENT
