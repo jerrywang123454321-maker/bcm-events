@@ -1838,22 +1838,20 @@ CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-109@local
-DTSTAMP:20261012T120828Z
-LAST-MODIFIED:20261012T120828Z
+DTSTAMP:20261012T160048Z
+LAST-MODIFIED:20261012T160048Z
 DTSTART:20261012T220000Z
-DTEND:20261013T000000Z
-SUMMARY:BSAC Cancer Talk Series: Lung Cancer Care — From Diagnosis to Tre
- atment
+DTEND:20261012T230000Z
+SUMMARY:BSAC x SSS Cancer Talk: Lung Cancer Care with Dr. Blackmon
 STATUS:CONFIRMED
 LOCATION:Room N315\, BCM Houston Campus
-DESCRIPTION:First lecture of the Baylor Students Against Cancer talk series
- \, featuring Dr. Shanda Blackmon\, cardiothoracic surgeon and Director of 
- the BCM Lung Institute\, on thoracic oncology\, lung cancer surgery\, and 
- clinical care. Come with questions\; food will be provided. A virtual opti
- on is available for Temple students.\nHost: Baylor Students Against Cancer
-  (BSAC) and Student Surgical Society\nRSVP requested: https://forms.gle/tL
- LV8dRSsasJxUPz9\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
- vents/event/109.html
+DESCRIPTION:Corrected end time: the talk runs 5–6 PM\, not 5–7 PM. Dr. 
+ Blackmon\, cardiothoracic surgeon and director of the BCM Lung Institute\,
+  shares her expertise in lung cancer surgery and clinical care. Dinner (Ba
+ nh Mi) provided.\nHost: Baylor Students Against Cancer (BSAC) and Student 
+ Surgical Society (SSS)\nRSVP requested: https://forms.gle/tLLV8dRSsasJxUPz
+ 9\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/10
+ 9.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/109.html
 CATEGORIES:Interest group
 END:VEVENT
@@ -2601,6 +2599,24 @@ DESCRIPTION:Drop-in fundraiser supporting First Generation MD: pop in for a
   Generation MD\nDetails: https://jerrywang123454321-maker.github.io/bcm-ev
  ents/event/155.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/155.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-178@local
+DTSTAMP:20261012T160049Z
+LAST-MODIFIED:20261012T160049Z
+DTSTART:20261029T223000Z
+DTEND:20261029T233000Z
+SUMMARY:Into Urology: Career Insights with Dr. Amit Reddy
+STATUS:CONFIRMED
+LOCATION:Cullen 187A
+DESCRIPTION:Dr. Amit Reddy\, a urology attending\, discusses what urology i
+ s\, day-to-day life as a urologist\, and how to be a competitive applicant
+  for the urology match\, with time for questions. Food will be provided.\n
+ RSVP requested: https://docs.google.com/forms/d/e/1FAIpQLScMtJCCWjzfGVrkAl
+ fGY_J5NKeuygUQobOE4588uzBjtzLNFg/viewform\nDetails: https://jerrywang12345
+ 4321-maker.github.io/bcm-events/event/178.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/178.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
