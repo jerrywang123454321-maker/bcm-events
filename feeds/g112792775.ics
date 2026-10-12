@@ -106,8 +106,8 @@ CATEGORIES:Career / specialty
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-72@local
-DTSTAMP:20261012T120828Z
-LAST-MODIFIED:20261012T120828Z
+DTSTAMP:20261012T180329Z
+LAST-MODIFIED:20261012T180329Z
 DTSTART:20261012T170000Z
 DTEND:20261012T180000Z
 SUMMARY:SOAR Research Grand Rounds: Idea Generation and Methodology
@@ -119,8 +119,8 @@ DESCRIPTION:Session on research idea generation and methodology\; food prov
  ge gaps\, with live Q&A at the end. The registration link has been replace
  d because the previous one was causing issues.\nHost: SOAR Research Grand 
  Rounds\nRSVP requested: https://redcap.research.bcm.edu/redcap/surveys/?s=
- JEYTF7XW479DWHEX\nDetails: https://jerrywang123454321-maker.github.io/bcm-
- events/event/72.html
+ JEYTF7XW479DWHEX\nOnline option: link in the group chat.\nDetails: https:/
+ /jerrywang123454321-maker.github.io/bcm-events/event/72.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/72.html
 CATEGORIES:Research
 END:VEVENT

@@ -848,6 +848,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/140.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-179@local
+DTSTAMP:20261012T180329Z
+LAST-MODIFIED:20261012T180329Z
+DTSTART:20261012T160000Z
+DTEND:20261012T180000Z
+SUMMARY:Hope Lodge SLP Bake Sale
+STATUS:CONFIRMED
+LOCATION:Outside Kleberg Auditorium
+DESCRIPTION:The Hope Lodge Service Learning Project site is holding a bake 
+ sale to fundraise for its events this year. Cookies and brownies are avail
+ able for purchase (bring money)\; it is not free food.\nHost: Hope Lodge S
+ ervice Learning Project (SLP)\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/179.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/179.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-141@local
 DTSTAMP:20261012T120828Z
 LAST-MODIFIED:20261012T120828Z
@@ -1335,6 +1352,24 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
  454321-maker.github.io/bcm-events/event/133.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/133.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-180@local
+DTSTAMP:20261012T180329Z
+LAST-MODIFIED:20261012T180329Z
+DTSTART:20261107T020000Z
+DTEND:20261107T040000Z
+SUMMARY:BCM x McGovern Mixer at Kirby Ice House
+STATUS:CONFIRMED
+LOCATION:Kirby Ice House\, 3333 Eastside St\, Houston\, TX 77098
+DESCRIPTION:Social mixer between Baylor College of Medicine and McGovern Me
+ dical School students\, held after the third CRR exam. Drinks and a chance
+  to meet students from across the street\; note there are multiple Kirby I
+ ce House locations\, so go to the Eastside St one.\nHost: BCM '30 Socials 
+ (BCM x McGovern Medical School)\nDetails: https://jerrywang123454321-maker
+ .github.io/bcm-events/event/180.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/180.html
+CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-119@local

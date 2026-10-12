@@ -1817,9 +1817,26 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/103.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-179@local
+DTSTAMP:20261012T180329Z
+LAST-MODIFIED:20261012T180329Z
+DTSTART:20261012T160000Z
+DTEND:20261012T180000Z
+SUMMARY:Hope Lodge SLP Bake Sale
+STATUS:CONFIRMED
+LOCATION:Outside Kleberg Auditorium
+DESCRIPTION:The Hope Lodge Service Learning Project site is holding a bake 
+ sale to fundraise for its events this year. Cookies and brownies are avail
+ able for purchase (bring money)\; it is not free food.\nHost: Hope Lodge S
+ ervice Learning Project (SLP)\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/179.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/179.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-72@local
-DTSTAMP:20261012T120828Z
-LAST-MODIFIED:20261012T120828Z
+DTSTAMP:20261012T180329Z
+LAST-MODIFIED:20261012T180329Z
 DTSTART:20261012T170000Z
 DTEND:20261012T180000Z
 SUMMARY:SOAR Research Grand Rounds: Idea Generation and Methodology
@@ -1831,8 +1848,8 @@ DESCRIPTION:Session on research idea generation and methodology\; food prov
  ge gaps\, with live Q&A at the end. The registration link has been replace
  d because the previous one was causing issues.\nHost: SOAR Research Grand 
  Rounds\nRSVP requested: https://redcap.research.bcm.edu/redcap/surveys/?s=
- JEYTF7XW479DWHEX\nDetails: https://jerrywang123454321-maker.github.io/bcm-
- events/event/72.html
+ JEYTF7XW479DWHEX\nOnline option: link in the group chat.\nDetails: https:/
+ /jerrywang123454321-maker.github.io/bcm-events/event/72.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/72.html
 CATEGORIES:Research
 END:VEVENT
@@ -2639,6 +2656,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/113.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-181@local
+DTSTAMP:20261012T180330Z
+LAST-MODIFIED:20261012T180330Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:NephSIM Nephrons Program 2027: Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications are open for the 2027 NephSIM Nephrons Program\, a
+  6-month virtual mentoring and education program for medical students inte
+ rested in nephrology careers. Accepted students get a dedicated faculty me
+ ntor plus a variety of interactive sessions about the specialty. Deadline 
+ is October 31 at 5 PM Eastern (4 PM Central).\nHost: NephSIM Nephrons Prog
+ ram (National Kidney Foundation)\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/181.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/181.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-168@local
 DTSTAMP:20261012T120828Z
 LAST-MODIFIED:20261012T120828Z
@@ -2762,6 +2797,24 @@ DESCRIPTION:Medical Vietnamese ("Medical Viet") session hosted by McGovern
  aker.github.io/bcm-events/event/11.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/11.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-180@local
+DTSTAMP:20261012T180329Z
+LAST-MODIFIED:20261012T180329Z
+DTSTART:20261107T020000Z
+DTEND:20261107T040000Z
+SUMMARY:BCM x McGovern Mixer at Kirby Ice House
+STATUS:CONFIRMED
+LOCATION:Kirby Ice House\, 3333 Eastside St\, Houston\, TX 77098
+DESCRIPTION:Social mixer between Baylor College of Medicine and McGovern Me
+ dical School students\, held after the third CRR exam. Drinks and a chance
+  to meet students from across the street\; note there are multiple Kirby I
+ ce House locations\, so go to the Eastside St one.\nHost: BCM '30 Socials 
+ (BCM x McGovern Medical School)\nDetails: https://jerrywang123454321-maker
+ .github.io/bcm-events/event/180.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/180.html
+CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-119@local

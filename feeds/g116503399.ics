@@ -84,4 +84,22 @@ DESCRIPTION:Panel discussion with primary care physicians practicing at Bay
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/118.html
 CATEGORIES:Interest group
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-181@local
+DTSTAMP:20261012T180330Z
+LAST-MODIFIED:20261012T180330Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:NephSIM Nephrons Program 2027: Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications are open for the 2027 NephSIM Nephrons Program\, a
+  6-month virtual mentoring and education program for medical students inte
+ rested in nephrology careers. Accepted students get a dedicated faculty me
+ ntor plus a variety of interactive sessions about the specialty. Deadline 
+ is October 31 at 5 PM Eastern (4 PM Central).\nHost: NephSIM Nephrons Prog
+ ram (National Kidney Foundation)\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/181.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/181.html
+CATEGORIES:Deadline
+END:VEVENT
 END:VCALENDAR
