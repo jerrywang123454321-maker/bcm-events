@@ -1967,12 +1967,13 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-137@local
-DTSTAMP:20261012T120828Z
-LAST-MODIFIED:20261012T120828Z
+DTSTAMP:20261012T220139Z
+LAST-MODIFIED:20261012T220139Z
 DTSTART:20261013T000000Z
 DTEND:20261013T010000Z
 SUMMARY:AMA LGBTQ+ Section: Interim 101 Meeting
 STATUS:CONFIRMED
+LOCATION:Virtual (Zoom)
 DESCRIPTION:Virtual intro session on the AMA and Interim 2026: hear from AM
  A LGBTQ+ Section leadership about their strategic plan\, current policy in
  itiatives\, upcoming events\, and ways to get involved. Open to those new 
@@ -2093,6 +2094,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/139.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-184@local
+DTSTAMP:20261012T220139Z
+LAST-MODIFIED:20261012T220139Z
+DTSTART:20261014T230000Z
+DTEND:20261015T000000Z
+SUMMARY:Anatomy Buddies: Anterior Thoracic Wall and Lungs Session
+STATUS:CONFIRMED
+LOCATION:M112
+DESCRIPTION:First Anatomy Buddies session of the year\, covering the anatom
+ y of the anterior thoracic wall and lungs. Peer-taught high-yield anatomy 
+ review with strategies for integrating the material\, plus a chance to mee
+ t upperclassmen. Food will be provided.\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/184.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/184.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-172@local
 DTSTAMP:20261012T120828Z
 LAST-MODIFIED:20261012T120828Z
@@ -2127,9 +2145,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/167.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-183@local
+DTSTAMP:20261012T220139Z
+LAST-MODIFIED:20261012T220139Z
+DTSTART:20261015T223000Z
+DTEND:20261015T233000Z
+SUMMARY:Baylor Soccer: Thursday Pickup Game
+STATUS:CONFIRMED
+LOCATION:Helix Park (per previous weeks\; not restated in this message)
+DESCRIPTION:Weekly casual pickup soccer with the Baylor Soccer group\, this
+  week at 5:30 PM. Open to anyone who wants to drop in\; bring athletic clo
+ thes and cleats/sneakers.\nHost: Baylor Soccer\nDetails: https://jerrywang
+ 123454321-maker.github.io/bcm-events/event/183.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/183.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-142@local
-DTSTAMP:20261012T120828Z
-LAST-MODIFIED:20261012T120828Z
+DTSTAMP:20261012T220139Z
+LAST-MODIFIED:20261012T220139Z
 DTSTART:20261015T230000Z
 DTEND:20261016T000000Z
 SUMMARY:AMWA General Body Meeting

@@ -188,12 +188,13 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-137@local
-DTSTAMP:20261012T120828Z
-LAST-MODIFIED:20261012T120828Z
+DTSTAMP:20261012T220139Z
+LAST-MODIFIED:20261012T220139Z
 DTSTART:20261013T000000Z
 DTEND:20261013T010000Z
 SUMMARY:AMA LGBTQ+ Section: Interim 101 Meeting
 STATUS:CONFIRMED
+LOCATION:Virtual (Zoom)
 DESCRIPTION:Virtual intro session on the AMA and Interim 2026: hear from AM
  A LGBTQ+ Section leadership about their strategic plan\, current policy in
  itiatives\, upcoming events\, and ways to get involved. Open to those new 

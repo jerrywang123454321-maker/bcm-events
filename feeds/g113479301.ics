@@ -959,6 +959,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/139.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-184@local
+DTSTAMP:20261012T220139Z
+LAST-MODIFIED:20261012T220139Z
+DTSTART:20261014T230000Z
+DTEND:20261015T000000Z
+SUMMARY:Anatomy Buddies: Anterior Thoracic Wall and Lungs Session
+STATUS:CONFIRMED
+LOCATION:M112
+DESCRIPTION:First Anatomy Buddies session of the year\, covering the anatom
+ y of the anterior thoracic wall and lungs. Peer-taught high-yield anatomy 
+ review with strategies for integrating the material\, plus a chance to mee
+ t upperclassmen. Food will be provided.\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/184.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/184.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-172@local
 DTSTAMP:20261012T120828Z
 LAST-MODIFIED:20261012T120828Z
@@ -994,8 +1011,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-142@local
-DTSTAMP:20261012T120828Z
-LAST-MODIFIED:20261012T120828Z
+DTSTAMP:20261012T220139Z
+LAST-MODIFIED:20261012T220139Z
 DTSTART:20261015T230000Z
 DTEND:20261016T000000Z
 SUMMARY:AMWA General Body Meeting
