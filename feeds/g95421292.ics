@@ -41,4 +41,20 @@ DESCRIPTION:Casual indoor volleyball pickup with BCM students. Group chatte
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/117.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-177@local
+DTSTAMP:20261012T140117Z
+LAST-MODIFIED:20261012T140117Z
+DTSTART:20261012T230000Z
+DTEND:20261013T000000Z
+SUMMARY:Monday Indoor Volleyball
+STATUS:CONFIRMED
+DESCRIPTION:Casual indoor volleyball for the Monday volleyball group\, star
+ ting around 6:00-6:30 PM\; players typically drop in and play until about 
+ 8 PM. The organizer noted she will arrive around 7 PM because of a meeting
+ .\nHost: BCM Volleyball (Monday group)\nDetails: https://jerrywang12345432
+ 1-maker.github.io/bcm-events/event/177.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/177.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR

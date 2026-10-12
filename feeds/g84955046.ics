@@ -9,4 +9,19 @@ X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-176@local
+DTSTAMP:20261012T140117Z
+LAST-MODIFIED:20261012T140117Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:BCM Running Club Officer Committee: Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications are open for this year's BCM Running Club officer 
+ committee\, a way to get involved and help lead the group. Apply via the G
+ oogle Form by the deadline.\nHost: BCM Running Club\nDetails: https://jerr
+ ywang123454321-maker.github.io/bcm-events/event/176.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/176.html
+CATEGORIES:Deadline
+END:VEVENT
 END:VCALENDAR
