@@ -77,18 +77,24 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-164@local
-DTSTAMP:20261013T120900Z
-LAST-MODIFIED:20261013T120900Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Dream Outside the Box: Volunteering Session
+DTSTAMP:20261013T140030Z
+LAST-MODIFIED:20261013T140030Z
+DTSTART:20261013T201500Z
+DTEND:20261013T211500Z
+SUMMARY:Dream Outside the Box: Volunteering at MacGregor — Catapult Day
 STATUS:CONFIRMED
-DESCRIPTION:Volunteer slot with Dream Outside the Box on Tuesday 10/13. Sig
- n up via the Google Form\; the chat asks that everyone sign up by Sunday n
- ight. No start time was given in the message.\nHost: Dream Outside the Box
- \nRSVP requested by Sun Oct 11\, 11:59 PM: https://docs.google.com/forms/d
- /e/1FAIpQLSdVO3hmjy66GeWibUGimcWVchSzOFXHTFeM7JyXeiX8QIU9og/viewform\nDeta
- ils: https://jerrywang123454321-maker.github.io/bcm-events/event/164.html
+LOCATION:MacGregor
+DESCRIPTION:Today's volunteering theme is mechanical engineering: each kid 
+ builds a catapult from 5 popsicle sticks\, 1 plastic spoon\, and 3 rubber 
+ bands\, then launches crumpled paper balls at cup targets worth 1\, 3\, an
+ d 5 points. Run of show: 3:15 welcome and table talk\, 3:25 build time (he
+ lp younger kids wrap the rubber bands while they hold)\, 3:45 launch chall
+ enge\, 4:05 clean up — kids take their catapults home. Bring your photo 
+ ID\; if you completed the VIPS certificate and background check there is n
+ othing to upload.\nHost: Dream Outside the Box\nRSVP requested by Sun Oct 
+ 11\, 11:59 PM: https://docs.google.com/forms/d/e/1FAIpQLSdVO3hmjy66GeWibUG
+ imcWVchSzOFXHTFeM7JyXeiX8QIU9og/viewform\nDetails: https://jerrywang123454
+ 321-maker.github.io/bcm-events/event/164.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/164.html
 CATEGORIES:Service / volunteering
 END:VEVENT
