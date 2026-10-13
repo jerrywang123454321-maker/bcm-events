@@ -2099,6 +2099,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/185.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-188@local
+DTSTAMP:20261013T180745Z
+LAST-MODIFIED:20261013T180745Z
+DTSTART:20261014T223000Z
+DTEND:20261015T003000Z
+SUMMARY:3rd Annual TMC Radiology Trainee Panel & Simulation Event
+STATUS:CONFIRMED
+LOCATION:DeBakey Building\, 3rd Floor\, Rooms 319.01–03
+DESCRIPTION:Q&A panel with radiology trainees from across the Texas Medical
+  Center\, followed by a hands-on device simulation session with Cook Medic
+ al. Open to students interested in radiology.\nHost: TMC Radiology Interes
+ t Group\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
+ ent/188.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/188.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-139@local
 DTSTAMP:20261013T120858Z
 LAST-MODIFIED:20261013T120858Z
@@ -2218,6 +2235,22 @@ DESCRIPTION:Annual Baylor Urology Network meeting on the how and why of res
  sted: https://forms.gle/yLazoJ6mQpkFQDNx7\nDetails: https://jerrywang12345
  4321-maker.github.io/bcm-events/event/153.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/153.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-189@local
+DTSTAMP:20261013T180745Z
+LAST-MODIFIED:20261013T180745Z
+DTSTART:20261016T170000Z
+DTEND:20261016T180000Z
+SUMMARY:Baylor Literary Society (BLS): First Meeting
+STATUS:CONFIRMED
+LOCATION:Squad Rooms
+DESCRIPTION:Kickoff meeting of the Baylor Literary Society. The group will 
+ get things started\, discuss everyone's reading interests\, and pick the c
+ lub's first book.\nHost: Baylor Literary Society (BLS)\nDetails: https://j
+ errywang123454321-maker.github.io/bcm-events/event/189.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/189.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
