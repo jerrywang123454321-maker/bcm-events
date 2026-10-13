@@ -1967,20 +1967,20 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-137@local
-DTSTAMP:20261012T220139Z
-LAST-MODIFIED:20261012T220139Z
+DTSTAMP:20261013T010024Z
+LAST-MODIFIED:20261013T010024Z
 DTSTART:20261013T000000Z
 DTEND:20261013T010000Z
 SUMMARY:AMA LGBTQ+ Section: Interim 101 Meeting
 STATUS:CONFIRMED
 LOCATION:Virtual (Zoom)
-DESCRIPTION:Virtual intro session on the AMA and Interim 2026: hear from AM
- A LGBTQ+ Section leadership about their strategic plan\, current policy in
- itiatives\, upcoming events\, and ways to get involved. Open to those new 
- to the Section as well as returning members. 7–8 PM Central.\nHost: AMA 
- LGBTQ+ Section (via AMA-MSS)\nRSVP requested\nOnline option: link in the g
- roup chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
- /event/137.html
+DESCRIPTION:Meeting start was delayed by technical difficulties and the Zoo
+ m link changed\; attendees should join using the new link instead of the p
+ revious registration link. Session covers the AMA LGBTQ+ Section's mission
+  and work\, leadership\, policy initiatives\, and ways to get involved.\nH
+ ost: AMA-MSS LGBTQ+ Section\nRSVP requested\nOnline option: link in the gr
+ oup chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
+ event/137.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/137.html
 CATEGORIES:Student org
 END:VEVENT
