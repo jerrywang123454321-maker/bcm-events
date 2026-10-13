@@ -2045,8 +2045,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-126@local
-DTSTAMP:20261013T120858Z
-LAST-MODIFIED:20261013T120858Z
+DTSTAMP:20261013T160038Z
+LAST-MODIFIED:20261013T160038Z
 DTSTART:20261014T170000Z
 DTEND:20261014T180000Z
 SUMMARY:Curing Kids' Cancer: Fall Arts and Crafts Event
@@ -2082,17 +2082,19 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-185@local
-DTSTAMP:20261013T120858Z
-LAST-MODIFIED:20261013T120858Z
+DTSTAMP:20261013T160102Z
+LAST-MODIFIED:20261013T160102Z
 DTSTART:20261014T220000Z
 DTEND:20261014T230000Z
 SUMMARY:Mandarin Language Club: How to Take Vitals in Mandarin
 STATUS:CONFIRMED
-DESCRIPTION:Medical School Mandarin Language Club meeting where students pr
- actice the language of a vital signs check in Mandarin. RSVP via the Googl
- e Form for food.\nHost: Medical School Mandarin Language Club\nRSVP reques
- ted: https://forms.gle/XBheUK3KsLAJxXV67\nDetails: https://jerrywang123454
- 321-maker.github.io/bcm-events/event/185.html
+LOCATION:N311
+DESCRIPTION:Practice taking vitals in Mandarin with the Medical School Mand
+ arin Language Club. The room was confirmed as N311 in reply to a question 
+ in the chat\; RSVP on the club's Google Form to be counted for food.\nHost
+ : Medical School Mandarin Language Club\nRSVP requested: https://forms.gle
+ /XBheUK3KsLAJxXV67\nDetails: https://jerrywang123454321-maker.github.io/bc
+ m-events/event/185.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/185.html
 CATEGORIES:Student org
 END:VEVENT
@@ -2500,6 +2502,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/171.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-186@local
+DTSTAMP:20261013T160102Z
+LAST-MODIFIED:20261013T160102Z
+DTSTART:20261022T150000Z
+DTEND:20261022T170000Z
+SUMMARY:TCH Ultrasound Model Session (Morning)
+STATUS:CONFIRMED
+LOCATION:Texas Children's Hospital (TCH)
+DESCRIPTION:Texas Children's Hospital needs medical students to serve as pa
+ id ultrasound models. Pay is $60 per 2-hour session\, with parking and foo
+ d included. Athletic attire is recommended. Sessions run 10a-12p and 2p-4p
+  on 10/22 and 10/23\, with 10 sessions total available.\nHost: Anesthesia 
+ Interest Group (AIG) / Texas Children's Hospital\nRSVP requested\nDetails:
+  https://jerrywang123454321-maker.github.io/bcm-events/event/186.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/186.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-149@local
 DTSTAMP:20261013T120858Z
 LAST-MODIFIED:20261013T120858Z
@@ -2550,6 +2570,24 @@ DESCRIPTION:ACGME is proposing changes to residency program requirements th
  b.io/bcm-events/event/104.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/104.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-187@local
+DTSTAMP:20261013T160102Z
+LAST-MODIFIED:20261013T160102Z
+DTSTART:20261023T190000Z
+DTEND:20261023T210000Z
+SUMMARY:TCH Ultrasound Model Session (Afternoon)
+STATUS:CONFIRMED
+LOCATION:Texas Children's Hospital (TCH)
+DESCRIPTION:Paid ultrasound model session at Texas Children's Hospital\, $6
+ 0 per 2-hour session with parking and food included. Athletic attire is be
+ st. Sessions are offered 10a-12p and 2p-4p on both 10/22 and 10/23.\nHost:
+  Anesthesia Interest Group (AIG) / Texas Children's Hospital\nRSVP request
+ ed\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/1
+ 87.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/187.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-138@local

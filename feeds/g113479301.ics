@@ -941,17 +941,19 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-185@local
-DTSTAMP:20261013T120858Z
-LAST-MODIFIED:20261013T120858Z
+DTSTAMP:20261013T160102Z
+LAST-MODIFIED:20261013T160102Z
 DTSTART:20261014T220000Z
 DTEND:20261014T230000Z
 SUMMARY:Mandarin Language Club: How to Take Vitals in Mandarin
 STATUS:CONFIRMED
-DESCRIPTION:Medical School Mandarin Language Club meeting where students pr
- actice the language of a vital signs check in Mandarin. RSVP via the Googl
- e Form for food.\nHost: Medical School Mandarin Language Club\nRSVP reques
- ted: https://forms.gle/XBheUK3KsLAJxXV67\nDetails: https://jerrywang123454
- 321-maker.github.io/bcm-events/event/185.html
+LOCATION:N311
+DESCRIPTION:Practice taking vitals in Mandarin with the Medical School Mand
+ arin Language Club. The room was confirmed as N311 in reply to a question 
+ in the chat\; RSVP on the club's Google Form to be counted for food.\nHost
+ : Medical School Mandarin Language Club\nRSVP requested: https://forms.gle
+ /XBheUK3KsLAJxXV67\nDetails: https://jerrywang123454321-maker.github.io/bc
+ m-events/event/185.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/185.html
 CATEGORIES:Student org
 END:VEVENT
