@@ -1308,6 +1308,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/104.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-190@local
+DTSTAMP:20261013T200045Z
+LAST-MODIFIED:20261013T200045Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:BCM COAG MS1 Representative Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:BCM COAG (Climbing and Outdoor Adventure Group) is recruiting a
+ n MS1 representative to help plan climbing and outdoor events. Open to stu
+ dents who love climbing and/or the outdoors\; apply via the Google Form by
+  Friday\, October 23.\nHost: BCM COAG (Climbing and Outdoor Adventure Grou
+ p)\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/1
+ 90.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/190.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-165@local
 DTSTAMP:20261013T120858Z
 LAST-MODIFIED:20261013T120858Z
