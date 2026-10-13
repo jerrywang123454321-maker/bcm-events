@@ -941,8 +941,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-185@local
-DTSTAMP:20261013T160102Z
-LAST-MODIFIED:20261013T160102Z
+DTSTAMP:20261013T220037Z
+LAST-MODIFIED:20261013T220037Z
 DTSTART:20261014T220000Z
 DTEND:20261014T230000Z
 SUMMARY:Mandarin Language Club: How to Take Vitals in Mandarin
@@ -1114,8 +1114,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-166@local
-DTSTAMP:20261013T120858Z
-LAST-MODIFIED:20261013T120858Z
+DTSTAMP:20261013T220038Z
+LAST-MODIFIED:20261013T220038Z
 DTSTART:20261019T210000Z
 DTEND:20261019T223000Z
 SUMMARY:Chicken Nugget Tasting: Biostatistics Workshop
@@ -1125,11 +1125,11 @@ DESCRIPTION:A 1.5-hour hands-on workshop for MS1s and MS2s interested in su
  rgery\, covering basic biostatistics applicable to research and STEP 1 by 
  creating\, collecting\, and analyzing data from tasting chicken nuggets (p
  rovided free). Only 10 students will be taken\; selected participants will
-  be contacted Tuesday\, October 13 to confirm.\nRSVP requested by Mon Oct 
- 12\, 11:59 PM: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=U7
- o9qE0SMk2I8LcoianpJoIW_Eqi5DRBkshgMoA4vCRUN1RTT09YMVE3NVVKNjJBU0JDWERIUUU4
- Sy4u\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event
- /166.html
+  be contacted Tuesday\, October 13 to confirm.\nHost: Association of Women
+  Surgeons / surgery interest group\nRSVP requested by Mon Oct 12\, 11:59 P
+ M: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=U7o9qE0SMk2I8L
+ coianpJoIW_Eqi5DRBkshgMoA4vCRUN1RTT09YMVE3NVVKNjJBU0JDWERIUUU4Sy4u\nDetail
+ s: https://jerrywang123454321-maker.github.io/bcm-events/event/166.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/166.html
 CATEGORIES:Research
 END:VEVENT
