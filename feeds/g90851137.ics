@@ -262,4 +262,22 @@ DESCRIPTION:Fall Symposium of the Association for Weight and Size Inclusive
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/191.html
 CATEGORIES:Student org
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-194@local
+DTSTAMP:20261014T180059Z
+LAST-MODIFIED:20261014T180059Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications are open on a rolling basis for the AMA Spring 202
+ 7 Internship Program (compensated sub-internships/away rotations in Chicag
+ o at $40/hour) for medical students and residents/fellows\, with a preferr
+ ed deadline of December 1. Focus options include physician well-being\, he
+ alth equity\, medical education\, and science and public health.\nHost: AM
+ A-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/194.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/194.html
+CATEGORIES:Deadline
+END:VEVENT
 END:VCALENDAR

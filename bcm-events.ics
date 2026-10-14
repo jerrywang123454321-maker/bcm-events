@@ -2160,6 +2160,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/184.html
 CATEGORIES:Academic / curriculum
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-195@local
+DTSTAMP:20261014T180100Z
+LAST-MODIFIED:20261014T180100Z
+DTSTART:20261014T230000Z
+DTEND:20261015T000000Z
+SUMMARY:BPSOS Poll Monitor Volunteer: Virtual Training
+STATUS:CONFIRMED
+LOCATION:Virtual
+DESCRIPTION:Required virtual training for students who want to volunteer as
+  BPSOS Poll Monitors during Early Voting this election season. Poll Monito
+ rs provide voter assistance\, distribute resources\, and report issues\; b
+ ilingual Vietnamese/English volunteers are especially needed. DM the organ
+ izer in the group chat for training and shift details.\nHost: BPSOS (share
+ d via APAMSA)\nRSVP requested\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/195.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/195.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-172@local
 DTSTAMP:20261014T120835Z
 LAST-MODIFIED:20261014T120835Z
@@ -2363,6 +2382,25 @@ DESCRIPTION:Applications are open for this year's BCM Running Club officer
  ywang123454321-maker.github.io/bcm-events/event/176.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/176.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-196@local
+DTSTAMP:20261014T180100Z
+LAST-MODIFIED:20261014T180100Z
+DTSTART:20261019T201500Z
+DTEND:20261019T211500Z
+SUMMARY:Women's Weight Lifting Session
+STATUS:CONFIRMED
+LOCATION:BCM gym (Baylor Gym)
+DESCRIPTION:A women's weight-lifting session held after the anatomy session
+ \, hosted by two classmates. No gym membership is needed for this session.
+  All experience levels welcome — learn proper form and a few exercises\,
+  or just get a workout in\; participation in the training portion is optio
+ nal.\nRSVP requested: https://docs.google.com/spreadsheets/d/1YUR7lAFRtZjR
+ jzEF61N9JG8H5NmYpP3uAIhdQMsGpiI/edit?usp=sharing\nDetails: https://jerrywa
+ ng123454321-maker.github.io/bcm-events/event/196.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/196.html
+CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-166@local
@@ -3053,6 +3091,24 @@ DESCRIPTION:Fall Symposium of the Association for Weight and Size Inclusive
  html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/191.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-194@local
+DTSTAMP:20261014T180059Z
+LAST-MODIFIED:20261014T180059Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications are open on a rolling basis for the AMA Spring 202
+ 7 Internship Program (compensated sub-internships/away rotations in Chicag
+ o at $40/hour) for medical students and residents/fellows\, with a preferr
+ ed deadline of December 1. Focus options include physician well-being\, he
+ alth equity\, medical education\, and science and public health.\nHost: AM
+ A-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/194.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/194.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-19@local
