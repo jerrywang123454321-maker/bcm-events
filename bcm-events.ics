@@ -2197,18 +2197,17 @@ CATEGORIES:Academic / curriculum
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-167@local
-DTSTAMP:20261014T120835Z
-LAST-MODIFIED:20261014T120835Z
+DTSTAMP:20261014T200028Z
+LAST-MODIFIED:20261014T200028Z
 DTSTART:20261015T210000Z
 DTEND:20261015T223000Z
 SUMMARY:BCM Pride: Tie-Dye Event
 STATUS:CONFIRMED
 LOCATION:BCM Courtyard
-DESCRIPTION:Tie-dye in the BCM courtyard to kick off fall\, hosted by BCM P
- ride. BYOG (bring your own garment)\; BCM Pride shirts are available for p
- urchase. All are welcome\; weather permitting.\nHost: BCM Pride\nRSVP requ
- ested\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
- t/167.html
+DESCRIPTION:BCM Pride's fall kickoff tie-dye event in the courtyard\; all a
+ re welcome. The QR code on the original flyer was broken\, so a corrected 
+ RSVP QR code was posted in the chat.\nHost: BCM Pride\nRSVP requested\nDet
+ ails: https://jerrywang123454321-maker.github.io/bcm-events/event/167.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/167.html
 CATEGORIES:Student org
 END:VEVENT
