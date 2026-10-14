@@ -3013,6 +3013,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/162.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-191@local
+DTSTAMP:20261014T000031Z
+LAST-MODIFIED:20261014T000031Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:AWSIM Fall Symposium: Weight-Inclusive Medicine
+STATUS:CONFIRMED
+DESCRIPTION:Fall Symposium of the Association for Weight and Size Inclusive
+  Medicine (AWSIM)\, an opportunity to learn more about weight-inclusive me
+ dicine. Free for medical students and residents\; details and registration
+  are on the AWSIM symposium page. No start time\, format\, or venue was gi
+ ven in the message.\nHost: Association for Weight and Size Inclusive Medic
+ ine (AWSIM)\nRSVP requested: https://awsim.org/awsim-fall-symposium-2026/\
+ nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/191.
+ html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/191.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-19@local
 DTSTAMP:20261013T120858Z
 LAST-MODIFIED:20261013T120858Z
