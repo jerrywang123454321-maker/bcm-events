@@ -1134,8 +1134,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-196@local
-DTSTAMP:20261014T180100Z
-LAST-MODIFIED:20261014T180100Z
+DTSTAMP:20261014T220100Z
+LAST-MODIFIED:20261014T220100Z
 DTSTART:20261019T201500Z
 DTEND:20261019T211500Z
 SUMMARY:Women's Weight Lifting Session
@@ -1145,9 +1145,10 @@ DESCRIPTION:A women's weight-lifting session held after the anatomy session
  \, hosted by two classmates. No gym membership is needed for this session.
   All experience levels welcome — learn proper form and a few exercises\,
   or just get a workout in\; participation in the training portion is optio
- nal.\nRSVP requested: https://docs.google.com/spreadsheets/d/1YUR7lAFRtZjR
- jzEF61N9JG8H5NmYpP3uAIhdQMsGpiI/edit?usp=sharing\nDetails: https://jerrywa
- ng123454321-maker.github.io/bcm-events/event/196.html
+ nal.\nHost: Women's Weight Lifting (student-led session)\nRSVP requested: 
+ https://docs.google.com/spreadsheets/d/1YUR7lAFRtZjRjzEF61N9JG8H5NmYpP3uAI
+ hdQMsGpiI/edit?usp=sharing\nDetails: https://jerrywang123454321-maker.gith
+ ub.io/bcm-events/event/196.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/196.html
 CATEGORIES:Wellness
 END:VEVENT
@@ -1348,8 +1349,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-190@local
-DTSTAMP:20261014T120835Z
-LAST-MODIFIED:20261014T120835Z
+DTSTAMP:20261014T220059Z
+LAST-MODIFIED:20261014T220059Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:BCM COAG MS1 Representative Application Deadline
