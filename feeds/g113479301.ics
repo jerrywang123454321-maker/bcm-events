@@ -1332,6 +1332,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/198.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-200@local
+DTSTAMP:20261015T160035Z
+LAST-MODIFIED:20261015T160035Z
+DTSTART:20261021T220000Z
+DTEND:20261021T230000Z
+SUMMARY:Embryology Educators: Cardiac Embryology Review
+STATUS:CONFIRMED
+LOCATION:Room 315
+DESCRIPTION:A cardiac embryology review session hosted by Embryology Educat
+ ors in collaboration with NPASS and CTSIG.\nHost: Embryology Educators (wi
+ th NPASS and CTSIG)\nDetails: https://jerrywang123454321-maker.github.io/b
+ cm-events/event/200.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/200.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-171@local
 DTSTAMP:20261015T121758Z
 LAST-MODIFIED:20261015T121758Z
