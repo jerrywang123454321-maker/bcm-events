@@ -1016,8 +1016,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-184@local
-DTSTAMP:20261014T120835Z
-LAST-MODIFIED:20261014T120835Z
+DTSTAMP:20261015T000035Z
+LAST-MODIFIED:20261015T000035Z
 DTSTART:20261014T230000Z
 DTEND:20261015T000000Z
 SUMMARY:Anatomy Buddies: Anterior Thoracic Wall and Lungs Session
@@ -1032,9 +1032,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/184.html
 CATEGORIES:Academic / curriculum
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-197@local
+DTSTAMP:20261015T000036Z
+LAST-MODIFIED:20261015T000036Z
+DTSTART:20261014T230000Z
+DTEND:20261015T000000Z
+SUMMARY:Dean's Distinction Didactic Lecture
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Dean's Distinction Didactic Lecture held virtually over Microso
+ ft Teams\; a reminder was posted the day of with the join link.\nOnline op
+ tion: link in the group chat.\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/197.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/197.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-172@local
-DTSTAMP:20261014T120835Z
-LAST-MODIFIED:20261014T120835Z
+DTSTAMP:20261015T000018Z
+LAST-MODIFIED:20261015T000018Z
 DTSTART:20261015T180000Z
 DTEND:20261015T190000Z
 SUMMARY:Anki Q&A with MS2s
