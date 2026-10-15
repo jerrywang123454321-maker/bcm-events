@@ -2280,6 +2280,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/153.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-199@local
+DTSTAMP:20261015T040221Z
+LAST-MODIFIED:20261015T040221Z
+DTSTART:20261016T003000Z
+DTEND:20261016T020000Z
+SUMMARY:CMDA Bible Study: Romans Chapter 1 (Kickoff)
+STATUS:CONFIRMED
+DESCRIPTION:Student-led Bible study meeting every other Thursday\, starting
+  with Romans chapter 1. Dinner is being cooked by one of the student organ
+ izers for this first session\; attendees are welcome to bring food or snac
+ ks. Future meetings will be potluck style and rotate between hosts' homes 
+ every two weeks.\nHost: CMDA @ BCM\nRSVP requested\nDetails: https://jerry
+ wang123454321-maker.github.io/bcm-events/event/199.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/199.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-189@local
 DTSTAMP:20261014T120835Z
 LAST-MODIFIED:20261014T120835Z
