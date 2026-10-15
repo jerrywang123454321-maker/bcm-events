@@ -2350,6 +2350,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/84.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-201@local
+DTSTAMP:20261015T195006Z
+LAST-MODIFIED:20261015T195006Z
+DTSTART:20261017T140000Z
+DTEND:20261017T153000Z
+SUMMARY:Walk With A Doc: Walk with Dr. Milena Gould (Gastroenterology)
+STATUS:CONFIRMED
+LOCATION:Hermann Park — 1500 Hermann Drive\, Houston\, TX (meet at the Ce
+ ntennial Gardens/Park at Parking Lot C)
+DESCRIPTION:Free community walking program where attendees walk at their ow
+ n pace and hear health tips from a local physician\; guest speaker Dr. Mil
+ ena Gould\, a BCM gastroenterologist and Burgundy squad LC advisor. Counts
+  as 1.5 SLP points for non-site volunteering\; all are welcome\, including
+  friends and family.\nHost: Walk With A Doc Houston (BCM chapter)\nDetails
+ : https://jerrywang123454321-maker.github.io/bcm-events/event/201.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/201.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-112@local
 DTSTAMP:20261015T121758Z
 LAST-MODIFIED:20261015T121758Z
@@ -2511,6 +2530,44 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/120.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-203@local
+DTSTAMP:20261015T195009Z
+LAST-MODIFIED:20261015T195009Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Street Medicine Student Coalition: MS1 Representative Application D
+ eadline
+STATUS:CONFIRMED
+DESCRIPTION:The Street Medicine Student Coalition is adding 2 MS1 represent
+ atives to its team and will close the interest application on Monday\, Oct
+ ober 19. Applications are submitted through a Google Form posted in the gr
+ oup chat\, and decisions will be made by the middle of the following week.
+ \nHost: Street Medicine Student Coalition\nDetails: https://jerrywang12345
+ 4321-maker.github.io/bcm-events/event/203.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/203.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-202@local
+DTSTAMP:20261015T195008Z
+LAST-MODIFIED:20261015T195008Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Dream Outside the Box: Volunteering at MacGregor
+STATUS:CONFIRMED
+LOCATION:MacGregor (per previous weeks\; not restated in this message)
+DESCRIPTION:Weekly Dream Outside the Box volunteering session with kids\, c
+ oordinated by the new volunteer coordinator. Sign up via the Google Form b
+ y Sunday night. Bring your ID to volunteering\; VIPS certificate and backg
+ round check should be completed beforehand. Recent sessions have run 3:15-
+ 4:15 PM\, but no time was given in this message.\nTime not announced yet.\
+ nHost: Dream Outside the Box\nRSVP requested by Sun Oct 18\, 11:59 PM: htt
+ ps://forms.gle/RifERGbF234ZPKCc8\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/202.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/202.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-118@local
 DTSTAMP:20261015T121758Z
 LAST-MODIFIED:20261015T121758Z
@@ -2655,8 +2712,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-149@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261015T193009Z
+LAST-MODIFIED:20261015T193009Z
 DTSTART:20261022T170000Z
 DTEND:20261022T180000Z
 SUMMARY:PsychMinded: Psychotherapy as Practice and Service

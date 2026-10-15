@@ -48,4 +48,22 @@ DESCRIPTION:Street Medicine outreach run for the October sign-up cycle\; th
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/173.html
 CATEGORIES:Student org
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-203@local
+DTSTAMP:20261015T195009Z
+LAST-MODIFIED:20261015T195009Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Street Medicine Student Coalition: MS1 Representative Application D
+ eadline
+STATUS:CONFIRMED
+DESCRIPTION:The Street Medicine Student Coalition is adding 2 MS1 represent
+ atives to its team and will close the interest application on Monday\, Oct
+ ober 19. Applications are submitted through a Google Form posted in the gr
+ oup chat\, and decisions will be made by the middle of the following week.
+ \nHost: Street Medicine Student Coalition\nDetails: https://jerrywang12345
+ 4321-maker.github.io/bcm-events/event/203.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/203.html
+CATEGORIES:Deadline
+END:VEVENT
 END:VCALENDAR

@@ -1133,6 +1133,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/189.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-201@local
+DTSTAMP:20261015T195006Z
+LAST-MODIFIED:20261015T195006Z
+DTSTART:20261017T140000Z
+DTEND:20261017T153000Z
+SUMMARY:Walk With A Doc: Walk with Dr. Milena Gould (Gastroenterology)
+STATUS:CONFIRMED
+LOCATION:Hermann Park — 1500 Hermann Drive\, Houston\, TX (meet at the Ce
+ ntennial Gardens/Park at Parking Lot C)
+DESCRIPTION:Free community walking program where attendees walk at their ow
+ n pace and hear health tips from a local physician\; guest speaker Dr. Mil
+ ena Gould\, a BCM gastroenterologist and Burgundy squad LC advisor. Counts
+  as 1.5 SLP points for non-site volunteering\; all are welcome\, including
+  friends and family.\nHost: Walk With A Doc Houston (BCM chapter)\nDetails
+ : https://jerrywang123454321-maker.github.io/bcm-events/event/201.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/201.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-151@local
 DTSTAMP:20261015T121758Z
 LAST-MODIFIED:20261015T121758Z
@@ -1367,8 +1386,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-149@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261015T193009Z
+LAST-MODIFIED:20261015T193009Z
 DTSTART:20261022T170000Z
 DTEND:20261022T180000Z
 SUMMARY:PsychMinded: Psychotherapy as Practice and Service
