@@ -26,4 +26,20 @@ DESCRIPTION:Student-led Bible study meeting every other Thursday\, starting
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/199.html
 CATEGORIES:Student org
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-204@local
+DTSTAMP:20261016T015155Z
+LAST-MODIFIED:20261016T015155Z
+DTSTART:20261023T230000Z
+DTEND:20261024T000000Z
+SUMMARY:CMDA Picnic Social with Houston-Area Chapters
+STATUS:CONFIRMED
+LOCATION:Hermann Park
+DESCRIPTION:Evening picnic social hosted with other Houston-area CMDA chapt
+ ers\, including the dental school and McGovern. A flyer with more details 
+ is expected closer to the date.\nHost: CMDA @ BCM\nDetails: https://jerryw
+ ang123454321-maker.github.io/bcm-events/event/204.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/204.html
+CATEGORIES:Student org
+END:VEVENT
 END:VCALENDAR
