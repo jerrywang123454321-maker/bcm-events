@@ -10,23 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-16@local
-DTSTAMP:20260916T174841Z
-LAST-MODIFIED:20260916T174841Z
-DTSTART:20260915T230000Z
-DTEND:20260916T000000Z
-SUMMARY:Ophthalmology Interest Group: Intro to Ophthalmology SSM Panel
-STATUS:CONFIRMED
-LOCATION:Room N311 (Houston)\; Teams (Temple)
-DESCRIPTION:Panel with ophthalmology specialty-specific mentors Dr. William
- s and Dr. Blieden for MS1s and MS2s. Topics: shadowing\, research\, mentor
- ship\, and ways to get involved at BCM.\nHost: Ophthalmology Interest Grou
- p (OIG)\nRSVP requested: https://forms.gle/8hpjWJuTXpNcjk8W6\nDetails: htt
- ps://jerrywang123454321-maker.github.io/bcm-events/event/16.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/16.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-15@local
 DTSTAMP:20260916T170239Z
 LAST-MODIFIED:20260916T170239Z

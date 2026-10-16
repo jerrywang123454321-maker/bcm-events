@@ -10,41 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-30@local
-DTSTAMP:20260916T174846Z
-LAST-MODIFIED:20260916T174846Z
-DTSTART:20260915T223000Z
-DTEND:20260915T233000Z
-SUMMARY:IMIG: Caring for Older Adults Panel
-STATUS:CONFIRMED
-LOCATION:M321/323
-DESCRIPTION:Round-table panel on geriatrics with Dr. Kristina Little\, Dr. 
- Syed Ahsan Rizvi\, and Dr. Angela Catic\; counts for 1 SLP education point
- .\nHost: Internal Medicine Interest Group (IMIG)\nRSVP requested by Sun Se
- p 13\, 11:59 PM: https://docs.google.com/forms/d/e/1FAIpQLSdk7sHF-biXdfURF
- 6wFTF4JwM3wcKNSyTTttDS6BhA-tResYg/viewform?usp=header\nDetails: https://je
- rrywang123454321-maker.github.io/bcm-events/event/30.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/30.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-16@local
-DTSTAMP:20260916T174841Z
-LAST-MODIFIED:20260916T174841Z
-DTSTART:20260915T230000Z
-DTEND:20260916T000000Z
-SUMMARY:Ophthalmology Interest Group: Intro to Ophthalmology SSM Panel
-STATUS:CONFIRMED
-LOCATION:Room N311 (Houston)\; Teams (Temple)
-DESCRIPTION:Panel with ophthalmology specialty-specific mentors Dr. William
- s and Dr. Blieden for MS1s and MS2s. Topics: shadowing\, research\, mentor
- ship\, and ways to get involved at BCM.\nHost: Ophthalmology Interest Grou
- p (OIG)\nRSVP requested: https://forms.gle/8hpjWJuTXpNcjk8W6\nDetails: htt
- ps://jerrywang123454321-maker.github.io/bcm-events/event/16.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/16.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-29@local
 DTSTAMP:20260916T170250Z
 LAST-MODIFIED:20260916T170250Z
