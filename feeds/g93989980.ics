@@ -10,35 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-9@local
-DTSTAMP:20260916T175248Z
-LAST-MODIFIED:20260916T175248Z
-DTSTART:20260916T220000Z
-DTEND:20260916T230000Z
-SUMMARY:McGovern Session Series (MSB B.100)
-STATUS:CONFIRMED
-LOCATION:MSB B.100\, McGovern Medical School Building
-DESCRIPTION:Fall series session\; sign-up form linked in chat.\nRSVP reques
- ted: https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKzKd_lk
- D5J9PQEHhYO5MZ86sdTPw/viewform\nDetails: https://jerrywang123454321-maker.
- github.io/bcm-events/event/9.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/9.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-2@local
-DTSTAMP:20260930T200003Z
-LAST-MODIFIED:20260930T200003Z
-DTSTART:20260916T223000Z
-DTEND:20260916T233000Z
-SUMMARY:General Body Meeting #2
-STATUS:CONFIRMED
-DESCRIPTION:N311\nHost: APAMSA @ BCM\nDetails: https://jerrywang123454321-m
- aker.github.io/bcm-events/event/2.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/2.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-54@local
 DTSTAMP:20260918T160029Z
 LAST-MODIFIED:20260918T160029Z

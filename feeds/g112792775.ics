@@ -10,23 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-15@local
-DTSTAMP:20260916T170239Z
-LAST-MODIFIED:20260916T170239Z
-DTSTART:20260916T220000Z
-DTEND:20260916T230000Z
-SUMMARY:Student Surgical Society: First Meeting with Dr. Rosengart
-STATUS:CONFIRMED
-LOCATION:Room M112
-DESCRIPTION:Talk by Dr. Todd Rosengart\, Professor and Chair of the Michael
-  E. DeBakey Department of Surgery\, on surgical training and practice. Dre
- ss nicely (no sweatpants).\nHost: Student Surgical Society (SSS)\nRSVP req
- uested by Mon Sep 14\, 11:59 PM: https://forms.gle/fbGGNUMHemYkGLgk9\nDeta
- ils: https://jerrywang123454321-maker.github.io/bcm-events/event/15.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/15.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-64@local
 DTSTAMP:20261001T190629Z
 LAST-MODIFIED:20261001T190629Z
