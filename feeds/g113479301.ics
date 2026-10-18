@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-31@local
-DTSTAMP:20260916T175256Z
-LAST-MODIFIED:20260916T175256Z
-DTSTART:20260917T170000Z
-DTEND:20260917T190000Z
-SUMMARY:FirstGen MD: Snacks + Research Tips
-STATUS:CONFIRMED
-LOCATION:Table by the squad rooms
-DESCRIPTION:Drop in anytime for snacks and tips on getting involved in clin
- ical or wet lab research.\nHost: FirstGen MD\nDetails: https://jerrywang12
- 3454321-maker.github.io/bcm-events/event/31.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/31.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-36@local
 DTSTAMP:20260916T175259Z
 LAST-MODIFIED:20260916T175259Z

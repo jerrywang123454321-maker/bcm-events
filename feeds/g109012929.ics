@@ -10,23 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-13@local
-DTSTAMP:20260917T200046Z
-LAST-MODIFIED:20260917T200046Z
-DTSTART:20260917T224500Z
-DTEND:20260917T234500Z
-SUMMARY:Baylor Soccer: Weekly Pickup Game
-STATUS:CONFIRMED
-LOCATION:Helix Park
-DESCRIPTION:Parking correction: disregard the earlier Wyndale St suggestion
-  since Wyndale is metered throughout the day. Park on Canterbury St anytim
- e after 4 pm (shown relative to the Helix Park pin on the attached map)\; 
- carpooling encouraged.\nHost: Baylor Soccer\nDetails: https://jerrywang123
- 454321-maker.github.io/bcm-events/event/13.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/13.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-70@local
 DTSTAMP:20260924T180015Z
 LAST-MODIFIED:20260924T180015Z
