@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-54@local
-DTSTAMP:20260918T160029Z
-LAST-MODIFIED:20260918T160029Z
-DTSTART:20260918T170000Z
-DTEND:20260918T180000Z
-SUMMARY:Medical Mandarin Session
-STATUS:CONFIRMED
-LOCATION:MSB B.635\, McGovern Medical School Building
-DESCRIPTION:Confirmation in chat that Medical Mandarin is meeting today at 
- noon in MSB B.635 at McGovern.\nHost: APAMSA\nRSVP requested: https://docs
- .google.com/forms/d/15aHWhsSJsHcY4dorZpy9HtmKEEYPpl2LdCBpiFXh_0E/edit\nDet
- ails: https://jerrywang123454321-maker.github.io/bcm-events/event/54.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/54.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-69@local
 DTSTAMP:20260924T000016Z
 LAST-MODIFIED:20260924T000016Z

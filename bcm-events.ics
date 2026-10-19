@@ -26,39 +26,6 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/45.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-54@local
-DTSTAMP:20260918T160029Z
-LAST-MODIFIED:20260918T160029Z
-DTSTART:20260918T170000Z
-DTEND:20260918T180000Z
-SUMMARY:Medical Mandarin Session
-STATUS:CONFIRMED
-LOCATION:MSB B.635\, McGovern Medical School Building
-DESCRIPTION:Confirmation in chat that Medical Mandarin is meeting today at 
- noon in MSB B.635 at McGovern.\nHost: APAMSA\nRSVP requested: https://docs
- .google.com/forms/d/15aHWhsSJsHcY4dorZpy9HtmKEEYPpl2LdCBpiFXh_0E/edit\nDet
- ails: https://jerrywang123454321-maker.github.io/bcm-events/event/54.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/54.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-6@local
-DTSTAMP:20260916T170236Z
-LAST-MODIFIED:20260916T170236Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:AMA-MSS I-26 Mentorship Program: Mentor Application Deadline
-STATUS:CONFIRMED
-DESCRIPTION:MSS Speakers are recruiting mentors only for the I-26 mentorshi
- p program\; groups will be 1 mentor to 3-4 mentees\, paired by application
-  with location/region prioritized. Mentee form opens later depending on me
- ntor numbers. Questions to Denise Ocampo (MSS Speaker) or Lily Robistow (M
- SS Vice Speaker).\nHost: AMA-MSS Speakers\nDetails: https://jerrywang12345
- 4321-maker.github.io/bcm-events/event/6.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/6.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-36@local
 DTSTAMP:20260916T175259Z
 LAST-MODIFIED:20260916T175259Z

@@ -10,23 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-6@local
-DTSTAMP:20260916T170236Z
-LAST-MODIFIED:20260916T170236Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:AMA-MSS I-26 Mentorship Program: Mentor Application Deadline
-STATUS:CONFIRMED
-DESCRIPTION:MSS Speakers are recruiting mentors only for the I-26 mentorshi
- p program\; groups will be 1 mentor to 3-4 mentees\, paired by application
-  with location/region prioritized. Mentee form opens later depending on me
- ntor numbers. Questions to Denise Ocampo (MSS Speaker) or Lily Robistow (M
- SS Vice Speaker).\nHost: AMA-MSS Speakers\nDetails: https://jerrywang12345
- 4321-maker.github.io/bcm-events/event/6.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/6.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-51@local
 DTSTAMP:20260927T160110Z
 LAST-MODIFIED:20260927T160110Z
