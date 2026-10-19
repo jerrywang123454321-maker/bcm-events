@@ -109,4 +109,22 @@ DESCRIPTION:Weekly casual pickup soccer with the Baylor Soccer group\, this
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/183.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-207@local
+DTSTAMP:20261019T160650Z
+LAST-MODIFIED:20261019T160650Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Post-Soccer Hangout at Pitch 25
+STATUS:CONFIRMED
+LOCATION:Pitch 25 (beer garden\, EaDo)
+DESCRIPTION:After the last soccer club session before rotations\, some MS2s
+  are heading to Pitch 25\, a beer garden in EaDo\, to hang out. All are we
+ lcome. No start time was given\; it follows the weekly soccer game (per pr
+ ior chat\, Thursdays at 5:30 PM at Helix).\nTime not announced yet.\nHost:
+  Baylor Soccer Club\nDetails: https://jerrywang123454321-maker.github.io/b
+ cm-events/event/207.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/207.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR

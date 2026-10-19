@@ -924,8 +924,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-158@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Street Medicine Student Coalition: Clothing Drive
@@ -2176,24 +2176,9 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/151.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-176@local
-DTSTAMP:20261015T121759Z
-LAST-MODIFIED:20261015T121759Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:BCM Running Club Officer Committee: Application Deadline
-STATUS:CONFIRMED
-DESCRIPTION:Applications are open for this year's BCM Running Club officer 
- committee\, a way to get involved and help lead the group. Apply via the G
- oogle Form by the deadline.\nHost: BCM Running Club\nDetails: https://jerr
- ywang123454321-maker.github.io/bcm-events/event/176.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/176.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-196@local
-DTSTAMP:20261015T121800Z
-LAST-MODIFIED:20261015T121800Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261019T201500Z
 DTEND:20261019T211500Z
 SUMMARY:Women's Weight Lifting Session
@@ -2212,8 +2197,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-166@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261019T210000Z
 DTEND:20261019T223000Z
 SUMMARY:Chicken Nugget Tasting: Biostatistics Workshop
@@ -2233,8 +2218,8 @@ CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-157@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160648Z
+LAST-MODIFIED:20261019T160648Z
 DTSTART:20261019T223000Z
 DTEND:20261020T003000Z
 SUMMARY:Emergency Medicine Interest Group: Game Night
@@ -2248,29 +2233,9 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/157.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-147@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
-DTSTART:20261019T230000Z
-DTEND:20261020T000000Z
-SUMMARY:AWS MS3/4 Core Rotations Advice Panel
-STATUS:CONFIRMED
-LOCATION:Room M321
-DESCRIPTION:In-person panel led by MS4s who applied for general surgery\, c
- overing advice for core clerkships (especially the surgery core)\, OR etiq
- uette\, research\, resume-building and networking. Geared toward students 
- at all levels interested in a surgical specialty. Dinner provided.\nHost: 
- Association of Women Surgeons (AWS)\nRSVP requested: https://docs.google.c
- om/forms/d/e/1FAIpQLSci-pqjqk3tjLgpRlqfUo1AmQu3tZk0Neo0uTTekJangpFklQ/view
- form?usp=header\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
- vents/event/147.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/147.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-170@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261019T230000Z
 DTEND:20261020T000000Z
 SUMMARY:SIGN x HARC — Beyond Aphasia: Stories of Recovery and Advocacy
@@ -2286,9 +2251,26 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/170.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-206@local
+DTSTAMP:20261019T160649Z
+LAST-MODIFIED:20261019T160649Z
+DTSTART:20261020T000000Z
+DTEND:20261020T010000Z
+SUMMARY:AMA-MSS LGBTQ+ Section Town Hall
+STATUS:CONFIRMED
+DESCRIPTION:Virtual town hall for the AMA-MSS LGBTQ+ Section\; all section 
+ members and allies are welcome. Attendees will hear section updates and ar
+ e encouraged to bring questions. Held 7-8 PM Central (8-9 PM Eastern)\; Zo
+ om registration required in advance.\nHost: AMA-MSS LGBTQ+ Section\nRSVP r
+ equested\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
+ vent/206.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/206.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-120@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:BCM LIVE: Performer Sign-Up Deadline
@@ -2302,9 +2284,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/120.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-176@local
+DTSTAMP:20261019T160648Z
+LAST-MODIFIED:20261019T160648Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:BCM Running Club Officer Committee: Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications for the BCM Running Club officer/leadership commit
+ tee were extended and now stay open until Monday night (Oct 19) instead of
+  Sunday. Apply via the Google Form shared in the chat\; the organizer is a
+ vailable by text for questions.\nHost: BCM Running Club\nDetails: https://
+ jerrywang123454321-maker.github.io/bcm-events/event/176.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/176.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-203@local
-DTSTAMP:20261015T195009Z
-LAST-MODIFIED:20261015T195009Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Street Medicine Student Coalition: MS1 Representative Application D
@@ -2321,8 +2319,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-202@local
-DTSTAMP:20261015T195008Z
-LAST-MODIFIED:20261015T195008Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Dream Outside the Box: Volunteering at MacGregor
@@ -2332,17 +2330,34 @@ DESCRIPTION:Weekly Dream Outside the Box volunteering session with kids\, c
  oordinated by the new volunteer coordinator. Sign up via the Google Form b
  y Sunday night. Bring your ID to volunteering\; VIPS certificate and backg
  round check should be completed beforehand. Recent sessions have run 3:15-
- 4:15 PM\, but no time was given in this message.\nTime not announced yet.\
- nHost: Dream Outside the Box\nRSVP requested by Sun Oct 18\, 11:59 PM: htt
- ps://forms.gle/RifERGbF234ZPKCc8\nDetails: https://jerrywang123454321-make
- r.github.io/bcm-events/event/202.html
+ 4:15 PM\, but no time was given in this message.\nHost: Dream Outside the 
+ Box\nRSVP requested by Sun Oct 18\, 11:59 PM: https://forms.gle/RifERGbF23
+ 4ZPKCc8\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
+ ent/202.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/202.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-209@local
+DTSTAMP:20261019T160650Z
+LAST-MODIFIED:20261019T160650Z
+DTSTART:20261020T220000Z
+DTEND:20261020T230000Z
+SUMMARY:Student Clinical Skills Society: EPIC Workshop
+STATUS:CONFIRMED
+LOCATION:McMillan
+DESCRIPTION:Workshop on how to use EPIC\, led with the help of an MS4\, hel
+ d alongside the Student Clinical Skills Society meeting. A Google form was
+  circulated earlier for students to submit questions in advance.\nHost: St
+ udent Clinical Skills Society\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/209.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/209.html
+CATEGORIES:Clinical / skills
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-118@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261020T230000Z
 DTEND:20261021T000000Z
 SUMMARY:IMIG: Primary Care Panel
@@ -2360,8 +2375,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-131@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261020T230000Z
 DTEND:20261021T000000Z
 SUMMARY:BCM Run Club
@@ -2375,8 +2390,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-175@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261020T230000Z
 DTEND:20261021T000000Z
 SUMMARY:FirstGen MD: Free Professional Headshots
@@ -2393,8 +2408,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-154@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261021T170000Z
 DTEND:20261021T180000Z
 SUMMARY:First Generation MD: Fall Craft Social — Pumpkin Painting
@@ -2410,8 +2425,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-198@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261021T170000Z
 DTEND:20261021T180000Z
 SUMMARY:Simulation Society: BBQ Lunch Fundraiser
@@ -2431,9 +2446,28 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/198.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-210@local
+DTSTAMP:20261019T160650Z
+LAST-MODIFIED:20261019T160650Z
+DTSTART:20261021T170000Z
+DTEND:20261021T180000Z
+SUMMARY:Moments with Moms: Purple Crying in Newborns with Dr. Sarah Detlefs
+STATUS:CONFIRMED
+LOCATION:Virtual (MS Teams)
+DESCRIPTION:First seminar of the year from Moments with Moms\, featuring BC
+ M Maternal-Fetal Medicine specialist Dr. Sarah Detlefs on normal newborn c
+ rying patterns (Purple Crying) and how to counsel patients during MWM volu
+ nteering and peds/OB-GYN rotations. Earns +1 SLP point and Bluebook credit
+ \; joinable via MS Teams.\nHost: Moments with Moms\nOnline option: link in
+  the group chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm-
+ events/event/210.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/210.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-200@local
-DTSTAMP:20261015T160035Z
-LAST-MODIFIED:20261015T160035Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261021T220000Z
 DTEND:20261021T230000Z
 SUMMARY:Embryology Educators: Cardiac Embryology Review
@@ -2447,9 +2481,46 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/200.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-211@local
+DTSTAMP:20261019T160650Z
+LAST-MODIFIED:20261019T160650Z
+DTSTART:20261021T220000Z
+DTEND:20261021T230000Z
+SUMMARY:Pharm Phriends: CRR Pharm Review
+STATUS:CONFIRMED
+LOCATION:M323
+DESCRIPTION:Peer-led pharmacology review covering hypertension\, anti-arrhy
+ thmics\, and hyperlipidemia ahead of next week's exam. Scheduled right bef
+ ore anatomy buddies.\nDetails: https://jerrywang123454321-maker.github.io/
+ bcm-events/event/211.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/211.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-147@local
+DTSTAMP:20261019T160647Z
+LAST-MODIFIED:20261019T160647Z
+DTSTART:20261021T230000Z
+DTEND:20261022T000000Z
+SUMMARY:AWS MS3/4 Core Rotations Advice Panel
+STATUS:CONFIRMED
+LOCATION:Room N311
+DESCRIPTION:Rescheduled due to a conflict: the AWS surgery advice panel wit
+ h MS3/MS4 students on core rotations is now Wednesday 10/21\, 6-7 PM\, in 
+ person in N311 with dinner provided. A new RSVP form is required for the d
+ inner headcount even if you filled out the old one\; questions submitted o
+ n the old form will still be addressed.\nHost: Association of Women Surgeo
+ ns (AWS)\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSf6nfiP
+ QMcFgfVVmHQ6COTTYImU6OWUvlTyhD3kPLfHoj2Z6w/viewform?usp=publish-editor\nDe
+ tails: https://jerrywang123454321-maker.github.io/bcm-events/event/147.htm
+ l
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/147.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-171@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261021T230000Z
 DTEND:20261022T000000Z
 SUMMARY:IMIG: EKG Workshop with IM Residents
@@ -2465,9 +2536,27 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/171.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-207@local
+DTSTAMP:20261019T160650Z
+LAST-MODIFIED:20261019T160650Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Post-Soccer Hangout at Pitch 25
+STATUS:CONFIRMED
+LOCATION:Pitch 25 (beer garden\, EaDo)
+DESCRIPTION:After the last soccer club session before rotations\, some MS2s
+  are heading to Pitch 25\, a beer garden in EaDo\, to hang out. All are we
+ lcome. No start time was given\; it follows the weekly soccer game (per pr
+ ior chat\, Thursdays at 5:30 PM at Helix).\nTime not announced yet.\nHost:
+  Baylor Soccer Club\nDetails: https://jerrywang123454321-maker.github.io/b
+ cm-events/event/207.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/207.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-186@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261022T150000Z
 DTEND:20261022T170000Z
 SUMMARY:TCH Ultrasound Model Session (Morning)
@@ -2484,8 +2573,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-149@local
-DTSTAMP:20261015T193009Z
-LAST-MODIFIED:20261015T193009Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261022T170000Z
 DTEND:20261022T180000Z
 SUMMARY:PsychMinded: Psychotherapy as Practice and Service
@@ -2501,8 +2590,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-99@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:AOA Kuckein Student Research Fellowship: Mini Proposal Deadline
@@ -2517,8 +2606,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-104@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:ACGME Proposed Residency Requirement Changes: Public Comment Deadli
@@ -2535,9 +2624,27 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/104.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-212@local
+DTSTAMP:20261019T160651Z
+LAST-MODIFIED:20261019T160651Z
+DTSTART:20261023T170000Z
+DTEND:20261023T180000Z
+SUMMARY:Walk with a Doc: Fall Wellness Walk
+STATUS:CONFIRMED
+LOCATION:Cullen entrance (walking to Helix Park and back)
+DESCRIPTION:Post-exam wellness walk from campus to Helix Park and back with
+  faculty\, including the Deans\, Dr. Caloudas\, Dr. Agrawal\, and Dr. Full
+ er. Snacks\, poppi\, and smoothies provided.\nHost: Walk with a Doc\nRSVP 
+ requested: https://docs.google.com/forms/d/e/1FAIpQLScLVNcw3s60BFExoXTCs1H
+ 6LwcjVOE_gkebdfzrzfVFCls4ww/viewform?usp=dialog\nDetails: https://jerrywan
+ g123454321-maker.github.io/bcm-events/event/212.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/212.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-187@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261023T190000Z
 DTEND:20261023T210000Z
 SUMMARY:TCH Ultrasound Model Session (Afternoon)
@@ -2554,8 +2661,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-204@local
-DTSTAMP:20261016T015155Z
-LAST-MODIFIED:20261016T015155Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261023T230000Z
 DTEND:20261024T000000Z
 SUMMARY:CMDA Picnic Social with Houston-Area Chapters
@@ -2569,9 +2676,26 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/204.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-208@local
+DTSTAMP:20261019T160650Z
+LAST-MODIFIED:20261019T160650Z
+DTSTART:20261024T000000Z
+DTEND:20261024T010000Z
+SUMMARY:Club de Churrasco x Anesthesia Interest Group: Barbeque Party
+STATUS:CONFIRMED
+DESCRIPTION:Second Club de Churrasco meeting\, a barbeque party co-hosted w
+ ith the Anesthesia Interest Group. Location is still TBD and there will be
+  a cost\, described on the flyer as 'price TBD (but cheap!!!)'. Organizers
+  are gauging interest now and will send RSVP forms later.\nHost: Club de C
+ hurrasco x Anesthesia Interest Group\nRSVP requested\nDetails: https://jer
+ rywang123454321-maker.github.io/bcm-events/event/208.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/208.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-190@local
-DTSTAMP:20261015T121800Z
-LAST-MODIFIED:20261015T121800Z
+DTSTAMP:20261019T160649Z
+LAST-MODIFIED:20261019T160649Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:BCM COAG MS1 Representative Application Deadline
@@ -2588,8 +2712,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-138@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:AIM at Melanoma: Steps Against Melanoma Houston (Volunteering)
@@ -2609,8 +2733,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-110@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160647Z
+LAST-MODIFIED:20261019T160647Z
 DTSTART:20261026T220000Z
 DTEND:20261026T230000Z
 SUMMARY:AIMS Journal Club: AI in Surgery with Dr. Abbas Rana
@@ -2621,17 +2745,17 @@ DESCRIPTION:AI in Medicine Society's first journal club\, moderated by Dr.
  of a paper on the current state of artificial intelligence in liver transp
  lantation\, plus an optional second paper on the Pediatric Heart Listing M
  ortality score if time permits. No background knowledge of AI required\; f
- ood will be served.\nHost: BCM AIMS (Artificial Intelligence in Medicine S
- ociety)\nRSVP requested by Fri Oct 23\, 11:59 PM: https://forms.gle/d4HjWA
- pWsC72ocoXA\nDetails: https://jerrywang123454321-maker.github.io/bcm-event
- s/event/110.html
+ ood will be served and it counts for an SLP point.\nHost: BCM AIMS (Artifi
+ cial Intelligence in Medicine Society)\nRSVP requested by Fri Oct 23\, 11:
+ 59 PM: https://forms.gle/d4HjWApWsC72ocoXA\nDetails: https://jerrywang1234
+ 54321-maker.github.io/bcm-events/event/110.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/110.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-165@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261026T220000Z
 DTEND:20261026T230000Z
 SUMMARY:Social Dance Club: Salsa Workshop (Latin Dance Class)
@@ -2649,8 +2773,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-132@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261027T230000Z
 DTEND:20261028T000000Z
 SUMMARY:BCM Run Club
@@ -2664,8 +2788,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-144@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Student Surgical Society: Introductory Suture Workshop
@@ -2680,8 +2804,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-101@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Epic Gold Login Validation Deadline
@@ -2694,8 +2818,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-155@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261029T210000Z
 DTEND:20261030T000000Z
 SUMMARY:First Generation MD: Ice Cream Fundraiser at Jeni's
@@ -2711,8 +2835,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-178@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261029T223000Z
 DTEND:20261029T233000Z
 SUMMARY:Into Urology: Career Insights with Dr. Amit Reddy
@@ -2729,8 +2853,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-113@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:NRMP Medical Student Director Nomination Deadline
@@ -2748,8 +2872,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-181@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:NephSIM Nephrons Program 2027: Application Deadline
@@ -2766,8 +2890,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-168@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:ChatGPT Plus Free 4-Month Student Offer: Claim Deadline
@@ -2781,8 +2905,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-160@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:APAMSA LOTUSES: Advocacy Through Storytelling Scholarship — Submi
@@ -2800,8 +2924,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-49@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261103T190000Z
 DTEND:20261103T213000Z
 SUMMARY:Joint Squad Volunteering: Packing Lunches at Kids' Meals
@@ -2817,8 +2941,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-133@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261104T000000Z
 DTEND:20261104T010000Z
 SUMMARY:BCM Run Club
@@ -2832,8 +2956,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-18@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
@@ -2849,9 +2973,27 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
 CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-205@local
+DTSTAMP:20261019T160649Z
+LAST-MODIFIED:20261019T160649Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:AMA-MSS I-26 Interim Meeting (with Mentor Program Sign-Up)
+STATUS:CONFIRMED
+DESCRIPTION:The AMA Medical Student Section I-26 Interim Meeting. First-tim
+ e attendees or anyone wanting extra mentorship can sign up for the MSS men
+ tor program\, which intentionally pairs mentees with experienced mentors t
+ o help demystify the AMA.\nHost: AMA-MSS\nRSVP requested: https://docs.goo
+ gle.com/forms/d/e/1FAIpQLSfGJgGgfaXgH45UQvvBmdVVhNBIa4Tcu7M_Qdsh6kW4eP7usA
+ /viewform?usp=publish-editor\nDetails: https://jerrywang123454321-maker.gi
+ thub.io/bcm-events/event/205.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/205.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-134@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261104T190000Z
 DTEND:20261104T230000Z
 SUMMARY:AIG: POCUS Workshop Ultrasound Model Volunteers (ISCCCP at MD Ander
@@ -2873,8 +3015,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-11@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261104T230000Z
 DTEND:20261105T000000Z
 SUMMARY:McGovern APAMSA: Medical Vietnamese Session
@@ -2891,8 +3033,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-180@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261107T020000Z
 DTEND:20261107T040000Z
 SUMMARY:BCM x McGovern Mixer at Kirby Ice House
@@ -2909,8 +3051,8 @@ CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-119@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261110T000000Z
 DTEND:20261110T010000Z
 SUMMARY:BCM LIVE: Student Senate Talent & Performance Show
@@ -2927,8 +3069,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-56@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261110T160000Z
 DTEND:20261110T180000Z
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
@@ -2946,8 +3088,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-162@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261111T000000Z
 DTEND:20261111T010000Z
 SUMMARY:BCM Run Club
@@ -2961,8 +3103,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-193@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261118T000000Z
 DTEND:20261118T010000Z
 SUMMARY:BCM Run Club
@@ -2976,8 +3118,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-191@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:AWSIM Fall Symposium: Weight-Inclusive Medicine
@@ -2995,8 +3137,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
@@ -3013,8 +3155,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-19@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:SOAR Research Grand Rounds: From Data to Manuscript
@@ -3032,8 +3174,8 @@ CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-102@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Dean's Distinction in High Value Care: MS1 Sign-Up Deadline
@@ -3050,8 +3192,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-57@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART:20261208T160000Z
 DTEND:20261208T180000Z
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering

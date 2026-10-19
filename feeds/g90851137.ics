@@ -208,9 +208,26 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/112.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-206@local
+DTSTAMP:20261019T160649Z
+LAST-MODIFIED:20261019T160649Z
+DTSTART:20261020T000000Z
+DTEND:20261020T010000Z
+SUMMARY:AMA-MSS LGBTQ+ Section Town Hall
+STATUS:CONFIRMED
+DESCRIPTION:Virtual town hall for the AMA-MSS LGBTQ+ Section\; all section 
+ members and allies are welcome. Attendees will hear section updates and ar
+ e encouraged to bring questions. Held 7-8 PM Central (8-9 PM Eastern)\; Zo
+ om registration required in advance.\nHost: AMA-MSS LGBTQ+ Section\nRSVP r
+ equested\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
+ vent/206.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/206.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-113@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:NRMP Medical Student Director Nomination Deadline
@@ -227,9 +244,27 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/113.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-205@local
+DTSTAMP:20261019T160649Z
+LAST-MODIFIED:20261019T160649Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:AMA-MSS I-26 Interim Meeting (with Mentor Program Sign-Up)
+STATUS:CONFIRMED
+DESCRIPTION:The AMA Medical Student Section I-26 Interim Meeting. First-tim
+ e attendees or anyone wanting extra mentorship can sign up for the MSS men
+ tor program\, which intentionally pairs mentees with experienced mentors t
+ o help demystify the AMA.\nHost: AMA-MSS\nRSVP requested: https://docs.goo
+ gle.com/forms/d/e/1FAIpQLSfGJgGgfaXgH45UQvvBmdVVhNBIa4Tcu7M_Qdsh6kW4eP7usA
+ /viewform?usp=publish-editor\nDetails: https://jerrywang123454321-maker.gi
+ thub.io/bcm-events/event/205.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/205.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-191@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:AWSIM Fall Symposium: Weight-Inclusive Medicine
@@ -247,8 +282,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline

@@ -100,8 +100,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-202@local
-DTSTAMP:20261015T195008Z
-LAST-MODIFIED:20261015T195008Z
+DTSTAMP:20261019T160646Z
+LAST-MODIFIED:20261019T160646Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Dream Outside the Box: Volunteering at MacGregor
@@ -111,10 +111,10 @@ DESCRIPTION:Weekly Dream Outside the Box volunteering session with kids\, c
  oordinated by the new volunteer coordinator. Sign up via the Google Form b
  y Sunday night. Bring your ID to volunteering\; VIPS certificate and backg
  round check should be completed beforehand. Recent sessions have run 3:15-
- 4:15 PM\, but no time was given in this message.\nTime not announced yet.\
- nHost: Dream Outside the Box\nRSVP requested by Sun Oct 18\, 11:59 PM: htt
- ps://forms.gle/RifERGbF234ZPKCc8\nDetails: https://jerrywang123454321-make
- r.github.io/bcm-events/event/202.html
+ 4:15 PM\, but no time was given in this message.\nHost: Dream Outside the 
+ Box\nRSVP requested by Sun Oct 18\, 11:59 PM: https://forms.gle/RifERGbF23
+ 4ZPKCc8\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
+ ent/202.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/202.html
 CATEGORIES:Service / volunteering
 END:VEVENT
