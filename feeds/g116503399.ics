@@ -67,20 +67,21 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-118@local
-DTSTAMP:20261019T160646Z
-LAST-MODIFIED:20261019T160646Z
+DTSTAMP:20261019T203252Z
+LAST-MODIFIED:20261019T203252Z
 DTSTART:20261020T230000Z
 DTEND:20261021T000000Z
 SUMMARY:IMIG: Primary Care Panel
 STATUS:CONFIRMED
 LOCATION:Room M321\, BCM Houston Campus
-DESCRIPTION:Panel discussion with primary care physicians practicing at Bay
- lor Concierge\, Smith\, and McNair clinics about how internal medicine tra
- ining translates into primary care practice\, with time for questions. Foo
- d provided and the event counts for 1 SLP point.\nHost: Internal Medicine 
- Interest Group (IMIG)\nRSVP requested: https://forms.gle/LiQxrV3ydvBV53eu8
- \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/118
- .html
+DESCRIPTION:Panel with primary care physicians practicing at Baylor Concier
+ ge\, Smith\, and McNair clinics on how internal medicine training translat
+ es into primary care practice. Counts for 1 SLP point\; food provided for 
+ those who RSVP in Houston. A virtual MS Teams option has now been added (m
+ eeting ID and [passcode removed] in the group chat).\nHost: Internal Medic
+ ine Interest Group (IMIG)\nRSVP requested by Tue Oct 20\, 2:00 PM: https:/
+ /forms.gle/AzcRgSEGfpRnNMQdA\nOnline option: link in the group chat.\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/118.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/118.html
 CATEGORIES:Interest group
 END:VEVENT

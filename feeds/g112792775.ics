@@ -91,6 +91,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/72.html
 CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-217@local
+DTSTAMP:20261019T203254Z
+LAST-MODIFIED:20261019T203254Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:BCM VOTES: Squad Early Voting Competition
+STATUS:CONFIRMED
+LOCATION:Squad rooms (poster boards)
+DESCRIPTION:BCM VOTES is running a competition for which squad has the high
+ est number of voters during voting season (early voting opens Oct. 19 thro
+ ugh Nov. 3). A poster board goes up in each squad room on Oct. 20 — add 
+ your "I Voted" sticker to your squad's board. The winning squad gets a tre
+ at.\nHost: BCM VOTES\nDetails: https://jerrywang123454321-maker.github.io/
+ bcm-events/event/217.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/217.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-99@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z

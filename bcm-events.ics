@@ -2176,6 +2176,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/151.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-217@local
+DTSTAMP:20261019T203254Z
+LAST-MODIFIED:20261019T203254Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:BCM VOTES: Squad Early Voting Competition
+STATUS:CONFIRMED
+LOCATION:Squad rooms (poster boards)
+DESCRIPTION:BCM VOTES is running a competition for which squad has the high
+ est number of voters during voting season (early voting opens Oct. 19 thro
+ ugh Nov. 3). A poster board goes up in each squad room on Oct. 20 — add 
+ your "I Voted" sticker to your squad's board. The winning squad gets a tre
+ at.\nHost: BCM VOTES\nDetails: https://jerrywang123454321-maker.github.io/
+ bcm-events/event/217.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/217.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-196@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z
@@ -2356,20 +2374,21 @@ CATEGORIES:Clinical / skills
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-118@local
-DTSTAMP:20261019T160646Z
-LAST-MODIFIED:20261019T160646Z
+DTSTAMP:20261019T203252Z
+LAST-MODIFIED:20261019T203252Z
 DTSTART:20261020T230000Z
 DTEND:20261021T000000Z
 SUMMARY:IMIG: Primary Care Panel
 STATUS:CONFIRMED
 LOCATION:Room M321\, BCM Houston Campus
-DESCRIPTION:Panel discussion with primary care physicians practicing at Bay
- lor Concierge\, Smith\, and McNair clinics about how internal medicine tra
- ining translates into primary care practice\, with time for questions. Foo
- d provided and the event counts for 1 SLP point.\nHost: Internal Medicine 
- Interest Group (IMIG)\nRSVP requested: https://forms.gle/LiQxrV3ydvBV53eu8
- \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/118
- .html
+DESCRIPTION:Panel with primary care physicians practicing at Baylor Concier
+ ge\, Smith\, and McNair clinics on how internal medicine training translat
+ es into primary care practice. Counts for 1 SLP point\; food provided for 
+ those who RSVP in Houston. A virtual MS Teams option has now been added (m
+ eeting ID and [passcode removed] in the group chat).\nHost: Internal Medic
+ ine Interest Group (IMIG)\nRSVP requested by Tue Oct 20\, 2:00 PM: https:/
+ /forms.gle/AzcRgSEGfpRnNMQdA\nOnline option: link in the group chat.\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/118.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/118.html
 CATEGORIES:Interest group
 END:VEVENT
@@ -2589,6 +2608,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/149.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-213@local
+DTSTAMP:20261019T203253Z
+LAST-MODIFIED:20261019T203253Z
+DTSTART:20261022T230000Z
+DTEND:20261023T000000Z
+SUMMARY:NMDP Bone Marrow Registry Drive: Volunteer Online Training
+STATUS:CONFIRMED
+LOCATION:Online
+DESCRIPTION:Required online training session for students volunteering to t
+ able at the bone marrow donor registry drive held in partnership with NMDP
+ . Sign up for volunteer slots on the shared Google Sheet\; each hour of vo
+ lunteering counts for an SLP point.\nHost: Baylor Students Against Cancer\
+ nRSVP requested: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-Opbj
+ qnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/213.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/213.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-99@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z
@@ -2693,6 +2731,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/208.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-218@local
+DTSTAMP:20261019T203254Z
+LAST-MODIFIED:20261019T203254Z
+DTSTART:20261024T000000Z
+DTEND:20261024T010000Z
+SUMMARY:HTX Diwali Medical Mela: Volunteer Orientation
+STATUS:CONFIRMED
+LOCATION:POST Houston\, 401 Franklin St\, Houston\, TX 77201
+DESCRIPTION:Required-style orientation for volunteers at the HTX Diwali Med
+ ical Mela community health event the following day. Covers what volunteers
+  will do at the health education and screening stations. Same sign-up form
+  as the main event.\nHost: HTX Diwali Medical Mela\nRSVP requested: https:
+ //docs.google.com/forms/d/e/1FAIpQLSd-0xIA13uHgB5VXEauuUD6GKxFdiYU9TSmTs7R
+ GpeoLp50uQ/viewform?usp=header\nDetails: https://jerrywang123454321-maker.
+ github.io/bcm-events/event/218.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/218.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-190@local
 DTSTAMP:20261019T160649Z
 LAST-MODIFIED:20261019T160649Z
@@ -2729,6 +2786,47 @@ DESCRIPTION:Awareness walk supporting melanoma survivors and their families
  houston#/\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
  event/138.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/138.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-219@local
+DTSTAMP:20261019T203254Z
+LAST-MODIFIED:20261019T203254Z
+DTSTART:20261024T163000Z
+DTEND:20261024T213000Z
+SUMMARY:HTX Diwali Medical Mela: Community Health Volunteering
+STATUS:CONFIRMED
+LOCATION:POST Houston\, 401 Franklin St\, Houston\, TX 77201
+DESCRIPTION:Free community celebration promoting cultural awareness and hea
+ lth education\, hosted with TX2 Dance Company at POST Houston. Volunteers 
+ help with health education short talks and screenings for hypertension\, d
+ iabetes\, osteoporosis\, and malignancies\, and answer community questions
+ . Earn up to 7 SLP points\; orientation is the evening of Oct 23.\nHost: H
+ TX Diwali Medical Mela\nRSVP requested: https://docs.google.com/forms/d/e/
+ 1FAIpQLSd-0xIA13uHgB5VXEauuUD6GKxFdiYU9TSmTs7RGpeoLp50uQ/viewform?usp=head
+ er\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/2
+ 19.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/219.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-214@local
+DTSTAMP:20261019T203253Z
+LAST-MODIFIED:20261019T203253Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 1)
+STATUS:CONFIRMED
+LOCATION:BCM campus
+DESCRIPTION:Volunteers are needed to help table at a bone marrow donor regi
+ stry drive run in partnership with NMDP. Tabling slots are available Monda
+ y 10/26\, Wednesday 10/28\, and Friday 10/30\; each hour of volunteering c
+ ounts for an SLP point. Online volunteer training is Thursday 10/22 at 6pm
+ .\nTime not announced yet.\nHost: Baylor Students Against Cancer\nRSVP req
+ uested: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFg
+ NirDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123454321-ma
+ ker.github.io/bcm-events/event/214.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/214.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
@@ -2803,6 +2901,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/144.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-215@local
+DTSTAMP:20261019T203253Z
+LAST-MODIFIED:20261019T203253Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 2)
+STATUS:CONFIRMED
+LOCATION:BCM campus
+DESCRIPTION:Second tabling day of the bone marrow donor registry drive with
+  NMDP. Volunteers help staff the table and register potential donors\; eac
+ h hour counts for an SLP point. Online training is Thursday 10/22 at 6pm.\
+ nTime not announced yet.\nHost: Baylor Students Against Cancer\nRSVP reque
+ sted: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNi
+ rDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/215.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/215.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-101@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z
@@ -2815,6 +2932,26 @@ DESCRIPTION:Epic Gold login validation must be completed\; a classmate cite
  3454321-maker.github.io/bcm-events/event/101.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/101.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-220@local
+DTSTAMP:20261019T203255Z
+LAST-MODIFIED:20261019T203255Z
+DTSTART:20261029T180000Z
+DTEND:20261029T190000Z
+SUMMARY:Academic Medicine Collaborative: Breaking into Medical Education Re
+ search with Dr. Peter Boedeker
+STATUS:CONFIRMED
+LOCATION:Virtual
+DESCRIPTION:Virtual session with faculty advisor Dr. Peter Boedeker on gett
+ ing started in medical education research: research goals\, examples of pr
+ ojects students may encounter\, and best practices. Teams link to be share
+ d the week before\; submit specific questions with your RSVP.\nHost: Acade
+ mic Medicine Collaborative\nRSVP requested: https://forms.gle/oqaxcMAPhDaw
+ YH3i6\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/220.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/220.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-155@local
@@ -2850,6 +2987,25 @@ DESCRIPTION:Dr. Amit Reddy\, a urology attending\, discusses what urology i
  4321-maker.github.io/bcm-events/event/178.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/178.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-216@local
+DTSTAMP:20261019T203254Z
+LAST-MODIFIED:20261019T203254Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 3)
+STATUS:CONFIRMED
+LOCATION:BCM campus
+DESCRIPTION:Final tabling day of the bone marrow donor registry drive with 
+ NMDP. Volunteers help staff the table and register potential donors\; each
+  hour counts for an SLP point. Online training is Thursday 10/22 at 6pm.\n
+ Time not announced yet.\nHost: Baylor Students Against Cancer\nRSVP reques
+ ted: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNir
+ DZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123454321-maker
+ .github.io/bcm-events/event/216.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/216.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-113@local
@@ -2953,6 +3109,28 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
  454321-maker.github.io/bcm-events/event/133.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/133.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-221@local
+DTSTAMP:20261019T203255Z
+LAST-MODIFIED:20261019T203255Z
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+SUMMARY:Physicians for Human Rights: Narrative Advocacy with Dr. Lindy McGe
+ e
+STATUS:CONFIRMED
+LOCATION:TMC Library Classroom 1
+DESCRIPTION:BCM Physicians for Human Rights and the Pediatric Residency Adv
+ ocacy Team host Dr. Lindy McGee (Assistant Professor\, Pediatrics–Academ
+ ic General) on turning patient narratives into stories usable for advocacy
+  at the community\, state\, and national level. Dinner provided.\nHost: BC
+ M Physicians for Human Rights (with Pediatric Residency Advocacy Team)\nRS
+ VP requested: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=U7o
+ 9qE0SMk2I8LcoianpJl9Rxlq0i8pOswpt_91GDY9UMTYzU0tDSjdUV0hSSVpDNUZUVzNWUk03N
+ S4u\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/
+ 221.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/221.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-18@local

@@ -49,6 +49,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/109.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-213@local
+DTSTAMP:20261019T203253Z
+LAST-MODIFIED:20261019T203253Z
+DTSTART:20261022T230000Z
+DTEND:20261023T000000Z
+SUMMARY:NMDP Bone Marrow Registry Drive: Volunteer Online Training
+STATUS:CONFIRMED
+LOCATION:Online
+DESCRIPTION:Required online training session for students volunteering to t
+ able at the bone marrow donor registry drive held in partnership with NMDP
+ . Sign up for volunteer slots on the shared Google Sheet\; each hour of vo
+ lunteering counts for an SLP point.\nHost: Baylor Students Against Cancer\
+ nRSVP requested: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-Opbj
+ qnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/213.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/213.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-138@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z
@@ -67,6 +86,64 @@ DESCRIPTION:Awareness walk supporting melanoma survivors and their families
  houston#/\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
  event/138.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/138.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-214@local
+DTSTAMP:20261019T203253Z
+LAST-MODIFIED:20261019T203253Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 1)
+STATUS:CONFIRMED
+LOCATION:BCM campus
+DESCRIPTION:Volunteers are needed to help table at a bone marrow donor regi
+ stry drive run in partnership with NMDP. Tabling slots are available Monda
+ y 10/26\, Wednesday 10/28\, and Friday 10/30\; each hour of volunteering c
+ ounts for an SLP point. Online volunteer training is Thursday 10/22 at 6pm
+ .\nTime not announced yet.\nHost: Baylor Students Against Cancer\nRSVP req
+ uested: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFg
+ NirDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123454321-ma
+ ker.github.io/bcm-events/event/214.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/214.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-215@local
+DTSTAMP:20261019T203253Z
+LAST-MODIFIED:20261019T203253Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 2)
+STATUS:CONFIRMED
+LOCATION:BCM campus
+DESCRIPTION:Second tabling day of the bone marrow donor registry drive with
+  NMDP. Volunteers help staff the table and register potential donors\; eac
+ h hour counts for an SLP point. Online training is Thursday 10/22 at 6pm.\
+ nTime not announced yet.\nHost: Baylor Students Against Cancer\nRSVP reque
+ sted: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNi
+ rDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/215.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/215.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-216@local
+DTSTAMP:20261019T203254Z
+LAST-MODIFIED:20261019T203254Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 3)
+STATUS:CONFIRMED
+LOCATION:BCM campus
+DESCRIPTION:Final tabling day of the bone marrow donor registry drive with 
+ NMDP. Volunteers help staff the table and register potential donors\; each
+  hour counts for an SLP point. Online training is Thursday 10/22 at 6pm.\n
+ Time not announced yet.\nHost: Baylor Students Against Cancer\nRSVP reques
+ ted: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNir
+ DZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123454321-maker
+ .github.io/bcm-events/event/216.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/216.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 END:VCALENDAR

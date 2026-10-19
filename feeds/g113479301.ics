@@ -1394,6 +1394,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/208.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-218@local
+DTSTAMP:20261019T203254Z
+LAST-MODIFIED:20261019T203254Z
+DTSTART:20261024T000000Z
+DTEND:20261024T010000Z
+SUMMARY:HTX Diwali Medical Mela: Volunteer Orientation
+STATUS:CONFIRMED
+LOCATION:POST Houston\, 401 Franklin St\, Houston\, TX 77201
+DESCRIPTION:Required-style orientation for volunteers at the HTX Diwali Med
+ ical Mela community health event the following day. Covers what volunteers
+  will do at the health education and screening stations. Same sign-up form
+  as the main event.\nHost: HTX Diwali Medical Mela\nRSVP requested: https:
+ //docs.google.com/forms/d/e/1FAIpQLSd-0xIA13uHgB5VXEauuUD6GKxFdiYU9TSmTs7R
+ GpeoLp50uQ/viewform?usp=header\nDetails: https://jerrywang123454321-maker.
+ github.io/bcm-events/event/218.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/218.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-190@local
 DTSTAMP:20261019T160649Z
 LAST-MODIFIED:20261019T160649Z
@@ -1410,6 +1429,27 @@ DESCRIPTION:BCM COAG (Climbing and Outdoor Adventure Group) is recruiting a
  nt/190.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/190.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-219@local
+DTSTAMP:20261019T203254Z
+LAST-MODIFIED:20261019T203254Z
+DTSTART:20261024T163000Z
+DTEND:20261024T213000Z
+SUMMARY:HTX Diwali Medical Mela: Community Health Volunteering
+STATUS:CONFIRMED
+LOCATION:POST Houston\, 401 Franklin St\, Houston\, TX 77201
+DESCRIPTION:Free community celebration promoting cultural awareness and hea
+ lth education\, hosted with TX2 Dance Company at POST Houston. Volunteers 
+ help with health education short talks and screenings for hypertension\, d
+ iabetes\, osteoporosis\, and malignancies\, and answer community questions
+ . Earn up to 7 SLP points\; orientation is the evening of Oct 23.\nHost: H
+ TX Diwali Medical Mela\nRSVP requested: https://docs.google.com/forms/d/e/
+ 1FAIpQLSd-0xIA13uHgB5VXEauuUD6GKxFdiYU9TSmTs7RGpeoLp50uQ/viewform?usp=head
+ er\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/2
+ 19.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/219.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-165@local
@@ -1476,6 +1516,26 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/101.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-220@local
+DTSTAMP:20261019T203255Z
+LAST-MODIFIED:20261019T203255Z
+DTSTART:20261029T180000Z
+DTEND:20261029T190000Z
+SUMMARY:Academic Medicine Collaborative: Breaking into Medical Education Re
+ search with Dr. Peter Boedeker
+STATUS:CONFIRMED
+LOCATION:Virtual
+DESCRIPTION:Virtual session with faculty advisor Dr. Peter Boedeker on gett
+ ing started in medical education research: research goals\, examples of pr
+ ojects students may encounter\, and best practices. Teams link to be share
+ d the week before\; submit specific questions with your RSVP.\nHost: Acade
+ mic Medicine Collaborative\nRSVP requested: https://forms.gle/oqaxcMAPhDaw
+ YH3i6\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/220.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/220.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-155@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z
@@ -1524,6 +1584,28 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
  454321-maker.github.io/bcm-events/event/133.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/133.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-221@local
+DTSTAMP:20261019T203255Z
+LAST-MODIFIED:20261019T203255Z
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+SUMMARY:Physicians for Human Rights: Narrative Advocacy with Dr. Lindy McGe
+ e
+STATUS:CONFIRMED
+LOCATION:TMC Library Classroom 1
+DESCRIPTION:BCM Physicians for Human Rights and the Pediatric Residency Adv
+ ocacy Team host Dr. Lindy McGee (Assistant Professor\, Pediatrics–Academ
+ ic General) on turning patient narratives into stories usable for advocacy
+  at the community\, state\, and national level. Dinner provided.\nHost: BC
+ M Physicians for Human Rights (with Pediatric Residency Advocacy Team)\nRS
+ VP requested: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=U7o
+ 9qE0SMk2I8LcoianpJl9Rxlq0i8pOswpt_91GDY9UMTYzU0tDSjdUV0hSSVpDNUZUVzNWUk03N
+ S4u\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/
+ 221.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/221.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-180@local
