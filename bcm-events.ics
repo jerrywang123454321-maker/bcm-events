@@ -2608,6 +2608,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/149.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-222@local
+DTSTAMP:20261019T220051Z
+LAST-MODIFIED:20261019T220051Z
+DTSTART:20261022T223000Z
+DTEND:20261022T233000Z
+SUMMARY:Baylor Soccer: Weekly Pickup Game
+STATUS:CONFIRMED
+LOCATION:Helix Park (per previous weeks\; not restated in this message)
+DESCRIPTION:Weekly casual pickup soccer with the Baylor Soccer group\, kick
+ ing off at 5:30. Per earlier chatter this is the last soccer club session 
+ before rotations\, and some MS2s are heading to Pitch 25 in EaDo afterward
+ . All are welcome.\nHost: Baylor Soccer\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/222.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/222.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-213@local
 DTSTAMP:20261019T203253Z
 LAST-MODIFIED:20261019T203253Z
@@ -2870,6 +2887,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/165.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-224@local
+DTSTAMP:20261019T220052Z
+LAST-MODIFIED:20261019T220052Z
+DTSTART:20261026T223000Z
+DTEND:20261026T233000Z
+SUMMARY:BCM Volleyball: Monday Indoor Pickup
+STATUS:CONFIRMED
+DESCRIPTION:Casual Monday indoor volleyball pickup with classmates. This we
+ ek's session was skipped because organizers couldn't make it\, so the grou
+ p is aiming for 10/26 at 5:30pm. Venue not restated in the message (indoor
+  court used in previous weeks).\nHost: BCM Volleyball Monday\nDetails: htt
+ ps://jerrywang123454321-maker.github.io/bcm-events/event/224.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/224.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-132@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z
@@ -3006,6 +3039,26 @@ DESCRIPTION:Final tabling day of the bone marrow donor registry drive with
  .github.io/bcm-events/event/216.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/216.html
 CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-223@local
+DTSTAMP:20261019T220052Z
+LAST-MODIFIED:20261019T220052Z
+DTSTART:20261030T143000Z
+DTEND:20261030T183000Z
+SUMMARY:SNMA Annual Cheesecake Sale (Fall Bake Sale)
+STATUS:CONFIRMED
+LOCATION:Razor Lounge
+DESCRIPTION:SNMA's annual cheesecake/bake sale fundraiser supporting the ch
+ apter. Fall menu: Biscoff\, Pumpkin Spice\, Traditional Cheesecake\, and C
+ ookies and Cream\, $6 each. Sold 9:30 AM–1:30 PM or until sold out\; pay
+ ment by Zelle\, Venmo\, or cash. Pre-ordering is encouraged since slices s
+ ell out fast.\nHost: SNMA (Student National Medical Association)\nRSVP req
+ uested: https://docs.google.com/forms/d/e/1FAIpQLSeLBXaEYBEUC4qPQSX3_JSVMl
+ abwQyIB1lsf1ItwkiPaGIbFw/viewform\nDetails: https://jerrywang123454321-mak
+ er.github.io/bcm-events/event/223.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/223.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-113@local

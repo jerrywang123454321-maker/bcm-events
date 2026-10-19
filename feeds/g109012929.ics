@@ -127,4 +127,21 @@ DESCRIPTION:After the last soccer club session before rotations\, some MS2s
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/207.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-222@local
+DTSTAMP:20261019T220051Z
+LAST-MODIFIED:20261019T220051Z
+DTSTART:20261022T223000Z
+DTEND:20261022T233000Z
+SUMMARY:Baylor Soccer: Weekly Pickup Game
+STATUS:CONFIRMED
+LOCATION:Helix Park (per previous weeks\; not restated in this message)
+DESCRIPTION:Weekly casual pickup soccer with the Baylor Soccer group\, kick
+ ing off at 5:30. Per earlier chatter this is the last soccer club session 
+ before rotations\, and some MS2s are heading to Pitch 25 in EaDo afterward
+ . All are welcome.\nHost: Baylor Soccer\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/222.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/222.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR
