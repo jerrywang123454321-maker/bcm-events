@@ -100,21 +100,22 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-202@local
-DTSTAMP:20261020T120131Z
-LAST-MODIFIED:20261020T120131Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Dream Outside the Box: Volunteering at MacGregor
+DTSTAMP:20261020T160031Z
+LAST-MODIFIED:20261020T160031Z
+DTSTART:20261020T201500Z
+DTEND:20261020T211500Z
+SUMMARY:Dream Outside the Box: Volunteering at MacGregor — Fossil Day
 STATUS:CONFIRMED
-LOCATION:MacGregor (per previous weeks\; not restated in this message)
-DESCRIPTION:Weekly Dream Outside the Box volunteering session with kids\, c
- oordinated by the new volunteer coordinator. Sign up via the Google Form b
- y Sunday night. Bring your ID to volunteering\; VIPS certificate and backg
- round check should be completed beforehand. Recent sessions have run 3:15-
- 4:15 PM\, but no time was given in this message.\nHost: Dream Outside the 
- Box\nRSVP requested by Sun Oct 18\, 11:59 PM: https://forms.gle/RifERGbF23
- 4ZPKCc8\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
- ent/202.html
+LOCATION:MacGregor
+DESCRIPTION:Today's theme is paleontology: each table gets a bag of half-mi
+ xed salt dough that kids finish squishing\, then every kid presses toy din
+ osaurs\, shells and leaves into their own plate to make a fossil. Run of s
+ how: 3:15 welcome/table talk\, 3:25 mix dough\, 3:35 make fossils\, 4:00 f
+ ossil guess and clean up. Volunteers should write names on plates first\, 
+ keep dough about half an inch thick\, and help the younger kids lift the d
+ inos straight up for clean prints.\nHost: Dream Outside the Box\nRSVP requ
+ ested by Sun Oct 18\, 11:59 PM: https://forms.gle/RifERGbF234ZPKCc8\nDetai
+ ls: https://jerrywang123454321-maker.github.io/bcm-events/event/202.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/202.html
 CATEGORIES:Service / volunteering
 END:VEVENT
