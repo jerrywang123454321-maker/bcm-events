@@ -2427,18 +2427,21 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-226@local
-DTSTAMP:20261020T000139Z
-LAST-MODIFIED:20261020T000139Z
+DTSTAMP:20261020T010020Z
+LAST-MODIFIED:20261020T010020Z
 DTSTART:20261020T230000Z
 DTEND:20261021T000000Z
-SUMMARY:HPAIV/NPASS: Intro to IPV — Intimate Partner Violence as a Social
-  Determinant of Health
+SUMMARY:HPAIV/NPASS: Intimate Partner Violence as a Social Determinant of H
+ ealth
 STATUS:CONFIRMED
 LOCATION:Room N315
-DESCRIPTION:Talk with Dr. Joslyn Fisher on intimate partner violence as a s
- ocial determinant of health\, held for Domestic Violence Awareness Month. 
- Attending counts for 1 SLP talk point.\nHost: HPAIV/NPASS\nDetails: https:
- //jerrywang123454321-maker.github.io/bcm-events/event/226.html
+DESCRIPTION:Domestic Violence Awareness Month talk with Dr. Joslyn Fisher o
+ n intimate partner violence as a social determinant of health. Free shawar
+ ma and fries provided\, and attending counts for 1 SLP talk point. RSVP re
+ quested for a food headcount.\nHost: HPAIV/NPASS\nRSVP requested: https://
+ docs.google.com/forms/d/e/1FAIpQLScG9DudAKDLJ6qgMT6I1o3jsZ-7RvXI1wBSPTiuNc
+ I9_GGzoA/viewform?usp=preview\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/226.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/226.html
 CATEGORIES:Student org
 END:VEVENT
