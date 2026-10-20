@@ -2592,6 +2592,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/171.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-230@local
+DTSTAMP:20261020T040017Z
+LAST-MODIFIED:20261020T040017Z
+DTSTART:20261021T230000Z
+DTEND:20261022T000000Z
+SUMMARY:Anatomy Buddies: Heart & Mediastinum Review Session
+STATUS:CONFIRMED
+LOCATION:M112
+DESCRIPTION:Second Anatomy Buddies review session of the year\, covering hi
+ gh-yield heart and mediastinum content relevant to exams and the anatomy p
+ ractical\, plus general advice. Slides were reviewed by Dr. Pinkas for acc
+ uracy. Held right after Pharm Phriends.\nDetails: https://jerrywang1234543
+ 21-maker.github.io/bcm-events/event/230.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/230.html
+CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-207@local
 DTSTAMP:20261019T160650Z
 LAST-MODIFIED:20261019T160650Z
