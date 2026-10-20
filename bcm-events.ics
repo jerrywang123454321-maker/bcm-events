@@ -2543,8 +2543,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-171@local
-DTSTAMP:20261020T120130Z
-LAST-MODIFIED:20261020T120130Z
+DTSTAMP:20261020T200035Z
+LAST-MODIFIED:20261020T200035Z
 DTSTART:20261021T230000Z
 DTEND:20261022T000000Z
 SUMMARY:IMIG: EKG Workshop with IM Residents
@@ -2942,6 +2942,23 @@ DESCRIPTION:Casual Monday indoor volleyball pickup with classmates. This we
  ps://jerrywang123454321-maker.github.io/bcm-events/event/224.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/224.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-233@local
+DTSTAMP:20261020T200036Z
+LAST-MODIFIED:20261020T200036Z
+DTSTART:20261026T230000Z
+DTEND:20261027T000000Z
+SUMMARY:Anatomy Buddies: Surgical and Clinical Anatomy Cases with Faculty
+STATUS:CONFIRMED
+LOCATION:Room N317
+DESCRIPTION:Faculty-led session with Dr. Jean Paul Osula (General Surgery) 
+ and Dr. Mirza Umair Khalid (Cardiology) featuring patient case presentatio
+ ns and procedural walk-throughs with high-yield anatomical clinical pearls
+ . Dinner provided for those who RSVP.\nRSVP requested\nDetails: https://je
+ rrywang123454321-maker.github.io/bcm-events/event/233.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/233.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-229@local
