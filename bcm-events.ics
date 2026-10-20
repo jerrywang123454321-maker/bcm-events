@@ -3554,4 +3554,25 @@ DESCRIPTION:Final 2026 monthly free health clinic run by Boat People SOS fo
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/57.html
 CATEGORIES:Service / volunteering
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-234@local
+DTSTAMP:20261020T220024Z
+LAST-MODIFIED:20261020T220024Z
+DTSTART:20261215T180000Z
+DTEND:20261215T190000Z
+SUMMARY:The Power of Music in Medicine with Dr. Alexander Pantelyat
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Dr. Alexander Pantelyat\, MD\, associate professor of neurology
+  at Johns Hopkins and a musician\, discusses the intersection of music\, n
+ euroscience\, and clinical care\, including how music-based interventions 
+ can improve the lives of patients with neurological conditions. Virtual ta
+ lk at 12:00 PM CST\; attendees earn 1 SLP point.\nHost: BCM AMP (Arts in M
+ edicine)\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSchxRor
+ -wRT4-zGQtuBDv1Y0f1mPqe2PJf3it-PVP7-GeD0mw/viewform\nOnline option: link i
+ n the group chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm
+ -events/event/234.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/234.html
+CATEGORIES:Student org
+END:VEVENT
 END:VCALENDAR
