@@ -2504,6 +2504,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/210.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-228@local
+DTSTAMP:20261020T020029Z
+LAST-MODIFIED:20261020T020029Z
+DTSTART:20261021T170000Z
+DTEND:20261021T180000Z
+SUMMARY:AMA/TMA Brown Bag Luncheon
+STATUS:CONFIRMED
+LOCATION:Room N311
+DESCRIPTION:Intro session on getting involved with the American Medical Ass
+ ociation and Texas Medical Association: local chapter opportunities\, lead
+ ership positions\, networking\, and advocacy pathways. Open to students al
+ ready involved or just curious. Free food provided.\nHost: AMA-MSS / TMA (
+ BCM chapter)\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSdD
+ hyNwso49Addy3dQpm_6U2ReCbL92C9_K7OindkUK-D6rkg/viewform?usp=header\nDetail
+ s: https://jerrywang123454321-maker.github.io/bcm-events/event/228.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/228.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-200@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z
@@ -2938,6 +2957,23 @@ DESCRIPTION:Casual Monday indoor volleyball pickup with classmates. This we
  ps://jerrywang123454321-maker.github.io/bcm-events/event/224.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/224.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-229@local
+DTSTAMP:20261020T020029Z
+LAST-MODIFIED:20261020T020029Z
+DTSTART:20261026T233000Z
+DTEND:20261027T010000Z
+SUMMARY:Green Squad Meet & Greet
+STATUS:CONFIRMED
+LOCATION:Axelrad Beer Garden
+DESCRIPTION:Casual Green Squad gathering to meet the squad advisors and min
+ gle with classmates. Pizza provided. RSVP via the Google Form (QR code on 
+ the flyer).\nHost: Green Squad\nRSVP requested: https://forms.gle/C75ijNyS
+ WeDqKZvz7\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
+ event/229.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/229.html
+CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-227@local
