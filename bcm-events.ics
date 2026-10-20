@@ -2252,19 +2252,19 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-170@local
-DTSTAMP:20261019T160646Z
-LAST-MODIFIED:20261019T160646Z
+DTSTAMP:20261020T000138Z
+LAST-MODIFIED:20261020T000138Z
 DTSTART:20261019T230000Z
 DTEND:20261020T000000Z
 SUMMARY:SIGN x HARC — Beyond Aphasia: Stories of Recovery and Advocacy
 STATUS:CONFIRMED
 LOCATION:M323
-DESCRIPTION:Adults living with aphasia from the Houston Aphasia Recovery Ce
- nter (HARC) share first-hand stories of stroke and aphasia recovery and ad
- vocacy. Worth 1 SLP talk point\; RSVP to be counted for food.\nHost: SIGN 
- (Student Interest Group in Neurology)\nRSVP requested: https://forms.gle/q
- WjLJatGoxcQhyxE9\nDetails: https://jerrywang123454321-maker.github.io/bcm-
- events/event/170.html
+DESCRIPTION:Reminder that the talk is happening tonight\, with a Teams opti
+ on added for those who cannot attend in person. Banh mi provided for those
+  who RSVP\; counts for 1 SLP point.\nHost: SIGN x HARC\nRSVP requested: ht
+ tps://forms.gle/qWjLJatGoxcQhyxE9\nOnline option: link in the group chat.\
+ nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/170.
+ html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/170.html
 CATEGORIES:Interest group
 END:VEVENT
@@ -2303,8 +2303,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-176@local
-DTSTAMP:20261019T160648Z
-LAST-MODIFIED:20261019T160648Z
+DTSTAMP:20261020T000136Z
+LAST-MODIFIED:20261020T000136Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:BCM Running Club Officer Committee: Application Deadline
@@ -2426,6 +2426,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/175.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-226@local
+DTSTAMP:20261020T000139Z
+LAST-MODIFIED:20261020T000139Z
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+SUMMARY:HPAIV/NPASS: Intro to IPV — Intimate Partner Violence as a Social
+  Determinant of Health
+STATUS:CONFIRMED
+LOCATION:Room N315
+DESCRIPTION:Talk with Dr. Joslyn Fisher on intimate partner violence as a s
+ ocial determinant of health\, held for Domestic Violence Awareness Month. 
+ Attending counts for 1 SLP talk point.\nHost: HPAIV/NPASS\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/226.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/226.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-154@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z
@@ -2517,22 +2534,20 @@ CATEGORIES:Academic / curriculum
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-147@local
-DTSTAMP:20261019T160647Z
-LAST-MODIFIED:20261019T160647Z
+DTSTAMP:20261020T000137Z
+LAST-MODIFIED:20261020T000137Z
 DTSTART:20261021T230000Z
 DTEND:20261022T000000Z
-SUMMARY:AWS MS3/4 Core Rotations Advice Panel
+SUMMARY:AWS MS3/4 Surgical Rotations Student Panel
 STATUS:CONFIRMED
 LOCATION:Room N311
-DESCRIPTION:Rescheduled due to a conflict: the AWS surgery advice panel wit
- h MS3/MS4 students on core rotations is now Wednesday 10/21\, 6-7 PM\, in 
- person in N311 with dinner provided. A new RSVP form is required for the d
- inner headcount even if you filled out the old one\; questions submitted o
- n the old form will still be addressed.\nHost: Association of Women Surgeo
- ns (AWS)\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSf6nfiP
- QMcFgfVVmHQ6COTTYImU6OWUvlTyhD3kPLfHoj2Z6w/viewform?usp=publish-editor\nDe
- tails: https://jerrywang123454321-maker.github.io/bcm-events/event/147.htm
- l
+DESCRIPTION:MS4 panel on surgical rotations\, core rotation advice\, and ti
+ ps for applying to surgical specialties. Banh mi dinner provided for those
+  who RSVP on the new form\; the previously circulated form no longer count
+ s.\nHost: AWS (Association of Women Surgeons)\nRSVP requested by Wed Oct 2
+ 1\, 12:00 PM: https://docs.google.com/forms/d/e/1FAIpQLSf6nfiPQMcFgfVVmHQ6
+ COTTYImU6OWUvlTyhD3kPLfHoj2Z6w/viewform?usp=header\nDetails: https://jerry
+ wang123454321-maker.github.io/bcm-events/event/147.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/147.html
 CATEGORIES:Student org
 END:VEVENT
@@ -2768,8 +2783,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-190@local
-DTSTAMP:20261019T160649Z
-LAST-MODIFIED:20261019T160649Z
+DTSTAMP:20261020T000116Z
+LAST-MODIFIED:20261020T000116Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:BCM COAG MS1 Representative Application Deadline
@@ -2825,6 +2840,25 @@ DESCRIPTION:Free community celebration promoting cultural awareness and hea
  19.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/219.html
 CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-225@local
+DTSTAMP:20261020T000139Z
+LAST-MODIFIED:20261020T000139Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:AMA-MSS Awards: Nomination Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Nominations are open for AMA Medical Student Section awards\; m
+ embers may nominate themselves or someone else via the Google Form. Catego
+ ries include emerging leadership (1 per region)\, advocacy distinction\, p
+ olicy impact\, membership development and outreach\, and distinction in me
+ ntorship. Winners get recognition on the AMA website\, a distinguished cre
+ dential\, and a certificate with live recognition at the I-26 meeting.\nHo
+ st: AMA-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-event
+ s/event/225.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/225.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-214@local
@@ -2901,6 +2935,26 @@ DESCRIPTION:Casual Monday indoor volleyball pickup with classmates. This we
  ps://jerrywang123454321-maker.github.io/bcm-events/event/224.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/224.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-227@local
+DTSTAMP:20261020T000139Z
+LAST-MODIFIED:20261020T000139Z
+DTSTART:20261027T220000Z
+DTEND:20261027T230000Z
+SUMMARY:IMIG: A Patient's Journey with Amyloidosis
+STATUS:CONFIRMED
+LOCATION:Virtual (MS Teams)
+DESCRIPTION:Virtual talk with Dr. Mallay O\, a patient educator from the Am
+ yloidosis Speakers Bureau\, on her journey with AL amyloidosis from sympto
+ ms through diagnosis\, treatment\, and life today. Four randomly chosen at
+ tendees who complete the feedback form receive $25 Amazon eCards.\nHost: I
+ MIG (Internal Medicine Interest Group)\nRSVP requested: https://docs.googl
+ e.com/forms/d/e/1FAIpQLSdmcIN-xXgbIgqZmzXfMgvZu87KfQYGBFC1COwtpUMy9OzAOQ/v
+ iewform?usp=header\nOnline option: link in the group chat.\nDetails: https
+ ://jerrywang123454321-maker.github.io/bcm-events/event/227.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/227.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-132@local

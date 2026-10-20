@@ -225,6 +225,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/206.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-225@local
+DTSTAMP:20261020T000139Z
+LAST-MODIFIED:20261020T000139Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:AMA-MSS Awards: Nomination Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Nominations are open for AMA Medical Student Section awards\; m
+ embers may nominate themselves or someone else via the Google Form. Catego
+ ries include emerging leadership (1 per region)\, advocacy distinction\, p
+ olicy impact\, membership development and outreach\, and distinction in me
+ ntorship. Winners get recognition on the AMA website\, a distinguished cre
+ dential\, and a certificate with live recognition at the I-26 meeting.\nHo
+ st: AMA-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-event
+ s/event/225.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/225.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-113@local
 DTSTAMP:20261019T160646Z
 LAST-MODIFIED:20261019T160646Z
