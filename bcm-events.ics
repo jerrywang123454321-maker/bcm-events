@@ -2771,8 +2771,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-218@local
-DTSTAMP:20261020T120130Z
-LAST-MODIFIED:20261020T120130Z
+DTSTAMP:20261020T180019Z
+LAST-MODIFIED:20261020T180019Z
 DTSTART:20261024T000000Z
 DTEND:20261024T010000Z
 SUMMARY:HTX Diwali Medical Mela: Volunteer Orientation
@@ -2994,6 +2994,25 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
  454321-maker.github.io/bcm-events/event/132.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/132.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-231@local
+DTSTAMP:20261020T180037Z
+LAST-MODIFIED:20261020T180037Z
+DTSTART:20261027T230000Z
+DTEND:20261028T000000Z
+SUMMARY:CTSIG & SSS: Residency Interview Workshop with Dr. Gregory Boyajian
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Virtual residency interview workshop led by Dr. Gregory Boyajia
+ n\, a PGY-6 in Integrated Thoracic Surgery. Hosted jointly by the Cardioth
+ oracic Surgery Interest Group and the Student Surgical Society. The Teams 
+ link is sent only to those who RSVP.\nHost: CTSIG (Cardiothoracic Surgery 
+ Interest Group) & Student Surgical Society (SSS)\nRSVP requested: https://
+ forms.gle/U4UeKYQABwUWMPHX7\nDetails: https://jerrywang123454321-maker.git
+ hub.io/bcm-events/event/231.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/231.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-144@local
