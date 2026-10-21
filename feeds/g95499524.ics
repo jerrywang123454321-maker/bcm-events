@@ -43,4 +43,22 @@ DESCRIPTION:Meet BCM IM and Med-Peds residents with sports\, games\, snacks
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/53.html
 CATEGORIES:Interest group
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-237@local
+DTSTAMP:20261021T140038Z
+LAST-MODIFIED:20261021T140038Z
+DTSTART:20261027T223000Z
+DTEND:20261027T233000Z
+SUMMARY:Med-Peds Interest Group: How to Apply Med-Peds
+STATUS:CONFIRMED
+LOCATION:M112 or Teams
+DESCRIPTION:Session on building a Med-Peds residency application: advice on
+  scheduling sub-Is and electives\, letters of recommendation\, personal st
+ atements\, and general tips. Most helpful for MS3s but all are welcome\; i
+ n-person (M112) and virtual (Teams) options.\nHost: Medicine-Pediatrics In
+ terest Group\nRSVP requested\nDetails: https://jerrywang123454321-maker.gi
+ thub.io/bcm-events/event/237.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/237.html
+CATEGORIES:Interest group
+END:VEVENT
 END:VCALENDAR
