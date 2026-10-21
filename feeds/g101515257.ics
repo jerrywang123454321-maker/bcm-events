@@ -146,4 +146,24 @@ DESCRIPTION:Final tabling day of the bone marrow donor registry drive with
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/216.html
 CATEGORIES:Service / volunteering
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-238@local
+DTSTAMP:20261021T160104Z
+LAST-MODIFIED:20261021T160104Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Lung Institute Great American Smokeout: Volunteering
+STATUS:CONFIRMED
+DESCRIPTION:Volunteer at the BCM Lung Institute's Great American Smokeout l
+ ung-health awareness campaign. Shifts available for set-up\, handing out e
+ ducation materials\, and tear-down\; location and shift times are still TB
+ D. Organizer is working on SLP approval. Adding your name to the interest 
+ sheet does not commit you to volunteering\, it is for a head count before 
+ the official sign-up goes out.\nHost: Baylor Students Against Cancer / BCM
+  Lung Institute\nRSVP requested: https://docs.google.com/spreadsheets/d/1A
+ btanmKtZ10MI14S32HSij6108MiNq--XvDI5fpBqrs/edit?usp=sharing\nDetails: http
+ s://jerrywang123454321-maker.github.io/bcm-events/event/238.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/238.html
+CATEGORIES:Service / volunteering
+END:VEVENT
 END:VCALENDAR
