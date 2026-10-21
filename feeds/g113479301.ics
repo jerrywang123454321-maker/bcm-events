@@ -1242,8 +1242,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-228@local
-DTSTAMP:20261021T120637Z
-LAST-MODIFIED:20261021T120637Z
+DTSTAMP:20261021T220102Z
+LAST-MODIFIED:20261021T220102Z
 DTSTART:20261021T170000Z
 DTEND:20261021T180000Z
 SUMMARY:AMA/TMA Brown Bag Luncheon
@@ -1330,8 +1330,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-230@local
-DTSTAMP:20261021T120637Z
-LAST-MODIFIED:20261021T120637Z
+DTSTAMP:20261021T220102Z
+LAST-MODIFIED:20261021T220102Z
 DTSTART:20261021T230000Z
 DTEND:20261022T000000Z
 SUMMARY:Anatomy Buddies: Heart & Mediastinum Review Session
@@ -1344,6 +1344,28 @@ DESCRIPTION:Second Anatomy Buddies review session of the year\, covering hi
  21-maker.github.io/bcm-events/event/230.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/230.html
 CATEGORIES:Academic / curriculum
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-239@local
+DTSTAMP:20261021T220105Z
+LAST-MODIFIED:20261021T220105Z
+DTSTART:20261021T230000Z
+DTEND:20261022T020000Z
+SUMMARY:How to Successfully Navigate the Medical + Dental Application Proce
+ ss
+STATUS:CONFIRMED
+LOCATION:The Multicultural Center\, 951 Tristar Drive\, Webster\, TX 77598
+DESCRIPTION:Panel on navigating medical and dental school admissions with D
+ r. Sharif Mohamed (UTMB Admissions Committee)\, Dr. Ralph Cooley (UT Schoo
+ l of Dentistry)\, Dr. Kamal Busaidy (UT School of Dentistry) and Dr. Curti
+ s Wray (McGovern Medical School Admissions Chair). Light refreshments\; pr
+ eferred audience 16 years and older. A classmate is looking for others to 
+ join her in speaking on the panel\, so it also doubles as a networking opp
+ ortunity.\nHost: Multicultural Center Connect & Houston Association of Mus
+ lim Dentists\nRSVP requested\nDetails: https://jerrywang123454321-maker.gi
+ thub.io/bcm-events/event/239.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/239.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-149@local
@@ -1744,10 +1766,10 @@ CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-119@local
-DTSTAMP:20261021T120637Z
-LAST-MODIFIED:20261021T120637Z
+DTSTAMP:20261021T220104Z
+LAST-MODIFIED:20261021T220104Z
 DTSTART:20261110T000000Z
-DTEND:20261110T010000Z
+DTEND:20261110T013000Z
 SUMMARY:BCM LIVE: Student Senate Talent & Performance Show
 STATUS:CONFIRMED
 LOCATION:Rayzor Lounge
@@ -1755,8 +1777,9 @@ DESCRIPTION:Student Senate's annual talent and performance show featuring a
  cts from classmates (singing\, dancing\, instruments\, skits\, standup\, m
  agic\, and more). Free dinner is provided\, and attending earns points for
   your squad in the squad cup competition\, with bonus points for performer
- s. Performer sign-ups close Oct 19.\nHost: BCM Student Senate\nDetails: ht
- tps://jerrywang123454321-maker.github.io/bcm-events/event/119.html
+ s. Performer sign-ups close Oct 19.\nHost: BCM Student Senate\nRSVP reques
+ ted: https://forms.gle/jv9UqsjKwgLKWuRg8\nDetails: https://jerrywang123454
+ 321-maker.github.io/bcm-events/event/119.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/119.html
 CATEGORIES:Student org
 END:VEVENT
