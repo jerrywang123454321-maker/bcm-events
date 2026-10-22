@@ -2591,8 +2591,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-149@local
-DTSTAMP:20261022T120133Z
-LAST-MODIFIED:20261022T120133Z
+DTSTAMP:20261022T180022Z
+LAST-MODIFIED:20261022T180022Z
 DTSTART:20261022T170000Z
 DTEND:20261022T180000Z
 SUMMARY:PsychMinded: Psychotherapy as Practice and Service
@@ -2641,6 +2641,22 @@ DESCRIPTION:Required online training session for students volunteering to t
  454321-maker.github.io/bcm-events/event/213.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/213.html
 CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-241@local
+DTSTAMP:20261022T180147Z
+LAST-MODIFIED:20261022T180147Z
+DTSTART:20261022T233000Z
+DTEND:20261023T003000Z
+SUMMARY:Group Climbing Meetup
+STATUS:CONFIRMED
+DESCRIPTION:Informal climbing meetup organized through the COAG "Going Clim
+ bing!" chat\; the group typically gathers around 6:30-7 PM at a local clim
+ bing gym. No location was restated in this message\, so check the chat for
+  the gym.\nHost: BCM COAG Going Climbing group\nDetails: https://jerrywang
+ 123454321-maker.github.io/bcm-events/event/241.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/241.html
+CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-99@local
@@ -2768,8 +2784,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-190@local
-DTSTAMP:20261022T120133Z
-LAST-MODIFIED:20261022T120133Z
+DTSTAMP:20261022T180035Z
+LAST-MODIFIED:20261022T180035Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:BCM COAG MS1 Representative Application Deadline
@@ -2972,6 +2988,24 @@ DESCRIPTION:Casual Green Squad gathering to meet the squad advisors and min
  event/229.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/229.html
 CATEGORIES:Social
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-242@local
+DTSTAMP:20261022T180211Z
+LAST-MODIFIED:20261022T180211Z
+DTSTART:20261027T201500Z
+DTEND:20261027T211500Z
+SUMMARY:Dream Outside the Box: MacGregor Volunteering
+STATUS:CONFIRMED
+LOCATION:MacGregor
+DESCRIPTION:Weekly Dream Outside the Box volunteering session with kids at 
+ MacGregor. Sign up via the Google Form by Sunday night\; MS2s and up can a
+ lso sign up to bring materials\, which counts as attendance for that week'
+ s session.\nHost: Dream Outside the Box\nRSVP requested by Sun Oct 25\, 11
+ :59 PM: https://forms.gle/VJ62isuzCq21GM4L8\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/242.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/242.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-227@local

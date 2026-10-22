@@ -119,4 +119,22 @@ DESCRIPTION:Today's theme is paleontology: each table gets a bag of half-mi
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/202.html
 CATEGORIES:Service / volunteering
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-242@local
+DTSTAMP:20261022T180211Z
+LAST-MODIFIED:20261022T180211Z
+DTSTART:20261027T201500Z
+DTEND:20261027T211500Z
+SUMMARY:Dream Outside the Box: MacGregor Volunteering
+STATUS:CONFIRMED
+LOCATION:MacGregor
+DESCRIPTION:Weekly Dream Outside the Box volunteering session with kids at 
+ MacGregor. Sign up via the Google Form by Sunday night\; MS2s and up can a
+ lso sign up to bring materials\, which counts as attendance for that week'
+ s session.\nHost: Dream Outside the Box\nRSVP requested by Sun Oct 25\, 11
+ :59 PM: https://forms.gle/VJ62isuzCq21GM4L8\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/242.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/242.html
+CATEGORIES:Service / volunteering
+END:VEVENT
 END:VCALENDAR

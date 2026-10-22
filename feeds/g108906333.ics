@@ -9,4 +9,20 @@ X-WR-CALDESC:Unofficial\, student-run list of announced events. Confirm det
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
+BEGIN:VEVENT
+UID:eventscan-241@local
+DTSTAMP:20261022T180147Z
+LAST-MODIFIED:20261022T180147Z
+DTSTART:20261022T233000Z
+DTEND:20261023T003000Z
+SUMMARY:Group Climbing Meetup
+STATUS:CONFIRMED
+DESCRIPTION:Informal climbing meetup organized through the COAG "Going Clim
+ bing!" chat\; the group typically gathers around 6:30-7 PM at a local clim
+ bing gym. No location was restated in this message\, so check the chat for
+  the gym.\nHost: BCM COAG Going Climbing group\nDetails: https://jerrywang
+ 123454321-maker.github.io/bcm-events/event/241.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/241.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR
