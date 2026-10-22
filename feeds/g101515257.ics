@@ -50,8 +50,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-213@local
-DTSTAMP:20261021T140030Z
-LAST-MODIFIED:20261021T140030Z
+DTSTAMP:20261022T120133Z
+LAST-MODIFIED:20261022T120133Z
 DTSTART:20261022T230000Z
 DTEND:20261023T000000Z
 SUMMARY:NMDP Bone Marrow Registry Drive: Volunteer Online Training
@@ -69,8 +69,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-138@local
-DTSTAMP:20261021T120637Z
-LAST-MODIFIED:20261021T120637Z
+DTSTAMP:20261022T120133Z
+LAST-MODIFIED:20261022T120133Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:AIM at Melanoma: Steps Against Melanoma Houston (Volunteering)
@@ -90,10 +90,10 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-214@local
-DTSTAMP:20261021T140030Z
-LAST-MODIFIED:20261021T140030Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
+DTSTAMP:20261022T120134Z
+LAST-MODIFIED:20261022T120134Z
+DTSTART:20261026T170000Z
+DTEND:20261026T180000Z
 SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 1)
 STATUS:CONFIRMED
 LOCATION:BCM campus
@@ -101,55 +101,55 @@ DESCRIPTION:Volunteers are needed to help table at a bone marrow donor regi
  stry drive run in partnership with NMDP. Tabling slots are available Monda
  y 10/26\, Wednesday 10/28\, and Friday 10/30\; each hour of volunteering c
  ounts for an SLP point. Online volunteer training is Thursday 10/22 at 6pm
- .\nTime not announced yet.\nHost: Baylor Students Against Cancer\nRSVP req
- uested: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFg
- NirDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123454321-ma
- ker.github.io/bcm-events/event/214.html
+ .\nHost: Baylor Students Against Cancer\nRSVP requested: https://docs.goog
+ le.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?us
+ p=sharing\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
+ event/214.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/214.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-215@local
-DTSTAMP:20261021T140030Z
-LAST-MODIFIED:20261021T140030Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
+DTSTAMP:20261022T120135Z
+LAST-MODIFIED:20261022T120135Z
+DTSTART:20261028T170000Z
+DTEND:20261028T180000Z
 SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 2)
 STATUS:CONFIRMED
 LOCATION:BCM campus
 DESCRIPTION:Second tabling day of the bone marrow donor registry drive with
   NMDP. Volunteers help staff the table and register potential donors\; eac
  h hour counts for an SLP point. Online training is Thursday 10/22 at 6pm.\
- nTime not announced yet.\nHost: Baylor Students Against Cancer\nRSVP reque
- sted: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNi
- rDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123454321-make
- r.github.io/bcm-events/event/215.html
+ nHost: Baylor Students Against Cancer\nRSVP requested: https://docs.google
+ .com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=
+ sharing\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
+ ent/215.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/215.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-216@local
-DTSTAMP:20261021T140030Z
-LAST-MODIFIED:20261021T140030Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
+DTSTAMP:20261022T120136Z
+LAST-MODIFIED:20261022T120136Z
+DTSTART:20261030T170000Z
+DTEND:20261030T180000Z
 SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 3)
 STATUS:CONFIRMED
 LOCATION:BCM campus
 DESCRIPTION:Final tabling day of the bone marrow donor registry drive with 
  NMDP. Volunteers help staff the table and register potential donors\; each
   hour counts for an SLP point. Online training is Thursday 10/22 at 6pm.\n
- Time not announced yet.\nHost: Baylor Students Against Cancer\nRSVP reques
- ted: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNir
- DZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang123454321-maker
- .github.io/bcm-events/event/216.html
+ Host: Baylor Students Against Cancer\nRSVP requested: https://docs.google.
+ com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=s
+ haring\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/eve
+ nt/216.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/216.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-238@local
-DTSTAMP:20261021T220034Z
-LAST-MODIFIED:20261021T220034Z
+DTSTAMP:20261022T120133Z
+LAST-MODIFIED:20261022T120133Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lung Institute Great American Smokeout: Volunteering
