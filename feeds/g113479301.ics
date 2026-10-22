@@ -1293,8 +1293,8 @@ CATEGORIES:Academic / curriculum
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-147@local
-DTSTAMP:20261021T120637Z
-LAST-MODIFIED:20261021T120637Z
+DTSTAMP:20261022T000026Z
+LAST-MODIFIED:20261022T000026Z
 DTSTART:20261021T230000Z
 DTEND:20261022T000000Z
 SUMMARY:AWS MS3/4 Surgical Rotations Student Panel
@@ -1474,6 +1474,24 @@ DESCRIPTION:BCM COAG (Climbing and Outdoor Adventure Group) is recruiting a
  nt/190.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/190.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-240@local
+DTSTAMP:20261022T000027Z
+LAST-MODIFIED:20261022T000027Z
+DTSTART:20261024T150000Z
+DTEND:20261024T170000Z
+SUMMARY:Shared Soil: Community Garden Build at New Hope Housing Reed
+STATUS:CONFIRMED
+LOCATION:New Hope Housing Reed\, 2605 Reed Rd\, Houston\, TX 77051
+DESCRIPTION:Volunteer with Shared Soil to help set up a new community garde
+ n at New Hope Housing Reed\, a subsidized housing complex supporting Houst
+ on families. Earns 2 SLP volunteering points. Dress comfortably for the ou
+ tdoors and be prepared to get dirty.\nRSVP requested: tinyurl.com/sharedso
+ il01\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event
+ /240.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/240.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-219@local
