@@ -90,61 +90,58 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-214@local
-DTSTAMP:20261023T120055Z
-LAST-MODIFIED:20261023T120055Z
+DTSTAMP:20261023T180408Z
+LAST-MODIFIED:20261023T180408Z
 DTSTART:20261026T170000Z
 DTEND:20261026T180000Z
-SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 1)
+SUMMARY:NMDP Stem Cell Donor Registry Drive: Tabling (Day 1)
 STATUS:CONFIRMED
-LOCATION:BCM campus
-DESCRIPTION:Volunteers are needed to help table at a bone marrow donor regi
- stry drive run in partnership with NMDP. Tabling slots are available Monda
- y 10/26\, Wednesday 10/28\, and Friday 10/30\; each hour of volunteering c
- ounts for an SLP point. Online volunteer training is Thursday 10/22 at 6pm
- .\nHost: Baylor Students Against Cancer\nRSVP requested: https://docs.goog
- le.com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?us
- p=sharing\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
- event/214.html
+LOCATION:Squad Rooms\, BCM campus
+DESCRIPTION:Drop by to chat with Baylor Students Against Cancer and the Nat
+ ional Marrow Donor Program about joining the stem cell/bone marrow donor r
+ egistry. Flyer adds the specific location: Squad Rooms.\nHost: Baylor Stud
+ ents Against Cancer (BSAC) with NMDP\nRSVP requested: https://docs.google.
+ com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=s
+ haring\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/eve
+ nt/214.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/214.html
-CATEGORIES:Service / volunteering
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-215@local
-DTSTAMP:20261023T120055Z
-LAST-MODIFIED:20261023T120055Z
+DTSTAMP:20261023T180408Z
+LAST-MODIFIED:20261023T180408Z
 DTSTART:20261028T170000Z
 DTEND:20261028T180000Z
-SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 2)
+SUMMARY:NMDP Stem Cell Donor Registry Drive: Tabling (Day 2)
 STATUS:CONFIRMED
-LOCATION:BCM campus
-DESCRIPTION:Second tabling day of the bone marrow donor registry drive with
-  NMDP. Volunteers help staff the table and register potential donors\; eac
- h hour counts for an SLP point. Online training is Thursday 10/22 at 6pm.\
- nHost: Baylor Students Against Cancer\nRSVP requested: https://docs.google
- .com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=
- sharing\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
- ent/215.html
+LOCATION:2nd floor\, Alkek Building
+DESCRIPTION:Second day of the registry drive with Baylor Students Against C
+ ancer and the National Marrow Donor Program. Flyer places this day on the 
+ 2nd floor of the Alkek Building.\nHost: Baylor Students Against Cancer (BS
+ AC) with NMDP\nRSVP requested: https://docs.google.com/spreadsheets/d/1lU3
+ cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/215.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/215.html
-CATEGORIES:Service / volunteering
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-216@local
-DTSTAMP:20261023T120055Z
-LAST-MODIFIED:20261023T120055Z
+DTSTAMP:20261023T180409Z
+LAST-MODIFIED:20261023T180409Z
 DTSTART:20261030T170000Z
 DTEND:20261030T180000Z
-SUMMARY:NMDP Bone Marrow Donor Registry Drive: Volunteer Tabling (Day 3)
+SUMMARY:NMDP Stem Cell Donor Registry Drive: Tabling (Day 3)
 STATUS:CONFIRMED
-LOCATION:BCM campus
-DESCRIPTION:Final tabling day of the bone marrow donor registry drive with 
- NMDP. Volunteers help staff the table and register potential donors\; each
-  hour counts for an SLP point. Online training is Thursday 10/22 at 6pm.\n
- Host: Baylor Students Against Cancer\nRSVP requested: https://docs.google.
- com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=s
- haring\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/eve
- nt/216.html
+LOCATION:Squad Rooms\, BCM campus
+DESCRIPTION:Final day of the registry drive with Baylor Students Against Ca
+ ncer and the National Marrow Donor Program\; learn about joining the stem 
+ cell donor registry.\nHost: Baylor Students Against Cancer (BSAC) with NMD
+ P\nRSVP requested: https://docs.google.com/spreadsheets/d/1lU3cZBx3Inkx-Op
+ bjqnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https://jerrywang1
+ 23454321-maker.github.io/bcm-events/event/216.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/216.html
-CATEGORIES:Service / volunteering
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-238@local
