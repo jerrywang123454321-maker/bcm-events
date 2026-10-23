@@ -111,19 +111,18 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-207@local
-DTSTAMP:20261022T120133Z
-LAST-MODIFIED:20261022T120133Z
+DTSTAMP:20261023T010019Z
+LAST-MODIFIED:20261023T010019Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:Post-Soccer Hangout at Pitch 25
+SUMMARY:Post-Soccer Hangout (Moved to Rodeo Goat)
 STATUS:CONFIRMED
-LOCATION:Pitch 25 (beer garden\, EaDo)
-DESCRIPTION:After the last soccer club session before rotations\, some MS2s
-  are heading to Pitch 25\, a beer garden in EaDo\, to hang out. All are we
- lcome. No start time was given\; it follows the weekly soccer game (per pr
- ior chat\, Thursdays at 5:30 PM at Helix).\nTime not announced yet.\nHost:
-  Baylor Soccer Club\nDetails: https://jerrywang123454321-maker.github.io/b
- cm-events/event/207.html
+LOCATION:Rodeo Goat\, EaDo
+DESCRIPTION:The post-soccer social originally planned for Pitch 25 has been
+  moved to Rodeo Goat in EaDo. It follows the weekly pickup game and marks 
+ the last soccer club gathering before rotations\; all are welcome.\nTime n
+ ot announced yet.\nHost: Baylor Soccer\nDetails: https://jerrywang12345432
+ 1-maker.github.io/bcm-events/event/207.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/207.html
 CATEGORIES:Wellness
 END:VEVENT
