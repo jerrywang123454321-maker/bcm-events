@@ -10,24 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-46@local
-DTSTAMP:20260916T174855Z
-LAST-MODIFIED:20260916T174855Z
-DTSTART:20260922T121500Z
-DTEND:20260922T130000Z
-SUMMARY:Muffins with Mentors: Dr. Hashem El-Serag
-STATUS:CONFIRMED
-LOCATION:Conference Room N.202\, Alkek Building
-DESCRIPTION:Breakfast and informal conversation with Dr. Hashem El-Serag\, 
- Chair of Medicine and VP of the Learning Health System\, covering career j
- ourneys and joy in academia\, with open Q&A.\nHost: Internal Medicine Inte
- rest Group (shared)\nRSVP requested: https://www.signupgenius.com/go/10C08
- 4EAFAD2DAAF49-65170376-muffins#/\nDetails: https://jerrywang123454321-make
- r.github.io/bcm-events/event/46.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/46.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-47@local
 DTSTAMP:20260928T220045Z
 LAST-MODIFIED:20260928T220045Z
@@ -87,8 +69,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-181@local
-DTSTAMP:20261022T120133Z
-LAST-MODIFIED:20261022T120133Z
+DTSTAMP:20261023T120055Z
+LAST-MODIFIED:20261023T120055Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:NephSIM Nephrons Program 2027: Application Deadline

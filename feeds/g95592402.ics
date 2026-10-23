@@ -10,24 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-60@local
-DTSTAMP:20260924T000014Z
-LAST-MODIFIED:20260924T000014Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Dream Outside the Box: Tuesday Volunteering Session
-STATUS:CONFIRMED
-LOCATION:MacGregor
-DESCRIPTION:Today's session theme is pilots: kids will draw/make paper plan
- es and create self-portraits of themselves as pilots. Organizers asked vol
- unteers to arrive by 3:15 PM.\nHost: Dream Outside the Box\nRSVP requested
-  by Sun Sep 20\, 11:59 PM: https://docs.google.com/forms/d/e/1FAIpQLSfSqcm
- mnm-cfSCYDWidXKrMaN4xfS0gcSYcSZkUXM5lxHQWSA/viewform\nDetails: https://jer
- rywang123454321-maker.github.io/bcm-events/event/60.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/60.html
-CATEGORIES:Service / volunteering
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-77@local
 DTSTAMP:20260929T160043Z
 LAST-MODIFIED:20260929T160043Z
@@ -121,8 +103,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-242@local
-DTSTAMP:20261022T180211Z
-LAST-MODIFIED:20261022T180211Z
+DTSTAMP:20261023T120055Z
+LAST-MODIFIED:20261023T120055Z
 DTSTART:20261027T201500Z
 DTEND:20261027T211500Z
 SUMMARY:Dream Outside the Box: MacGregor Volunteering
