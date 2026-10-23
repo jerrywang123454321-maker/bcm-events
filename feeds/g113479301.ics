@@ -1590,24 +1590,6 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/231.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-235@local
-DTSTAMP:20261022T120133Z
-LAST-MODIFIED:20261022T120133Z
-DTSTART:20261028T000000Z
-DTEND:20261028T010000Z
-SUMMARY:NSIG: Cases from the Cranial Crypt with Dr. Collin English
-STATUS:CONFIRMED
-LOCATION:Room N317
-DESCRIPTION:The Neurosurgery Interest Group hosts Dr. Collin English\, a PG
- Y-2 BCM neurosurgery resident\, for an evening of neurosurgical cases cove
- ring patient presentations\, clinical decision-making\, and life in neuros
- urgery residency. Food will be provided.\nHost: Neurosurgery Interest Grou
- p (NSIG)\nRSVP requested\nDetails: https://jerrywang123454321-maker.github
- .io/bcm-events/event/235.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/235.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-144@local
 DTSTAMP:20261022T120133Z
 LAST-MODIFIED:20261022T120133Z
@@ -1621,6 +1603,24 @@ DESCRIPTION:First suture workshop of the semester\, focused on introductory
  gical Society\nRSVP requested: https://forms.gle/tsXBjoq51K6AjUEeA\nDetail
  s: https://jerrywang123454321-maker.github.io/bcm-events/event/144.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/144.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-235@local
+DTSTAMP:20261023T040021Z
+LAST-MODIFIED:20261023T040021Z
+DTSTART:20261029T000000Z
+DTEND:20261029T010000Z
+SUMMARY:NSIG: Cases from the Cranial Crypt with Dr. Collin English
+STATUS:CONFIRMED
+LOCATION:Room N317
+DESCRIPTION:Neurosurgery Interest Group evening of neurosurgical cases with
+  Dr. Collin English\, a PGY-2 BCM neurosurgery resident\, covering patient
+  presentations\, clinical decision-making\, and life in neurosurgery resid
+ ency. Moved from Tuesday 10/27 to Wednesday 10/28. Food will be provided.\
+ nHost: Neurosurgery Interest Group (NSIG)\nRSVP requested\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/235.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/235.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
