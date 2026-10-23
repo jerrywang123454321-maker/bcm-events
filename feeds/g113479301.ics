@@ -1751,6 +1751,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/180.html
 CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-244@local
+DTSTAMP:20261023T220020Z
+LAST-MODIFIED:20261023T220020Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:2027 Matthew Carter Service Day Committee: Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Apply to join the committee planning the 2027 Matthew Carter Se
+ rvice Day\, a BCM tradition where 200+ students volunteer across Houston o
+ n a Saturday morning\, with a lecture by Dr. Carter on service and his son
+  Matthew's legacy. Applicants should be available to meet throughout the S
+ pring 2027 semester to help plan the event\; Class of 2030 members are enc
+ ouraged to apply.\nHost: Matthew Carter Service Day Committee\nDetails: ht
+ tps://jerrywang123454321-maker.github.io/bcm-events/event/244.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/244.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-119@local
 DTSTAMP:20261023T120055Z
 LAST-MODIFIED:20261023T120055Z
