@@ -244,6 +244,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/225.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-249@local
+DTSTAMP:20261025T200047Z
+LAST-MODIFIED:20261025T200047Z
+DTSTART:20261028T000000Z
+DTEND:20261028T010000Z
+SUMMARY:AMA-MSS Committee on Health Justice: October Heritage Month — Dis
+ ability Awareness
+STATUS:CONFIRMED
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Guest speaker Joe Holt leads a conversation on advancing disabi
+ lity awareness and how future physicians can advocate for inclusive\, comp
+ assionate\, equitable care for patients with disabilities. Listed as 8:00 
+ PM Eastern / 5:00 PM Pacific (7:00 PM Central).\nHost: AMA-MSS Standing Co
+ mmittee on Health Justice\nOnline option: link in the group chat.\nDetails
+ : https://jerrywang123454321-maker.github.io/bcm-events/event/249.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/249.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-113@local
 DTSTAMP:20261025T120053Z
 LAST-MODIFIED:20261025T120053Z
@@ -260,6 +279,23 @@ DESCRIPTION:The National Resident Matching Program is accepting nominations
  A-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
  t/113.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/113.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-248@local
+DTSTAMP:20261025T200047Z
+LAST-MODIFIED:20261025T200047Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:AMA-MSS I-26: Virtual Extraction Form Submission Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Submit extractions for the I-26 MSS Assembly through the Virtua
+ l Extraction Form by end of day Friday. Even if an item has already been e
+ xtracted by someone else\, submit your own extraction if you may want to d
+ ebate it so concerns can be coordinated ahead of Assembly. Details are in 
+ this week's Section Delegate newsletter.\nHost: AMA-MSS\nDetails: https://
+ jerrywang123454321-maker.github.io/bcm-events/event/248.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/248.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
