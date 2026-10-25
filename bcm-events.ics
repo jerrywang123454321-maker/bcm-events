@@ -2708,6 +2708,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/219.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-246@local
+DTSTAMP:20261025T160034Z
+LAST-MODIFIED:20261025T160034Z
+DTSTART:20261025T174500Z
+DTEND:20261025T200000Z
+SUMMARY:Street Medicine: Supply Distribution Outreach Shift
+STATUS:CONFIRMED
+LOCATION:The fountain (meeting point)\, BCM campus
+DESCRIPTION:Street Medicine supply hand-out shift. Volunteers meet by the f
+ ountain around 12:45 PM and head out at 1 PM\; earlier chatter describes t
+ he shift as 1–3 PM (group 3). Contact the student coordinators in the ch
+ at with questions.\nHost: Street Medicine Student Coalition\nDetails: http
+ s://jerrywang123454321-maker.github.io/bcm-events/event/246.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/246.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-225@local
 DTSTAMP:20261025T120053Z
 LAST-MODIFIED:20261025T120053Z
@@ -2837,8 +2854,8 @@ CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-242@local
-DTSTAMP:20261025T120053Z
-LAST-MODIFIED:20261025T120053Z
+DTSTAMP:20261025T160022Z
+LAST-MODIFIED:20261025T160022Z
 DTSTART:20261027T201500Z
 DTEND:20261027T211500Z
 SUMMARY:Dream Outside the Box: MacGregor Volunteering
