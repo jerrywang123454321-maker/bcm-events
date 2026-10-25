@@ -2709,8 +2709,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-246@local
-DTSTAMP:20261025T160034Z
-LAST-MODIFIED:20261025T160034Z
+DTSTAMP:20261025T180036Z
+LAST-MODIFIED:20261025T180036Z
 DTSTART:20261025T174500Z
 DTEND:20261025T200000Z
 SUMMARY:Street Medicine: Supply Distribution Outreach Shift
@@ -2719,8 +2719,10 @@ LOCATION:The fountain (meeting point)\, BCM campus
 DESCRIPTION:Street Medicine supply hand-out shift. Volunteers meet by the f
  ountain around 12:45 PM and head out at 1 PM\; earlier chatter describes t
  he shift as 1–3 PM (group 3). Contact the student coordinators in the ch
- at with questions.\nHost: Street Medicine Student Coalition\nDetails: http
- s://jerrywang123454321-maker.github.io/bcm-events/event/246.html
+ at with questions.\nHost: Street Medicine Student Coalition\nRSVP requeste
+ d: https://m.signupgenius.com/#!/showSignUp/10C054BAAA92CABFFCE9-66261804-
+ street/186680867?useFullSite=false\nDetails: https://jerrywang123454321-ma
+ ker.github.io/bcm-events/event/246.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/246.html
 CATEGORIES:Student org
 END:VEVENT
@@ -3408,6 +3410,28 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
  454321-maker.github.io/bcm-events/event/162.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/162.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-247@local
+DTSTAMP:20261025T180037Z
+LAST-MODIFIED:20261025T180037Z
+DTSTART:20261114T150000Z
+DTEND:20261114T210000Z
+SUMMARY:GHIG Community Health Fair with Amaanah Refugee Services
+STATUS:CONFIRMED
+LOCATION:Raindrop Turkish House (Turkish Cultural Center of Houston)
+DESCRIPTION:Global Health Interest Group is collaborating with UTMB and Ama
+ anah Refugee Services on a free community health fair offering general hea
+ lth checks\, vision/eye\, mental health\, women's health and skin health s
+ creenings\, plus a kids' soccer tournament (Community Cup 2026) and family
+  activities. Volunteers can help with health assessments\, get free food\,
+  and earn 1 SLP point per hour\; volunteer shifts are 8:30am–12:30pm and
+  12:30pm–4:30pm (fair itself runs 9am–3pm).\nHost: Global Health Inter
+ est Group (GHIG)\nRSVP requested: https://docs.google.com/forms/d/1eAn7zWW
+ jrhW3Kugv2OVOp5uNeBQIuckDtMrA4YPXlJ4/edit?ts=6ad8d690\nDetails: https://je
+ rrywang123454321-maker.github.io/bcm-events/event/247.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/247.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-243@local
