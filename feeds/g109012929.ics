@@ -10,23 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-70@local
-DTSTAMP:20260924T180015Z
-LAST-MODIFIED:20260924T180015Z
-DTSTART:20260924T224500Z
-DTEND:20260924T234500Z
-SUMMARY:Baylor Soccer: Pickup Game
-STATUS:CONFIRMED
-LOCATION:Helix Park
-DESCRIPTION:Weekly Thursday pickup soccer game. Location inferred from prio
- r messages (Helix Park)\; free street parking available on Canterbury Stre
- et after 4 pm\, and carpooling is encouraged since parking inspectors have
-  issued warnings nearby.\nHost: Baylor Soccer\nDetails: https://jerrywang1
- 23454321-maker.github.io/bcm-events/event/70.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/70.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-96@local
 DTSTAMP:20261001T190629Z
 LAST-MODIFIED:20261001T190629Z

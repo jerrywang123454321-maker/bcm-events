@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-76@local
-DTSTAMP:20260924T200030Z
-LAST-MODIFIED:20260924T200030Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:BCM Ambassadors Social: Open Spots
-STATUS:CONFIRMED
-DESCRIPTION:Four remaining spots for tonight's ambassadors social. To claim
-  a spot\, text your name\, campus\, and BCM email in the group chat by 5pm
- .\nTime not announced yet.\nHost: BCM Ambassadors\nRSVP requested by Thu S
- ep 24\, 5:00 PM\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
- vents/event/76.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/76.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-84@local
 DTSTAMP:20261015T121758Z
 LAST-MODIFIED:20261015T121758Z
