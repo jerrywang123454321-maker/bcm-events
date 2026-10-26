@@ -10,23 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-48@local
-DTSTAMP:20260925T200948Z
-LAST-MODIFIED:20260925T200948Z
-DTSTART:20260925T230000Z
-DTEND:20260926T010000Z
-SUMMARY:Med-Peds Interest Group: Resident-Student Mixer
-STATUS:CONFIRMED
-LOCATION:Axelrad
-DESCRIPTION:Meet BCM med-peds residents and other students interested in a 
- career in internal medicine and pediatrics. Pizza\, food\, and drinks prov
- ided.\nHost: Med-Peds Interest Group\nRSVP requested: https://forms.gle/Bp
- zx2kvNj8MriGZT6\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
- vents/event/48.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/48.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-53@local
 DTSTAMP:20260926T180910Z
 LAST-MODIFIED:20260926T180910Z
@@ -45,8 +28,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-237@local
-DTSTAMP:20261025T120053Z
-LAST-MODIFIED:20261025T120053Z
+DTSTAMP:20261026T121536Z
+LAST-MODIFIED:20261026T121536Z
 DTSTART:20261027T223000Z
 DTEND:20261027T233000Z
 SUMMARY:Med-Peds Interest Group: How to Apply Med-Peds
