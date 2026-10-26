@@ -1460,8 +1460,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-227@local
-DTSTAMP:20261026T121536Z
-LAST-MODIFIED:20261026T121536Z
+DTSTAMP:20261026T220040Z
+LAST-MODIFIED:20261026T220040Z
 DTSTART:20261027T220000Z
 DTEND:20261027T230000Z
 SUMMARY:IMIG: A Patient's Journey with Amyloidosis
@@ -1527,6 +1527,24 @@ DESCRIPTION:First suture workshop of the semester\, focused on introductory
  s: https://jerrywang123454321-maker.github.io/bcm-events/event/144.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/144.html
 CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-254@local
+DTSTAMP:20261026T220046Z
+LAST-MODIFIED:20261026T220046Z
+DTSTART:20261028T220000Z
+DTEND:20261028T230000Z
+SUMMARY:MMLC Workshop #3: Clinical Mandarin — HPI & LOCATES
+STATUS:CONFIRMED
+LOCATION:Room N311
+DESCRIPTION:Third Medical Mandarin Language Club workshop: practice taking 
+ an HPI and using the LOCATES pain framework in Mandarin\, including how to
+  ask "你哪里不舒服？". All levels welcome\; RSVP for food.\nHost: B
+ CM Medical Mandarin Language Club (MMLC)\nRSVP requested: https://forms.gl
+ e/Vcb78k2njSRcLHNS8\nDetails: https://jerrywang123454321-maker.github.io/b
+ cm-events/event/254.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/254.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-235@local
@@ -1651,6 +1669,24 @@ DESCRIPTION:First BLS discussion meeting of the year. Anxious People\, Ch.
  maker.github.io/bcm-events/event/245.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/245.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-253@local
+DTSTAMP:20261026T220046Z
+LAST-MODIFIED:20261026T220046Z
+DTSTART:20261031T153000Z
+DTEND:20261031T180000Z
+SUMMARY:Shared Soil: Community Garden Setup & Pumpkin Painting
+STATUS:CONFIRMED
+LOCATION:New Hope Housing Reed - 2605 Reed Rd\, Houston\, TX 77051
+DESCRIPTION:Volunteer to help set up a new community garden and run a pumpk
+ in painting event at New Hope Housing Reed\, a subsidized housing complex 
+ supporting Houston families. Earns 2.5 SLP volunteer points. Dress comfort
+ ably for the outdoors and be prepared to get dirty.\nRSVP requested: https
+ ://tinyurl.com/SharedSoil\nDetails: https://jerrywang123454321-maker.githu
+ b.io/bcm-events/event/253.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/253.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-133@local
