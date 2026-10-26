@@ -141,21 +141,22 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-18@local
-DTSTAMP:20261025T120053Z
-LAST-MODIFIED:20261025T120053Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
+DTSTAMP:20261026T040023Z
+LAST-MODIFIED:20261026T040023Z
+DTSTART:20261104T180000Z
+DTEND:20261104T190000Z
 SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
 STATUS:CONFIRMED
-DESCRIPTION:Third session of the SOAR Research Grand Rounds faculty lecture
-  series for medical students with little or no research experience\; topic
-  is Data Sources and Analysis. Time and format for this session had not be
- en announced as of Oct 1. The date comes from the series flyer\; the Octob
- er session moved from Oct 7 to Oct 12\, so confirm closer to the date.\nTi
- me not announced yet.\nHost: SOAR Office\, Baylor College of Medicine\nDet
- ails: https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
+LOCATION:Alkek Building (room TBD) or Microsoft Teams
+DESCRIPTION:Dr. Heba Mesbah\, MD presents 'Data Sources and Analysis' as pa
+ rt of SOAR's lecture series walking through the research process from star
+ t to finish. Attend in person (food provided) or on Teams. Series continue
+ s with From Data to Manuscript (Dec 2\, 2026)\, Presenting Your Research (
+ Jan 2027)\, and AI in Research (Feb 2027).\nHost: SOAR (Student Opportunit
+ ies for Advancement in Research)\nRSVP requested\nDetails: https://jerrywa
+ ng123454321-maker.github.io/bcm-events/event/18.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
-CATEGORIES:Research
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-19@local

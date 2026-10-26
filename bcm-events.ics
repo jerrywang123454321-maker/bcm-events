@@ -2822,19 +2822,22 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-233@local
-DTSTAMP:20261026T010039Z
-LAST-MODIFIED:20261026T010039Z
+DTSTAMP:20261026T040024Z
+LAST-MODIFIED:20261026T040024Z
 DTSTART:20261026T230000Z
 DTEND:20261027T000000Z
 SUMMARY:Anatomy Buddies: Surgical and Clinical Anatomy Cases with Faculty
 STATUS:CONFIRMED
 LOCATION:Room N317
-DESCRIPTION:Faculty-led session with Dr. Jean Paul Osula (General Surgery) 
- and Dr. Mirza Umair Khalid (Cardiology) featuring patient case presentatio
- ns and procedural walk-throughs with high-yield anatomical clinical pearls
- . Dinner provided for those who RSVP.\nRSVP requested by Mon Oct 26\, 12:0
- 0 PM\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event
- /233.html
+DESCRIPTION:Drs. Khalid and Osula present patient cases with real procedura
+ l footage and anatomy learning points\, with a chance to connect with a ca
+ rdiologist (associate program director for BCM's cardiology fellowship) an
+ d a general surgery resident. Abu Omar Halal will be served. RSVP form lin
+ k shared in chat after QR code trouble\; the event will be postponed if th
+ ere are not enough RSVPs by Monday noon.\nRSVP requested by Mon Oct 26\, 1
+ 2:00 PM: https://docs.google.com/forms/d/e/1FAIpQLSdc-AmFCYYKwbiOrI3OQV9s2
+ e4FgAoWR7mYhee60iZsx5FVjQ/viewform?usp=dialog\nDetails: https://jerrywang1
+ 23454321-maker.github.io/bcm-events/event/233.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/233.html
 CATEGORIES:Student org
 END:VEVENT
@@ -3283,24 +3286,6 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/221.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-18@local
-DTSTAMP:20261025T120053Z
-LAST-MODIFIED:20261025T120053Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
-STATUS:CONFIRMED
-DESCRIPTION:Third session of the SOAR Research Grand Rounds faculty lecture
-  series for medical students with little or no research experience\; topic
-  is Data Sources and Analysis. Time and format for this session had not be
- en announced as of Oct 1. The date comes from the series flyer\; the Octob
- er session moved from Oct 7 to Oct 12\, so confirm closer to the date.\nTi
- me not announced yet.\nHost: SOAR Office\, Baylor College of Medicine\nDet
- ails: https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
-CATEGORIES:Research
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-205@local
 DTSTAMP:20261025T120053Z
 LAST-MODIFIED:20261025T120053Z
@@ -3316,6 +3301,25 @@ DESCRIPTION:The AMA Medical Student Section I-26 Interim Meeting. First-tim
  /viewform?usp=publish-editor\nDetails: https://jerrywang123454321-maker.gi
  thub.io/bcm-events/event/205.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/205.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-18@local
+DTSTAMP:20261026T040023Z
+LAST-MODIFIED:20261026T040023Z
+DTSTART:20261104T180000Z
+DTEND:20261104T190000Z
+SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
+STATUS:CONFIRMED
+LOCATION:Alkek Building (room TBD) or Microsoft Teams
+DESCRIPTION:Dr. Heba Mesbah\, MD presents 'Data Sources and Analysis' as pa
+ rt of SOAR's lecture series walking through the research process from star
+ t to finish. Attend in person (food provided) or on Teams. Series continue
+ s with From Data to Manuscript (Dec 2\, 2026)\, Presenting Your Research (
+ Jan 2027)\, and AI in Research (Feb 2027).\nHost: SOAR (Student Opportunit
+ ies for Advancement in Research)\nRSVP requested\nDetails: https://jerrywa
+ ng123454321-maker.github.io/bcm-events/event/18.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
