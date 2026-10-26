@@ -2833,8 +2833,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-237@local
-DTSTAMP:20261026T121536Z
-LAST-MODIFIED:20261026T121536Z
+DTSTAMP:20261026T180044Z
+LAST-MODIFIED:20261026T180044Z
 DTSTART:20261027T223000Z
 DTEND:20261027T233000Z
 SUMMARY:Med-Peds Interest Group: How to Apply Med-Peds
@@ -3299,6 +3299,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/11.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-251@local
+DTSTAMP:20261026T180047Z
+LAST-MODIFIED:20261026T180047Z
+DTSTART:20261105T150000Z
+DTEND:20261105T160000Z
+SUMMARY:AMA-MSS: MSS/MSOP Session at I-26 Interim Meeting
+STATUS:CONFIRMED
+LOCATION:Northern Hemisphere Salon D
+DESCRIPTION:AMA staff and the MSS Governing Council invite students attendi
+ ng the 2026 MSS Interim Meeting to this session during the MSS Assembly. S
+ cheduled 10-11 a.m. Eastern (9-10 a.m. Central)\; separate registration is
+  required and only relevant if you are attending Interim.\nHost: AMA-MSS\n
+ RSVP requested: https://ama.jotform.com/262914247830156\nDetails: https://
+ jerrywang123454321-maker.github.io/bcm-events/event/251.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/251.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-180@local
 DTSTAMP:20261026T121536Z
 LAST-MODIFIED:20261026T121536Z
@@ -3333,6 +3351,29 @@ DESCRIPTION:Apply to join the committee planning the 2027 Matthew Carter Se
  tps://jerrywang123454321-maker.github.io/bcm-events/event/244.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/244.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-252@local
+DTSTAMP:20261026T180048Z
+LAST-MODIFIED:20261026T180048Z
+DTSTART:20261109T180000Z
+DTEND:20261109T190000Z
+SUMMARY:Association of Women Surgeons: Suture Workshop (Session 2) with Dr.
+  Salas
+STATUS:CONFIRMED
+LOCATION:4th floor SIM Lab\, room 439C
+DESCRIPTION:Second session of the AWS suture workshop series\, a hands-on s
+ kills session led by Dr. Salas (Assistant Professor\, BCM\; Director\, Sur
+ gical Simulation Lab). Covers knot-tying methods\, suturing practice and i
+ nstrument techniques\, and guidance for progressing technical skills. All 
+ skill levels welcome\, no experience necessary\, and all supplies are prov
+ ided. Organizers ask that students who have already attended a suture and 
+ knot-tying workshop skip this one so others can attend.\nHost: Association
+  of Women Surgeons (AWS)\nRSVP requested by Sun Nov 1\, 11:59 PM: https://
+ www.signupgenius.com/go/20F0D4AABAB2BAAFFC25-67092173-119\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/252.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/252.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-119@local

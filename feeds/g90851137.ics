@@ -317,6 +317,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/205.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-251@local
+DTSTAMP:20261026T180047Z
+LAST-MODIFIED:20261026T180047Z
+DTSTART:20261105T150000Z
+DTEND:20261105T160000Z
+SUMMARY:AMA-MSS: MSS/MSOP Session at I-26 Interim Meeting
+STATUS:CONFIRMED
+LOCATION:Northern Hemisphere Salon D
+DESCRIPTION:AMA staff and the MSS Governing Council invite students attendi
+ ng the 2026 MSS Interim Meeting to this session during the MSS Assembly. S
+ cheduled 10-11 a.m. Eastern (9-10 a.m. Central)\; separate registration is
+  required and only relevant if you are attending Interim.\nHost: AMA-MSS\n
+ RSVP requested: https://ama.jotform.com/262914247830156\nDetails: https://
+ jerrywang123454321-maker.github.io/bcm-events/event/251.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/251.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-191@local
 DTSTAMP:20261026T121536Z
 LAST-MODIFIED:20261026T121536Z
