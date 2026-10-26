@@ -1470,8 +1470,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-233@local
-DTSTAMP:20261025T120053Z
-LAST-MODIFIED:20261025T120053Z
+DTSTAMP:20261026T010039Z
+LAST-MODIFIED:20261026T010039Z
 DTSTART:20261026T230000Z
 DTEND:20261027T000000Z
 SUMMARY:Anatomy Buddies: Surgical and Clinical Anatomy Cases with Faculty
@@ -1480,8 +1480,9 @@ LOCATION:Room N317
 DESCRIPTION:Faculty-led session with Dr. Jean Paul Osula (General Surgery) 
  and Dr. Mirza Umair Khalid (Cardiology) featuring patient case presentatio
  ns and procedural walk-throughs with high-yield anatomical clinical pearls
- . Dinner provided for those who RSVP.\nRSVP requested\nDetails: https://je
- rrywang123454321-maker.github.io/bcm-events/event/233.html
+ . Dinner provided for those who RSVP.\nRSVP requested by Mon Oct 26\, 12:0
+ 0 PM\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event
+ /233.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/233.html
 CATEGORIES:Student org
 END:VEVENT
