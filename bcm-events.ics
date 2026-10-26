@@ -2682,8 +2682,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-214@local
-DTSTAMP:20261026T121536Z
-LAST-MODIFIED:20261026T121536Z
+DTSTAMP:20261026T160034Z
+LAST-MODIFIED:20261026T160034Z
 DTSTART:20261026T170000Z
 DTEND:20261026T180000Z
 SUMMARY:NMDP Stem Cell Donor Registry Drive: Tabling (Day 1)
@@ -3352,6 +3352,24 @@ DESCRIPTION:Student Senate's annual talent and performance show featuring a
  321-maker.github.io/bcm-events/event/119.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/119.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-250@local
+DTSTAMP:20261026T160043Z
+LAST-MODIFIED:20261026T160043Z
+DTSTART:20261110T000000Z
+DTEND:20261110T010000Z
+SUMMARY:PHIG: Annual Virtual Cultural Competency Journal Club
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Public Health Interest Group's annual virtual journal club disc
+ ussing the article "What is the key to culturally competent care: Reducing
+  bias or cultural tailoring?" Worth 2 SLP education points\; read the arti
+ cle in advance. The Teams link is on the SLP Google Sheet.\nHost: Public H
+ ealth Interest Group (PHIG)\nDetails: https://jerrywang123454321-maker.git
+ hub.io/bcm-events/event/250.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/250.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-56@local
