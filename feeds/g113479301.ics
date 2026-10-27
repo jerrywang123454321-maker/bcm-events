@@ -1565,8 +1565,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-220@local
-DTSTAMP:20261027T120125Z
-LAST-MODIFIED:20261027T120125Z
+DTSTAMP:20261027T160033Z
+LAST-MODIFIED:20261027T160033Z
 DTSTART:20261029T180000Z
 DTEND:20261029T190000Z
 SUMMARY:Academic Medicine Collaborative: Breaking into Medical Education Re
@@ -1602,8 +1602,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-178@local
-DTSTAMP:20261027T120125Z
-LAST-MODIFIED:20261027T120125Z
+DTSTAMP:20261027T160043Z
+LAST-MODIFIED:20261027T160043Z
 DTSTART:20261029T223000Z
 DTEND:20261029T233000Z
 SUMMARY:Into Urology: Career Insights with Dr. Amit Reddy
@@ -1612,9 +1612,10 @@ LOCATION:Cullen 187A
 DESCRIPTION:Dr. Amit Reddy\, a urology attending\, discusses what urology i
  s\, day-to-day life as a urologist\, and how to be a competitive applicant
   for the urology match\, with time for questions. Food will be provided.\n
- RSVP requested: https://docs.google.com/forms/d/e/1FAIpQLScMtJCCWjzfGVrkAl
- fGY_J5NKeuygUQobOE4588uzBjtzLNFg/viewform\nDetails: https://jerrywang12345
- 4321-maker.github.io/bcm-events/event/178.html
+ Host: Baylor Urology Network (BUN)\nRSVP requested: https://docs.google.co
+ m/forms/d/e/1FAIpQLScMtJCCWjzfGVrkAlfGY_J5NKeuygUQobOE4588uzBjtzLNFg/viewf
+ orm\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/
+ 178.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/178.html
 CATEGORIES:Student org
 END:VEVENT
