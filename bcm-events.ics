@@ -2701,22 +2701,20 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-110@local
-DTSTAMP:20261026T121536Z
-LAST-MODIFIED:20261026T121536Z
+DTSTAMP:20261027T000045Z
+LAST-MODIFIED:20261027T000045Z
 DTSTART:20261026T220000Z
 DTEND:20261026T230000Z
 SUMMARY:AIMS Journal Club: AI in Surgery with Dr. Abbas Rana
 STATUS:CONFIRMED
 LOCATION:M321/M323\, BCM Houston Campus
-DESCRIPTION:AI in Medicine Society's first journal club\, moderated by Dr. 
- Abbas Rana (Professor of Surgery\, Co-Director of ATLAS A.I.). Discussion 
- of a paper on the current state of artificial intelligence in liver transp
- lantation\, plus an optional second paper on the Pediatric Heart Listing M
- ortality score if time permits. No background knowledge of AI required\; f
- ood will be served and it counts for an SLP point.\nHost: BCM AIMS (Artifi
- cial Intelligence in Medicine Society)\nRSVP requested by Fri Oct 23\, 11:
- 59 PM: https://forms.gle/d4HjWApWsC72ocoXA\nDetails: https://jerrywang1234
- 54321-maker.github.io/bcm-events/event/110.html
+DESCRIPTION:A Microsoft Teams link was added mid-session for remote partici
+ pants (e.g.\, students at Temple) after audio issues. Journal club on AI i
+ n surgery moderated by Dr. Abbas Rana\; food served and counts for an SLP 
+ point.\nHost: AI in Medicine Society (AIMS)\nRSVP requested by Fri Oct 23\
+ , 11:59 PM: https://forms.gle/d4HjWApWsC72ocoXA\nOnline option: link in th
+ e group chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm-eve
+ nts/event/110.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/110.html
 CATEGORIES:Interest group
 END:VEVENT
@@ -3483,6 +3481,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/162.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-257@local
+DTSTAMP:20261027T000047Z
+LAST-MODIFIED:20261027T000047Z
+DTSTART:20261111T233000Z
+DTEND:20261112T020000Z
+SUMMARY:IMIG: 11th Annual Internal Medicine Subspecialty Mixer
+STATUS:CONFIRMED
+LOCATION:Ansary Atrium\, BSLMC THI
+DESCRIPTION:Meet over 40 faculty from 13 Internal Medicine subspecialties\,
+  plus IM leadership and chief residents\, to explore career paths. All stu
+ dents welcome\; dinner provided. Space is limited.\nHost: Internal Medicin
+ e Interest Group (IMIG)\nRSVP requested by Mon Nov 2\, 11:59 PM: https://d
+ ocs.google.com/forms/d/e/1FAIpQLSf6FZSCNtaLF1U7JSOv42wD00v0Sgqs1mPen9oSs8L
+ U6X__Bw/viewform\nDetails: https://jerrywang123454321-maker.github.io/bcm-
+ events/event/257.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/257.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-247@local
 DTSTAMP:20261026T121536Z
 LAST-MODIFIED:20261026T121536Z
@@ -3538,6 +3555,26 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
  454321-maker.github.io/bcm-events/event/193.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/193.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-255@local
+DTSTAMP:20261027T000045Z
+LAST-MODIFIED:20261027T000045Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:RMSD Program: Registration Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Deadline to register via REDCap for the Research Mentorship and
+  Scholarly Development (RMSD) Program\, open to MS1–MS4 students at the 
+ Houston and Temple campuses. Program includes three 15-minute self-paced e
+ Learning modules\, three 90-minute case-based Microsoft Teams workshops\, 
+ near-peer mentorship with RMSD Student Fellows\, and a reflection tool\; c
+ ompleting all components earns a SOAR Completion Letter that can be listed
+  on a CV/residency application.\nHost: SOAR Office\, Baylor College of Med
+ icine\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/255.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/255.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-191@local
@@ -3647,6 +3684,28 @@ DESCRIPTION:Baylor is offering a Dean's Distinction in High Value Care for
  : https://jerrywang123454321-maker.github.io/bcm-events/event/102.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/102.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-256@local
+DTSTAMP:20261027T000046Z
+LAST-MODIFIED:20261027T000046Z
+DTSTART:20261208T000000Z
+DTEND:20261208T010000Z
+SUMMARY:RMSD Program: Optional Orientation
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Optional orientation session kicking off the RMSD Program for r
+ egistered MS1–MS4 students. Full workshop schedule (5:30–7:00 PM on Te
+ ams): Jan 11\, 2027 Workshop 1 — Building Effective Research Mentorships
+ \; Feb 1\, 2027 Workshop 2 — Managing Research Progress and Collaboratio
+ n\; Mar 1\, 2027 Workshop 3 — Advancing Research and Communicating Schol
+ arly Contributions\, with repeat sessions Mar 29\, Apr 26 and May 24 (atte
+ nd each topic once).\nHost: SOAR Office\, Baylor College of Medicine\nRSVP
+  requested by Tue Nov 17\, 11:59 PM: https://redcap.research.bcm.edu/redca
+ p/surveys/?s=J7YCL7HPXCWTH7LL\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/256.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/256.html
+CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-57@local

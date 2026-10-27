@@ -177,6 +177,26 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/250.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-255@local
+DTSTAMP:20261027T000045Z
+LAST-MODIFIED:20261027T000045Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:RMSD Program: Registration Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Deadline to register via REDCap for the Research Mentorship and
+  Scholarly Development (RMSD) Program\, open to MS1–MS4 students at the 
+ Houston and Temple campuses. Program includes three 15-minute self-paced e
+ Learning modules\, three 90-minute case-based Microsoft Teams workshops\, 
+ near-peer mentorship with RMSD Student Fellows\, and a reflection tool\; c
+ ompleting all components earns a SOAR Completion Letter that can be listed
+  on a CV/residency application.\nHost: SOAR Office\, Baylor College of Med
+ icine\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/255.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/255.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-19@local
 DTSTAMP:20261026T121536Z
 LAST-MODIFIED:20261026T121536Z
@@ -193,6 +213,28 @@ DESCRIPTION:Fourth session of the SOAR Research Grand Rounds faculty lectur
  llege of Medicine\nDetails: https://jerrywang123454321-maker.github.io/bcm
  -events/event/19.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/19.html
+CATEGORIES:Research
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-256@local
+DTSTAMP:20261027T000046Z
+LAST-MODIFIED:20261027T000046Z
+DTSTART:20261208T000000Z
+DTEND:20261208T010000Z
+SUMMARY:RMSD Program: Optional Orientation
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Optional orientation session kicking off the RMSD Program for r
+ egistered MS1–MS4 students. Full workshop schedule (5:30–7:00 PM on Te
+ ams): Jan 11\, 2027 Workshop 1 — Building Effective Research Mentorships
+ \; Feb 1\, 2027 Workshop 2 — Managing Research Progress and Collaboratio
+ n\; Mar 1\, 2027 Workshop 3 — Advancing Research and Communicating Schol
+ arly Contributions\, with repeat sessions Mar 29\, Apr 26 and May 24 (atte
+ nd each topic once).\nHost: SOAR Office\, Baylor College of Medicine\nRSVP
+  requested by Tue Nov 17\, 11:59 PM: https://redcap.research.bcm.edu/redca
+ p/surveys/?s=J7YCL7HPXCWTH7LL\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/256.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/256.html
 CATEGORIES:Research
 END:VEVENT
 END:VCALENDAR

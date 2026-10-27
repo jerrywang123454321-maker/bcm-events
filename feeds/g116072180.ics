@@ -30,22 +30,20 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-110@local
-DTSTAMP:20261026T121536Z
-LAST-MODIFIED:20261026T121536Z
+DTSTAMP:20261027T000045Z
+LAST-MODIFIED:20261027T000045Z
 DTSTART:20261026T220000Z
 DTEND:20261026T230000Z
 SUMMARY:AIMS Journal Club: AI in Surgery with Dr. Abbas Rana
 STATUS:CONFIRMED
 LOCATION:M321/M323\, BCM Houston Campus
-DESCRIPTION:AI in Medicine Society's first journal club\, moderated by Dr. 
- Abbas Rana (Professor of Surgery\, Co-Director of ATLAS A.I.). Discussion 
- of a paper on the current state of artificial intelligence in liver transp
- lantation\, plus an optional second paper on the Pediatric Heart Listing M
- ortality score if time permits. No background knowledge of AI required\; f
- ood will be served and it counts for an SLP point.\nHost: BCM AIMS (Artifi
- cial Intelligence in Medicine Society)\nRSVP requested by Fri Oct 23\, 11:
- 59 PM: https://forms.gle/d4HjWApWsC72ocoXA\nDetails: https://jerrywang1234
- 54321-maker.github.io/bcm-events/event/110.html
+DESCRIPTION:A Microsoft Teams link was added mid-session for remote partici
+ pants (e.g.\, students at Temple) after audio issues. Journal club on AI i
+ n surgery moderated by Dr. Abbas Rana\; food served and counts for an SLP 
+ point.\nHost: AI in Medicine Society (AIMS)\nRSVP requested by Fri Oct 23\
+ , 11:59 PM: https://forms.gle/d4HjWApWsC72ocoXA\nOnline option: link in th
+ e group chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm-eve
+ nts/event/110.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/110.html
 CATEGORIES:Interest group
 END:VEVENT
