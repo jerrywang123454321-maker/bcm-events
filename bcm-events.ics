@@ -2830,6 +2830,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/227.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-259@local
+DTSTAMP:20261027T040030Z
+LAST-MODIFIED:20261027T040030Z
+DTSTART:20261027T220000Z
+DTEND:20261027T230000Z
+SUMMARY:MSFC & NPASS: Bookmarks & Ballots Craft and Learn
+STATUS:CONFIRMED
+LOCATION:TMC Library\, Classroom 1
+DESCRIPTION:Decorate bookmarks while learning about reproductive healthcare
+  policy in Texas with Dr. Goulding\, ahead of the midterm elections. Snack
+ s and craft supplies provided.\nHost: MSFC & NPASS\nDetails: https://jerry
+ wang123454321-maker.github.io/bcm-events/event/259.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/259.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-237@local
 DTSTAMP:20261026T200034Z
 LAST-MODIFIED:20261026T200034Z
@@ -3038,6 +3054,22 @@ DESCRIPTION:Dr. Amit Reddy\, a urology attending\, discusses what urology i
  4321-maker.github.io/bcm-events/event/178.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/178.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-258@local
+DTSTAMP:20261027T040030Z
+LAST-MODIFIED:20261027T040030Z
+DTSTART:20261029T223000Z
+DTEND:20261029T233000Z
+SUMMARY:Baylor Soccer: Thursday Pickup
+STATUS:CONFIRMED
+DESCRIPTION:Weekly pick-up soccer with the Baylor Soccer group. Organizers 
+ are also exploring moving the game to Mondays for better MS1 turnout\, pen
+ ding field availability (kids use the field Mondays).\nHost: Baylor Soccer
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/258
+ .html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/258.html
+CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-223@local

@@ -126,4 +126,20 @@ DESCRIPTION:Weekly casual pickup soccer with the Baylor Soccer group\, kick
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/222.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-258@local
+DTSTAMP:20261027T040030Z
+LAST-MODIFIED:20261027T040030Z
+DTSTART:20261029T223000Z
+DTEND:20261029T233000Z
+SUMMARY:Baylor Soccer: Thursday Pickup
+STATUS:CONFIRMED
+DESCRIPTION:Weekly pick-up soccer with the Baylor Soccer group. Organizers 
+ are also exploring moving the game to Mondays for better MS1 turnout\, pen
+ ding field availability (kids use the field Mondays).\nHost: Baylor Soccer
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/258
+ .html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/258.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR
