@@ -2918,15 +2918,18 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-101@local
-DTSTAMP:20261027T120125Z
-LAST-MODIFIED:20261027T120125Z
+DTSTAMP:20261027T140019Z
+LAST-MODIFIED:20261027T140019Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Epic Gold Login Validation Deadline
 STATUS:CONFIRMED
-DESCRIPTION:Epic Gold login validation must be completed\; a classmate cite
- s an email received 9/29 stating October 28.\nDetails: https://jerrywang12
- 3454321-maker.github.io/bcm-events/event/101.html
+DESCRIPTION:Student affairs deans say to disregard the Epic Gold training e
+ mails coming from the hospital\, which are sent to everyone\; students onl
+ y need to complete their assigned trainings for now. Class leadership will
+  share an update if anything changes.\nHost: Office of Student Affairs\nDe
+ tails: https://jerrywang123454321-maker.github.io/bcm-events/event/101.htm
+ l
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/101.html
 CATEGORIES:Deadline
 END:VEVENT
