@@ -2808,9 +2808,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/215.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-267@local
+DTSTAMP:20261028T180112Z
+LAST-MODIFIED:20261028T180112Z
+DTSTART:20261028T174100Z
+DTEND:20261028T181500Z
+SUMMARY:BCM VOTES: Election & Ballot Propositions Tabling
+STATUS:CONFIRMED
+LOCATION:Houston Squad Room
+DESCRIPTION:Drop-in tabling with free candy where BCM VOTES answers questio
+ ns about the upcoming election and the propositions on the ballot. Running
+  until 1:15 PM.\nHost: BCM VOTES\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/267.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/267.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-254@local
-DTSTAMP:20261028T120117Z
-LAST-MODIFIED:20261028T120117Z
+DTSTAMP:20261028T180057Z
+LAST-MODIFIED:20261028T180057Z
 DTSTART:20261028T220000Z
 DTEND:20261028T230000Z
 SUMMARY:MMLC Workshop #3: Clinical Mandarin — HPI & LOCATES
@@ -2861,6 +2877,21 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/101.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-268@local
+DTSTAMP:20261028T180112Z
+LAST-MODIFIED:20261028T180112Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:SNMA Annual Cheesecake Sale: Preorder Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Last call to preorder cheesecake for SNMA's annual fall bake sa
+ le fundraiser. Missing the preorder window is fine — cheesecakes can sti
+ ll be bought in person on Friday at the sale.\nHost: SNMA\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/268.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/268.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-220@local
 DTSTAMP:20261028T120117Z
 LAST-MODIFIED:20261028T120117Z
@@ -2882,8 +2913,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-155@local
-DTSTAMP:20261028T120117Z
-LAST-MODIFIED:20261028T120117Z
+DTSTAMP:20261028T180111Z
+LAST-MODIFIED:20261028T180111Z
 DTSTART:20261029T210000Z
 DTEND:20261030T000000Z
 SUMMARY:First Generation MD: Ice Cream Fundraiser at Jeni's
@@ -3411,6 +3442,28 @@ DESCRIPTION:Monthly free health clinic run by Boat People SOS serving the V
  ://www.signupgenius.com/go/10C0F4EAAA723A0FA7-61361761-2026#/\nDetails: ht
  tps://jerrywang123454321-maker.github.io/bcm-events/event/56.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/56.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-265@local
+DTSTAMP:20261028T180112Z
+LAST-MODIFIED:20261028T180112Z
+DTSTART:20261110T160000Z
+DTEND:20261110T170000Z
+SUMMARY:APAMSA x Medical Mandarin: ESL Health Workshop at the Chinese Commu
+ nity Center
+STATUS:CONFIRMED
+LOCATION:Chinese Community Center\, 9800 Town Park Dr\, Houston\, TX 77036
+DESCRIPTION:Volunteer with APAMSA and the Medical Mandarin Language Club to
+  teach and practice English with adult beginner ESL students\, supporting 
+ them in navigating English healthcare scenarios. Worth +1 SLP point\; some
+  Chinese fluency is needed since participants are beginner English student
+ s. If there is enough interest\, a prep Medical Mandarin club meeting (+1 
+ SLP education point) may be held beforehand.\nHost: APAMSA & Medical Manda
+ rin Language Club\nRSVP requested: https://forms.gle/LpcqQKmKXZuC6cy16\nDe
+ tails: https://jerrywang123454321-maker.github.io/bcm-events/event/265.htm
+ l
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/265.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT

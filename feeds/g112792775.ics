@@ -125,6 +125,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/99.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-267@local
+DTSTAMP:20261028T180112Z
+LAST-MODIFIED:20261028T180112Z
+DTSTART:20261028T174100Z
+DTEND:20261028T181500Z
+SUMMARY:BCM VOTES: Election & Ballot Propositions Tabling
+STATUS:CONFIRMED
+LOCATION:Houston Squad Room
+DESCRIPTION:Drop-in tabling with free candy where BCM VOTES answers questio
+ ns about the upcoming election and the propositions on the ballot. Running
+  until 1:15 PM.\nHost: BCM VOTES\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/267.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/267.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-168@local
 DTSTAMP:20261028T120117Z
 LAST-MODIFIED:20261028T120117Z
