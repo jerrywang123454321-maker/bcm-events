@@ -3241,6 +3241,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/221.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-262@local
+DTSTAMP:20261028T040038Z
+LAST-MODIFIED:20261028T040038Z
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+SUMMARY:Anatomy Buddies Lecture Series: Anatomy from Two Sides of the Chest
+STATUS:CONFIRMED
+LOCATION:N315 (flyer says Alkek N317)
+DESCRIPTION:Dr. Syed Peer (cardiothoracic surgery fellow) and Dr. Christine
+  Tang (diagnostic radiology resident) share patient cases and procedural w
+ alkthroughs with an anatomy emphasis — good prep for the anatomy practic
+ al and for sharpening X-ray reading. Abu Omar food provided.\nRSVP request
+ ed: https://docs.google.com/forms/d/e/1FAIpQLSeyzyjgiZdPlxE1gHE3uipXQcxIS3
+ IUbgwZMyGKDYz9QHaxKw/viewform?usp=header\nDetails: https://jerrywang123454
+ 321-maker.github.io/bcm-events/event/262.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/262.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-205@local
 DTSTAMP:20261027T120125Z
 LAST-MODIFIED:20261027T120125Z
@@ -3317,6 +3336,22 @@ DESCRIPTION:Medical Vietnamese ("Medical Viet") session hosted by McGovern
  aker.github.io/bcm-events/event/11.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/11.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-261@local
+DTSTAMP:20261028T040038Z
+LAST-MODIFIED:20261028T040038Z
+DTSTART:20261104T233000Z
+DTEND:20261105T013000Z
+SUMMARY:Student Clinical Skills Society: CSA Practice Workshop
+STATUS:CONFIRMED
+DESCRIPTION:Clinical skills assessment practice workshop for MS1s with MS2-
+ MS4 volunteers\, timed ahead of the next cardiopulmonary CSA. Spots are li
+ mited by space\, first come first served.\nHost: Student Clinical Skills S
+ ociety (SCSS)\nRSVP requested: https://forms.gle/uhDsiFHKgUmAb2VT7\nDetail
+ s: https://jerrywang123454321-maker.github.io/bcm-events/event/261.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/261.html
+CATEGORIES:Clinical / skills
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-251@local
@@ -3465,6 +3500,24 @@ DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
  454321-maker.github.io/bcm-events/event/162.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/162.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-263@local
+DTSTAMP:20261028T040038Z
+LAST-MODIFIED:20261028T040038Z
+DTSTART:20261111T000000Z
+DTEND:20261111T010000Z
+SUMMARY:Albert Schweitzer Fellowship: In-Person Info Session
+STATUS:CONFIRMED
+LOCATION:M323
+DESCRIPTION:Current fellows explain the Albert Schweitzer Fellowship\, a ye
+ ar-long program where you build your own community health service project 
+ with a partner organization\, with mentorship and $1\,000 in project fundi
+ ng. They'll describe their projects and answer questions. Applications ope
+ n in November and are due in February. Food available.\nDetails: https://j
+ errywang123454321-maker.github.io/bcm-events/event/263.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/263.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-257@local
