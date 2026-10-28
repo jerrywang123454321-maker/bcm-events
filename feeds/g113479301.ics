@@ -1713,20 +1713,20 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-262@local
-DTSTAMP:20261028T120117Z
-LAST-MODIFIED:20261028T120117Z
+DTSTAMP:20261028T160048Z
+LAST-MODIFIED:20261028T160048Z
 DTSTART:20261104T000000Z
 DTEND:20261104T010000Z
 SUMMARY:Anatomy Buddies Lecture Series: Anatomy from Two Sides of the Chest
 STATUS:CONFIRMED
-LOCATION:N315 (flyer says Alkek N317)
-DESCRIPTION:Dr. Syed Peer (cardiothoracic surgery fellow) and Dr. Christine
-  Tang (diagnostic radiology resident) share patient cases and procedural w
- alkthroughs with an anatomy emphasis — good prep for the anatomy practic
- al and for sharpening X-ray reading. Abu Omar food provided.\nRSVP request
- ed: https://docs.google.com/forms/d/e/1FAIpQLSeyzyjgiZdPlxE1gHE3uipXQcxIS3
- IUbgwZMyGKDYz9QHaxKw/viewform?usp=header\nDetails: https://jerrywang123454
- 321-maker.github.io/bcm-events/event/262.html
+LOCATION:Room N317
+DESCRIPTION:Room correction: the talk is in N317\, not N315. Dr. Peer (card
+ iothoracic fellow) and Dr. Tang (radiology) share patient cases and proced
+ ural walkthroughs with an anatomy emphasis — good prep for the anatomy p
+ ractical and X-ray reading. Abu Omar food will be served.\nRSVP requested:
+  https://docs.google.com/forms/d/e/1FAIpQLSeyzyjgiZdPlxE1gHE3uipXQcxIS3IUb
+ gwZMyGKDYz9QHaxKw/viewform?usp=header\nDetails: https://jerrywang123454321
+ -maker.github.io/bcm-events/event/262.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/262.html
 CATEGORIES:Student org
 END:VEVENT
