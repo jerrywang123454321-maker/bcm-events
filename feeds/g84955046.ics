@@ -25,4 +25,20 @@ DESCRIPTION:Applications for the BCM Running Club officer/leadership commit
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/176.html
 CATEGORIES:Deadline
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-272@local
+DTSTAMP:20261029T200034Z
+LAST-MODIFIED:20261029T200034Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:TX Med School Run Club Mileage Challenge: Sign-Up Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Last day to sign up for the inter-med-school mileage challenge 
+ (UTMB\, UTSW\, TCOM\, BCM\, McGovern\, TCU). Entry requires a $10 donation
+ \; sign up via the Google Form linked on the flyer QR code and in the chat
+ 's Google Doc.\nHost: BCM Running Club\nDetails: https://jerrywang12345432
+ 1-maker.github.io/bcm-events/event/272.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/272.html
+CATEGORIES:Deadline
+END:VEVENT
 END:VCALENDAR
