@@ -1505,8 +1505,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-220@local
-DTSTAMP:20261029T140127Z
-LAST-MODIFIED:20261029T140127Z
+DTSTAMP:20261029T180017Z
+LAST-MODIFIED:20261029T180017Z
 DTSTART:20261029T180000Z
 DTEND:20261029T190000Z
 SUMMARY:Academic Medicine Collaborative: Breaking into Medical Education Re
@@ -1517,9 +1517,9 @@ DESCRIPTION:Virtual session with faculty advisor Dr. Peter Boedeker on gett
  ing started in medical education research: research goals\, examples of pr
  ojects students may encounter\, and best practices. Teams link to be share
  d the week before\; submit specific questions with your RSVP.\nHost: Acade
- mic Medicine Collaborative\nRSVP requested: https://forms.gle/oqaxcMAPhDaw
- YH3i6\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
- t/220.html
+ mic Medicine Collaborative\nRSVP requested by Thu Oct 29\, 1:00 PM: https:
+ //forms.gle/oqaxcMAPhDawYH3i6\nOnline option: link in the group chat.\nDet
+ ails: https://jerrywang123454321-maker.github.io/bcm-events/event/220.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/220.html
 CATEGORIES:Student org
 END:VEVENT
