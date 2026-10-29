@@ -10,20 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-12@local
-DTSTAMP:20260916T170238Z
-LAST-MODIFIED:20260916T170238Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:APAMSA Big/Little/Family Pairing Sign-Up Deadline
-STATUS:CONFIRMED
-DESCRIPTION:Fill out the form if you want to take part in APAMSA's big/litt
- le/family pairings.\nHost: APAMSA @ BCM\nDetails: https://jerrywang1234543
- 21-maker.github.io/bcm-events/event/12.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/12.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-79@local
 DTSTAMP:20261003T180044Z
 LAST-MODIFIED:20261003T180044Z
@@ -119,8 +105,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-160@local
-DTSTAMP:20261028T120117Z
-LAST-MODIFIED:20261028T120117Z
+DTSTAMP:20261029T140127Z
+LAST-MODIFIED:20261029T140127Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:APAMSA LOTUSES: Advocacy Through Storytelling Scholarship — Submi
@@ -138,8 +124,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-11@local
-DTSTAMP:20261028T120117Z
-LAST-MODIFIED:20261028T120117Z
+DTSTAMP:20261029T140127Z
+LAST-MODIFIED:20261029T140127Z
 DTSTART:20261104T230000Z
 DTEND:20261105T000000Z
 SUMMARY:McGovern APAMSA: Medical Vietnamese Session
@@ -156,8 +142,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-56@local
-DTSTAMP:20261028T120117Z
-LAST-MODIFIED:20261028T120117Z
+DTSTAMP:20261029T140127Z
+LAST-MODIFIED:20261029T140127Z
 DTSTART:20261110T160000Z
 DTEND:20261110T180000Z
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
@@ -175,8 +161,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-265@local
-DTSTAMP:20261028T180112Z
-LAST-MODIFIED:20261028T180112Z
+DTSTAMP:20261029T140129Z
+LAST-MODIFIED:20261029T140129Z
 DTSTART:20261110T160000Z
 DTEND:20261110T170000Z
 SUMMARY:APAMSA x Medical Mandarin: ESL Health Workshop at the Chinese Commu
@@ -187,18 +173,17 @@ DESCRIPTION:Volunteer with APAMSA and the Medical Mandarin Language Club to
   teach and practice English with adult beginner ESL students\, supporting 
  them in navigating English healthcare scenarios. Worth +1 SLP point\; some
   Chinese fluency is needed since participants are beginner English student
- s. If there is enough interest\, a prep Medical Mandarin club meeting (+1 
- SLP education point) may be held beforehand.\nHost: APAMSA & Medical Manda
- rin Language Club\nRSVP requested: https://forms.gle/LpcqQKmKXZuC6cy16\nDe
- tails: https://jerrywang123454321-maker.github.io/bcm-events/event/265.htm
- l
+ s. A prep Medical Mandarin club meeting (+1 SLP education point) is set fo
+ r Monday\, November 9.\nHost: APAMSA & Medical Mandarin Language Club\nRSV
+ P requested: https://forms.gle/LpcqQKmKXZuC6cy16\nDetails: https://jerrywa
+ ng123454321-maker.github.io/bcm-events/event/265.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/265.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-57@local
-DTSTAMP:20261028T120117Z
-LAST-MODIFIED:20261028T120117Z
+DTSTAMP:20261029T140127Z
+LAST-MODIFIED:20261029T140127Z
 DTSTART:20261208T160000Z
 DTEND:20261208T180000Z
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
