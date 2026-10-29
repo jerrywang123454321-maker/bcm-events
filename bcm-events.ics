@@ -3366,6 +3366,21 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/244.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-269@local
+DTSTAMP:20261029T000032Z
+LAST-MODIFIED:20261029T000032Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Medical Mandarin Club Meeting: ESL Workshop Prep
+STATUS:CONFIRMED
+DESCRIPTION:Medical Mandarin club meeting to prepare for the Nov 10 ESL Hea
+ lth Workshop at the Chinese Community Center. Worth +1 SLP education point
+ .\nTime not announced yet.\nHost: Medical Mandarin Language Club\nDetails:
+  https://jerrywang123454321-maker.github.io/bcm-events/event/269.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/269.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-252@local
 DTSTAMP:20261028T120117Z
 LAST-MODIFIED:20261028T120117Z
