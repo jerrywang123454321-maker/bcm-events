@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-77@local
-DTSTAMP:20260929T160043Z
-LAST-MODIFIED:20260929T160043Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Dream Outside the Box: Volunteering Session (Slime Activity)
-STATUS:CONFIRMED
-DESCRIPTION:Today's Dream Outside the Box session is a slime activity. Walk
- -ins welcome even without prior sign-up — just bring your ID.\nHost: Dre
- am Outside the Box\nRSVP requested by Sun Sep 27\, 11:59 PM: https://forms
- .gle/W5FjJohfm75ZhhsK9\nDetails: https://jerrywang123454321-maker.github.i
- o/bcm-events/event/77.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/77.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-73@local
 DTSTAMP:20261004T130326Z
 LAST-MODIFIED:20261004T130326Z
@@ -121,8 +105,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-273@local
-DTSTAMP:20261030T040025Z
-LAST-MODIFIED:20261030T040025Z
+DTSTAMP:20261030T121048Z
+LAST-MODIFIED:20261030T121048Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Dream Outside the Box: Volunteering at MacGregor
