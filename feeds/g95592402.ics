@@ -119,4 +119,22 @@ DESCRIPTION:Weekly after-school volunteering session with kids at MacGregor
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/242.html
 CATEGORIES:Student org
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-273@local
+DTSTAMP:20261030T040025Z
+LAST-MODIFIED:20261030T040025Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Dream Outside the Box: Volunteering at MacGregor
+STATUS:CONFIRMED
+DESCRIPTION:Weekly Dream Outside the Box volunteering session with kids\; s
+ ign up via the Google Form by Sunday night. Recent sessions have run about
+  an hour in the afternoon (the 10/27 session was 3:15-4:15 PM at MacGregor
+ )\, with a hands-on activity flyer shared the morning of.\nTime not announ
+ ced yet.\nHost: Dream Outside the Box\nRSVP requested by Sun Nov 1\, 11:59
+  PM: https://forms.gle/Wmeirxc2JpaP2bDS9\nDetails: https://jerrywang123454
+ 321-maker.github.io/bcm-events/event/273.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/273.html
+CATEGORIES:Service / volunteering
+END:VEVENT
 END:VCALENDAR
