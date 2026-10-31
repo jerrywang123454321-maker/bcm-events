@@ -11,24 +11,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-44@local
-DTSTAMP:20261001T190355Z
-LAST-MODIFIED:20261001T190355Z
-DTSTART:20260930T170000Z
-DTEND:20260930T180000Z
-SUMMARY:AIMS: Introductory Meeting
-STATUS:CONFIRMED
-LOCATION:Room M321
-DESCRIPTION:Intro to BCM AI in Medicine Society\, ways to get involved\, an
- d plans for the year. Featured speaker is Dr. Jennifer Benjamin (AI in Edu
- cation)\, the AIMS faculty sponsor.\nHost: BCM AIMS: Artificial Intelligen
- ce in Medicine Society\nRSVP requested by Fri Sep 25\, 11:59 PM: https://f
- orms.gle/KizxYtkmkDkwi5MH9\nDetails: https://jerrywang123454321-maker.gith
- ub.io/bcm-events/event/44.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/44.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-110@local
 DTSTAMP:20261027T000045Z
 LAST-MODIFIED:20261027T000045Z
