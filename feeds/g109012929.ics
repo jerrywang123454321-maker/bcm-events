@@ -142,4 +142,21 @@ DESCRIPTION:Weekly pick-up soccer with the Baylor Soccer group. Organizers
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/258.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-274@local
+DTSTAMP:20261101T001207Z
+LAST-MODIFIED:20261101T001207Z
+DTSTART:20261102T230000Z
+DTEND:20261103T000000Z
+SUMMARY:Baylor Soccer Club: Pick-Up Soccer
+STATUS:CONFIRMED
+LOCATION:Helix Park (isolated field)
+DESCRIPTION:Pick-up soccer with the Baylor soccer club. The group expects t
+ o use the isolated field since a club team has the two back-to-back fields
+  reserved\; the field may change day of\, so watch the chat.\nHost: Baylor
+  Soccer Club\nDetails: https://jerrywang123454321-maker.github.io/bcm-even
+ ts/event/274.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/274.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR

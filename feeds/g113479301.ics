@@ -1556,16 +1556,18 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-133@local
-DTSTAMP:20261031T120131Z
-LAST-MODIFIED:20261031T120131Z
+DTSTAMP:20261101T001206Z
+LAST-MODIFIED:20261101T001206Z
 DTSTART:20261104T000000Z
 DTEND:20261104T010000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
 DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
- tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
- 454321-maker.github.io/bcm-events/event/133.html
+ tting dark earlier.\nHost: BCM Running Club\nRSVP requested by Sun Nov 1\,
+  11:59 PM: https://docs.google.com/forms/d/e/1FAIpQLSflh-9H_nBOQXzABCrgz_3
+ RWNzcT1homB5WVbtgrASCTgRJeQ/viewform\nDetails: https://jerrywang123454321-
+ maker.github.io/bcm-events/event/133.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/133.html
 CATEGORIES:Wellness
 END:VEVENT

@@ -25,4 +25,23 @@ DESCRIPTION:Informal climbing meetup organized through the COAG "Going Clim
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/241.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-275@local
+DTSTAMP:20261101T001208Z
+LAST-MODIFIED:20261101T001208Z
+DTSTART:20261106T230000Z
+DTEND:20261107T010000Z
+SUMMARY:BCM COAG Climb Night at Momentum Indoor Climbing
+STATUS:CONFIRMED
+LOCATION:Momentum Indoor Climbing\, 1401 Silver St\, Houston\, TX 77007
+DESCRIPTION:COAG climb night\, all levels welcome. Free climbing for the fi
+ rst 20 people who sign up\; otherwise you can buy a day pass. Momentum mem
+ bers should sign up in the right-hand column of the sheet\, and everyone s
+ hould sign the Momentum waiver beforehand.\nHost: BCM Climbing and Outdoor
+  Adventure Group (COAG)\nRSVP requested: https://docs.google.com/spreadshe
+ ets/d/1WbInq366xbPfqY7L4pYzoZkNFGLvozfG3TQp1Y0NL8M/edit?gid=0#gid=0\nDetai
+ ls: https://jerrywang123454321-maker.github.io/bcm-events/event/275.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/275.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR
