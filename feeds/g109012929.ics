@@ -10,23 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-96@local
-DTSTAMP:20261001T190629Z
-LAST-MODIFIED:20261001T190629Z
-DTSTART:20261001T224500Z
-DTEND:20261001T234500Z
-SUMMARY:Baylor Soccer: Thursday Pickup Game
-STATUS:CONFIRMED
-LOCATION:Main Helix fields
-DESCRIPTION:Casual weekly Thursday soccer pickup game on the main Helix fie
- lds. Organizers say the game is on even if it rains. Anyone can drop in\; 
- bring cleats and both a light and dark shirt if you have them.\nHost: Bayl
- or Soccer\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
- event/96.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/96.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-130@local
 DTSTAMP:20261007T160151Z
 LAST-MODIFIED:20261007T160151Z
@@ -144,8 +127,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-274@local
-DTSTAMP:20261101T001207Z
-LAST-MODIFIED:20261101T001207Z
+DTSTAMP:20261101T130636Z
+LAST-MODIFIED:20261101T130636Z
 DTSTART:20261102T230000Z
 DTEND:20261103T000000Z
 SUMMARY:Baylor Soccer Club: Pick-Up Soccer
