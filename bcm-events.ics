@@ -3010,6 +3010,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/271.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-279@local
+DTSTAMP:20261102T190031Z
+LAST-MODIFIED:20261102T190031Z
+DTSTART:20261106T000000Z
+DTEND:20261106T010000Z
+SUMMARY:IMIG: Acid/Base Case Review Workshop with Dr. Bryan Tucker
+STATUS:CONFIRMED
+LOCATION:M321
+DESCRIPTION:Internal Medicine Interest Group review session with Dr. Bryan 
+ Tucker covering high-yield acid/base concepts and practice problems ahead 
+ of the next exam. Free food for those who RSVP.\nHost: Internal Medicine I
+ nterest Group (IMIG)\nRSVP requested: https://docs.google.com/forms/d/e/1F
+ AIpQLSd7jMAZ8w-XudK2stT8XYa__uYMpZ6ZvLXlE9Z8k9ZQCNtTFw/viewform\nDetails: 
+ https://jerrywang123454321-maker.github.io/bcm-events/event/279.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/279.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-275@local
 DTSTAMP:20261102T130342Z
 LAST-MODIFIED:20261102T130342Z
@@ -3030,19 +3048,18 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-180@local
-DTSTAMP:20261102T130342Z
-LAST-MODIFIED:20261102T130342Z
-DTSTART:20261107T020000Z
-DTEND:20261107T040000Z
+DTSTAMP:20261102T190030Z
+LAST-MODIFIED:20261102T190030Z
+DTSTART:20261107T030000Z
+DTEND:20261107T050000Z
 SUMMARY:BCM x McGovern Mixer at Kirby Ice House
 STATUS:CONFIRMED
 LOCATION:Kirby Ice House\, 3333 Eastside St\, Houston\, TX 77098
-DESCRIPTION:Social mixer between Baylor College of Medicine and McGovern Me
- dical School students\, held after the third CRR exam. Drinks and a chance
-  to meet students from across the street\; note there are multiple Kirby I
- ce House locations\, so go to the Eastside St one.\nHost: BCM '30 Socials 
- (BCM x McGovern Medical School)\nDetails: https://jerrywang123454321-maker
- .github.io/bcm-events/event/180.html
+DESCRIPTION:Social mixer with McGovern students after the third CRR exam\; 
+ time moved from 8-10pm to 9-11pm. Make sure to go to the correct Kirby Ice
+  House location\; a pre-party beforehand was floated in the chat.\nHost: B
+ CM Class of 2030 Socials\nDetails: https://jerrywang123454321-maker.github
+ .io/bcm-events/event/180.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/180.html
 CATEGORIES:Social
 END:VEVENT
