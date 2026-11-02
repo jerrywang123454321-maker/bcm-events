@@ -1537,16 +1537,17 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-133@local
-DTSTAMP:20261101T130639Z
-LAST-MODIFIED:20261101T130639Z
-DTSTART:20261104T000000Z
-DTEND:20261104T010000Z
+DTSTAMP:20261102T020041Z
+LAST-MODIFIED:20261102T020041Z
+DTSTART:20261103T230000Z
+DTEND:20261104T000000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
-DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
- tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
- 454321-maker.github.io/bcm-events/event/133.html
+DESCRIPTION:Weekly Monday run club\, moved up from 6pm to 5pm because of th
+ e end of daylight saving time. Drop-in\; runners and walkers of all paces 
+ welcome.\nHost: BCM Running Club\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/133.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/133.html
 CATEGORIES:Wellness
 END:VEVENT
@@ -1721,16 +1722,17 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-162@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
-DTSTART:20261111T000000Z
-DTEND:20261111T010000Z
+DTSTAMP:20261102T020042Z
+LAST-MODIFIED:20261102T020042Z
+DTSTART:20261110T230000Z
+DTEND:20261111T000000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
-DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
- tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
- 454321-maker.github.io/bcm-events/event/162.html
+DESCRIPTION:Weekly Monday run club at Hermann Park\, now starting at 5pm in
+ stead of 6pm after the daylight saving time change.\nHost: BCM Running Clu
+ b\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/16
+ 2.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/162.html
 CATEGORIES:Wellness
 END:VEVENT
@@ -1815,31 +1817,33 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-193@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
-DTSTART:20261118T000000Z
-DTEND:20261118T010000Z
+DTSTAMP:20261102T020043Z
+LAST-MODIFIED:20261102T020043Z
+DTSTART:20261117T230000Z
+DTEND:20261118T000000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
-DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
- tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
- 454321-maker.github.io/bcm-events/event/193.html
+DESCRIPTION:Weekly Monday run club at Hermann Park\, now starting at 5pm in
+ stead of 6pm after the daylight saving time change.\nHost: BCM Running Clu
+ b\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/19
+ 3.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/193.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-236@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
-DTSTART:20261125T000000Z
-DTEND:20261125T010000Z
+DTSTAMP:20261102T020043Z
+LAST-MODIFIED:20261102T020043Z
+DTSTART:20261124T230000Z
+DTEND:20261125T000000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
-DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
- tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
- 454321-maker.github.io/bcm-events/event/236.html
+DESCRIPTION:Weekly Monday run club at Hermann Park\, now starting at 5pm in
+ stead of 6pm after the daylight saving time change.\nHost: BCM Running Clu
+ b\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/23
+ 6.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/236.html
 CATEGORIES:Wellness
 END:VEVENT

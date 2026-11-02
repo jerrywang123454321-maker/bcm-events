@@ -57,4 +57,19 @@ DESCRIPTION:Casual Monday indoor volleyball pickup with classmates. This we
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/224.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-276@local
+DTSTAMP:20261102T020044Z
+LAST-MODIFIED:20261102T020044Z
+DTSTART:20261103T003000Z
+DTEND:20261103T013000Z
+SUMMARY:BCM Indoor Volleyball (Monday Pick-Up)
+STATUS:CONFIRMED
+DESCRIPTION:Casual indoor volleyball pick-up for the BCM Monday volleyball 
+ group. Start time varies week to week (recent weeks were 5:30 pm)\; people
+  often trickle in later.\nHost: BCM Volleyball (Monday group)\nDetails: ht
+ tps://jerrywang123454321-maker.github.io/bcm-events/event/276.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/276.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR
