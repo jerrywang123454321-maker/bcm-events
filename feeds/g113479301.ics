@@ -10,94 +10,9 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-94@local
-DTSTAMP:20261002T183107Z
-LAST-MODIFIED:20261002T183107Z
-DTSTART:20261002T210000Z
-DTEND:20261003T020000Z
-SUMMARY:Cabo Bob's Profit Share Fundraiser (Med Prom & Socials)
-STATUS:CONFIRMED
-LOCATION:Cabo Bob's\, 1810 Fountain View Dr\, Houston\, TX 77057
-DESCRIPTION:34% of proceeds go toward med prom and socials. You MUST show t
- he flyer at checkout and say you're part of the BCM profit share. Also a s
- quad competition — the squad with the most attendees gets extra money fo
- r the year toward food/activities. Bring MS2 parents and friends.\nHost: B
- CM Class of '30 Med Prom & Socials Committee\nDetails: https://jerrywang12
- 3454321-maker.github.io/bcm-events/event/94.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/94.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-93@local
-DTSTAMP:20261002T220017Z
-LAST-MODIFIED:20261002T220017Z
-DTSTART:20261002T220000Z
-DTEND:20261003T000000Z
-SUMMARY:BCM COAG: Climbing Social
-STATUS:CONFIRMED
-LOCATION:Momentum Silver Street
-DESCRIPTION:Climbing and Outdoor Adventure Group social at Momentum Silver 
- Street\; all levels welcome\, and the first 20 sign-ups climb for free.\nH
- ost: BCM COAG (Climbing and Outdoor Adventure Group)\nRSVP requested: http
- s://docs.google.com/spreadsheets/d/1H8HCCl8ufKgn1NLcJKOD-gCDC4hII7qk2ZV6CR
- py6rU/edit?usp=sharing\nDetails: https://jerrywang123454321-maker.github.i
- o/bcm-events/event/93.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/93.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-59@local
-DTSTAMP:20261002T120135Z
-LAST-MODIFIED:20261002T120135Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Research Survey on Confidence & Self-Efficacy in Research: Closing 
- Date (Extended)
-STATUS:CONFIRMED
-DESCRIPTION:Survey on self-efficacy and research\, takes about 3 minutes. D
- eadline extended by one week from the original September 25 closing date\;
-  link was shared as an Outlook safelinks URL in the chat.\nDetails: https:
- //jerrywang123454321-maker.github.io/bcm-events/event/59.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/59.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-61@local
-DTSTAMP:20261002T120135Z
-LAST-MODIFIED:20261002T120135Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Anki Challenge: Video Clip Submission Deadline (Extended)
-STATUS:CONFIRMED
-DESCRIPTION:Deadline extended to October 2nd after Student Affairs increase
- d the prize pool: $100/$50/$25 gift cards for 1st/2nd/3rd place plus $150 
- toward a PRN hangout for the PRN with the best collection of highlights. S
- ubmissions must be VIDEO CLIPS\, not screenshots — unedited funny or imp
- ressive Anki moments are fine.\nHost: BCM Student Affairs\nDetails: https:
- //jerrywang123454321-maker.github.io/bcm-events/event/61.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/61.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-106@local
-DTSTAMP:20261002T120135Z
-LAST-MODIFIED:20261002T120135Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:When Medicine Gets It Wrong Elective: Add/Drop Deadline
-STATUS:CONFIRMED
-DESCRIPTION:Last day to add or drop the new MS1/MS2 elective 'When Medicine
-  Gets It Wrong\,' which covers how medicine arrives at standard of care\, 
- publishing stronger papers\, and topics such as the opioid epidemic.\nHost
- : When Medicine Gets It Wrong Elective (MS1/MS2 elective)\nDetails: https:
- //jerrywang123454321-maker.github.io/bcm-events/event/106.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/106.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-158@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Street Medicine Student Coalition: Clothing Drive
@@ -1517,8 +1432,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-260@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261102T230000Z
 DTEND:20261103T000000Z
 SUMMARY:Pathology Interest Group: Forensic Pathology Panel
@@ -1537,24 +1452,24 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-133@local
-DTSTAMP:20261102T020041Z
-LAST-MODIFIED:20261102T020041Z
+DTSTAMP:20261102T130344Z
+LAST-MODIFIED:20261102T130344Z
 DTSTART:20261103T230000Z
 DTEND:20261104T000000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
-DESCRIPTION:Weekly Monday run club\, moved up from 6pm to 5pm because of th
- e end of daylight saving time. Drop-in\; runners and walkers of all paces 
- welcome.\nHost: BCM Running Club\nDetails: https://jerrywang123454321-make
- r.github.io/bcm-events/event/133.html
+DESCRIPTION:Weekly Tuesday run club\, moved up from 6pm to 5pm because of t
+ he end of daylight saving time. Drop-in\; runners and walkers of all paces
+  welcome.\nHost: BCM Running Club\nDetails: https://jerrywang123454321-mak
+ er.github.io/bcm-events/event/133.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/133.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-221@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261104T000000Z
 DTEND:20261104T010000Z
 SUMMARY:Physicians for Human Rights: Narrative Advocacy with Dr. Lindy McGe
@@ -1575,8 +1490,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-262@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261104T000000Z
 DTEND:20261104T010000Z
 SUMMARY:Anatomy Buddies Lecture Series: Anatomy from Two Sides of the Chest
@@ -1594,8 +1509,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-261@local
-DTSTAMP:20261102T050530Z
-LAST-MODIFIED:20261102T050530Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261104T233000Z
 DTEND:20261105T013000Z
 SUMMARY:Student Clinical Skills Society: CSA Practice Workshop
@@ -1610,8 +1525,8 @@ CATEGORIES:Clinical / skills
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-271@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261106T000000Z
 DTEND:20261106T010000Z
 SUMMARY:HPAIV & Psych Minded: Human Trafficking Recognition & Prevention in
@@ -1629,8 +1544,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-180@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261107T020000Z
 DTEND:20261107T040000Z
 SUMMARY:BCM x McGovern Mixer at Kirby Ice House
@@ -1647,8 +1562,8 @@ CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-244@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:2027 Matthew Carter Service Day Committee: Application Deadline
@@ -1665,8 +1580,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-269@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Medical Mandarin Club Meeting: ESL Workshop Prep
@@ -1680,8 +1595,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-252@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261109T180000Z
 DTEND:20261109T190000Z
 SUMMARY:Association of Women Surgeons: Suture Workshop (Session 2) with Dr.
@@ -1703,8 +1618,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-119@local
-DTSTAMP:20261102T030022Z
-LAST-MODIFIED:20261102T030022Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261110T000000Z
 DTEND:20261110T013000Z
 SUMMARY:BCM LIVE: Student Talent & Performance Show
@@ -1721,24 +1636,24 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-162@local
-DTSTAMP:20261102T020042Z
-LAST-MODIFIED:20261102T020042Z
+DTSTAMP:20261102T130345Z
+LAST-MODIFIED:20261102T130345Z
 DTSTART:20261110T230000Z
 DTEND:20261111T000000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
-DESCRIPTION:Weekly Monday run club at Hermann Park\, now starting at 5pm in
- stead of 6pm after the daylight saving time change.\nHost: BCM Running Clu
- b\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/16
- 2.html
+DESCRIPTION:Weekly Tuesday run club at Hermann Park\, now starting at 5pm i
+ nstead of 6pm after the daylight saving time change.\nHost: BCM Running Cl
+ ub\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/1
+ 62.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/162.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-263@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261111T000000Z
 DTEND:20261111T010000Z
 SUMMARY:Albert Schweitzer Fellowship: In-Person Info Session
@@ -1755,8 +1670,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-257@local
-DTSTAMP:20261101T150014Z
-LAST-MODIFIED:20261101T150014Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261111T233000Z
 DTEND:20261112T020000Z
 SUMMARY:IMIG: 11th Annual Internal Medicine Subspecialty Mixer
@@ -1774,8 +1689,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-247@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261114T150000Z
 DTEND:20261114T210000Z
 SUMMARY:GHIG Community Health Fair with Amaanah Refugee Services
@@ -1796,8 +1711,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-243@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261116T230000Z
 DTEND:20261117T020000Z
 SUMMARY:BCM Well-Being Center: Pickleball Tournament
@@ -1816,55 +1731,55 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-193@local
-DTSTAMP:20261102T020043Z
-LAST-MODIFIED:20261102T020043Z
+DTSTAMP:20261102T130346Z
+LAST-MODIFIED:20261102T130346Z
 DTSTART:20261117T230000Z
 DTEND:20261118T000000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
-DESCRIPTION:Weekly Monday run club at Hermann Park\, now starting at 5pm in
- stead of 6pm after the daylight saving time change.\nHost: BCM Running Clu
- b\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/19
- 3.html
+DESCRIPTION:Weekly Tuesday run club at Hermann Park\, now starting at 5pm i
+ nstead of 6pm after the daylight saving time change.\nHost: BCM Running Cl
+ ub\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/1
+ 93.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/193.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-236@local
-DTSTAMP:20261102T020043Z
-LAST-MODIFIED:20261102T020043Z
+DTSTAMP:20261102T130347Z
+LAST-MODIFIED:20261102T130347Z
 DTSTART:20261124T230000Z
 DTEND:20261125T000000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
-DESCRIPTION:Weekly Monday run club at Hermann Park\, now starting at 5pm in
- stead of 6pm after the daylight saving time change.\nHost: BCM Running Clu
- b\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/23
- 6.html
+DESCRIPTION:Weekly Tuesday run club at Hermann Park\, now starting at 5pm i
+ nstead of 6pm after the daylight saving time change.\nHost: BCM Running Cl
+ ub\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/2
+ 36.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/236.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-264@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
-DTSTART:20261202T000000Z
-DTEND:20261202T010000Z
+DTSTAMP:20261102T130349Z
+LAST-MODIFIED:20261102T130349Z
+DTSTART:20261201T230000Z
+DTEND:20261202T000000Z
 SUMMARY:BCM Run Club
 STATUS:CONFIRMED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
-DESCRIPTION:Weekly Tuesday group run. Moved from 7pm to 6pm because it's ge
- tting dark earlier.\nHost: BCM Running Club\nDetails: https://jerrywang123
- 454321-maker.github.io/bcm-events/event/264.html
+DESCRIPTION:Weekly Tuesday group run at Hermann Park. Start time moved up t
+ o 5pm after the end of daylight saving time.\nHost: BCM Running Club\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/264.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/264.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-102@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Dean's Distinction in High Value Care: MS1 Sign-Up Deadline
@@ -1881,8 +1796,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-234@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
 DTSTART:20261215T180000Z
 DTEND:20261215T190000Z
 SUMMARY:The Power of Music in Medicine with Dr. Alexander Pantelyat
@@ -1899,5 +1814,24 @@ DESCRIPTION:Dr. Alexander Pantelyat\, MD\, associate professor of neurology
  -events/event/234.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/234.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-270@local
+DTSTAMP:20261102T130342Z
+LAST-MODIFIED:20261102T130342Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:BCM Medical Student Review: Spring 2027 Issue Submission Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Baylor's student journal is accepting original research\, revie
+ ws\, editorials\, letters\, narrative medicine pieces\, and artwork for th
+ e Spring 2027 issue\; all submissions go through double-blind peer review.
+  Open to medical students and trainees at all levels and all specialties\,
+  with a current special edition for Ortho\, Gen Surg\, Ophtho\, and Derm. 
+ Submit through the Google form linked in the chat.\nHost: BCM Medical Stud
+ ent Review\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
+ /event/270.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/270.html
+CATEGORIES:Deadline
 END:VEVENT
 END:VCALENDAR
