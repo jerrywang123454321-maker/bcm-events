@@ -3027,8 +3027,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-261@local
-DTSTAMP:20261101T130636Z
-LAST-MODIFIED:20261101T130636Z
+DTSTAMP:20261102T050530Z
+LAST-MODIFIED:20261102T050530Z
 DTSTART:20261104T233000Z
 DTEND:20261105T013000Z
 SUMMARY:Student Clinical Skills Society: CSA Practice Workshop
@@ -3040,6 +3040,22 @@ DESCRIPTION:Clinical skills assessment practice workshop for MS1s with MS2-
  s: https://jerrywang123454321-maker.github.io/bcm-events/event/261.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/261.html
 CATEGORIES:Clinical / skills
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-278@local
+DTSTAMP:20261102T050545Z
+LAST-MODIFIED:20261102T050545Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:BCM Ambassadors Open House (11/14): Sign-Up Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Deadline to add your name (as volunteer or backup) to the BCM A
+ mbassadors open house sign-up sheet for the November 14 Houston campus ope
+ n house\, or to remove your name if you can no longer attend. Those alread
+ y signed up should add dietary restrictions.\nHost: BCM Ambassadors\nDetai
+ ls: https://jerrywang123454321-maker.github.io/bcm-events/event/278.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/278.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-251@local
@@ -3299,6 +3315,25 @@ DESCRIPTION:Meet over 40 faculty from 13 Internal Medicine subspecialties\,
  events/event/257.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/257.html
 CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-277@local
+DTSTAMP:20261102T050545Z
+LAST-MODIFIED:20261102T050545Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:BCM Ambassadors: Houston Campus Open House
+STATUS:CONFIRMED
+DESCRIPTION:Next Houston campus open house for prospective students\, staff
+ ed by BCM Ambassadors. Add your name to the open house sign-up sheet to vo
+ lunteer or be a backup\, remove your name if you can no longer attend\, an
+ d include any dietary restrictions. No start time was given in the chat.\n
+ Host: BCM Ambassadors\nRSVP requested by Wed Nov 4\, 11:59 PM: https://doc
+ s.google.com/spreadsheets/d/1HXDCvOjqp0jh01i2Y0HGvWx9GbRo4n_1sux4Ef_7eRY/e
+ dit?gid=1879049215#gid=1879049215\nDetails: https://jerrywang123454321-mak
+ er.github.io/bcm-events/event/277.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/277.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-247@local
