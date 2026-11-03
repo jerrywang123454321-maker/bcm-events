@@ -2731,25 +2731,6 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/276.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-273@local
-DTSTAMP:20261103T133222Z
-LAST-MODIFIED:20261103T133222Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Dream Outside the Box: Volunteering at MacGregor
-STATUS:CONFIRMED
-LOCATION:MacGregor
-DESCRIPTION:Weekly Dream Outside the Box volunteering session with kids\; s
- ign up via the Google Form by Sunday night. Recent sessions have run about
-  an hour in the afternoon (the 10/27 session was 3:15-4:15 PM at MacGregor
- )\, with a hands-on activity flyer shared the morning of.\nHost: Dream Out
- side the Box\nRSVP requested by Sun Nov 1\, 11:59 PM: https://forms.gle/Wm
- eirxc2JpaP2bDS9\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
- vents/event/273.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/273.html
-CATEGORIES:Service / volunteering
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-49@local
 DTSTAMP:20261103T133221Z
 LAST-MODIFIED:20261103T133221Z
@@ -2765,6 +2746,31 @@ DESCRIPTION:Joint squad volunteering event packing lunches\, which also ear
  s/event/49.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/49.html
 CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-273@local
+DTSTAMP:20261103T170103Z
+LAST-MODIFIED:20261103T170103Z
+DTSTART:20261103T211500Z
+DTEND:20261103T221500Z
+SUMMARY:Dream Outside the Box: Election Day Volunteering at MacGregor
+STATUS:CONFIRMED
+LOCATION:MacGregor (cafeteria\, or library if the cafeteria is split for vo
+ ting)
+DESCRIPTION:Election Day session: kids act as election workers\, make voter
+  ID cards\, hear candidate speeches\, vote by secret ballot for a class ma
+ scot\, then tally the results and sign a certificate. Schedule: 3:15 welco
+ me/table talk\, 3:25 meet the candidates\, 3:35 vote\, 3:50 count\, 4:00 c
+ elebrate and clean up (out by 4:15). Volunteers set up before 3:15 (one vo
+ lunteer per station plus a lead: posters\, ballot boxes\, booth and pencil
+ \, 16 ballots and a voters list per station\, tally board)\; keep it nonpa
+ rtisan\, no real candidates or parties. MacGregor is a real polling place 
+ today\, so arrive a few minutes early for parking.\nHost: Dream Outside th
+ e Box\nRSVP requested by Sun Nov 1\, 11:59 PM: https://forms.gle/Wmeirxc2J
+ paP2bDS9\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
+ vent/273.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/273.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-133@local
@@ -2973,8 +2979,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-279@local
-DTSTAMP:20261103T133221Z
-LAST-MODIFIED:20261103T133221Z
+DTSTAMP:20261103T170035Z
+LAST-MODIFIED:20261103T170035Z
 DTSTART:20261106T000000Z
 DTEND:20261106T010000Z
 SUMMARY:IMIG: Acid/Base Case Review Workshop with Dr. Bryan Tucker
@@ -2988,6 +2994,23 @@ DESCRIPTION:Internal Medicine Interest Group review session with Dr. Bryan
  https://jerrywang123454321-maker.github.io/bcm-events/event/279.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/279.html
 CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-283@local
+DTSTAMP:20261103T170103Z
+LAST-MODIFIED:20261103T170103Z
+DTSTART:20261106T183000Z
+DTEND:20261106T210000Z
+SUMMARY:AMA-MSS I-26 Poster Showcase: Volunteers Needed
+STATUS:CONFIRMED
+DESCRIPTION:AMA-MSS needs 5 student volunteers to help run the poster showc
+ ase at the I-26 Interim Meeting. Described as a good way to meet people\, 
+ and volunteers are offered two official NBME USMLE Step 1 or Step 2 practi
+ ce exam vouchers. Reach out ASAP to the MSS Vice Chair by DM or text to cl
+ aim a spot.\nHost: AMA-MSS\nRSVP requested\nDetails: https://jerrywang1234
+ 54321-maker.github.io/bcm-events/event/283.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/283.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-275@local

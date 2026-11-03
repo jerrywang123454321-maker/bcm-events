@@ -105,21 +105,27 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-273@local
-DTSTAMP:20261103T133222Z
-LAST-MODIFIED:20261103T133222Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Dream Outside the Box: Volunteering at MacGregor
+DTSTAMP:20261103T170103Z
+LAST-MODIFIED:20261103T170103Z
+DTSTART:20261103T211500Z
+DTEND:20261103T221500Z
+SUMMARY:Dream Outside the Box: Election Day Volunteering at MacGregor
 STATUS:CONFIRMED
-LOCATION:MacGregor
-DESCRIPTION:Weekly Dream Outside the Box volunteering session with kids\; s
- ign up via the Google Form by Sunday night. Recent sessions have run about
-  an hour in the afternoon (the 10/27 session was 3:15-4:15 PM at MacGregor
- )\, with a hands-on activity flyer shared the morning of.\nHost: Dream Out
- side the Box\nRSVP requested by Sun Nov 1\, 11:59 PM: https://forms.gle/Wm
- eirxc2JpaP2bDS9\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
- vents/event/273.html
+LOCATION:MacGregor (cafeteria\, or library if the cafeteria is split for vo
+ ting)
+DESCRIPTION:Election Day session: kids act as election workers\, make voter
+  ID cards\, hear candidate speeches\, vote by secret ballot for a class ma
+ scot\, then tally the results and sign a certificate. Schedule: 3:15 welco
+ me/table talk\, 3:25 meet the candidates\, 3:35 vote\, 3:50 count\, 4:00 c
+ elebrate and clean up (out by 4:15). Volunteers set up before 3:15 (one vo
+ lunteer per station plus a lead: posters\, ballot boxes\, booth and pencil
+ \, 16 ballots and a voters list per station\, tally board)\; keep it nonpa
+ rtisan\, no real candidates or parties. MacGregor is a real polling place 
+ today\, so arrive a few minutes early for parking.\nHost: Dream Outside th
+ e Box\nRSVP requested by Sun Nov 1\, 11:59 PM: https://forms.gle/Wmeirxc2J
+ paP2bDS9\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
+ vent/273.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/273.html
-CATEGORIES:Service / volunteering
+CATEGORIES:Student org
 END:VEVENT
 END:VCALENDAR
