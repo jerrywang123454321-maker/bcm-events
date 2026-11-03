@@ -138,20 +138,21 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-18@local
-DTSTAMP:20261102T130342Z
-LAST-MODIFIED:20261102T130342Z
+DTSTAMP:20261103T012521Z
+LAST-MODIFIED:20261103T012521Z
 DTSTART:20261104T180000Z
 DTEND:20261104T190000Z
 SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
 STATUS:CONFIRMED
-LOCATION:Alkek Building\, Room N311 (or Microsoft Teams)
-DESCRIPTION:Location update: in-person attendees meet in N311 of the Alkek 
- building. Third session of SOAR's lecture series on the research process\,
-  presented by Dr. Heba Mesbah\, MD. Food provided. Series continues with F
- rom Data to Manuscript (Dec 2\, 2026)\, Presenting Your Research (Jan 2027
- )\, and AI in Research (Feb 2027).\nHost: Student Opportunities for Advanc
- ement in Research (SOAR)\nRSVP requested\nDetails: https://jerrywang123454
- 321-maker.github.io/bcm-events/event/18.html
+LOCATION:Alkek Building\, Room N202 (or Microsoft Teams)
+DESCRIPTION:In-person room changed to N202. Part of SOAR's lecture series o
+ n the research process from start to finish\; this session on data sources
+  and analysis is presented by Dr. Heba Mesbah\, MD. Food provided\; RSVP r
+ equested (QR code on flyer). Series continues with From Data to Manuscript
+  (Dec 2)\, Presenting Your Research (Jan 2027)\, and AI in Research (Feb 2
+ 027).\nHost: SOAR (Student Opportunities for Advancement in Research)\nRSV
+ P requested\nDetails: https://jerrywang123454321-maker.github.io/bcm-event
+ s/event/18.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/18.html
 CATEGORIES:Student org
 END:VEVENT
