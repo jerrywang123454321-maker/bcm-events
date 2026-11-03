@@ -220,8 +220,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-205@local
-DTSTAMP:20261102T130342Z
-LAST-MODIFIED:20261102T130342Z
+DTSTAMP:20261103T133221Z
+LAST-MODIFIED:20261103T133221Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:AMA-MSS I-26 Interim Meeting (with Mentor Program Sign-Up)
@@ -238,8 +238,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-251@local
-DTSTAMP:20261102T130342Z
-LAST-MODIFIED:20261102T130342Z
+DTSTAMP:20261103T133221Z
+LAST-MODIFIED:20261103T133221Z
 DTSTART:20261105T150000Z
 DTEND:20261105T160000Z
 SUMMARY:AMA-MSS: MSS/MSOP Session at I-26 Interim Meeting
@@ -255,9 +255,28 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/251.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-282@local
+DTSTAMP:20261103T133222Z
+LAST-MODIFIED:20261103T133222Z
+DTSTART:20261107T173000Z
+DTEND:20261107T183000Z
+SUMMARY:IPPNW Medical Students Reading Group: Democracy\, Autocracy\, and E
+ xtinction Risk Session
+STATUS:CONFIRMED
+DESCRIPTION:Next session of the IPPNW medical students' reading group on th
+ e Democracy\, Autocracy\, and Extinction Risk theme\; the organizer says m
+ ore information will be sent soon. The prior 10/02 session featured Dr. Lu
+ ke Kemp on societal collapse\, concentrated power\, and health\, and its r
+ ecording was shared on YouTube.\nHost: IPPNW Medical Students (Democracy\,
+  Autocracy\, and Extinction Risk reading group)\nDetails: https://jerrywan
+ g123454321-maker.github.io/bcm-events/event/282.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/282.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-191@local
-DTSTAMP:20261102T130342Z
-LAST-MODIFIED:20261102T130342Z
+DTSTAMP:20261103T133221Z
+LAST-MODIFIED:20261103T133221Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:AWSIM Fall Symposium: Weight-Inclusive Medicine
@@ -275,8 +294,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261102T130342Z
-LAST-MODIFIED:20261102T130342Z
+DTSTAMP:20261103T133221Z
+LAST-MODIFIED:20261103T133221Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
