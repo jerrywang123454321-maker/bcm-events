@@ -46,4 +46,21 @@ DESCRIPTION:Medical students from McGovern and BCM walk together in Hermann
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/122.html
 CATEGORIES:Student org
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-286@local
+DTSTAMP:20261103T230042Z
+LAST-MODIFIED:20261103T230042Z
+DTSTART:20261116T230000Z
+DTEND:20261117T000000Z
+SUMMARY:Siempre Unidos: Caminar y Charlar Spanish Walk (McGovern x BCM)
+STATUS:CONFIRMED
+LOCATION:Hermann Park
+DESCRIPTION:Joint McGovern x BCM walk in Hermann Park to practice conversat
+ ional Spanish\, open to beginners through native speakers. Counts as one S
+ LP education point.\nHost: Siempre Unidos - BCM Medical Spanish\nRSVP requ
+ ested: https://forms.gle/pKvHhfeC2yPhuDuUA\nDetails: https://jerrywang1234
+ 54321-maker.github.io/bcm-events/event/286.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/286.html
+CATEGORIES:Student org
+END:VEVENT
 END:VCALENDAR
