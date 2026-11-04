@@ -2910,12 +2910,13 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-261@local
-DTSTAMP:20261104T131923Z
-LAST-MODIFIED:20261104T131923Z
+DTSTAMP:20261104T230032Z
+LAST-MODIFIED:20261104T230032Z
 DTSTART:20261104T233000Z
 DTEND:20261105T013000Z
 SUMMARY:Student Clinical Skills Society: CSA Practice Workshop
 STATUS:CONFIRMED
+LOCATION:M323
 DESCRIPTION:Clinical skills assessment practice workshop for MS1s with MS2-
  MS4 volunteers\, timed ahead of the next cardiopulmonary CSA. Spots are li
  mited by space\, first come first served.\nHost: Student Clinical Skills S
