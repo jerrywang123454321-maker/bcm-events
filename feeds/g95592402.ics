@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-73@local
-DTSTAMP:20261004T130326Z
-LAST-MODIFIED:20261004T130326Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:Dream Outside the Box: Exec Application Deadline
-STATUS:CONFIRMED
-DESCRIPTION:Executive board applications for Dream Outside the Box are due 
- via Google Form by 11:59 PM on Sunday\, October 4. Form: https://docs.goog
- le.com/forms/d/e/1FAIpQLScwCNGSMesmZFEvpvy2aL22fsc9-_FtEMQI-vo2Jsp8Qwvvmg/
- viewform\nHost: Dream Outside the Box\nDetails: https://jerrywang123454321
- -maker.github.io/bcm-events/event/73.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/73.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-107@local
 DTSTAMP:20261006T120230Z
 LAST-MODIFIED:20261006T120230Z

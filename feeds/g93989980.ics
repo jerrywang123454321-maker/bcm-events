@@ -107,26 +107,26 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-11@local
-DTSTAMP:20261103T230042Z
-LAST-MODIFIED:20261103T230042Z
+DTSTAMP:20261104T131924Z
+LAST-MODIFIED:20261104T131924Z
 DTSTART:20261104T230000Z
 DTEND:20261105T000000Z
 SUMMARY:McGovern APAMSA: Medical Vietnamese Session
 STATUS:CONFIRMED
 LOCATION:MSB B.100\, McGovern Medical School Building
-DESCRIPTION:Medical Vietnamese ("Medical Viet") session hosted by McGovern 
- APAMSA at the McGovern Medical School building\, open to BCM students. Som
- etimes there's food. Sign up with the form.\nHost: McGovern APAMSA\nRSVP r
- equested: https://docs.google.com/forms/d/e/1FAIpQLSe5U1K7TGy4oDZ8XyfV1nKz
- Kd_lkD5J9PQEHhYO5MZ86sdTPw/viewform\nDetails: https://jerrywang123454321-m
- aker.github.io/bcm-events/event/11.html
+DESCRIPTION:Session 4 of McGovern APAMSA's Medical Vietnamese series\, held
+  at the McGovern Medical School building and open to BCM students\; RSVP s
+ o they can plan food. This is the final session of the fall semester\, wit
+ h a spring session to be announced.\nHost: McGovern APAMSA\nRSVP requested
+ : https://forms.gle/ykdCfMvpoSuYYB9f7\nDetails: https://jerrywang123454321
+ -maker.github.io/bcm-events/event/11.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/11.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-56@local
-DTSTAMP:20261103T133221Z
-LAST-MODIFIED:20261103T133221Z
+DTSTAMP:20261104T131923Z
+LAST-MODIFIED:20261104T131923Z
 DTSTART:20261110T160000Z
 DTEND:20261110T180000Z
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
@@ -144,8 +144,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-265@local
-DTSTAMP:20261103T133221Z
-LAST-MODIFIED:20261103T133221Z
+DTSTAMP:20261104T131923Z
+LAST-MODIFIED:20261104T131923Z
 DTSTART:20261110T160000Z
 DTEND:20261110T170000Z
 SUMMARY:APAMSA x Medical Mandarin: ESL Health Workshop at the Chinese Commu
@@ -165,8 +165,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-287@local
-DTSTAMP:20261104T050129Z
-LAST-MODIFIED:20261104T050129Z
+DTSTAMP:20261104T131923Z
+LAST-MODIFIED:20261104T131923Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:APAMSA Beach Field Day
@@ -181,8 +181,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-57@local
-DTSTAMP:20261103T133221Z
-LAST-MODIFIED:20261103T133221Z
+DTSTAMP:20261104T131923Z
+LAST-MODIFIED:20261104T131923Z
 DTSTART:20261208T160000Z
 DTEND:20261208T180000Z
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
