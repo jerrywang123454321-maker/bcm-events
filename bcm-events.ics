@@ -2849,8 +2849,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-18@local
-DTSTAMP:20261104T131923Z
-LAST-MODIFIED:20261104T131923Z
+DTSTAMP:20261104T190022Z
+LAST-MODIFIED:20261104T190022Z
 DTSTART:20261104T180000Z
 DTEND:20261104T190000Z
 SUMMARY:SOAR Research Grand Rounds: Data Sources and Analysis
@@ -2996,8 +2996,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-279@local
-DTSTAMP:20261104T131923Z
-LAST-MODIFIED:20261104T131923Z
+DTSTAMP:20261104T190023Z
+LAST-MODIFIED:20261104T190023Z
 DTSTART:20261106T000000Z
 DTEND:20261106T010000Z
 SUMMARY:IMIG: Acid/Base Case Review Workshop with Dr. Bryan Tucker
@@ -3006,9 +3006,10 @@ LOCATION:M321
 DESCRIPTION:Internal Medicine Interest Group review session with Dr. Bryan 
  Tucker covering high-yield acid/base concepts and practice problems ahead 
  of the next exam. Free food for those who RSVP.\nHost: Internal Medicine I
- nterest Group (IMIG)\nRSVP requested: https://docs.google.com/forms/d/e/1F
- AIpQLSd7jMAZ8w-XudK2stT8XYa__uYMpZ6ZvLXlE9Z8k9ZQCNtTFw/viewform\nDetails: 
- https://jerrywang123454321-maker.github.io/bcm-events/event/279.html
+ nterest Group (IMIG)\nRSVP requested by Wed Nov 4\, 11:59 PM: https://docs
+ .google.com/forms/d/e/1FAIpQLSd7jMAZ8w-XudK2stT8XYa__uYMpZ6ZvLXlE9Z8k9ZQCN
+ tTFw/viewform\nDetails: https://jerrywang123454321-maker.github.io/bcm-eve
+ nts/event/279.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/279.html
 CATEGORIES:Interest group
 END:VEVENT
