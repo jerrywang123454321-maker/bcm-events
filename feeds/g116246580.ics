@@ -44,6 +44,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/278.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-293@local
+DTSTAMP:20261105T170020Z
+LAST-MODIFIED:20261105T170020Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:BCM Ambassadors: Volunteers Needed for New Social
+STATUS:CONFIRMED
+DESCRIPTION:A newly added social event that needs BCM Ambassadors to help s
+ taff it. Interested ambassadors should add their name in the new tab of th
+ e ambassadors sign-up spreadsheet. No time or location was given in the an
+ nouncement.\nTime not announced yet.\nHost: BCM Ambassadors\nRSVP requeste
+ d: https://docs.google.com/spreadsheets/d/1-Xtlij_7itTaLFSgprgpI35CI0uc9TR
+ 6En6aQA8jjh8/edit?usp=sharing\nDetails: https://jerrywang123454321-maker.g
+ ithub.io/bcm-events/event/293.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/293.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-277@local
 DTSTAMP:20261105T131633Z
 LAST-MODIFIED:20261105T131633Z
