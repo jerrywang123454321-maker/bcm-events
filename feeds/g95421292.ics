@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-117@local
-DTSTAMP:20261005T140047Z
-LAST-MODIFIED:20261005T140047Z
-DTSTART:20261005T230000Z
-DTEND:20261006T000000Z
-SUMMARY:Indoor Volleyball (Monday Pickup)
-STATUS:CONFIRMED
-DESCRIPTION:Casual indoor volleyball pickup with BCM students. Group chatte
- r suggests play typically runs until around 8pm and a BCM gym membership m
- ay be needed for the facility.\nHost: BCM Volleyball (student pickup group
- )\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/11
- 7.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/117.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-177@local
 DTSTAMP:20261012T140117Z
 LAST-MODIFIED:20261012T140117Z
