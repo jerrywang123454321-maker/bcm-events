@@ -112,4 +112,21 @@ DESCRIPTION:Election Day session: kids act as election workers\, make voter
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/273.html
 CATEGORIES:Student org
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-295@local
+DTSTAMP:20261105T230028Z
+LAST-MODIFIED:20261105T230028Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Dream Outside the Box: Volunteering Session
+STATUS:CONFIRMED
+DESCRIPTION:Volunteering slot with the Dream Outside the Box program on Tue
+ sday 11/10\; sign up via the Google Form. Per earlier chatter\, students w
+ ill be grouped in classrooms by grade level. No start time was given in th
+ e message.\nHost: Dream Outside the Box\nRSVP requested by Sun Nov 8\, 11:
+ 59 PM: https://forms.gle/7i4zqoYMLkwWFk2L6\nDetails: https://jerrywang1234
+ 54321-maker.github.io/bcm-events/event/295.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/295.html
+CATEGORIES:Service / volunteering
+END:VEVENT
 END:VCALENDAR
