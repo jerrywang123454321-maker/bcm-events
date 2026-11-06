@@ -10,26 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-97@local
-DTSTAMP:20261007T221648Z
-LAST-MODIFIED:20261007T221648Z
-DTSTART:20261006T230000Z
-DTEND:20261007T000000Z
-SUMMARY:Baylor Students Against Cancer & IMIG: Intro to a Career in Hematol
- ogy & Oncology
-STATUS:CONFIRMED
-LOCATION:Room M321\, BCM Houston Campus
-DESCRIPTION:Talk with Dr. Courtney Miller-Chism\, BCM Hematology/Oncology F
- ellowship Program Director\, on the field of heme/onc\, fellowship trainin
- g\, career paths\, and ways to get involved during medical school. Dinner 
- provided.\nHost: Baylor Students Against Cancer & Internal Medicine Intere
- st Group (IMIG)\nRSVP requested by Mon Oct 5\, 11:59 PM: https://forms.gle
- /rwz3StXku4HdedPb8\nDetails: https://jerrywang123454321-maker.github.io/bc
- m-events/event/97.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/97.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-109@local
 DTSTAMP:20261012T160048Z
 LAST-MODIFIED:20261012T160048Z
@@ -145,8 +125,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-238@local
-DTSTAMP:20261105T131633Z
-LAST-MODIFIED:20261105T131633Z
+DTSTAMP:20261106T131632Z
+LAST-MODIFIED:20261106T131632Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lung Institute Great American Smokeout: Volunteering

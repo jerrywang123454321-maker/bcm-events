@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-107@local
-DTSTAMP:20261006T120230Z
-LAST-MODIFIED:20261006T120230Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Dream Outside the Box: Volunteer Session
-STATUS:CONFIRMED
-DESCRIPTION:Volunteer session with Dream Outside the Box on Tuesday 10/6. S
- ign up with the Google Form by Sunday night\; no start time was given in t
- he chat.\nHost: Dream Outside the Box\nRSVP requested by Sun Oct 4\, 11:59
-  PM: https://forms.gle/JVocEvuohDnUpZAe8\nDetails: https://jerrywang123454
- 321-maker.github.io/bcm-events/event/107.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/107.html
-CATEGORIES:Service / volunteering
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-164@local
 DTSTAMP:20261013T140030Z
 LAST-MODIFIED:20261013T140030Z
@@ -114,8 +98,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-295@local
-DTSTAMP:20261105T230028Z
-LAST-MODIFIED:20261105T230028Z
+DTSTAMP:20261106T131632Z
+LAST-MODIFIED:20261106T131632Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Dream Outside the Box: Volunteering Session
