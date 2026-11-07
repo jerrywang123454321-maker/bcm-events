@@ -67,8 +67,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-294@local
-DTSTAMP:20261107T130205Z
-LAST-MODIFIED:20261107T130205Z
+DTSTAMP:20261107T170026Z
+LAST-MODIFIED:20261107T170026Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Street Medicine Volunteering Shift: Open Spots
@@ -78,9 +78,9 @@ DESCRIPTION:Two students dropped their spots on the Sunday 11/08 Street Med
  torship conflicts\, so slots are open for anyone who wants to fill in. Shi
  ft time was not stated in the message\; past shifts have gathered by the f
  ountain in the early afternoon. Sign-up is through the coalition's SignUpG
- enius posted in the chat.\nTime not announced yet.\nHost: Street Medicine 
- Student Coalition\nRSVP requested\nDetails: https://jerrywang123454321-mak
- er.github.io/bcm-events/event/294.html
+ enius posted in the chat.\nHost: Street Medicine Student Coalition\nRSVP r
+ equested\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
+ vent/294.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/294.html
 CATEGORIES:Service / volunteering
 END:VEVENT
