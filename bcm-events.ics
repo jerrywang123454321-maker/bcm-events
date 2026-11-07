@@ -2817,8 +2817,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-282@local
-DTSTAMP:20261107T130205Z
-LAST-MODIFIED:20261107T130205Z
+DTSTAMP:20261107T150021Z
+LAST-MODIFIED:20261107T150021Z
 DTSTART:20261107T163000Z
 DTEND:20261107T173000Z
 SUMMARY:IPPNW Extinction Medicine Reading Group: Structural Violence and Un
@@ -2856,6 +2856,25 @@ DESCRIPTION:Two students dropped their spots on the Sunday 11/08 Street Med
  er.github.io/bcm-events/event/294.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/294.html
 CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-296@local
+DTSTAMP:20261107T150022Z
+LAST-MODIFIED:20261107T150022Z
+DTSTART:20261108T150000Z
+DTEND:20261108T163000Z
+SUMMARY:AMA-MSS Osteopathic Caucus Meeting at I-26
+STATUS:CONFIRMED
+LOCATION:Room "Dove"\, Swan Hotel (Walt Disney World Swan and Dolphin Resor
+ t)\, Lake Buena Vista\, FL
+DESCRIPTION:Osteopathic Caucus meeting at the AMA Interim Meeting (I-26) in
+  Orlando\, open to osteopathic medical students and peers still in town. 1
+ 0:00–11:30 AM Eastern (9:00–10:30 AM Central). Dove is one level up fr
+ om the lobby via the elevators just before the convention-area hallway.\nH
+ ost: AMA-MSS Osteopathic Caucus\nDetails: https://jerrywang123454321-maker
+ .github.io/bcm-events/event/296.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/296.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-269@local
