@@ -10,25 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-116@local
-DTSTAMP:20261007T221012Z
-LAST-MODIFIED:20261007T221012Z
-DTSTART:20261008T000000Z
-DTEND:20261008T013000Z
-SUMMARY:AMA-MSS Advocacy in Action Workshop (Night 3)
-STATUS:CONFIRMED
-LOCATION:Virtual
-DESCRIPTION:Virtual\, 8–9:30 PM Eastern (7–8:30 PM Central). Final nigh
- t of the three-night virtual AMA-MSS advocacy workshop. Includes keynote s
- peakers who are former AMA MSS/RFS/YPS members\, issue briefs on GME refor
- m\, Medicare reform\, and maternal health access\, and distribution of an 
- advocacy materials folder.\nHost: AMA-MSS\nRSVP requested: https://www.ama
- -assn.org/membership/events/advocacy-action-workshop\nDetails: https://jer
- rywang123454321-maker.github.io/bcm-events/event/116.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/116.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-103@local
 DTSTAMP:20261011T121039Z
 LAST-MODIFIED:20261011T121039Z
@@ -253,8 +234,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-282@local
-DTSTAMP:20261106T230029Z
-LAST-MODIFIED:20261106T230029Z
+DTSTAMP:20261107T130205Z
+LAST-MODIFIED:20261107T130205Z
 DTSTART:20261107T163000Z
 DTEND:20261107T173000Z
 SUMMARY:IPPNW Extinction Medicine Reading Group: Structural Violence and Un
@@ -276,8 +257,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-191@local
-DTSTAMP:20261106T131632Z
-LAST-MODIFIED:20261106T131632Z
+DTSTAMP:20261107T130205Z
+LAST-MODIFIED:20261107T130205Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:AWSIM Fall Symposium: Weight-Inclusive Medicine
@@ -295,8 +276,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261106T131632Z
-LAST-MODIFIED:20261106T131632Z
+DTSTAMP:20261107T130205Z
+LAST-MODIFIED:20261107T130205Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
