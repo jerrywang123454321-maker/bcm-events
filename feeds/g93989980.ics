@@ -128,8 +128,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-287@local
-DTSTAMP:20261108T130038Z
-LAST-MODIFIED:20261108T130038Z
+DTSTAMP:20261108T190046Z
+LAST-MODIFIED:20261108T190046Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:APAMSA Beach Field Day
@@ -137,8 +137,8 @@ STATUS:CONFIRMED
 LOCATION:Beach Access 1C (Galveston)
 DESCRIPTION:Multi-school APAMSA beach field day with UTMB\, McGovern\, Bayl
  or\, SHSU\, and UHCOM. RSVP via the QR code on the flyer.\nHost: APAMSA\nR
- SVP requested\nDetails: https://jerrywang123454321-maker.github.io/bcm-eve
- nts/event/287.html
+ SVP requested: https://forms.gle/AgndmwhQapuvureY6\nDetails: https://jerry
+ wang123454321-maker.github.io/bcm-events/event/287.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/287.html
 CATEGORIES:Student org
 END:VEVENT

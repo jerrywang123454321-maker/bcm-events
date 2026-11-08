@@ -2706,22 +2706,6 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/282.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-294@local
-DTSTAMP:20261108T170024Z
-LAST-MODIFIED:20261108T170024Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Street Medicine Volunteering Shift: Open Spots
-STATUS:CONFIRMED
-DESCRIPTION:A volunteer dropped out of today's Street Medicine shift due to
-  illness\, so an additional spot is open. Spots are managed on SignUpGeniu
- s — sign in to claim or release a slot.\nHost: Street Medicine Student C
- oalition\nRSVP requested\nDetails: https://jerrywang123454321-maker.github
- .io/bcm-events/event/294.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/294.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-299@local
 DTSTAMP:20261108T130038Z
 LAST-MODIFIED:20261108T130038Z
@@ -2757,18 +2741,20 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/296.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-269@local
-DTSTAMP:20261108T130038Z
-LAST-MODIFIED:20261108T130038Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Medical Mandarin Club Meeting: ESL Workshop Prep
+UID:eventscan-294@local
+DTSTAMP:20261108T190047Z
+LAST-MODIFIED:20261108T190047Z
+DTSTART:20261108T190000Z
+DTEND:20261108T200000Z
+SUMMARY:Street Medicine Volunteering Shift
 STATUS:CONFIRMED
-DESCRIPTION:Medical Mandarin club meeting to prepare for the Nov 10 ESL Hea
- lth Workshop at the Chinese Community Center. Worth +1 SLP education point
- .\nTime not announced yet.\nHost: Medical Mandarin Language Club\nDetails:
-  https://jerrywang123454321-maker.github.io/bcm-events/event/269.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/269.html
+LOCATION:Inside by the fountain entrance
+DESCRIPTION:Reminder for today's Street Medicine volunteering shift: volunt
+ eers meet inside by the fountain entrance at 1 PM. Sign-ups were handled o
+ n SignUpGenius\, and spots opened up when volunteers removed themselves.\n
+ Host: Street Medicine Student Coalition\nRSVP requested\nDetails: https://
+ jerrywang123454321-maker.github.io/bcm-events/event/294.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/294.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
@@ -2808,6 +2794,24 @@ DESCRIPTION:Casual pickup soccer with the Baylor Soccer group at their usua
  l
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/298.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-269@local
+DTSTAMP:20261108T190045Z
+LAST-MODIFIED:20261108T190045Z
+DTSTART:20261109T230000Z
+DTEND:20261110T000000Z
+SUMMARY:Medical Mandarin Language Club Session 4: ESL Health Workshop Prep
+STATUS:CONFIRMED
+LOCATION:Room N311
+DESCRIPTION:Preparation session with APAMSA for the ESL Health Workshop vol
+ unteer opportunity at the Chinese Cultural Center. Covers medical terminol
+ ogy in English and Chinese\; open to all Chinese levels. Worth 1 SLP educa
+ tion point. RSVP if you want food.\nHost: Medical Mandarin Language Club (
+ MMLC) x APAMSA\nRSVP requested\nDetails: https://jerrywang123454321-maker.
+ github.io/bcm-events/event/269.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/269.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-119@local
@@ -3030,8 +3034,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-281@local
-DTSTAMP:20261108T130038Z
-LAST-MODIFIED:20261108T130038Z
+DTSTAMP:20261108T190035Z
+LAST-MODIFIED:20261108T190035Z
 DTSTART:20261113T000000Z
 DTEND:20261113T010000Z
 SUMMARY:Dermatology Interest Group: Annual Resident Social
@@ -3088,8 +3092,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-287@local
-DTSTAMP:20261108T130038Z
-LAST-MODIFIED:20261108T130038Z
+DTSTAMP:20261108T190046Z
+LAST-MODIFIED:20261108T190046Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:APAMSA Beach Field Day
@@ -3097,8 +3101,8 @@ STATUS:CONFIRMED
 LOCATION:Beach Access 1C (Galveston)
 DESCRIPTION:Multi-school APAMSA beach field day with UTMB\, McGovern\, Bayl
  or\, SHSU\, and UHCOM. RSVP via the QR code on the flyer.\nHost: APAMSA\nR
- SVP requested\nDetails: https://jerrywang123454321-maker.github.io/bcm-eve
- nts/event/287.html
+ SVP requested: https://forms.gle/AgndmwhQapuvureY6\nDetails: https://jerry
+ wang123454321-maker.github.io/bcm-events/event/287.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/287.html
 CATEGORIES:Student org
 END:VEVENT

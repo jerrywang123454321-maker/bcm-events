@@ -1427,21 +1427,6 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/244.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-269@local
-DTSTAMP:20261108T130038Z
-LAST-MODIFIED:20261108T130038Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Medical Mandarin Club Meeting: ESL Workshop Prep
-STATUS:CONFIRMED
-DESCRIPTION:Medical Mandarin club meeting to prepare for the Nov 10 ESL Hea
- lth Workshop at the Chinese Community Center. Worth +1 SLP education point
- .\nTime not announced yet.\nHost: Medical Mandarin Language Club\nDetails:
-  https://jerrywang123454321-maker.github.io/bcm-events/event/269.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/269.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-252@local
 DTSTAMP:20261108T130038Z
 LAST-MODIFIED:20261108T130038Z
@@ -1462,6 +1447,24 @@ DESCRIPTION:Second session of the AWS suture workshop series\, a hands-on s
  www.signupgenius.com/go/20F0D4AABAB2BAAFFC25-67092173-119\nDetails: https:
  //jerrywang123454321-maker.github.io/bcm-events/event/252.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/252.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-269@local
+DTSTAMP:20261108T190045Z
+LAST-MODIFIED:20261108T190045Z
+DTSTART:20261109T230000Z
+DTEND:20261110T000000Z
+SUMMARY:Medical Mandarin Language Club Session 4: ESL Health Workshop Prep
+STATUS:CONFIRMED
+LOCATION:Room N311
+DESCRIPTION:Preparation session with APAMSA for the ESL Health Workshop vol
+ unteer opportunity at the Chinese Cultural Center. Covers medical terminol
+ ogy in English and Chinese\; open to all Chinese levels. Worth 1 SLP educa
+ tion point. RSVP if you want food.\nHost: Medical Mandarin Language Club (
+ MMLC) x APAMSA\nRSVP requested\nDetails: https://jerrywang123454321-maker.
+ github.io/bcm-events/event/269.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/269.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
@@ -1592,8 +1595,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-281@local
-DTSTAMP:20261108T130038Z
-LAST-MODIFIED:20261108T130038Z
+DTSTAMP:20261108T190035Z
+LAST-MODIFIED:20261108T190035Z
 DTSTART:20261113T000000Z
 DTEND:20261113T010000Z
 SUMMARY:Dermatology Interest Group: Annual Resident Social
