@@ -2858,6 +2858,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/294.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-299@local
+DTSTAMP:20261108T050018Z
+LAST-MODIFIED:20261108T050018Z
+DTSTART:20261108T130000Z
+DTEND:20261108T140000Z
+SUMMARY:BCM Run Club: Sunday Long Run at Memorial Park
+STATUS:CONFIRMED
+LOCATION:Memorial Park\, 1500 W Memorial Loop Dr\, Houston\, TX 77007
+DESCRIPTION:Sunday long run with BCM Run Club as part of the 2026 mileage c
+ ompetition against other Texas med schools. Miles count toward the team to
+ tal if tracked on Strava in the club's group.\nHost: BCM Run Club\nDetails
+ : https://jerrywang123454321-maker.github.io/bcm-events/event/299.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/299.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-296@local
 DTSTAMP:20261107T150022Z
 LAST-MODIFIED:20261107T150022Z
