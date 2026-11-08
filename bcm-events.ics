@@ -2797,19 +2797,20 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-269@local
-DTSTAMP:20261108T190045Z
-LAST-MODIFIED:20261108T190045Z
+DTSTAMP:20261108T230028Z
+LAST-MODIFIED:20261108T230028Z
 DTSTART:20261109T230000Z
 DTEND:20261110T000000Z
 SUMMARY:Medical Mandarin Language Club Session 4: ESL Health Workshop Prep
 STATUS:CONFIRMED
 LOCATION:Room N311
-DESCRIPTION:Preparation session with APAMSA for the ESL Health Workshop vol
- unteer opportunity at the Chinese Cultural Center. Covers medical terminol
- ogy in English and Chinese\; open to all Chinese levels. Worth 1 SLP educa
- tion point. RSVP if you want food.\nHost: Medical Mandarin Language Club (
- MMLC) x APAMSA\nRSVP requested\nDetails: https://jerrywang123454321-maker.
- github.io/bcm-events/event/269.html
+DESCRIPTION:Session with APAMSA to prepare for the ESL Health Workshop volu
+ nteer opportunity at the Chinese Community Center\; practice medical termi
+ nology in English and Chinese\, all levels welcome. Worth 1 SLP education 
+ point. RSVP link now posted — RSVP if you want food.\nHost: Medical Mand
+ arin Language Club (with APAMSA)\nRSVP requested: https://forms.gle/7vd2cJ
+ dSPHqVMvXe9\nDetails: https://jerrywang123454321-maker.github.io/bcm-event
+ s/event/269.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/269.html
 CATEGORIES:Student org
 END:VEVENT
@@ -2887,8 +2888,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-295@local
-DTSTAMP:20261108T130038Z
-LAST-MODIFIED:20261108T130038Z
+DTSTAMP:20261108T230027Z
+LAST-MODIFIED:20261108T230027Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Dream Outside the Box: Volunteering Session
