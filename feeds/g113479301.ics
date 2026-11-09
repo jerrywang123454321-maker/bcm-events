@@ -1546,8 +1546,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-291@local
-DTSTAMP:20261109T130128Z
-LAST-MODIFIED:20261109T130128Z
+DTSTAMP:20261109T150022Z
+LAST-MODIFIED:20261109T150022Z
 DTSTART:20261112T010000Z
 DTEND:20261112T023000Z
 SUMMARY:BPSA: Night at the Children's Hospital — Physical Exam Skills Wor
@@ -1557,8 +1557,9 @@ LOCATION:TCH West Tower (Texas Children's Hospital)
 DESCRIPTION:Pediatrics residents run through physical exam tips and then he
  lp students practice exam skills on patients. Food provided. Limited to th
  e first 20 sign-ups.\nHost: BPSA (Baylor Pediatric Student Association)\nR
- SVP requested: https://forms.gle/RM7uSs6KybRJnnpp6\nDetails: https://jerry
- wang123454321-maker.github.io/bcm-events/event/291.html
+ SVP requested by Tue Nov 10\, 5:00 PM: https://forms.gle/RM7uSs6KybRJnnpp6
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/291
+ .html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/291.html
 CATEGORIES:Student org
 END:VEVENT
@@ -1578,6 +1579,24 @@ DESCRIPTION:DIG's annual resident social — meet and chat with the BCM Der
  errywang123454321-maker.github.io/bcm-events/event/281.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/281.html
 CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-304@local
+DTSTAMP:20261109T150022Z
+LAST-MODIFIED:20261109T150022Z
+DTSTART:20261113T180000Z
+DTEND:20261113T190000Z
+SUMMARY:Family Medicine Talk with Dr. Sarkar\, Family Medicine Clerkship Di
+ rector
+STATUS:CONFIRMED
+DESCRIPTION:Dr. Sarkar\, Baylor's Family Medicine clerkship director\, disc
+ usses what makes Family Medicine a unique specialty and will take question
+ s about the field and ways to get involved. Lunch provided for those who R
+ SVP.\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSdZwz3jerB1
+ YRrrGSD41qL3vQp0GRi_EWvBaFgUSW8LlYRMwQ/viewform?usp=publish-editor\nDetail
+ s: https://jerrywang123454321-maker.github.io/bcm-events/event/304.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/304.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-247@local
