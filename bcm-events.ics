@@ -2784,8 +2784,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-119@local
-DTSTAMP:20261109T130128Z
-LAST-MODIFIED:20261109T130128Z
+DTSTAMP:20261109T211252Z
+LAST-MODIFIED:20261109T211252Z
 DTSTART:20261110T000000Z
 DTEND:20261110T013000Z
 SUMMARY:BCM LIVE: Student Talent & Performance Show
@@ -2968,18 +2968,21 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-297@local
-DTSTAMP:20261109T130128Z
-LAST-MODIFIED:20261109T130128Z
+DTSTAMP:20261109T211258Z
+LAST-MODIFIED:20261109T211258Z
 DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:McGovern x Baylor Mixer: Pickleball Open Play
 STATUS:CONFIRMED
 LOCATION:UTHealth Recreation Center\, 1832 West Rd\, Houston\, TX 77054
-DESCRIPTION:Open-play pickleball mixer with McGovern students. Free to atte
- nd with no membership needed\, but attendees must sign a waiver. Balls and
-  paddles can be rented on site\, though bringing your own is recommended.\
- nHost: BCM '30 Class Socials (with McGovern Medical School)\nDetails: http
- s://jerrywang123454321-maker.github.io/bcm-events/event/297.html
+DESCRIPTION:Free pickleball open play with McGovern students\; no rec cente
+ r membership needed but everyone must sign the online waiver beforehand (a
+ ny email works\, does not need to be a UTHealth address). Balls and paddle
+ s can be rented on site\, but bringing your own is recommended.\nHost: BCM
+  MS1 Class (Baylor x McGovern social)\nRSVP requested: https://forms.cloud
+ .microsoft/Pages/ResponsePage.aspx?id=JG0ye61BV0-8YInkpqxyGwsauMXX61pLgGAC
+ WVCLFqNUQ0RGOThYM0NTNUFXNlhHSklYTlY2WEFCNy4u\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/297.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/297.html
 CATEGORIES:Wellness
 END:VEVENT
@@ -3265,8 +3268,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-302@local
-DTSTAMP:20261109T130128Z
-LAST-MODIFIED:20261109T130128Z
+DTSTAMP:20261109T211252Z
+LAST-MODIFIED:20261109T211252Z
 DTSTART:20261121T230000Z
 DTEND:20261122T013000Z
 SUMMARY:MS1 Class Friendsgiving Potluck
