@@ -276,8 +276,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-191@local
-DTSTAMP:20261108T130038Z
-LAST-MODIFIED:20261108T130038Z
+DTSTAMP:20261109T130128Z
+LAST-MODIFIED:20261109T130128Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:AWSIM Fall Symposium: Weight-Inclusive Medicine
@@ -294,9 +294,28 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/191.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-303@local
+DTSTAMP:20261109T130128Z
+LAST-MODIFIED:20261109T130128Z
+DTSTART:20261120T010000Z
+DTEND:20261120T020000Z
+SUMMARY:Doctors for America Advocacy Grand Rounds: Menstrual Health in Inca
+ rcerated Populations
+STATUS:CONFIRMED
+DESCRIPTION:Virtual Advocacy Grand Rounds titled "Beyond Access: Understand
+ ing and Advancing Menstrual Health in Incarcerated Populations\," featurin
+ g Dr. Maria Phillis\, an MFM physician and OSMA/AMA ACOG member\, with a s
+ tudent moderator. Held 8-9 PM Eastern (7-8 PM Central)\; registration thro
+ ugh the Zoom webinar link is required.\nHost: Doctors for America\nRSVP re
+ quested\nOnline option: link in the group chat.\nDetails: https://jerrywan
+ g123454321-maker.github.io/bcm-events/event/303.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/303.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261108T130038Z
-LAST-MODIFIED:20261108T130038Z
+DTSTAMP:20261109T130128Z
+LAST-MODIFIED:20261109T130128Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
