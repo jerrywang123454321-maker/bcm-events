@@ -161,4 +161,20 @@ DESCRIPTION:Final 2026 monthly free health clinic run by Boat People SOS fo
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/57.html
 CATEGORIES:Service / volunteering
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-308@local
+DTSTAMP:20261110T150031Z
+LAST-MODIFIED:20261110T150031Z
+DTSTART:20261212T023000Z
+DTEND:20261212T033000Z
+SUMMARY:MS1 & MS2 Student Senate × APAMSA: End of Semester Party
+STATUS:CONFIRMED
+LOCATION:4800 West 34th Street\, Houston
+DESCRIPTION:End-of-semester party at a rented venue with music by DJ Mo Mon
+ ey. Tickets are $12 general admission or $17 for a drink ticket that inclu
+ des open bar.\nHost: MS1 & MS2 Student Senate and APAMSA\nDetails: https:/
+ /jerrywang123454321-maker.github.io/bcm-events/event/308.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/308.html
+CATEGORIES:Student org
+END:VEVENT
 END:VCALENDAR
