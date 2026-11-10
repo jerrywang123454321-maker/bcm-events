@@ -1438,12 +1438,12 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-162@local
-DTSTAMP:20261110T130115Z
-LAST-MODIFIED:20261110T130115Z
+DTSTAMP:20261110T230042Z
+LAST-MODIFIED:20261110T230042Z
 DTSTART:20261110T230000Z
 DTEND:20261111T000000Z
-SUMMARY:BCM Run Club
-STATUS:CONFIRMED
+SUMMARY:Cancelled: BCM Run Club
+STATUS:CANCELLED
 LOCATION:Hermann Park (near Hermann Park Golf Course)
 DESCRIPTION:Weekly Tuesday run club at Hermann Park\, now starting at 5pm i
  nstead of 6pm after the daylight saving time change.\nHost: BCM Running Cl
@@ -1454,8 +1454,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-292@local
-DTSTAMP:20261110T130115Z
-LAST-MODIFIED:20261110T130115Z
+DTSTAMP:20261110T230018Z
+LAST-MODIFIED:20261110T230018Z
 DTSTART:20261110T230000Z
 DTEND:20261111T001500Z
 SUMMARY:Healthy Environments\, Healthy Communities: Virtual Talk with Dr. H
@@ -1679,21 +1679,19 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-310@local
-DTSTAMP:20261110T190052Z
-LAST-MODIFIED:20261110T190052Z
+DTSTAMP:20261110T230043Z
+LAST-MODIFIED:20261110T230043Z
 DTSTART:20261116T233000Z
 DTEND:20261117T003000Z
 SUMMARY:NAAMA: Medical Arabic Workshop with Dr. Mohammad Hirzallah
 STATUS:CONFIRMED
 LOCATION:Room N317
-DESCRIPTION:NAAMA NextGen hosts a medical Arabic workshop with Dr. Mohammad
-  Hirzallah covering Arabic phrases to better understand and communicate wi
- th Arabic-speaking patients. No Arabic experience needed\; attendance earn
- s 1 SLP education point and food is provided for those who RSVP.\nHost: NA
- AMA (National Arab American Medical Association) NextGen\nRSVP requested: 
- https://docs.google.com/forms/d/e/1FAIpQLSeE44yEZdEgpEdmVxUwteatfkFSYO0JTm
- Lx67dxyUouLTYwmw/viewform\nDetails: https://jerrywang123454321-maker.githu
- b.io/bcm-events/event/310.html
+DESCRIPTION:Workshop teaching Arabic phrases for communicating with Arabic-
+ speaking patients\; no Arabic needed to attend\, and attendees earn 1 SLP 
+ education point. Food will be shawarma\; RSVP via the Google Form for food
+ .\nHost: NAAMA\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLS
+ eE44yEZdEgpEdmVxUwteatfkFSYO0JTmLx67dxyUouLTYwmw/viewform\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/310.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/310.html
 CATEGORIES:Student org
 END:VEVENT
