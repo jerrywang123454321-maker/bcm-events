@@ -10,24 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-14@local
-DTSTAMP:20261010T134215Z
-LAST-MODIFIED:20261010T134215Z
-DTSTART:20261010T130000Z
-DTEND:20261010T153000Z
-SUMMARY:BCM 5K & Well-Being Fair: Volunteering
-STATUS:CONFIRMED
-DESCRIPTION:Volunteers help in the Kids Zone\, cheer at the finish line\, a
- nd hand out water (sign up on SignUpGenius). Baylor Soccer also needs 2–
- 4 people to play soccer with kids from 8:30–10:30 AM\; like the post in 
- the Baylor Soccer chat.\nHost: BCM 5k Committee / Baylor Soccer\nRSVP requ
- ested: https://www.signupgenius.com/go/10C054BAAA923A0FCC34-64860155-bcmco
- mmunity#/\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
- event/14.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/14.html
-CATEGORIES:Service / volunteering
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-183@local
 DTSTAMP:20261015T160022Z
 LAST-MODIFIED:20261015T160022Z

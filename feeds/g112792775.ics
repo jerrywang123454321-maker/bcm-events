@@ -10,28 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-58@local
-DTSTAMP:20261010T134215Z
-LAST-MODIFIED:20261010T134215Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:AFFIRM: Interventional Radiology Educational Day for Women Medical 
- Students
-STATUS:CONFIRMED
-LOCATION:Texas Medical Center\, Houston\, TX
-DESCRIPTION:One-day event hosted by AFFIRM (Advancing Future Females in Int
- erventional Radiology and Medicine)\, co-founded by PGY-5 IR resident Sydn
- ey Cooper. Includes hands-on procedural workshops with industry partner de
- vices\, short sessions on IR\, radiation considerations and career pathway
- s\, networking with attendings/fellows/residents/program leadership\, and 
- an attending and trainee Q&A.\nHost: AFFIRM (Advancing Future Females in I
- nterventional Radiology and Medicine)\nRSVP requested: https://AFFIRMiniti
- ative.org\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
- event/58.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/58.html
-CATEGORIES:Career / specialty
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-72@local
 DTSTAMP:20261012T180329Z
 LAST-MODIFIED:20261012T180329Z
@@ -156,8 +134,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-255@local
-DTSTAMP:20261109T130128Z
-LAST-MODIFIED:20261109T130128Z
+DTSTAMP:20261110T130115Z
+LAST-MODIFIED:20261110T130115Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:RMSD Program: Registration Deadline
@@ -176,8 +154,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-19@local
-DTSTAMP:20261109T130128Z
-LAST-MODIFIED:20261109T130128Z
+DTSTAMP:20261110T130115Z
+LAST-MODIFIED:20261110T130115Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:SOAR Research Grand Rounds: From Data to Manuscript
@@ -195,8 +173,8 @@ CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-256@local
-DTSTAMP:20261109T130128Z
-LAST-MODIFIED:20261109T130128Z
+DTSTAMP:20261110T130115Z
+LAST-MODIFIED:20261110T130115Z
 DTSTART:20261208T000000Z
 DTEND:20261208T010000Z
 SUMMARY:RMSD Program: Optional Orientation
@@ -217,8 +195,8 @@ CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-232@local
-DTSTAMP:20261109T130128Z
-LAST-MODIFIED:20261109T130128Z
+DTSTAMP:20261110T130115Z
+LAST-MODIFIED:20261110T130115Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Placebo Press Poetry Journal: Issue 4 Submission Deadline
