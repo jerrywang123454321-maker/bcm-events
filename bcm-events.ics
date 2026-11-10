@@ -2800,8 +2800,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-265@local
-DTSTAMP:20261110T130115Z
-LAST-MODIFIED:20261110T130115Z
+DTSTAMP:20261110T170018Z
+LAST-MODIFIED:20261110T170018Z
 DTSTART:20261110T160000Z
 DTEND:20261110T170000Z
 SUMMARY:APAMSA x Medical Mandarin: ESL Health Workshop at the Chinese Commu
@@ -3261,6 +3261,24 @@ DESCRIPTION:Weekly Tuesday run club at Hermann Park\, now starting at 5pm i
  36.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/236.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-309@local
+DTSTAMP:20261110T170031Z
+LAST-MODIFIED:20261110T170031Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BCM PEER Student Fellowship: Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Promoting Equity and Enhancing Research (PEER) Student Fellowsh
+ ip for first-year students who want to learn the research process. MS1s ar
+ e matched into small groups led by an experienced MS2\, MS3\, or MS4 for t
+ argeted educational sessions and one-on-one mentoring. Apply via the Googl
+ e Form.\nHost: BCM Promoting Equity and Enhancing Research (PEER) Student 
+ Fellowship\nDetails: https://jerrywang123454321-maker.github.io/bcm-events
+ /event/309.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/309.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-264@local
