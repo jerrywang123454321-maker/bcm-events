@@ -2763,23 +2763,6 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/301.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
-UID:eventscan-295@local
-DTSTAMP:20261110T130116Z
-LAST-MODIFIED:20261110T130116Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Dream Outside the Box: Volunteering Session
-STATUS:CONFIRMED
-DESCRIPTION:Volunteering slot with the Dream Outside the Box program on Tue
- sday 11/10\; sign up via the Google Form. Per earlier chatter\, students w
- ill be grouped in classrooms by grade level. No start time was given in th
- e message.\nHost: Dream Outside the Box\nRSVP requested by Sun Nov 8\, 11:
- 59 PM: https://forms.gle/7i4zqoYMLkwWFk2L6\nDetails: https://jerrywang1234
- 54321-maker.github.io/bcm-events/event/295.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/295.html
-CATEGORIES:Service / volunteering
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-56@local
 DTSTAMP:20261110T130115Z
 LAST-MODIFIED:20261110T130115Z
@@ -2817,6 +2800,31 @@ DESCRIPTION:Volunteer with APAMSA and the Medical Mandarin Language Club to
  P requested: https://forms.gle/LpcqQKmKXZuC6cy16\nDetails: https://jerrywa
  ng123454321-maker.github.io/bcm-events/event/265.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/265.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-295@local
+DTSTAMP:20261110T210031Z
+LAST-MODIFIED:20261110T210031Z
+DTSTART:20261110T211500Z
+DTEND:20261110T221500Z
+SUMMARY:Dream Outside the Box: Fingerprint Detectives Volunteering at MacGr
+ egor
+STATUS:CONFIRMED
+LOCATION:MacGregor
+DESCRIPTION:Volunteer session where kids act as forensic scientists: they l
+ ift their own fingerprints with pencil and tape\, solve 'Who took the cook
+ ie?' by matching prints to volunteer suspect cards\, and transfer a finger
+ print onto a balloon. Run of show: welcome 3:15\, lift prints 3:25\, cooki
+ e case 3:40\, balloon print 3:50\, show-and-tell and clean up 4:00. Set up
+  before 3:15 with tape\, pencils\, scrap paper\, index cards (2 per kid)\,
+  magnifiers\, wipes\, cookie jar print\, and balloons\; one volunteer per 
+ table. Balloons are latex\, so ask about allergies\, blow them up for K-1 
+ students\, and pick up popped pieces immediately.\nHost: Dream Outside the
+  Box\nRSVP requested by Sun Nov 8\, 11:59 PM: https://forms.gle/7i4zqoYMLk
+ wWFk2L6\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
+ ent/295.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/295.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
@@ -3016,6 +3024,24 @@ DESCRIPTION:Dr. Sarkar\, Baylor's Family Medicine clerkship director\, disc
  YRrrGSD41qL3vQp0GRi_EWvBaFgUSW8LlYRMwQ/viewform?usp=publish-editor\nDetail
  s: https://jerrywang123454321-maker.github.io/bcm-events/event/304.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/304.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-315@local
+DTSTAMP:20261110T210031Z
+LAST-MODIFIED:20261110T210031Z
+DTSTART:20261113T180000Z
+DTEND:20261113T190000Z
+SUMMARY:Baylor Literary Society: 2nd Reading Meeting
+STATUS:CONFIRMED
+LOCATION:Squad rooms
+DESCRIPTION:Second reading meeting of the Baylor Literary Society and the l
+ ast one before Thanksgiving. Schedule: 'Anxious People' Ch 12-25 from 12-1
+ 2:30pm\, then 'Left Side of Darkness' Ch 5-8 from 12:30-1pm. Treats provid
+ ed\; contact the organizer in the chat if you need a copy of the books.\nH
+ ost: Baylor Literary Society (BLS)\nDetails: https://jerrywang123454321-ma
+ ker.github.io/bcm-events/event/315.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/315.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
