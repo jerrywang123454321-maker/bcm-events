@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-111@local
-DTSTAMP:20261011T121039Z
-LAST-MODIFIED:20261011T121039Z
-DTSTART:20261011T150000Z
-DTEND:20261011T170000Z
-SUMMARY:Green Squad Pickleball Social
-STATUS:CONFIRMED
-LOCATION:Ion Pickle Lab\, 4203 Fannin St
-DESCRIPTION:Casual pickleball games with the Green Squad. All skill levels 
- welcome. Bring your own paddle\; a limited number of paddles will be avail
- able to rent for $5.\nHost: Green Squad\nDetails: https://jerrywang1234543
- 21-maker.github.io/bcm-events/event/111.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/111.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-229@local
 DTSTAMP:20261026T121536Z
 LAST-MODIFIED:20261026T121536Z

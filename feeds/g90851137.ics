@@ -10,26 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-103@local
-DTSTAMP:20261011T121039Z
-LAST-MODIFIED:20261011T121039Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:AMA-MSS Governing Council Election: Campaign Team Registration Dead
- line
-STATUS:CONFIRMED
-DESCRIPTION:Candidates for the I-26 Governing Council election (Student Rep
- resentative to the BOT and MSS Chair-Elect) have been announced\, and camp
- aign team registration is now open. All candidates and campaign team membe
- rs must complete the registration form to qualify for campaigning\; no lat
- e submissions will be accepted. Register for a campaign team only after di
- scussing with the candidate and reviewing the Speakers' ruling.\nHost: AMA
- -MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event
- /103.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/103.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-137@local
 DTSTAMP:20261013T010024Z
 LAST-MODIFIED:20261013T010024Z
@@ -276,8 +256,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-191@local
-DTSTAMP:20261110T130115Z
-LAST-MODIFIED:20261110T130115Z
+DTSTAMP:20261111T130125Z
+LAST-MODIFIED:20261111T130125Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:AWSIM Fall Symposium: Weight-Inclusive Medicine
@@ -295,8 +275,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-303@local
-DTSTAMP:20261110T190025Z
-LAST-MODIFIED:20261110T190025Z
+DTSTAMP:20261111T130126Z
+LAST-MODIFIED:20261111T130126Z
 DTSTART:20261120T010000Z
 DTEND:20261120T020000Z
 SUMMARY:Doctors for America Advocacy Grand Rounds: Menstrual Health in Inca
@@ -314,8 +294,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261110T130115Z
-LAST-MODIFIED:20261110T130115Z
+DTSTAMP:20261111T130125Z
+LAST-MODIFIED:20261111T130125Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
