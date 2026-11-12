@@ -2752,8 +2752,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-307@local
-DTSTAMP:20261112T130051Z
-LAST-MODIFIED:20261112T130051Z
+DTSTAMP:20261112T150022Z
+LAST-MODIFIED:20261112T150022Z
 DTSTART:20261113T000000Z
 DTEND:20261113T013000Z
 SUMMARY:Baylor Radiology Research Initiative: Fall Kickoff Meeting
@@ -2822,6 +2822,21 @@ DESCRIPTION:Dr. Kenneth Liao\, MD\, PhD\, FACS presents on the evolving rol
  rrywang123454321-maker.github.io/bcm-events/event/319.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/319.html
 CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-321@local
+DTSTAMP:20261112T150022Z
+LAST-MODIFIED:20261112T150022Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Healer Case #1 (Jeremy West) Due
+STATUS:CONFIRMED
+DESCRIPTION:Healer Case #1 (patient Jeremy West) submission is due Friday\,
+  November 13 at 11:59 PM. Reminder posted to the class chat so it isn't ov
+ erlooked.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
+ event/321.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/321.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-277@local
