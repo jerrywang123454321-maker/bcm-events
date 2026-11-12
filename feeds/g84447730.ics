@@ -10,24 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-136@local
-DTSTAMP:20261012T120828Z
-LAST-MODIFIED:20261012T120828Z
-DTSTART:20261012T230000Z
-DTEND:20261013T000000Z
-SUMMARY:Siempre Unidos: Medical Spanish Workshop — Cardiac H&P
-STATUS:CONFIRMED
-LOCATION:M321
-DESCRIPTION:Practice vocabulary and phrases used to perform a cardiac-focus
- ed history and physical in Spanish. All Spanish levels welcome\, and atten
- dance is worth 1 SLP point. RSVP via the link for food.\nHost: Siempre Uni
- dos (BCM Medical Spanish)\nRSVP requested: https://tinyurl.com/SiempreUnid
- os-Oct12\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
- vent/136.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/136.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-122@local
 DTSTAMP:20261015T200620Z
 LAST-MODIFIED:20261015T200620Z
@@ -48,8 +30,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-286@local
-DTSTAMP:20261111T130125Z
-LAST-MODIFIED:20261111T130125Z
+DTSTAMP:20261112T130051Z
+LAST-MODIFIED:20261112T130051Z
 DTSTART:20261116T230000Z
 DTEND:20261117T000000Z
 SUMMARY:Siempre Unidos: Caminar y Charlar Spanish Walk (McGovern x BCM)
