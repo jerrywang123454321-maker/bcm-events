@@ -2766,6 +2766,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/319.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-326@local
+DTSTAMP:20261113T230059Z
+LAST-MODIFIED:20261113T230059Z
+DTSTART:20261114T003000Z
+DTEND:20261114T013000Z
+SUMMARY:Group Climbing Session
+STATUS:CONFIRMED
+DESCRIPTION:Informal classmate climbing meetup announced in the group chat 
+ for 6:30 PM. Earlier chatter in this chat refers to climbing at Momentum\,
+  which closes at 8 PM on some days\, but no gym was named in this announce
+ ment.\nHost: BCM COAG 25-26 (Going Climbing! group chat)\nDetails: https:/
+ /jerrywang123454321-maker.github.io/bcm-events/event/326.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/326.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-321@local
 DTSTAMP:20261113T130105Z
 LAST-MODIFIED:20261113T130105Z
@@ -2823,8 +2839,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-287@local
-DTSTAMP:20261113T130105Z
-LAST-MODIFIED:20261113T130105Z
+DTSTAMP:20261113T230018Z
+LAST-MODIFIED:20261113T230018Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:APAMSA Beach Field Day
@@ -2967,6 +2983,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/316.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-327@local
+DTSTAMP:20261113T230100Z
+LAST-MODIFIED:20261113T230100Z
+DTSTART:20261117T211500Z
+DTEND:20261117T221500Z
+SUMMARY:Dream Outside the Box: Volunteering at MacGregor
+STATUS:CONFIRMED
+LOCATION:MacGregor (elementary school site)
+DESCRIPTION:Weekly Dream Outside the Box volunteering session running scien
+ ce/enrichment activities with elementary students\, with volunteers groupe
+ d by classroom/grade. Sign up through the Google Form\; signups close Sund
+ ay night.\nHost: Dream Outside the Box\nRSVP requested by Sun Nov 15\, 11:
+ 59 PM: https://forms.gle/1uMfBMqsY1FJwvUy8\nDetails: https://jerrywang1234
+ 54321-maker.github.io/bcm-events/event/327.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/327.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-193@local
 DTSTAMP:20261113T130105Z
 LAST-MODIFIED:20261113T130105Z
@@ -2981,6 +3015,27 @@ DESCRIPTION:Weekly Tuesday run club at Hermann Park\, now starting at 5pm i
  93.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/193.html
 CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-328@local
+DTSTAMP:20261113T230100Z
+LAST-MODIFIED:20261113T230100Z
+DTSTART:20261117T230000Z
+DTEND:20261118T003000Z
+SUMMARY:Siempre Unidos x LMSA: Bridging the Language Gap — Interpreter Us
+ e in Patient Care Panel
+STATUS:CONFIRMED
+LOCATION:Room M423
+DESCRIPTION:Panel on multilingual and multi-specialty perspectives on using
+  interpreters in patient care\, with Dr. Robert Buxton (Ben Taub internist
+ )\, Dr. Juan Vitelio Rodriguez (TCH transfusion medicine)\, and Lorenzo Ru
+ iz (certified medical interpreter). Worth 1.5 SLP education points\; food 
+ provided. Can be attended in person or via the Teams link.\nHost: Siempre 
+ Unidos x LMSA\nRSVP requested: https://forms.gle/iKx2q85Vf52fHciSA\nOnline
+  option: link in the group chat.\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/328.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/328.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-255@local

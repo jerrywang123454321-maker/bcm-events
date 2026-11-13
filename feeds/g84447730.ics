@@ -45,4 +45,25 @@ DESCRIPTION:Joint McGovern x BCM walk in Hermann Park to practice conversat
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/286.html
 CATEGORIES:Student org
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-328@local
+DTSTAMP:20261113T230100Z
+LAST-MODIFIED:20261113T230100Z
+DTSTART:20261117T230000Z
+DTEND:20261118T003000Z
+SUMMARY:Siempre Unidos x LMSA: Bridging the Language Gap — Interpreter Us
+ e in Patient Care Panel
+STATUS:CONFIRMED
+LOCATION:Room M423
+DESCRIPTION:Panel on multilingual and multi-specialty perspectives on using
+  interpreters in patient care\, with Dr. Robert Buxton (Ben Taub internist
+ )\, Dr. Juan Vitelio Rodriguez (TCH transfusion medicine)\, and Lorenzo Ru
+ iz (certified medical interpreter). Worth 1.5 SLP education points\; food 
+ provided. Can be attended in person or via the Teams link.\nHost: Siempre 
+ Unidos x LMSA\nRSVP requested: https://forms.gle/iKx2q85Vf52fHciSA\nOnline
+  option: link in the group chat.\nDetails: https://jerrywang123454321-make
+ r.github.io/bcm-events/event/328.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/328.html
+CATEGORIES:Student org
+END:VEVENT
 END:VCALENDAR

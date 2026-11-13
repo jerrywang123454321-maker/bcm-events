@@ -98,4 +98,22 @@ DESCRIPTION:Volunteer session where kids act as forensic scientists: they l
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/295.html
 CATEGORIES:Service / volunteering
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-327@local
+DTSTAMP:20261113T230100Z
+LAST-MODIFIED:20261113T230100Z
+DTSTART:20261117T211500Z
+DTEND:20261117T221500Z
+SUMMARY:Dream Outside the Box: Volunteering at MacGregor
+STATUS:CONFIRMED
+LOCATION:MacGregor (elementary school site)
+DESCRIPTION:Weekly Dream Outside the Box volunteering session running scien
+ ce/enrichment activities with elementary students\, with volunteers groupe
+ d by classroom/grade. Sign up through the Google Form\; signups close Sund
+ ay night.\nHost: Dream Outside the Box\nRSVP requested by Sun Nov 15\, 11:
+ 59 PM: https://forms.gle/1uMfBMqsY1FJwvUy8\nDetails: https://jerrywang1234
+ 54321-maker.github.io/bcm-events/event/327.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/327.html
+CATEGORIES:Service / volunteering
+END:VEVENT
 END:VCALENDAR
