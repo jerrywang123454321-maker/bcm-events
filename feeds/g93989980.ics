@@ -10,27 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-161@local
-DTSTAMP:20261013T120858Z
-LAST-MODIFIED:20261013T120858Z
-DTSTART:20261014T000000Z
-DTEND:20261014T010000Z
-SUMMARY:APAMSA: Becoming a Physician Advocate with Kelly Cheung\, MD
-STATUS:CONFIRMED
-LOCATION:Virtual (Zoom)
-DESCRIPTION:Conversation with Kelly Cheung\, MD\, a UCLA Geriatrics and Pal
- liative Medicine fellow\, on her path to medicine and her advocacy for ger
- iatrics and palliative care\, plus how pre-health and medical students can
-  find their own advocacy voices. Worth +1 APAMSA point for attendance — 
- DM Audrey a screenshot of yourself in the meeting with camera on. Attendee
- s are asked to stay for the session rather than dropping in and out\, out 
- of respect for the speaker.\nHost: APAMSA\nOnline option: link in the grou
- p chat.\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
- ent/161.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/161.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-195@local
 DTSTAMP:20261014T180100Z
 LAST-MODIFIED:20261014T180100Z
@@ -128,8 +107,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-287@local
-DTSTAMP:20261112T130051Z
-LAST-MODIFIED:20261112T130051Z
+DTSTAMP:20261113T130105Z
+LAST-MODIFIED:20261113T130105Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:APAMSA Beach Field Day
@@ -144,8 +123,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-57@local
-DTSTAMP:20261112T130051Z
-LAST-MODIFIED:20261112T130051Z
+DTSTAMP:20261113T130105Z
+LAST-MODIFIED:20261113T130105Z
 DTSTART:20261208T160000Z
 DTEND:20261208T180000Z
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
@@ -163,8 +142,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-308@local
-DTSTAMP:20261112T130051Z
-LAST-MODIFIED:20261112T130051Z
+DTSTAMP:20261113T130105Z
+LAST-MODIFIED:20261113T130105Z
 DTSTART:20261212T023000Z
 DTEND:20261212T033000Z
 SUMMARY:MS1 & MS2 Student Senate × APAMSA: End of Semester Party
