@@ -45,12 +45,12 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-293@local
-DTSTAMP:20261112T130051Z
-LAST-MODIFIED:20261112T130051Z
+DTSTAMP:20261113T010033Z
+LAST-MODIFIED:20261113T010033Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:BCM Ambassadors: Volunteers Needed for New Social
-STATUS:CONFIRMED
+SUMMARY:Cancelled: BCM Ambassadors: Volunteers Needed for New Social
+STATUS:CANCELLED
 DESCRIPTION:A newly added social event that needs BCM Ambassadors to help s
  taff it. Interested ambassadors should add their name in the new tab of th
  e ambassadors sign-up spreadsheet. No time or location was given in the an

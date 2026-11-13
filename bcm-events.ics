@@ -2717,12 +2717,12 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-293@local
-DTSTAMP:20261112T130051Z
-LAST-MODIFIED:20261112T130051Z
+DTSTAMP:20261113T010033Z
+LAST-MODIFIED:20261113T010033Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:BCM Ambassadors: Volunteers Needed for New Social
-STATUS:CONFIRMED
+SUMMARY:Cancelled: BCM Ambassadors: Volunteers Needed for New Social
+STATUS:CANCELLED
 DESCRIPTION:A newly added social event that needs BCM Ambassadors to help s
  taff it. Interested ambassadors should add their name in the new tab of th
  e ambassadors sign-up spreadsheet. No time or location was given in the an
@@ -3045,6 +3045,28 @@ DESCRIPTION:Last anatomy clinical talk of the year\, with Dr. Mirza Umair K
  WRZTQJcVQXRv3aUK4LJZSGrF4WioRvsw/viewform?usp=header\nDetails: https://jer
  rywang123454321-maker.github.io/bcm-events/event/320.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/320.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-322@local
+DTSTAMP:20261113T010033Z
+LAST-MODIFIED:20261113T010033Z
+DTSTART:20261119T000000Z
+DTEND:20261119T010000Z
+SUMMARY:AMC: Physician-Educators — Advancing Your Skills in Medical Educa
+ tion
+STATUS:CONFIRMED
+LOCATION:M321 Classroom
+DESCRIPTION:Q&A-style panel with three faculty from varying specialties (Dr
+ . Chinedu Otu\, Dr. Miriah Gillespie-Taylor\, Dr. Benjamin Silva) who purs
+ ued higher education degrees or fellowships in medical education\, discuss
+ ing how those programs shaped their teaching of students\, residents\, and
+  fellows. Attendees can submit questions in advance through the RSVP form\
+ ; food provided for those who RSVP.\nHost: BCM Academic Medicine Collabora
+ tive (AMC)\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSfMtO
+ TuXpJaPLJ-XvsZigXo2fxYm8dfIP4eCuCkjm4J4DiVJA/viewform?usp=header\nDetails:
+  https://jerrywang123454321-maker.github.io/bcm-events/event/322.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/322.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
