@@ -1530,8 +1530,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-315@local
-DTSTAMP:20261113T130105Z
-LAST-MODIFIED:20261113T130105Z
+DTSTAMP:20261113T170025Z
+LAST-MODIFIED:20261113T170025Z
 DTSTART:20261113T180000Z
 DTEND:20261113T190000Z
 SUMMARY:Baylor Literary Society: 2nd Reading Meeting
@@ -1642,6 +1642,23 @@ DESCRIPTION:Workshop teaching Arabic phrases for communicating with Arabic-
  //jerrywang123454321-maker.github.io/bcm-events/event/310.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/310.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-324@local
+DTSTAMP:20261113T170026Z
+LAST-MODIFIED:20261113T170026Z
+DTSTART:20261116T233000Z
+DTEND:20261117T003000Z
+SUMMARY:IMIG: CRR Jeopardy Review Session
+STATUS:CONFIRMED
+LOCATION:M321/323
+DESCRIPTION:Jeopardy-style review session focused on Cardiology topics for 
+ the final CRR exam\, presented by the Internal Medicine Interest Group. RS
+ VP via the QR code on the flyer.\nHost: IMIG (Internal Medicine Interest G
+ roup)\nRSVP requested\nDetails: https://jerrywang123454321-maker.github.io
+ /bcm-events/event/324.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/324.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-316@local
