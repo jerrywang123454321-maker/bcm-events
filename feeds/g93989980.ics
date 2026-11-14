@@ -10,25 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-195@local
-DTSTAMP:20261014T180100Z
-LAST-MODIFIED:20261014T180100Z
-DTSTART:20261014T230000Z
-DTEND:20261015T000000Z
-SUMMARY:BPSOS Poll Monitor Volunteer: Virtual Training
-STATUS:CONFIRMED
-LOCATION:Virtual
-DESCRIPTION:Required virtual training for students who want to volunteer as
-  BPSOS Poll Monitors during Early Voting this election season. Poll Monito
- rs provide voter assistance\, distribute resources\, and report issues\; b
- ilingual Vietnamese/English volunteers are especially needed. DM the organ
- izer in the group chat for training and shift details.\nHost: BPSOS (share
- d via APAMSA)\nRSVP requested\nDetails: https://jerrywang123454321-maker.g
- ithub.io/bcm-events/event/195.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/195.html
-CATEGORIES:Service / volunteering
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-160@local
 DTSTAMP:20261101T130636Z
 LAST-MODIFIED:20261101T130636Z
@@ -107,8 +88,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-287@local
-DTSTAMP:20261113T230018Z
-LAST-MODIFIED:20261113T230018Z
+DTSTAMP:20261114T130201Z
+LAST-MODIFIED:20261114T130201Z
 DTSTART:20261114T180000Z
 DTEND:20261114T220000Z
 SUMMARY:APAMSA Beach Field Day
@@ -123,86 +104,92 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-329@local
-DTSTAMP:20261114T010051Z
-LAST-MODIFIED:20261114T010051Z
+DTSTAMP:20261114T130204Z
+LAST-MODIFIED:20261114T130204Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:CCC Volunteering (Non-Site SLP Hours)
 STATUS:CONFIRMED
-LOCATION:CCC
-DESCRIPTION:Volunteering at the CCC now counts for non-site SLP volunteer h
- ours. Open any Tuesday or Thursday morning for the rest of the year — ad
- d your name to the sign-up spreadsheet about a week before the date you wa
- nt and show up. Exact morning start time is not stated in the message.\nTi
- me not announced yet.\nHost: APAMSA\nRSVP requested by Tue Nov 10\, 11:59 
- PM: http://docs.google.com/spreadsheets/d/1ah1YrXt0LUHXNcLMd8uHvD71TaKigiL
- aiN6hHG8GARo/edit?usp=sharing\nDetails: https://jerrywang123454321-maker.g
- ithub.io/bcm-events/event/329.html
+LOCATION:Chinese Community Center (CCC)
+DESCRIPTION:Volunteer as an ESL tutor at the Chinese Community Center\, whi
+ ch is approved as a site for non-site SLP volunteer hours. Open any Tuesda
+ y or Thursday morning for the rest of the year: add your name to the sign-
+ up spreadsheet about a week before the date you want and show up. Exact mo
+ rning start time is not stated in the chat.\nTime not announced yet.\nHost
+ : APAMSA\nRSVP requested by Tue Nov 10\, 11:59 PM: http://docs.google.com/
+ spreadsheets/d/1ah1YrXt0LUHXNcLMd8uHvD71TaKigiLaiN6hHG8GARo/edit?usp=shari
+ ng\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/3
+ 29.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/329.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-330@local
-DTSTAMP:20261114T010052Z
-LAST-MODIFIED:20261114T010052Z
+DTSTAMP:20261114T130205Z
+LAST-MODIFIED:20261114T130205Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:CCC Volunteering (Non-Site SLP Hours)
 STATUS:CONFIRMED
-LOCATION:CCC
-DESCRIPTION:Volunteering at the CCC now counts for non-site SLP volunteer h
- ours. Open any Tuesday or Thursday morning for the rest of the year — ad
- d your name to the sign-up spreadsheet about a week before the date you wa
- nt and show up.\nTime not announced yet.\nHost: APAMSA\nRSVP requested by 
- Thu Nov 12\, 11:59 PM: http://docs.google.com/spreadsheets/d/1ah1YrXt0LUHX
- NcLMd8uHvD71TaKigiLaiN6hHG8GARo/edit?usp=sharing\nDetails: https://jerrywa
- ng123454321-maker.github.io/bcm-events/event/330.html
+LOCATION:Chinese Community Center (CCC)
+DESCRIPTION:Volunteer as an ESL tutor at the Chinese Community Center\, whi
+ ch is approved as a site for non-site SLP volunteer hours. Open any Tuesda
+ y or Thursday morning for the rest of the year: add your name to the sign-
+ up spreadsheet about a week before the date you want and show up. Exact mo
+ rning start time is not stated in the chat.\nTime not announced yet.\nHost
+ : APAMSA\nRSVP requested by Thu Nov 12\, 11:59 PM: http://docs.google.com/
+ spreadsheets/d/1ah1YrXt0LUHXNcLMd8uHvD71TaKigiLaiN6hHG8GARo/edit?usp=shari
+ ng\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/3
+ 30.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/330.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-331@local
-DTSTAMP:20261114T010053Z
-LAST-MODIFIED:20261114T010053Z
+DTSTAMP:20261114T130206Z
+LAST-MODIFIED:20261114T130206Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:CCC Volunteering (Non-Site SLP Hours)
 STATUS:CONFIRMED
-LOCATION:CCC
-DESCRIPTION:Volunteering at the CCC now counts for non-site SLP volunteer h
- ours. Open any Tuesday or Thursday morning for the rest of the year — ad
- d your name to the sign-up spreadsheet about a week before the date you wa
- nt and show up.\nTime not announced yet.\nHost: APAMSA\nRSVP requested by 
- Tue Nov 17\, 11:59 PM: http://docs.google.com/spreadsheets/d/1ah1YrXt0LUHX
- NcLMd8uHvD71TaKigiLaiN6hHG8GARo/edit?usp=sharing\nDetails: https://jerrywa
- ng123454321-maker.github.io/bcm-events/event/331.html
+LOCATION:Chinese Community Center (CCC)
+DESCRIPTION:Volunteer as an ESL tutor at the Chinese Community Center\, whi
+ ch is approved as a site for non-site SLP volunteer hours. Open any Tuesda
+ y or Thursday morning for the rest of the year: add your name to the sign-
+ up spreadsheet about a week before the date you want and show up. Exact mo
+ rning start time is not stated in the chat.\nTime not announced yet.\nHost
+ : APAMSA\nRSVP requested by Tue Nov 17\, 11:59 PM: http://docs.google.com/
+ spreadsheets/d/1ah1YrXt0LUHXNcLMd8uHvD71TaKigiLaiN6hHG8GARo/edit?usp=shari
+ ng\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/3
+ 31.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/331.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-332@local
-DTSTAMP:20261114T010054Z
-LAST-MODIFIED:20261114T010054Z
+DTSTAMP:20261114T130206Z
+LAST-MODIFIED:20261114T130206Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:CCC Volunteering (Non-Site SLP Hours)
 STATUS:CONFIRMED
-LOCATION:CCC
-DESCRIPTION:Volunteering at the CCC now counts for non-site SLP volunteer h
- ours. Open any Tuesday or Thursday morning for the rest of the year — ad
- d your name to the sign-up spreadsheet about a week before the date you wa
- nt and show up. Note this date falls on Thanksgiving.\nTime not announced 
- yet.\nHost: APAMSA\nRSVP requested by Thu Nov 19\, 11:59 PM: http://docs.g
- oogle.com/spreadsheets/d/1ah1YrXt0LUHXNcLMd8uHvD71TaKigiLaiN6hHG8GARo/edit
- ?usp=sharing\nDetails: https://jerrywang123454321-maker.github.io/bcm-even
- ts/event/332.html
+LOCATION:Chinese Community Center (CCC)
+DESCRIPTION:Volunteer as an ESL tutor at the Chinese Community Center\, whi
+ ch is approved as a site for non-site SLP volunteer hours. Open any Tuesda
+ y or Thursday morning for the rest of the year: add your name to the sign-
+ up spreadsheet about a week before the date you want and show up. Note thi
+ s date falls on Thanksgiving\, and no message says whether the site is ope
+ n.\nTime not announced yet.\nHost: APAMSA\nRSVP requested by Thu Nov 19\, 
+ 11:59 PM: http://docs.google.com/spreadsheets/d/1ah1YrXt0LUHXNcLMd8uHvD71T
+ aKigiLaiN6hHG8GARo/edit?usp=sharing\nDetails: https://jerrywang123454321-m
+ aker.github.io/bcm-events/event/332.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/332.html
 CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-57@local
-DTSTAMP:20261113T130105Z
-LAST-MODIFIED:20261113T130105Z
+DTSTAMP:20261114T130201Z
+LAST-MODIFIED:20261114T130201Z
 DTSTART:20261208T160000Z
 DTEND:20261208T180000Z
 SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
@@ -220,8 +207,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-308@local
-DTSTAMP:20261113T130105Z
-LAST-MODIFIED:20261113T130105Z
+DTSTAMP:20261114T130201Z
+LAST-MODIFIED:20261114T130201Z
 DTSTART:20261212T023000Z
 DTEND:20261212T033000Z
 SUMMARY:MS1 & MS2 Student Senate × APAMSA: End of Semester Party
@@ -235,5 +222,26 @@ DESCRIPTION:End-of-semester party at a rented venue with music by DJ Mo Mon
  ent/308.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/308.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-290@local
+DTSTAMP:20261114T130203Z
+LAST-MODIFIED:20261114T130203Z
+DTSTART:20270112T160000Z
+DTEND:20270112T180000Z
+SUMMARY:BPSOS-Houston 2nd Tuesday Health Clinic: Volunteering
+STATUS:CONFIRMED
+LOCATION:BPSOS-Houston\, 11360 Bellaire Blvd.\, Ste. 910\, Houston\, TX 770
+ 72
+DESCRIPTION:Monthly free health clinic held on the second Tuesday of each m
+ onth by Boat People SOS for the Vietnamese immigrant and refugee community
+ \, offering screenings\, flu shots\, behavioral health\, and insurance enr
+ ollment help. Volunteers sign up through the SignUpGenius link\; organizer
+ s email more info closer to the date.\nHost: APAMSA / BPSOS-Houston\nRSVP 
+ requested: https://www.signupgenius.com/go/10C0F4EAAA723A0FA7-61361761-202
+ 6#/\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/
+ 290.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/290.html
+CATEGORIES:Service / volunteering
 END:VEVENT
 END:VCALENDAR
