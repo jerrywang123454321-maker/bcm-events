@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-183@local
-DTSTAMP:20261015T160022Z
-LAST-MODIFIED:20261015T160022Z
-DTSTART:20261015T223000Z
-DTEND:20261015T233000Z
-SUMMARY:Baylor Soccer: Thursday Pickup Game
-STATUS:CONFIRMED
-LOCATION:Helix Park (per previous weeks\; not restated in this message)
-DESCRIPTION:Weekly casual pickup soccer with the Baylor Soccer group\, this
-  week at 5:30 PM. Open to anyone who wants to drop in\; bring athletic clo
- thes and cleats/sneakers.\nHost: Baylor Soccer\nDetails: https://jerrywang
- 123454321-maker.github.io/bcm-events/event/183.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/183.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-207@local
 DTSTAMP:20261023T010019Z
 LAST-MODIFIED:20261023T010019Z
