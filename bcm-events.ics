@@ -2607,8 +2607,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-286@local
-DTSTAMP:20261116T130051Z
-LAST-MODIFIED:20261116T130051Z
+DTSTAMP:20261116T190038Z
+LAST-MODIFIED:20261116T190038Z
 DTSTART:20261116T230000Z
 DTEND:20261117T000000Z
 SUMMARY:Siempre Unidos: Caminar y Charlar Spanish Walk (McGovern x BCM)
@@ -2620,24 +2620,6 @@ DESCRIPTION:Joint McGovern x BCM walk in Hermann Park to practice conversat
  ested: https://forms.gle/pKvHhfeC2yPhuDuUA\nDetails: https://jerrywang1234
  54321-maker.github.io/bcm-events/event/286.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/286.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-310@local
-DTSTAMP:20261116T130051Z
-LAST-MODIFIED:20261116T130051Z
-DTSTART:20261116T233000Z
-DTEND:20261117T003000Z
-SUMMARY:NAAMA: Medical Arabic Workshop with Dr. Mohammad Hirzallah
-STATUS:CONFIRMED
-LOCATION:Room N317
-DESCRIPTION:Workshop teaching Arabic phrases for communicating with Arabic-
- speaking patients\; no Arabic needed to attend\, and attendees earn 1 SLP 
- education point. Food will be shawarma\; RSVP via the Google Form for food
- .\nHost: NAAMA\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLS
- eE44yEZdEgpEdmVxUwteatfkFSYO0JTmLx67dxyUouLTYwmw/viewform\nDetails: https:
- //jerrywang123454321-maker.github.io/bcm-events/event/310.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/310.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
@@ -2671,6 +2653,23 @@ DESCRIPTION:Volunteer event making bracelets to give to the kids at the Chi
  ywang123454321-maker.github.io/bcm-events/event/334.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/334.html
 CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-310@local
+DTSTAMP:20261116T190040Z
+LAST-MODIFIED:20261116T190040Z
+DTSTART:20261117T000000Z
+DTEND:20261117T010000Z
+SUMMARY:NAAMA: Medical Arabic Workshop with Dr. Mohammad Hirzallah
+STATUS:CONFIRMED
+LOCATION:Room N317
+DESCRIPTION:Start time moved from 5:30 PM to 6:00 PM tonight. Workshop teac
+ hing Arabic phrases to better understand and communicate with patients.\nH
+ ost: NAAMA\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSeE44
+ yEZdEgpEdmVxUwteatfkFSYO0JTmLx67dxyUouLTYwmw/viewform\nDetails: https://je
+ rrywang123454321-maker.github.io/bcm-events/event/310.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/310.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-325@local
@@ -2785,8 +2784,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-328@local
-DTSTAMP:20261116T130051Z
-LAST-MODIFIED:20261116T130051Z
+DTSTAMP:20261116T190038Z
+LAST-MODIFIED:20261116T190038Z
 DTSTART:20261117T230000Z
 DTEND:20261118T003000Z
 SUMMARY:Siempre Unidos x LMSA: Bridging the Language Gap — Interpreter Us
