@@ -47,4 +47,37 @@ DESCRIPTION:Applications are open for the 2027 NephSIM Nephrons Program\, a
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/181.html
 CATEGORIES:Deadline
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-339@local
+DTSTAMP:20261116T210111Z
+LAST-MODIFIED:20261116T210111Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Society of Hospital Medicine Annual Abstract Competition: Abstract 
+ Submission Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Abstracts are due November 23 for the Society of Hospital Medic
+ ine Annual Abstract Competition\, where students can present their researc
+ h at the December 12 competition. Opportunity shared with IMIG by Dr. Step
+ hanie Sherman.\nHost: Society of Hospital Medicine\nDetails: https://jerry
+ wang123454321-maker.github.io/bcm-events/event/339.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/339.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-340@local
+DTSTAMP:20261116T210112Z
+LAST-MODIFIED:20261116T210112Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Society of Hospital Medicine Annual Abstract Competition
+STATUS:CONFIRMED
+DESCRIPTION:Opportunity to present your research at the Society of Hospital
+  Medicine Annual Abstract Competition. Abstracts must be submitted by Nove
+ mber 23 to participate. Shared with IMIG by Dr. Stephanie Sherman.\nHost: 
+ Society of Hospital Medicine\nRSVP requested by Mon Nov 23\, 11:59 PM\nDet
+ ails: https://jerrywang123454321-maker.github.io/bcm-events/event/340.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/340.html
+CATEGORIES:Interest group
+END:VEVENT
 END:VCALENDAR

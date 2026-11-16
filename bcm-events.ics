@@ -2571,8 +2571,8 @@ CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-336@local
-DTSTAMP:20261116T130052Z
-LAST-MODIFIED:20261116T130052Z
+DTSTAMP:20261116T210025Z
+LAST-MODIFIED:20261116T210025Z
 DTSTART:20261116T223000Z
 DTEND:20261116T233000Z
 SUMMARY:Baylor Soccer: Pick-Up Game
@@ -2656,8 +2656,8 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-310@local
-DTSTAMP:20261116T190040Z
-LAST-MODIFIED:20261116T190040Z
+DTSTAMP:20261116T210050Z
+LAST-MODIFIED:20261116T210050Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
 SUMMARY:NAAMA: Medical Arabic Workshop with Dr. Mohammad Hirzallah
@@ -2692,8 +2692,8 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-337@local
-DTSTAMP:20261116T130051Z
-LAST-MODIFIED:20261116T130051Z
+DTSTAMP:20261116T210110Z
+LAST-MODIFIED:20261116T210110Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
 SUMMARY:BCM Indoor Volleyball (Monday Pick-Up)
@@ -2905,6 +2905,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/322.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-338@local
+DTSTAMP:20261116T210111Z
+LAST-MODIFIED:20261116T210111Z
+DTSTART:20261119T000000Z
+DTEND:20261119T013000Z
+SUMMARY:BPSA: Cardiac Anatomy Workshop with Dr. Darryl Kinnear
+STATUS:CONFIRMED
+LOCATION:TCH Abercrombie Building\, Level B1
+DESCRIPTION:Hands-on pediatric cardiology workshop led by Dr. Darryl Kinnea
+ r: view real heart specimens with congenital heart defects and review norm
+ al cardiac anatomy in preparation for the MS1 anatomy exam.\nHost: BPSA\nR
+ SVP requested: https://docs.google.com/forms/d/e/1FAIpQLScq3zR-X_McG98_iDA
+ _YwHmupKe6tVZRGAmD-rAMArje2HEFw/viewform\nDetails: https://jerrywang123454
+ 321-maker.github.io/bcm-events/event/338.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/338.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-312@local
 DTSTAMP:20261116T130051Z
 LAST-MODIFIED:20261116T130051Z
@@ -2922,8 +2940,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-306@local
-DTSTAMP:20261116T130051Z
-LAST-MODIFIED:20261116T130051Z
+DTSTAMP:20261116T210037Z
+LAST-MODIFIED:20261116T210037Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:MS1 Class Fundraiser: Embroidered BCM Sweatshirt Order Deadline
@@ -3036,6 +3054,23 @@ DESCRIPTION:Baylor MS1 class potluck celebrating the end of the CRR block a
  events/event/302.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/302.html
 CATEGORIES:Social
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-339@local
+DTSTAMP:20261116T210111Z
+LAST-MODIFIED:20261116T210111Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Society of Hospital Medicine Annual Abstract Competition: Abstract 
+ Submission Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Abstracts are due November 23 for the Society of Hospital Medic
+ ine Annual Abstract Competition\, where students can present their researc
+ h at the December 12 competition. Opportunity shared with IMIG by Dr. Step
+ hanie Sherman.\nHost: Society of Hospital Medicine\nDetails: https://jerry
+ wang123454321-maker.github.io/bcm-events/event/339.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/339.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-331@local
@@ -3325,6 +3360,22 @@ DESCRIPTION:End-of-semester party at a rented venue with music by DJ Mo Mon
  ent/308.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/308.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-340@local
+DTSTAMP:20261116T210112Z
+LAST-MODIFIED:20261116T210112Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Society of Hospital Medicine Annual Abstract Competition
+STATUS:CONFIRMED
+DESCRIPTION:Opportunity to present your research at the Society of Hospital
+  Medicine Annual Abstract Competition. Abstracts must be submitted by Nove
+ mber 23 to participate. Shared with IMIG by Dr. Stephanie Sherman.\nHost: 
+ Society of Hospital Medicine\nRSVP requested by Mon Nov 23\, 11:59 PM\nDet
+ ails: https://jerrywang123454321-maker.github.io/bcm-events/event/340.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/340.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-234@local
