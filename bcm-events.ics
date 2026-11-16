@@ -2806,21 +2806,20 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-333@local
-DTSTAMP:20261116T130051Z
-LAST-MODIFIED:20261116T130051Z
+DTSTAMP:20261116T170026Z
+LAST-MODIFIED:20261116T170026Z
 DTSTART:20261117T231500Z
 DTEND:20261118T001500Z
 SUMMARY:Student Surgical Society: Surgical Research Talk
 STATUS:CONFIRMED
-LOCATION:Room M313\, DeBakey Building
-DESCRIPTION:Panel with Dr. Kevin Huang\, Dr. Abbas Rana\, and Dr. Anh Tuan 
- Nguyen of the BCM Department of Surgery on the different types of surgical
-  research (transplant outcomes\, AI\, machine perfusion) and how students 
- can get involved. A chance to meet faculty mentors and find projects leadi
- ng to abstracts and publications. Dinner provided.\nHost: BCM Student Surg
- ical Society\nRSVP requested: https://form.jotform.com/263168295975070\nDe
- tails: https://jerrywang123454321-maker.github.io/bcm-events/event/333.htm
- l
+LOCATION:Room N311\, Albert B. Alkek Building
+DESCRIPTION:Room change: now Room N311 in the Alkek Building (previously M3
+ 13\, DeBakey). Drs. Kevin Huang\, Abbas Rana\, and Anh Tuan Nguyen of the 
+ BCM Department of Surgery discuss types of surgical research and how stude
+ nts can get involved\, with a chance to meet faculty and find projects lea
+ ding to abstracts and publications. Dinner provided.\nHost: Student Surgic
+ al Society\nRSVP requested: https://form.jotform.com/263168295975070\nDeta
+ ils: https://jerrywang123454321-maker.github.io/bcm-events/event/333.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/333.html
 CATEGORIES:Interest group
 END:VEVENT
