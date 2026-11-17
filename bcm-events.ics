@@ -2923,21 +2923,20 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-238@local
-DTSTAMP:20261117T130103Z
-LAST-MODIFIED:20261117T130103Z
+DTSTAMP:20261117T210049Z
+LAST-MODIFIED:20261117T210049Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lung Institute Great American Smokeout: Volunteering
 STATUS:CONFIRMED
-DESCRIPTION:Volunteer at the BCM Lung Institute's Great American Smokeout l
- ung-health awareness campaign. Shifts available for set-up\, handing out e
- ducation materials\, and tear-down\; location and shift times are still TB
- D. Organizer is working on SLP approval. Adding your name to the interest 
- sheet does not commit you to volunteering\, it is for a head count before 
- the official sign-up goes out.\nHost: Baylor Students Against Cancer / BCM
-  Lung Institute\nRSVP requested: https://docs.google.com/spreadsheets/d/1A
- btanmKtZ10MI14S32HSij6108MiNq--XvDI5fpBqrs/edit?usp=sharing\nDetails: http
- s://jerrywang123454321-maker.github.io/bcm-events/event/238.html
+DESCRIPTION:Volunteers still needed for the Lung Institute's Great American
+  Smokeout awareness campaign. Shifts cover set-up\, passing out lung-healt
+ h education materials\, and tear-down\; shift times and location are liste
+ d in the sign-up sheet. Volunteering was being submitted for SLP credit.\n
+ Host: Baylor Students Against Cancer (with the BCM Lung Institute)\nRSVP r
+ equested: https://docs.google.com/spreadsheets/d/1PmIbrzFpXKhKDLZ6OEnpgOyk
+ iRrEBFp0NdgqktTJfZ0/edit?usp=sharing\nDetails: https://jerrywang123454321-
+ maker.github.io/bcm-events/event/238.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/238.html
 CATEGORIES:Service / volunteering
 END:VEVENT
@@ -3166,6 +3165,25 @@ DESCRIPTION:Volunteer as an ESL tutor at the Chinese Community Center\, whi
  aker.github.io/bcm-events/event/332.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/332.html
 CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-344@local
+DTSTAMP:20261117T210050Z
+LAST-MODIFIED:20261117T210050Z
+DTSTART:20261130T233000Z
+DTEND:20261201T003000Z
+SUMMARY:IHI: Cost of Care Conversations Workshop
+STATUS:CONFIRMED
+LOCATION:M321/323
+DESCRIPTION:In-person workshop on identifying and navigating the 3 types of
+  cost of care conversations and addressing financial barriers in healthcar
+ e contexts. Offers +1 SLP education point and +1 Dean's Distinction in HVC
+  didactics credit\; catered food. Houston campus only.\nHost: Institute fo
+ r Healthcare Improvement (IHI) at BCM\nRSVP requested: https://forms.gle/S
+ pBzQjkg2ERjUjV59\nDetails: https://jerrywang123454321-maker.github.io/bcm-
+ events/event/344.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/344.html
+CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-264@local
