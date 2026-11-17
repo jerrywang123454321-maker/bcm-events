@@ -2624,8 +2624,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-324@local
-DTSTAMP:20261116T130051Z
-LAST-MODIFIED:20261116T130051Z
+DTSTAMP:20261117T010032Z
+LAST-MODIFIED:20261117T010032Z
 DTSTART:20261116T233000Z
 DTEND:20261117T003000Z
 SUMMARY:IMIG: CRR Jeopardy Review Session
@@ -2692,12 +2692,12 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-337@local
-DTSTAMP:20261116T210110Z
-LAST-MODIFIED:20261116T210110Z
+DTSTAMP:20261117T010052Z
+LAST-MODIFIED:20261117T010052Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
-SUMMARY:BCM Indoor Volleyball (Monday Pick-Up)
-STATUS:CONFIRMED
+SUMMARY:Cancelled: BCM Indoor Volleyball (Monday Pick-Up)
+STATUS:CANCELLED
 DESCRIPTION:Casual indoor volleyball pick-up organized through the BCM Voll
  eyball Monday group chat\; players drop in and some arrive later in the ev
  ening. Gym badge/membership access is needed to get in\, so coordinate in 
@@ -2884,8 +2884,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-322@local
-DTSTAMP:20261116T130051Z
-LAST-MODIFIED:20261116T130051Z
+DTSTAMP:20261117T010051Z
+LAST-MODIFIED:20261117T010051Z
 DTSTART:20261119T000000Z
 DTEND:20261119T010000Z
 SUMMARY:AMC: Physician-Educators — Advancing Your Skills in Medical Educa
@@ -2898,9 +2898,10 @@ DESCRIPTION:Q&A-style panel with three faculty from varying specialties (Dr
  ing how those programs shaped their teaching of students\, residents\, and
   fellows. Attendees can submit questions in advance through the RSVP form\
  ; food provided for those who RSVP.\nHost: BCM Academic Medicine Collabora
- tive (AMC)\nRSVP requested: https://docs.google.com/forms/d/e/1FAIpQLSfMtO
- TuXpJaPLJ-XvsZigXo2fxYm8dfIP4eCuCkjm4J4DiVJA/viewform?usp=header\nDetails:
-  https://jerrywang123454321-maker.github.io/bcm-events/event/322.html
+ tive (AMC)\nRSVP requested by Tue Nov 17\, 11:59 PM: https://docs.google.c
+ om/forms/d/e/1FAIpQLSfMtOTuXpJaPLJ-XvsZigXo2fxYm8dfIP4eCuCkjm4J4DiVJA/view
+ form?usp=header\nDetails: https://jerrywang123454321-maker.github.io/bcm-e
+ vents/event/322.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/322.html
 CATEGORIES:Student org
 END:VEVENT
