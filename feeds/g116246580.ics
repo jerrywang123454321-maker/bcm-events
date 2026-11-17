@@ -10,24 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-84@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:BCM Ambassadors: Houston Campus Open House (Ambassador Sign-Ups)
-STATUS:CONFIRMED
-LOCATION:BCM Houston campus
-DESCRIPTION:First Houston campus open house of the year\; ambassadors sign 
- up via the shared Google Sheet. Sign up for only one open house so everyon
- e gets a chance to attend.\nTime not announced yet.\nHost: BCM Ambassadors
- \nRSVP requested: https://docs.google.com/spreadsheets/d/1HXDCvOjqp0jh01i2
- Y0HGvWx9GbRo4n_1sux4Ef_7eRY/edit?usp=sharing\nDetails: https://jerrywang12
- 3454321-maker.github.io/bcm-events/event/84.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/84.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-278@local
 DTSTAMP:20261104T131923Z
 LAST-MODIFIED:20261104T131923Z
