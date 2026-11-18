@@ -1518,6 +1518,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/333.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-345@local
+DTSTAMP:20261118T010326Z
+LAST-MODIFIED:20261118T010326Z
+DTSTART:20261118T003000Z
+DTEND:20261118T013000Z
+SUMMARY:Children's Medicaid and CHIP Eligibility Info Session
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Virtual talk on Children's Medicaid and CHIP eligibility and ho
+ w to use that information to help future patients. Counts as 1 SLP educati
+ on point. Pre- and post-surveys are part of the session for a BCM study\; 
+ participation is optional and does not affect your academic record.\nOnlin
+ e option: link in the group chat.\nDetails: https://jerrywang123454321-mak
+ er.github.io/bcm-events/event/345.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/345.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-342@local
 DTSTAMP:20261117T130103Z
 LAST-MODIFIED:20261117T130103Z
