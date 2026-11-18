@@ -106,20 +106,20 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-238@local
-DTSTAMP:20261118T130110Z
-LAST-MODIFIED:20261118T130110Z
+DTSTAMP:20261118T230046Z
+LAST-MODIFIED:20261118T230046Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lung Institute Great American Smokeout: Volunteering
 STATUS:CONFIRMED
-DESCRIPTION:Volunteers still needed for the Lung Institute's Great American
-  Smokeout awareness campaign. Shifts cover set-up\, passing out lung-healt
- h education materials\, and tear-down\; shift times and location are liste
- d in the sign-up sheet. Volunteering was being submitted for SLP credit.\n
- Host: Baylor Students Against Cancer (with the BCM Lung Institute)\nRSVP r
- equested: https://docs.google.com/spreadsheets/d/1PmIbrzFpXKhKDLZ6OEnpgOyk
- iRrEBFp0NdgqktTJfZ0/edit?usp=sharing\nDetails: https://jerrywang123454321-
- maker.github.io/bcm-events/event/238.html
+DESCRIPTION:Volunteers are still needed for the Lung Institute's Great Amer
+ ican Smokeout awareness campaign (set up\, passing out education materials
+ \, tear down). Parking validation is now available for all volunteers. Shi
+ ft details are in the sign-up sheet\; each hour counts toward SLP.\nHost: 
+ Baylor Students Against Cancer\nRSVP requested: https://docs.google.com/sp
+ readsheets/d/1PmIbrzFpXKhKDLZ6OEnpgOykiRrEBFp0NdgqktTJfZ0/edit?usp=sharing
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/238
+ .html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/238.html
 CATEGORIES:Service / volunteering
 END:VEVENT

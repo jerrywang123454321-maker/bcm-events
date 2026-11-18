@@ -2906,20 +2906,20 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-238@local
-DTSTAMP:20261118T130110Z
-LAST-MODIFIED:20261118T130110Z
+DTSTAMP:20261118T230046Z
+LAST-MODIFIED:20261118T230046Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lung Institute Great American Smokeout: Volunteering
 STATUS:CONFIRMED
-DESCRIPTION:Volunteers still needed for the Lung Institute's Great American
-  Smokeout awareness campaign. Shifts cover set-up\, passing out lung-healt
- h education materials\, and tear-down\; shift times and location are liste
- d in the sign-up sheet. Volunteering was being submitted for SLP credit.\n
- Host: Baylor Students Against Cancer (with the BCM Lung Institute)\nRSVP r
- equested: https://docs.google.com/spreadsheets/d/1PmIbrzFpXKhKDLZ6OEnpgOyk
- iRrEBFp0NdgqktTJfZ0/edit?usp=sharing\nDetails: https://jerrywang123454321-
- maker.github.io/bcm-events/event/238.html
+DESCRIPTION:Volunteers are still needed for the Lung Institute's Great Amer
+ ican Smokeout awareness campaign (set up\, passing out education materials
+ \, tear down). Parking validation is now available for all volunteers. Shi
+ ft details are in the sign-up sheet\; each hour counts toward SLP.\nHost: 
+ Baylor Students Against Cancer\nRSVP requested: https://docs.google.com/sp
+ readsheets/d/1PmIbrzFpXKhKDLZ6OEnpgOykiRrEBFp0NdgqktTJfZ0/edit?usp=sharing
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/238
+ .html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/238.html
 CATEGORIES:Service / volunteering
 END:VEVENT
@@ -3040,6 +3040,23 @@ DESCRIPTION:Baylor MS1 class potluck celebrating the end of the CRR block a
  events/event/302.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/302.html
 CATEGORIES:Social
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-349@local
+DTSTAMP:20261118T230046Z
+LAST-MODIFIED:20261118T230046Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Running Club Mileage Challenge: $10 Sign-Up Fee Payment Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Everyone who participated in the two-week intermedical-school m
+ ileage challenge owes the $10 sign-up fee\, sent by [payment handle remove
+ d] the organizer listed in the chat. Proceeds go to Achilles Houston\, a c
+ harity helping people with disabilities reach their fitness goals. BCM fin
+ ished 3rd with 1117.88 miles.\nHost: BCM Running Club\nDetails: https://je
+ rrywang123454321-maker.github.io/bcm-events/event/349.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/349.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-339@local
