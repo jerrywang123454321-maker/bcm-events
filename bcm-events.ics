@@ -3000,17 +3000,18 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-343@local
-DTSTAMP:20261117T190027Z
-LAST-MODIFIED:20261117T190027Z
+DTSTAMP:20261118T020320Z
+LAST-MODIFIED:20261118T020320Z
 DTSTART:20261121T030000Z
 DTEND:20261121T040000Z
 SUMMARY:End of CRR Party
 STATUS:CONFIRMED
 LOCATION:A member's home (address in the group chat)
 DESCRIPTION:Post-exam celebration for the end of the CRR block\, hosted at 
- a classmate's townhome. RSVP through the Partiful invite.\nRSVP requested:
-  https://partiful.com/e/FTEabRDxoOlelLSKaDSb?c=FPm163nb\nDetails: https://
- jerrywang123454321-maker.github.io/bcm-events/event/343.html
+ a classmate's townhome. RSVP through the Partiful invite.\nHost: MS1 Class
+ \nRSVP requested: https://partiful.com/e/FTEabRDxoOlelLSKaDSb?c=FPm163nb\n
+ Details: https://jerrywang123454321-maker.github.io/bcm-events/event/343.h
+ tml
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/343.html
 CATEGORIES:Social
 END:VEVENT
@@ -3058,12 +3059,12 @@ CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-302@local
-DTSTAMP:20261117T130103Z
-LAST-MODIFIED:20261117T130103Z
+DTSTAMP:20261118T020255Z
+LAST-MODIFIED:20261118T020255Z
 DTSTART:20261121T230000Z
 DTEND:20261122T013000Z
-SUMMARY:MS1 Class Friendsgiving Potluck
-STATUS:CONFIRMED
+SUMMARY:Cancelled: MS1 Class Friendsgiving Potluck
+STATUS:CANCELLED
 LOCATION:MacMillan Auditorium\, Alkek Building
 DESCRIPTION:Baylor MS1 class potluck celebrating the end of the CRR block a
  nd Thanksgiving. Cook and bring a dish and sign up with your PRN on the sh
