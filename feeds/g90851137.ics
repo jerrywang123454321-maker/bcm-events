@@ -10,25 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-112@local
-DTSTAMP:20261015T121758Z
-LAST-MODIFIED:20261015T121758Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Joan F. Giambalvo Fund for the Advancement of Women: Application De
- adline (Extended)
-STATUS:CONFIRMED
-DESCRIPTION:Extended deadline for the Joan F. Giambalvo Fund\, presented by
-  the AMA Women Physicians Section with the AMA Foundation. Provides schola
- rships of up to $10\,000 for research advancing the study of women in the 
- medical profession and issues affecting women physicians and medical stude
- nts. Application instructions and a list of past recipients are posted on 
- the AMA website.\nHost: AMA-MSS\nDetails: https://jerrywang123454321-maker
- .github.io/bcm-events/event/112.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/112.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-206@local
 DTSTAMP:20261019T160649Z
 LAST-MODIFIED:20261019T160649Z
@@ -237,8 +218,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-191@local
-DTSTAMP:20261117T130103Z
-LAST-MODIFIED:20261117T130103Z
+DTSTAMP:20261118T130110Z
+LAST-MODIFIED:20261118T130110Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:AWSIM Fall Symposium: Weight-Inclusive Medicine
@@ -256,8 +237,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-303@local
-DTSTAMP:20261117T130103Z
-LAST-MODIFIED:20261117T130103Z
+DTSTAMP:20261118T130110Z
+LAST-MODIFIED:20261118T130110Z
 DTSTART:20261120T010000Z
 DTEND:20261120T020000Z
 SUMMARY:Doctors for America Advocacy Grand Rounds: Menstrual Health in Inca
@@ -275,8 +256,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-341@local
-DTSTAMP:20261117T130103Z
-LAST-MODIFIED:20261117T130103Z
+DTSTAMP:20261118T130110Z
+LAST-MODIFIED:20261118T130110Z
 DTSTART:20261121T163000Z
 DTEND:20261121T173000Z
 SUMMARY:Extinction Medicine Reading Group: Critical Condition — What Are 
@@ -297,8 +278,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261117T130103Z
-LAST-MODIFIED:20261117T130103Z
+DTSTAMP:20261118T130110Z
+LAST-MODIFIED:20261118T130110Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
