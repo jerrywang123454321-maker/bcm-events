@@ -1616,8 +1616,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-306@local
-DTSTAMP:20261118T130110Z
-LAST-MODIFIED:20261118T130110Z
+DTSTAMP:20261118T190028Z
+LAST-MODIFIED:20261118T190028Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:MS1 Class Fundraiser: Embroidered BCM Sweatshirt Order Deadline
@@ -1698,6 +1698,26 @@ DESCRIPTION:Drop-in line dancing with free lessons starting at 9:30 pm. Ope
  ancing Club\nDetails: https://jerrywang123454321-maker.github.io/bcm-event
  s/event/313.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/313.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-347@local
+DTSTAMP:20261118T190044Z
+LAST-MODIFIED:20261118T190044Z
+DTSTART:20261130T180000Z
+DTEND:20261130T190000Z
+SUMMARY:BSAC: An Introduction to Radiation Oncology with Dr. Alexander Hana
+ nia
+STATUS:CONFIRMED
+LOCATION:Room M323
+DESCRIPTION:Dr. Alexander Hanania\, Clinical Director of Radiation Oncology
+  at Baylor\, discusses clinical applications of radiation therapy\, its ro
+ le in cancer treatment\, interesting cases from practice\, and what a care
+ er in radiation oncology looks like. Part of BSAC's Organ Block Cancer Ser
+ ies\; lunch provided.\nHost: Baylor Students Against Cancer (BSAC)\nRSVP r
+ equested\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/e
+ vent/347.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/347.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
