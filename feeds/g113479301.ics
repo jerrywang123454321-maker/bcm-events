@@ -1789,6 +1789,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/102.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-348@local
+DTSTAMP:20261118T210626Z
+LAST-MODIFIED:20261118T210626Z
+DTSTART:20261207T233000Z
+DTEND:20261208T003000Z
+SUMMARY:Space Medicine Interest Group (SMIG): Intro Meeting
+STATUS:CONFIRMED
+LOCATION:Room N315
+DESCRIPTION:Introduction to the Space Medicine Pathway at BCM\, upcoming el
+ ectives\, and research opportunities\, with a chance to meet Dr. Jeffrey S
+ utton\, Director of the Center for Space Medicine. RSVP via the Google For
+ m for food.\nHost: Space Medicine Interest Group (SMIG)\nRSVP requested: h
+ ttps://forms.gle/kynUQtD97mjKUeHb9\nDetails: https://jerrywang123454321-ma
+ ker.github.io/bcm-events/event/348.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/348.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-289@local
 DTSTAMP:20261118T130110Z
 LAST-MODIFIED:20261118T130110Z
