@@ -1616,8 +1616,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-306@local
-DTSTAMP:20261118T190028Z
-LAST-MODIFIED:20261118T190028Z
+DTSTAMP:20261119T050024Z
+LAST-MODIFIED:20261119T050024Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:MS1 Class Fundraiser: Embroidered BCM Sweatshirt Order Deadline
@@ -1631,6 +1631,23 @@ DESCRIPTION:Final update on the MS1 class sweatshirt fundraiser: two more c
  ents/event/306.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/306.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-351@local
+DTSTAMP:20261119T050025Z
+LAST-MODIFIED:20261119T050025Z
+DTSTART:20261119T233000Z
+DTEND:20261120T003000Z
+SUMMARY:Free HIIT Class at Fit Elevation
+STATUS:CONFIRMED
+LOCATION:Fit Elevation\, 2002 Oakdale St\, Houston\, TX 77004
+DESCRIPTION:Free high-intensity interval training session taught by a class
+ mate who is a personal trainer and group fitness instructor. All fitness l
+ evels welcome\; a few minutes from campus. Bring workout clothes and water
+ .\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/35
+ 1.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/351.html
+CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-343@local
