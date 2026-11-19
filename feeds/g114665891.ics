@@ -45,4 +45,23 @@ DESCRIPTION:Reminder for today's Street Medicine volunteering shift: volunt
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/294.html
 CATEGORIES:Student org
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-353@local
+DTSTAMP:20261119T170029Z
+LAST-MODIFIED:20261119T170029Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Street Medicine Sunday Outreach: Open Volunteer Spots
+STATUS:CONFIRMED
+DESCRIPTION:A few open volunteer spots remain for the Street Medicine Stude
+ nt Coalition's Sunday outreach run. Sign up through the SignUpGenius link.
+  Organizers ask volunteers not to cancel late\, since late drop-outs have 
+ made planning difficult\; drivers are often needed.\nTime not announced ye
+ t.\nHost: Street Medicine Student Coalition\nRSVP requested: https://m.sig
+ nupgenius.com/#!/showSignUp/10C054BAAA92CABFFCE9-66261804-street/186680867
+ ?useFullSite=false\nDetails: https://jerrywang123454321-maker.github.io/bc
+ m-events/event/353.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/353.html
+CATEGORIES:Student org
+END:VEVENT
 END:VCALENDAR
