@@ -277,4 +277,23 @@ DESCRIPTION:Applications are open on a rolling basis for the AMA Spring 202
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/194.html
 CATEGORIES:Deadline
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-354@local
+DTSTAMP:20261119T210024Z
+LAST-MODIFIED:20261119T210024Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:AMA-MSS Internal Operating Procedures Task Force: Feedback Comment 
+ Period Closes
+STATUS:CONFIRMED
+DESCRIPTION:Final deadline to comment on the 2026–2027 MSS Internal Opera
+ ting Procedures Task Force's commentable Google Doc\, which proposes updat
+ es to rules guiding MSS leadership\, member participation\, and decision-m
+ aking. Each tab of the doc holds a specific question for member input\; na
+ vigate via the 'Document tabs' panel and comment on the relevant tab.\nHos
+ t: AMA Medical Student Section (MSS)\nDetails: https://jerrywang123454321-
+ maker.github.io/bcm-events/event/354.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/354.html
+CATEGORIES:Deadline
+END:VEVENT
 END:VCALENDAR
