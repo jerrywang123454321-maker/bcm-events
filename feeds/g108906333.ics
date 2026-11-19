@@ -59,4 +59,20 @@ DESCRIPTION:Informal classmate climbing meetup announced in the group chat
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/326.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-350@local
+DTSTAMP:20261119T010029Z
+LAST-MODIFIED:20261119T010029Z
+DTSTART:20261119T013000Z
+DTEND:20261119T023000Z
+SUMMARY:Group Climbing Meetup
+STATUS:CONFIRMED
+DESCRIPTION:Informal climbing meetup organized in the class climbing chat\;
+  a classmate announced she would be climbing at 7:30 PM and others typical
+ ly join. No gym named in the message.\nHost: BCM COAG 25-26 climbing group
+  chat\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/even
+ t/350.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/350.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR
