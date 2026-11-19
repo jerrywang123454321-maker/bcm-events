@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-176@local
-DTSTAMP:20261020T000136Z
-LAST-MODIFIED:20261020T000136Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:BCM Running Club Officer Committee: Application Deadline
-STATUS:CONFIRMED
-DESCRIPTION:Applications for the BCM Running Club officer/leadership commit
- tee were extended and now stay open until Monday night (Oct 19) instead of
-  Sunday. Apply via the Google Form shared in the chat\; the organizer is a
- vailable by text for questions.\nHost: BCM Running Club\nDetails: https://
- jerrywang123454321-maker.github.io/bcm-events/event/176.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/176.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-272@local
 DTSTAMP:20261102T020031Z
 LAST-MODIFIED:20261102T020031Z
@@ -59,8 +43,8 @@ CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-349@local
-DTSTAMP:20261118T230046Z
-LAST-MODIFIED:20261118T230046Z
+DTSTAMP:20261119T130107Z
+LAST-MODIFIED:20261119T130107Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Running Club Mileage Challenge: $10 Sign-Up Fee Payment Deadline
