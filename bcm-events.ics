@@ -2781,17 +2781,19 @@ CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-360@local
-DTSTAMP:20261120T170913Z
-LAST-MODIFIED:20261120T170913Z
+DTSTAMP:20261120T190035Z
+LAST-MODIFIED:20261120T190035Z
 DTSTART:20261120T180000Z
 DTEND:20261120T190000Z
 SUMMARY:Simulation Society: Chicken Enchilada Plate & Praline Fundraiser
 STATUS:CONFIRMED
-LOCATION:Third floor of BCM\, by the vending machines
-DESCRIPTION:Simulation Society fundraiser selling homemade chicken enchilad
- a plates (with rice and beans) for $10 and pralines for $3. Cash/lunch pur
- chase\, drop by after the CRR exam.\nHost: Simulation Society\nDetails: ht
- tps://jerrywang123454321-maker.github.io/bcm-events/event/360.html
+LOCATION:Squad rooms (originally third floor of BCM\, by the vending machin
+ es)
+DESCRIPTION:Homemade chicken enchilada plates (enchiladas\, Spanish rice\, 
+ beans) and pralines sold to support Simulation Society. A classmate report
+ s the food is now being served in the squad rooms rather than by the third
+ -floor vending machines.\nHost: Simulation Society\nDetails: https://jerry
+ wang123454321-maker.github.io/bcm-events/event/360.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/360.html
 CATEGORIES:Student org
 END:VEVENT
