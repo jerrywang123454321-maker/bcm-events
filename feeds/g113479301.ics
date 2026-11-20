@@ -1489,6 +1489,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/351.html
 CATEGORIES:Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-360@local
+DTSTAMP:20261120T170913Z
+LAST-MODIFIED:20261120T170913Z
+DTSTART:20261120T180000Z
+DTEND:20261120T190000Z
+SUMMARY:Simulation Society: Chicken Enchilada Plate & Praline Fundraiser
+STATUS:CONFIRMED
+LOCATION:Third floor of BCM\, by the vending machines
+DESCRIPTION:Simulation Society fundraiser selling homemade chicken enchilad
+ a plates (with rice and beans) for $10 and pralines for $3. Cash/lunch pur
+ chase\, drop by after the CRR exam.\nHost: Simulation Society\nDetails: ht
+ tps://jerrywang123454321-maker.github.io/bcm-events/event/360.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/360.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-343@local
 DTSTAMP:20261120T130049Z
 LAST-MODIFIED:20261120T130049Z
@@ -1542,6 +1558,26 @@ DESCRIPTION:Baylor MS1 class potluck celebrating the end of the CRR block a
  events/event/302.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/302.html
 CATEGORIES:Social
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-361@local
+DTSTAMP:20261120T170914Z
+LAST-MODIFIED:20261120T170914Z
+DTSTART:20261124T010000Z
+DTEND:20261124T020000Z
+SUMMARY:Dermatology Interest Group: Dermatology Among Patients with Disabil
+ ities
+STATUS:CONFIRMED
+LOCATION:Room N311
+DESCRIPTION:Talk on caring for patients with disabilities and addressing th
+ eir dermatologic needs related to vision\, hearing\, mobility\, and more. 
+ Dessert/sweet treats provided\; counts for 1 SLP education point. RSVP via
+  the Google Form for food.\nHost: Dermatology Interest Group (DIG)\nRSVP r
+ equested: https://docs.google.com/forms/d/e/1FAIpQLSd6o-DIbrOzOc81SBzivgJt
+ vEsAA5wDP4B5J-kNZ0wG5U8rWA/viewform\nDetails: https://jerrywang123454321-m
+ aker.github.io/bcm-events/event/361.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/361.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-236@local

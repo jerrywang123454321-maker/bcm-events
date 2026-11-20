@@ -313,4 +313,20 @@ DESCRIPTION:Final deadline to comment on the 2026–2027 MSS Internal Opera
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/354.html
 CATEGORIES:Deadline
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-359@local
+DTSTAMP:20261120T170913Z
+LAST-MODIFIED:20261120T170913Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:AMA-MSS Standing Committee Applications: Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications for AMA Medical Student Section standing committee
+ s are now open and close December 7 at 11:59 CST. Apply through the AMA me
+ eting registration portal\; reach out to MSS leadership with questions.\nH
+ ost: AMA-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-even
+ ts/event/359.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/359.html
+CATEGORIES:Deadline
+END:VEVENT
 END:VCALENDAR

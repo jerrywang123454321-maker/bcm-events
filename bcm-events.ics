@@ -2763,6 +2763,39 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/356.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-362@local
+DTSTAMP:20261120T170914Z
+LAST-MODIFIED:20261120T170914Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:End of CRR Donuts in Green Squad Room
+STATUS:CONFIRMED
+LOCATION:Green Squad Room
+DESCRIPTION:Donuts for MS1s in the Green Squad Room after the first exam\, 
+ celebrating the end of CRR. A photo in the chat shows the donuts already s
+ et out with a note congratulating the class on finishing Step 1 in the yar
+ d.\nTime not announced yet.\nDetails: https://jerrywang123454321-maker.git
+ hub.io/bcm-events/event/362.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/362.html
+CATEGORIES:Social
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-360@local
+DTSTAMP:20261120T170913Z
+LAST-MODIFIED:20261120T170913Z
+DTSTART:20261120T180000Z
+DTEND:20261120T190000Z
+SUMMARY:Simulation Society: Chicken Enchilada Plate & Praline Fundraiser
+STATUS:CONFIRMED
+LOCATION:Third floor of BCM\, by the vending machines
+DESCRIPTION:Simulation Society fundraiser selling homemade chicken enchilad
+ a plates (with rice and beans) for $10 and pralines for $3. Cash/lunch pur
+ chase\, drop by after the CRR exam.\nHost: Simulation Society\nDetails: ht
+ tps://jerrywang123454321-maker.github.io/bcm-events/event/360.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/360.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-343@local
 DTSTAMP:20261120T130049Z
 LAST-MODIFIED:20261120T130049Z
@@ -2894,6 +2927,26 @@ DESCRIPTION:Everyone who participated in the two-week intermedical-school m
  rrywang123454321-maker.github.io/bcm-events/event/349.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/349.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-361@local
+DTSTAMP:20261120T170914Z
+LAST-MODIFIED:20261120T170914Z
+DTSTART:20261124T010000Z
+DTEND:20261124T020000Z
+SUMMARY:Dermatology Interest Group: Dermatology Among Patients with Disabil
+ ities
+STATUS:CONFIRMED
+LOCATION:Room N311
+DESCRIPTION:Talk on caring for patients with disabilities and addressing th
+ eir dermatologic needs related to vision\, hearing\, mobility\, and more. 
+ Dessert/sweet treats provided\; counts for 1 SLP education point. RSVP via
+  the Google Form for food.\nHost: Dermatology Interest Group (DIG)\nRSVP r
+ equested: https://docs.google.com/forms/d/e/1FAIpQLSd6o-DIbrOzOc81SBzivgJt
+ vEsAA5wDP4B5J-kNZ0wG5U8rWA/viewform\nDetails: https://jerrywang123454321-m
+ aker.github.io/bcm-events/event/361.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/361.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-339@local
@@ -3203,6 +3256,22 @@ DESCRIPTION:Final deadline to comment on the 2026–2027 MSS Internal Opera
  t: AMA Medical Student Section (MSS)\nDetails: https://jerrywang123454321-
  maker.github.io/bcm-events/event/354.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/354.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-359@local
+DTSTAMP:20261120T170913Z
+LAST-MODIFIED:20261120T170913Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:AMA-MSS Standing Committee Applications: Application Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Applications for AMA Medical Student Section standing committee
+ s are now open and close December 7 at 11:59 CST. Apply through the AMA me
+ eting registration portal\; reach out to MSS leadership with questions.\nH
+ ost: AMA-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-even
+ ts/event/359.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/359.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT

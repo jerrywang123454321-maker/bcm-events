@@ -43,4 +43,21 @@ DESCRIPTION:Joint squad volunteering event packing lunches\, which also ear
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/49.html
 CATEGORIES:Service / volunteering
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-362@local
+DTSTAMP:20261120T170914Z
+LAST-MODIFIED:20261120T170914Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:End of CRR Donuts in Green Squad Room
+STATUS:CONFIRMED
+LOCATION:Green Squad Room
+DESCRIPTION:Donuts for MS1s in the Green Squad Room after the first exam\, 
+ celebrating the end of CRR. A photo in the chat shows the donuts already s
+ et out with a note congratulating the class on finishing Step 1 in the yar
+ d.\nTime not announced yet.\nDetails: https://jerrywang123454321-maker.git
+ hub.io/bcm-events/event/362.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/362.html
+CATEGORIES:Social
+END:VEVENT
 END:VCALENDAR
