@@ -10,27 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-202@local
-DTSTAMP:20261020T160031Z
-LAST-MODIFIED:20261020T160031Z
-DTSTART:20261020T201500Z
-DTEND:20261020T211500Z
-SUMMARY:Dream Outside the Box: Volunteering at MacGregor — Fossil Day
-STATUS:CONFIRMED
-LOCATION:MacGregor
-DESCRIPTION:Today's theme is paleontology: each table gets a bag of half-mi
- xed salt dough that kids finish squishing\, then every kid presses toy din
- osaurs\, shells and leaves into their own plate to make a fossil. Run of s
- how: 3:15 welcome/table talk\, 3:25 mix dough\, 3:35 make fossils\, 4:00 f
- ossil guess and clean up. Volunteers should write names on plates first\, 
- keep dough about half an inch thick\, and help the younger kids lift the d
- inos straight up for clean prints.\nHost: Dream Outside the Box\nRSVP requ
- ested by Sun Oct 18\, 11:59 PM: https://forms.gle/RifERGbF234ZPKCc8\nDetai
- ls: https://jerrywang123454321-maker.github.io/bcm-events/event/202.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/202.html
-CATEGORIES:Service / volunteering
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-242@local
 DTSTAMP:20261028T120118Z
 LAST-MODIFIED:20261028T120118Z

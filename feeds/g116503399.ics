@@ -10,26 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-118@local
-DTSTAMP:20261020T120130Z
-LAST-MODIFIED:20261020T120130Z
-DTSTART:20261020T230000Z
-DTEND:20261021T000000Z
-SUMMARY:IMIG: Primary Care Panel
-STATUS:CONFIRMED
-LOCATION:Room M321\, BCM Houston Campus
-DESCRIPTION:Panel with primary care physicians practicing at Baylor Concier
- ge\, Smith\, and McNair clinics on how internal medicine training translat
- es into primary care practice. Counts for 1 SLP point\; food provided for 
- those who RSVP in Houston. A virtual MS Teams option has now been added (m
- eeting ID and [passcode removed] in the group chat).\nHost: Internal Medic
- ine Interest Group (IMIG)\nRSVP requested by Tue Oct 20\, 2:00 PM: https:/
- /forms.gle/AzcRgSEGfpRnNMQdA\nOnline option: link in the group chat.\nDeta
- ils: https://jerrywang123454321-maker.github.io/bcm-events/event/118.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/118.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-181@local
 DTSTAMP:20261031T120131Z
 LAST-MODIFIED:20261031T120131Z
@@ -68,8 +48,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-339@local
-DTSTAMP:20261120T010036Z
-LAST-MODIFIED:20261120T010036Z
+DTSTAMP:20261120T130049Z
+LAST-MODIFIED:20261120T130049Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Society of Hospital Medicine Annual Abstract Competition: Abstract 
@@ -85,8 +65,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-357@local
-DTSTAMP:20261120T010037Z
-LAST-MODIFIED:20261120T010037Z
+DTSTAMP:20261120T130049Z
+LAST-MODIFIED:20261120T130049Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Society of General Internal Medicine Annual Meeting: Clinical Vigne
@@ -103,8 +83,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-340@local
-DTSTAMP:20261119T130107Z
-LAST-MODIFIED:20261119T130107Z
+DTSTAMP:20261120T130049Z
+LAST-MODIFIED:20261120T130049Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Society of Hospital Medicine Annual Abstract Competition
