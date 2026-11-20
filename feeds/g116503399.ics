@@ -48,9 +48,28 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/181.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-356@local
+DTSTAMP:20261120T010037Z
+LAST-MODIFIED:20261120T010037Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:American College of Physicians Annual Meeting: Abstract Submission 
+ Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Abstract submission deadline for the ACP abstract competition\;
+  the meeting is in Los Angeles\, CA\, April 15-17\, 2027. Students must ap
+ ply through NICER before submitting an abstract to get time off and be con
+ sidered for SOAR travel grants (quick process\, link on VidaNova). Shared 
+ by an IMIG specialty-specific mentor.\nHost: BCM Internal Medicine Interes
+ t Group (IMIG)\nDetails: https://jerrywang123454321-maker.github.io/bcm-ev
+ ents/event/356.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/356.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-339@local
-DTSTAMP:20261119T130107Z
-LAST-MODIFIED:20261119T130107Z
+DTSTAMP:20261120T010036Z
+LAST-MODIFIED:20261120T010036Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Society of Hospital Medicine Annual Abstract Competition: Abstract 
@@ -62,6 +81,24 @@ DESCRIPTION:Abstracts are due November 23 for the Society of Hospital Medic
  hanie Sherman.\nHost: Society of Hospital Medicine\nDetails: https://jerry
  wang123454321-maker.github.io/bcm-events/event/339.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/339.html
+CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-357@local
+DTSTAMP:20261120T010037Z
+LAST-MODIFIED:20261120T010037Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Society of General Internal Medicine Annual Meeting: Clinical Vigne
+ tte Submission Deadline
+STATUS:CONFIRMED
+DESCRIPTION:Deadline to submit clinical vignettes/abstracts for the SGIM an
+ nual meeting in Seattle\, WA\, May 5-8\, 2027. Students must apply through
+  NICER before submitting an abstract to get time off and be considered for
+  SOAR travel grants (link on VidaNova).\nHost: BCM Internal Medicine Inter
+ est Group (IMIG)\nDetails: https://jerrywang123454321-maker.github.io/bcm-
+ events/event/357.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/357.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
