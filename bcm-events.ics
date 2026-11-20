@@ -2799,8 +2799,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-343@local
-DTSTAMP:20261120T130049Z
-LAST-MODIFIED:20261120T130049Z
+DTSTAMP:20261120T211352Z
+LAST-MODIFIED:20261120T211352Z
 DTSTART:20261121T030000Z
 DTEND:20261121T040000Z
 SUMMARY:End of CRR Party
@@ -2808,9 +2808,9 @@ STATUS:CONFIRMED
 LOCATION:A member's home (address in the group chat)
 DESCRIPTION:Post-exam celebration for the end of the CRR block\, hosted at 
  a classmate's townhome. RSVP through the Partiful invite.\nHost: MS1 Class
- \nRSVP requested: https://partiful.com/e/FTEabRDxoOlelLSKaDSb?c=FPm163nb\n
- Details: https://jerrywang123454321-maker.github.io/bcm-events/event/343.h
- tml
+ \nRSVP requested by Fri Nov 20\, 9:00 PM: https://partiful.com/e/FTEabRDxo
+ OlelLSKaDSb?c=FPm163nb\nDetails: https://jerrywang123454321-maker.github.i
+ o/bcm-events/event/343.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/343.html
 CATEGORIES:Social
 END:VEVENT
