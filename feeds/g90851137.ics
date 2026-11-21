@@ -239,8 +239,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-341@local
-DTSTAMP:20261120T130049Z
-LAST-MODIFIED:20261120T130049Z
+DTSTAMP:20261121T130751Z
+LAST-MODIFIED:20261121T130751Z
 DTSTART:20261121T163000Z
 DTEND:20261121T173000Z
 SUMMARY:Extinction Medicine Reading Group: Critical Condition — What Are 
@@ -261,8 +261,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-355@local
-DTSTAMP:20261120T130049Z
-LAST-MODIFIED:20261120T130049Z
+DTSTAMP:20261121T130751Z
+LAST-MODIFIED:20261121T130751Z
 DTSTART:20261125T010000Z
 DTEND:20261125T020000Z
 SUMMARY:Celebrating Native American Heritage Month with Dr. Alec Calac
@@ -278,8 +278,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261120T130049Z
-LAST-MODIFIED:20261120T130049Z
+DTSTAMP:20261121T130751Z
+LAST-MODIFIED:20261121T130751Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
@@ -296,8 +296,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-354@local
-DTSTAMP:20261120T130049Z
-LAST-MODIFIED:20261120T130049Z
+DTSTAMP:20261121T130751Z
+LAST-MODIFIED:20261121T130751Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:AMA-MSS Internal Operating Procedures Task Force: Feedback Comment 
@@ -315,17 +315,18 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-359@local
-DTSTAMP:20261120T170913Z
-LAST-MODIFIED:20261120T170913Z
+DTSTAMP:20261121T130754Z
+LAST-MODIFIED:20261121T130754Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:AMA-MSS Standing Committee Applications: Application Deadline
 STATUS:CONFIRMED
 DESCRIPTION:Applications for AMA Medical Student Section standing committee
- s are now open and close December 7 at 11:59 CST. Apply through the AMA me
- eting registration portal\; reach out to MSS leadership with questions.\nH
- ost: AMA-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-even
- ts/event/359.html
+ s are open and close December 7 at 11:59 CST. Apply through the AMA meetin
+ g registration portal\; students already serving on a standing committee d
+ o not need to reapply\, since this round is for new members only.\nHost: A
+ MA-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/eve
+ nt/359.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/359.html
 CATEGORIES:Deadline
 END:VEVENT
