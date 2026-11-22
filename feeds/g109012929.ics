@@ -73,4 +73,20 @@ DESCRIPTION:Casual pick-up soccer with the Baylor Soccer group\, this week
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/336.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-364@local
+DTSTAMP:20261122T190037Z
+LAST-MODIFIED:20261122T190037Z
+DTSTART:20261123T223000Z
+DTEND:20261123T233000Z
+SUMMARY:Baylor Soccer Pick-Up Game at Helix Park
+STATUS:CONFIRMED
+LOCATION:Helix Park (the isolated field)
+DESCRIPTION:Casual drop-in soccer pick-up game on the isolated field at Hel
+ ix Park\, open to anyone who wants to come play. The group has been runnin
+ g these at 4:30 pm on Mondays.\nHost: Baylor Soccer\nDetails: https://jerr
+ ywang123454321-maker.github.io/bcm-events/event/364.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/364.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR
