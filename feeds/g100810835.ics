@@ -10,24 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-186@local
-DTSTAMP:20261022T120133Z
-LAST-MODIFIED:20261022T120133Z
-DTSTART:20261022T150000Z
-DTEND:20261022T170000Z
-SUMMARY:TCH Ultrasound Model Session (Morning)
-STATUS:CONFIRMED
-LOCATION:Texas Children's Hospital (TCH)
-DESCRIPTION:Texas Children's Hospital needs medical students to serve as pa
- id ultrasound models. Pay is $60 per 2-hour session\, with parking and foo
- d included. Athletic attire is recommended. Sessions run 10a-12p and 2p-4p
-  on 10/22 and 10/23\, with 10 sessions total available.\nHost: Anesthesia 
- Interest Group (AIG) / Texas Children's Hospital\nRSVP requested\nDetails:
-  https://jerrywang123454321-maker.github.io/bcm-events/event/186.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/186.html
-CATEGORIES:Interest group
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-187@local
 DTSTAMP:20261023T120055Z
 LAST-MODIFIED:20261023T120055Z

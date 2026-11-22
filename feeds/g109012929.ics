@@ -10,40 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-207@local
-DTSTAMP:20261023T010019Z
-LAST-MODIFIED:20261023T010019Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Post-Soccer Hangout (Moved to Rodeo Goat)
-STATUS:CONFIRMED
-LOCATION:Rodeo Goat\, EaDo
-DESCRIPTION:The post-soccer social originally planned for Pitch 25 has been
-  moved to Rodeo Goat in EaDo. It follows the weekly pickup game and marks 
- the last soccer club gathering before rotations\; all are welcome.\nTime n
- ot announced yet.\nHost: Baylor Soccer\nDetails: https://jerrywang12345432
- 1-maker.github.io/bcm-events/event/207.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/207.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
-UID:eventscan-222@local
-DTSTAMP:20261022T120133Z
-LAST-MODIFIED:20261022T120133Z
-DTSTART:20261022T223000Z
-DTEND:20261022T233000Z
-SUMMARY:Baylor Soccer: Weekly Pickup Game
-STATUS:CONFIRMED
-LOCATION:Helix Park (per previous weeks\; not restated in this message)
-DESCRIPTION:Weekly casual pickup soccer with the Baylor Soccer group\, kick
- ing off at 5:30. Per earlier chatter this is the last soccer club session 
- before rotations\, and some MS2s are heading to Pitch 25 in EaDo afterward
- . All are welcome.\nHost: Baylor Soccer\nDetails: https://jerrywang1234543
- 21-maker.github.io/bcm-events/event/222.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/222.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-258@local
 DTSTAMP:20261029T140127Z
 LAST-MODIFIED:20261029T140127Z
