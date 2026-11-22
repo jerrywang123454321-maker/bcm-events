@@ -2607,9 +2607,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/349.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-363@local
+DTSTAMP:20261122T170027Z
+LAST-MODIFIED:20261122T170027Z
+DTSTART:20261123T233000Z
+DTEND:20261124T003000Z
+SUMMARY:BCM Volleyball (Monday Night)
+STATUS:CONFIRMED
+DESCRIPTION:Weekly Monday evening volleyball session with the BCM volleybal
+ l group\; last session before Thanksgiving break. Location was not stated 
+ in the message.\nHost: BCM Volleyball Monday\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/363.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/363.html
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-361@local
-DTSTAMP:20261122T130041Z
-LAST-MODIFIED:20261122T130041Z
+DTSTAMP:20261122T170020Z
+LAST-MODIFIED:20261122T170020Z
 DTSTART:20261124T010000Z
 DTEND:20261124T020000Z
 SUMMARY:Dermatology Interest Group: Dermatology Among Patients with Disabil

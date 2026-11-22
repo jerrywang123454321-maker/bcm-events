@@ -75,4 +75,19 @@ DESCRIPTION:Casual indoor volleyball pick-up organized through the BCM Voll
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/337.html
 CATEGORIES:Wellness
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-363@local
+DTSTAMP:20261122T170027Z
+LAST-MODIFIED:20261122T170027Z
+DTSTART:20261123T233000Z
+DTEND:20261124T003000Z
+SUMMARY:BCM Volleyball (Monday Night)
+STATUS:CONFIRMED
+DESCRIPTION:Weekly Monday evening volleyball session with the BCM volleybal
+ l group\; last session before Thanksgiving break. Location was not stated 
+ in the message.\nHost: BCM Volleyball Monday\nDetails: https://jerrywang12
+ 3454321-maker.github.io/bcm-events/event/363.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/363.html
+CATEGORIES:Wellness
+END:VEVENT
 END:VCALENDAR
