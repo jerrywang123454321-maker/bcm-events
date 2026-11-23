@@ -1393,6 +1393,22 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/314.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-365@local
+DTSTAMP:20261123T170731Z
+LAST-MODIFIED:20261123T170731Z
+DTSTART:20261204T003000Z
+DTEND:20261204T013000Z
+SUMMARY:No One Dies Alone: Comfort Letter Writing
+STATUS:CONFIRMED
+LOCATION:Squad Rooms
+DESCRIPTION:Write comfort and holiday cards for terminally ill patients wit
+ h limited social support at Ben Taub. Dinner and all materials provided\; 
+ counts for 1 SLP volunteer point.\nHost: No One Dies Alone\nDetails: https
+ ://jerrywang123454321-maker.github.io/bcm-events/event/365.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/365.html
+CATEGORIES:Service / volunteering
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-102@local
 DTSTAMP:20261123T130040Z
 LAST-MODIFIED:20261123T130040Z
