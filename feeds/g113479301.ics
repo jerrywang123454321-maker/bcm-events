@@ -1272,13 +1272,13 @@ CATEGORIES:Social
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-361@local
-DTSTAMP:20261123T130040Z
-LAST-MODIFIED:20261123T130040Z
+DTSTAMP:20261123T190032Z
+LAST-MODIFIED:20261123T190032Z
 DTSTART:20261124T010000Z
 DTEND:20261124T020000Z
-SUMMARY:Dermatology Interest Group: Dermatology Among Patients with Disabil
- ities
-STATUS:CONFIRMED
+SUMMARY:Cancelled: Dermatology Interest Group: Dermatology Among Patients w
+ ith Disabilities
+STATUS:CANCELLED
 LOCATION:Room N311
 DESCRIPTION:Talk on caring for patients with disabilities and addressing th
  eir dermatologic needs related to vision\, hearing\, mobility\, and more. 
@@ -1479,6 +1479,24 @@ DESCRIPTION:Baylor Orthopedic Student Society hosts Dr. Melvyn A. Harringto
  tps://jerrywang123454321-maker.github.io/bcm-events/event/280.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/280.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-366@local
+DTSTAMP:20261123T190033Z
+LAST-MODIFIED:20261123T190033Z
+DTSTART:20261210T000000Z
+DTEND:20261210T010000Z
+SUMMARY:Day in the Life of IR with Dr. David Wynne
+STATUS:CONFIRMED
+LOCATION:M321\, Baylor College of Medicine
+DESCRIPTION:Annual talk with Baylor's Interventional Radiology Program Dire
+ ctor\, Dr. David Wynne\, covering what a day in IR looks like. Attendees c
+ an submit questions in advance through the sign-up form and bring question
+ s to the session.\nHost: Interventional Radiology Interest Group\nRSVP req
+ uested: https://forms.gle/bg7yZZLMJM2ixgtg7\nDetails: https://jerrywang123
+ 454321-maker.github.io/bcm-events/event/366.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/366.html
+CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-317@local
