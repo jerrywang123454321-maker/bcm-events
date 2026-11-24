@@ -10,27 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-138@local
-DTSTAMP:20261024T120339Z
-LAST-MODIFIED:20261024T120339Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:AIM at Melanoma: Steps Against Melanoma Houston (Volunteering)
-STATUS:CONFIRMED
-LOCATION:Houston\, TX
-DESCRIPTION:Awareness walk supporting melanoma survivors and their families
- \, with many booths and UT Health dermatologists usually present. Voluntee
- ring counts for SLP site hours via Bodyguards. Volunteers sign up for a ro
- le through SignUpGenius\; separately you can register for the event itself
-  as an individual for free and get a free t-shirt.\nTime not announced yet
- .\nHost: AIM at Melanoma (shared via Baylor Students Against Cancer)\nRSVP
-  requested: https://www.signupgenius.com/go/10C0445AFA728A7F8C34-64394925-
- houston#/\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
- event/138.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/138.html
-CATEGORIES:Service / volunteering
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-214@local
 DTSTAMP:20261026T160034Z
 LAST-MODIFIED:20261026T160034Z
