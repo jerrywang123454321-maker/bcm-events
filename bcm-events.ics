@@ -2800,6 +2800,27 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/102.html
 CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-369@local
+DTSTAMP:20261124T230031Z
+LAST-MODIFIED:20261124T230031Z
+DTSTART:20261205T210000Z
+DTEND:20261206T000000Z
+SUMMARY:LMIG × CHEF: Feed Houston's Unhoused Families Community Dinner
+STATUS:CONFIRMED
+LOCATION:Star of Hope Women's Center\, 2575 Reed Rd\, Houston\, TX 77051
+DESCRIPTION:Musical community dinner cooking and serving meals to unhoused 
+ families\, earning SLP points. Ways to help: drop off ingredients Dec 4 or
+  5\, prepare and serve food on-site 3-6pm\, or apply to perform music duri
+ ng the dinner (apply asap at tinyurl.com/dec5apply). Torchy's Tacos provid
+ ed to on-site volunteers\; slots are limited and point values are listed i
+ n the sign-up link.\nHost: Lifestyle Medicine Interest Group (LMIG) & Choo
+ sing Healthy Eating Fresh (CHEF)\nRSVP requested: bit.ly/communitydinner26
+ \nDetails: https://jerrywang123454321-maker.github.io/bcm-events/event/369
+ .html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/369.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-348@local
 DTSTAMP:20261124T130111Z
 LAST-MODIFIED:20261124T130111Z
@@ -3067,6 +3088,23 @@ DESCRIPTION:Drop-in line dancing with free lessons starting at 9:30 pm. Ope
  s/event/335.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/335.html
 CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-370@local
+DTSTAMP:20261124T230032Z
+LAST-MODIFIED:20261124T230032Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Feed Houston's Unhoused Families: Fundraising Challenge Closes
+STATUS:CONFIRMED
+DESCRIPTION:Optional fundraising challenge for the LMIG/CHEF community dinn
+ er\, open now through Dec 17 at 11:59 pm CT. The individual(s) who raise t
+ he most funds win a $50 Amazon gift card\; fundraising link is bit.ly/feed
+ houston2026.\nHost: Lifestyle Medicine Interest Group (LMIG) & Choosing He
+ althy Eating Fresh (CHEF)\nDetails: https://jerrywang123454321-maker.githu
+ b.io/bcm-events/event/370.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/370.html
+CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-346@local
