@@ -97,4 +97,24 @@ DESCRIPTION:Opportunity to present your research at the Society of Hospital
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/340.html
 CATEGORIES:Interest group
 END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-371@local
+DTSTAMP:20261125T030024Z
+LAST-MODIFIED:20261125T030024Z
+DTSTART:20261215T000000Z
+DTEND:20261215T010000Z
+SUMMARY:IMIG × IM Residents: Medical Jeopardy Night
+STATUS:CONFIRMED
+LOCATION:Kleberg Auditorium\, Main Baylor Building\, One Baylor Plaza\, Hou
+ ston\, TX 77030
+DESCRIPTION:Trivia competition pitting medical students against residents a
+ nd attendings\, featuring internal medicine attendings as contestants. Pri
+ zes for the winning team and free refreshments (pizza and drinks). Come to
+  compete or to cheer on classmates.\nHost: BCM Internal Medicine Interest 
+ Group (IMIG) with BCM Internal Medicine Residents\nRSVP requested: https:/
+ /forms.gle/SDygdS6R6z5sGb6FA\nDetails: https://jerrywang123454321-maker.gi
+ thub.io/bcm-events/event/371.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/371.html
+CATEGORIES:Interest group
+END:VEVENT
 END:VCALENDAR
