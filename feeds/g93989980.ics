@@ -188,20 +188,18 @@ CATEGORIES:Service / volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-368@local
-DTSTAMP:20261124T210016Z
-LAST-MODIFIED:20261124T210016Z
+DTSTAMP:20261125T010217Z
+LAST-MODIFIED:20261125T010217Z
 DTSTART:20261204T000000Z
 DTEND:20261204T010000Z
 SUMMARY:APAMSA: Hepatitis Education Talk with Dr. Howard Lee
 STATUS:CONFIRMED
-LOCATION:Room M311
-DESCRIPTION:Dr. Howard Lee leads an educational talk and discussion on hepa
- titis\, focusing on hepatitis B's disproportionately high prevalence in th
- e Asian American community (58% of chronic infections despite being 6% of 
- the US population). Eligible for 1 SLP point\; food provided (RSVP for foo
- d).\nHost: APAMSA (BCM chapter)\nRSVP requested: https://tinyurl.com/bcmap
- amsahep\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/ev
- ent/368.html
+LOCATION:Room N311
+DESCRIPTION:Room correction: the talk is in N311\, not M311. Educational ta
+ lk on hepatitis B and its disproportionate prevalence in the Asian America
+ n community\, with discussion\; worth +1 SLP point and food is provided.\n
+ Host: APAMSA\nRSVP requested: https://tinyurl.com/bcmapamsahep\nDetails: h
+ ttps://jerrywang123454321-maker.github.io/bcm-events/event/368.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/368.html
 CATEGORIES:Student org
 END:VEVENT
