@@ -10,25 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-225@local
-DTSTAMP:20261025T120053Z
-LAST-MODIFIED:20261025T120053Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:AMA-MSS Awards: Nomination Deadline
-STATUS:CONFIRMED
-DESCRIPTION:Nominations are open for AMA Medical Student Section awards\; m
- embers may nominate themselves or someone else via the Google Form. Catego
- ries include emerging leadership (1 per region)\, advocacy distinction\, p
- olicy impact\, membership development and outreach\, and distinction in me
- ntorship. Winners get recognition on the AMA website\, a distinguished cre
- dential\, and a certificate with live recognition at the I-26 meeting.\nHo
- st: AMA-MSS\nDetails: https://jerrywang123454321-maker.github.io/bcm-event
- s/event/225.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/225.html
-CATEGORIES:Deadline
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-249@local
 DTSTAMP:20261028T010021Z
 LAST-MODIFIED:20261028T010021Z
@@ -278,8 +259,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261124T130111Z
-LAST-MODIFIED:20261124T130111Z
+DTSTAMP:20261125T130108Z
+LAST-MODIFIED:20261125T130108Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
@@ -296,8 +277,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-354@local
-DTSTAMP:20261124T130111Z
-LAST-MODIFIED:20261124T130111Z
+DTSTAMP:20261125T130108Z
+LAST-MODIFIED:20261125T130108Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:AMA-MSS Internal Operating Procedures Task Force: Feedback Comment 
@@ -315,8 +296,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-359@local
-DTSTAMP:20261124T130111Z
-LAST-MODIFIED:20261124T130111Z
+DTSTAMP:20261125T130108Z
+LAST-MODIFIED:20261125T130108Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:AMA-MSS Standing Committee Applications: Application Deadline
