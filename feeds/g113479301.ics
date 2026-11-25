@@ -1517,6 +1517,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/317.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-373@local
+DTSTAMP:20261125T210823Z
+LAST-MODIFIED:20261125T210823Z
+DTSTART:20261214T190000Z
+DTEND:20261214T200000Z
+SUMMARY:Casa Juan Diego Student-Run Free Clinic: Sign-Up Opens
+STATUS:CONFIRMED
+DESCRIPTION:Sign-ups for the first two clinic dates (Jan 9 and Jan 23) at B
+ CM's new student-run free clinic at Casa Juan Diego drop at 1 PM. Interest
+ ed students should join the clinic's GroupMe/email list beforehand\; leade
+ rship opportunities may be available.\nHost: BCM Student-Run Free Clinic a
+ t Casa Juan Diego\nDetails: https://jerrywang123454321-maker.github.io/bcm
+ -events/event/373.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/373.html
+CATEGORIES:Clinical / skills
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-234@local
 DTSTAMP:20261125T130108Z
 LAST-MODIFIED:20261125T130108Z
@@ -1649,5 +1666,40 @@ DESCRIPTION:Baylor's student journal is accepting original research\, revie
  /event/270.html
 URL:https://jerrywang123454321-maker.github.io/bcm-events/event/270.html
 CATEGORIES:Deadline
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-374@local
+DTSTAMP:20261125T210823Z
+LAST-MODIFIED:20261125T210823Z
+DTSTART:20270109T140000Z
+DTEND:20270109T180000Z
+SUMMARY:Casa Juan Diego Student-Run Free Clinic: Clinic Day
+STATUS:CONFIRMED
+LOCATION:Casa Juan Diego
+DESCRIPTION:First clinic day of BCM's new free\, student-run weekend clinic
+  providing basic health care to uninsured patients. Open to BCM medical st
+ udents of all years\, separate from the current MS1-only SLP site. Sign-up
+ s drop Dec 14 at 1 PM.\nHost: BCM Student-Run Free Clinic at Casa Juan Die
+ go\nRSVP requested\nDetails: https://jerrywang123454321-maker.github.io/bc
+ m-events/event/374.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/374.html
+CATEGORIES:Clinical / skills
+END:VEVENT
+BEGIN:VEVENT
+UID:eventscan-375@local
+DTSTAMP:20261125T210824Z
+LAST-MODIFIED:20261125T210824Z
+DTSTART:20270123T140000Z
+DTEND:20270123T180000Z
+SUMMARY:Casa Juan Diego Student-Run Free Clinic: Clinic Day
+STATUS:CONFIRMED
+LOCATION:Casa Juan Diego
+DESCRIPTION:Second announced clinic day of BCM's new free\, student-run wee
+ kend clinic for uninsured patients\, open to BCM medical students of all y
+ ears. Sign-ups drop Dec 14 at 1 PM.\nHost: BCM Student-Run Free Clinic at 
+ Casa Juan Diego\nRSVP requested\nDetails: https://jerrywang123454321-maker
+ .github.io/bcm-events/event/375.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/375.html
+CATEGORIES:Clinical / skills
 END:VEVENT
 END:VCALENDAR
