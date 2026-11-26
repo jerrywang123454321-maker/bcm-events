@@ -1374,6 +1374,24 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/314.html
 CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-376@local
+DTSTAMP:20261126T020125Z
+LAST-MODIFIED:20261126T020125Z
+DTSTART:20261204T000000Z
+DTEND:20261204T010000Z
+SUMMARY:Dermatology Interest Group: Journal Club with BCM Derm Residents
+STATUS:CONFIRMED
+LOCATION:Room M112
+DESCRIPTION:Journal club with two BCM dermatology residents discussing thre
+ e articles on any derm-related topic\; attendees may request an article fo
+ r discussion via the RSVP form. Dinner provided and a chance to network wi
+ th residents.\nHost: Dermatology Interest Group (DIG)\nRSVP requested by S
+ un Nov 29\, 11:59 PM: https://forms.gle/wqQwWzCeu3wB8rPi8\nDetails: https:
+ //jerrywang123454321-maker.github.io/bcm-events/event/376.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/376.html
+CATEGORIES:Interest group
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-365@local
 DTSTAMP:20261125T130108Z
 LAST-MODIFIED:20261125T130108Z
