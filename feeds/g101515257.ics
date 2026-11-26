@@ -10,25 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-214@local
-DTSTAMP:20261026T160034Z
-LAST-MODIFIED:20261026T160034Z
-DTSTART:20261026T170000Z
-DTEND:20261026T180000Z
-SUMMARY:NMDP Stem Cell Donor Registry Drive: Tabling (Day 1)
-STATUS:CONFIRMED
-LOCATION:Squad Rooms\, BCM campus
-DESCRIPTION:Drop by to chat with Baylor Students Against Cancer and the Nat
- ional Marrow Donor Program about joining the stem cell/bone marrow donor r
- egistry. Flyer adds the specific location: Squad Rooms.\nHost: Baylor Stud
- ents Against Cancer (BSAC) with NMDP\nRSVP requested: https://docs.google.
- com/spreadsheets/d/1lU3cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=s
- haring\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/eve
- nt/214.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/214.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-215@local
 DTSTAMP:20261028T120117Z
 LAST-MODIFIED:20261028T120117Z

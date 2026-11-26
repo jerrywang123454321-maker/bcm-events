@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-224@local
-DTSTAMP:20261026T121536Z
-LAST-MODIFIED:20261026T121536Z
-DTSTART:20261026T223000Z
-DTEND:20261026T233000Z
-SUMMARY:BCM Volleyball: Monday Indoor Pickup
-STATUS:CONFIRMED
-DESCRIPTION:Casual Monday indoor volleyball pickup with classmates. This we
- ek's session was skipped because organizers couldn't make it\, so the grou
- p is aiming for 10/26 at 5:30pm. Venue not restated in the message (indoor
-  court used in previous weeks).\nHost: BCM Volleyball Monday\nDetails: htt
- ps://jerrywang123454321-maker.github.io/bcm-events/event/224.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/224.html
-CATEGORIES:Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-276@local
 DTSTAMP:20261102T130342Z
 LAST-MODIFIED:20261102T130342Z

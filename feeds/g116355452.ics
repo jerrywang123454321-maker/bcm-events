@@ -10,23 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-229@local
-DTSTAMP:20261026T121536Z
-LAST-MODIFIED:20261026T121536Z
-DTSTART:20261026T233000Z
-DTEND:20261027T010000Z
-SUMMARY:Green Squad Meet & Greet
-STATUS:CONFIRMED
-LOCATION:Axelrad Beer Garden
-DESCRIPTION:Casual Green Squad gathering to meet the squad advisors and min
- gle with classmates. Pizza provided. RSVP via the Google Form (QR code on 
- the flyer).\nHost: Green Squad\nRSVP requested: https://forms.gle/C75ijNyS
- WeDqKZvz7\nDetails: https://jerrywang123454321-maker.github.io/bcm-events/
- event/229.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/229.html
-CATEGORIES:Social
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-49@local
 DTSTAMP:20261103T133221Z
 LAST-MODIFIED:20261103T133221Z
