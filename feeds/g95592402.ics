@@ -10,24 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-242@local
-DTSTAMP:20261028T120118Z
-LAST-MODIFIED:20261028T120118Z
-DTSTART:20261027T201500Z
-DTEND:20261027T211500Z
-SUMMARY:Dream Outside the Box: MacGregor Volunteering
-STATUS:CONFIRMED
-LOCATION:MacGregor
-DESCRIPTION:Weekly after-school volunteering session with kids at MacGregor
- \, about an hour long. Sign-ups were extended through the end of Monday 10
- /26\; only 8 MS1s had signed up\, so more MS1 volunteers are needed.\nHost
- : Dream Outside the Box\nRSVP requested by Mon Oct 26\, 11:59 PM: https://
- forms.gle/VJ62isuzCq21GM4L8\nDetails: https://jerrywang123454321-maker.git
- hub.io/bcm-events/event/242.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/242.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-273@local
 DTSTAMP:20261103T170103Z
 LAST-MODIFIED:20261103T170103Z

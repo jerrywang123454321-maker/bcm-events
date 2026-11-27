@@ -10,25 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-249@local
-DTSTAMP:20261028T010021Z
-LAST-MODIFIED:20261028T010021Z
-DTSTART:20261028T000000Z
-DTEND:20261028T010000Z
-SUMMARY:AMA-MSS Committee on Health Justice: October Heritage Month — Dis
- ability Awareness
-STATUS:CONFIRMED
-LOCATION:Virtual (Zoom)
-DESCRIPTION:Guest speaker Joe Holt leads a conversation on advancing disabi
- lity awareness and how future physicians can advocate for inclusive\, comp
- assionate\, equitable care for patients with disabilities. Listed as 8:00 
- PM Eastern / 5:00 PM Pacific (7:00 PM Central).\nHost: AMA-MSS Standing Co
- mmittee on Health Justice\nOnline option: link in the group chat.\nDetails
- : https://jerrywang123454321-maker.github.io/bcm-events/event/249.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/249.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-113@local
 DTSTAMP:20261030T121048Z
 LAST-MODIFIED:20261030T121048Z
@@ -259,8 +240,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-194@local
-DTSTAMP:20261126T130107Z
-LAST-MODIFIED:20261126T130107Z
+DTSTAMP:20261127T130052Z
+LAST-MODIFIED:20261127T130052Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:AMA Spring 2027 Internship Program: Preferred Application Deadline
@@ -277,8 +258,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-354@local
-DTSTAMP:20261126T130107Z
-LAST-MODIFIED:20261126T130107Z
+DTSTAMP:20261127T130052Z
+LAST-MODIFIED:20261127T130052Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:AMA-MSS Internal Operating Procedures Task Force: Feedback Comment 
@@ -296,8 +277,8 @@ CATEGORIES:Deadline
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-359@local
-DTSTAMP:20261126T130107Z
-LAST-MODIFIED:20261126T130107Z
+DTSTAMP:20261127T130052Z
+LAST-MODIFIED:20261127T130052Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:AMA-MSS Standing Committee Applications: Application Deadline
