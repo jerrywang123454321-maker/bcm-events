@@ -2405,6 +2405,23 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/377.html
 CATEGORIES:Interest group
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-379@local
+DTSTAMP:20261127T170120Z
+LAST-MODIFIED:20261127T170120Z
+DTSTART:20261201T160000Z
+DTEND:20261201T170000Z
+SUMMARY:APAMSA × MMLC: ESL Health Workshop
+STATUS:CONFIRMED
+LOCATION:Chinese Community Center\, 9800 Town Park Dr.\, Houston\, TX 77036
+DESCRIPTION:Volunteer workshop helping Chinese ESL students practice naviga
+ ting English-language healthcare scenarios\, and a chance to practice your
+  Chinese. Lesson materials are provided. Worth +1 SLP point.\nHost: APAMSA
+  × MMLC\nRSVP requested: https://forms.gle/9AoD6UpphKwRyAbV6\nDetails: ht
+ tps://jerrywang123454321-maker.github.io/bcm-events/event/379.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/379.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-367@local
 DTSTAMP:20261127T130052Z
 LAST-MODIFIED:20261127T130052Z
@@ -2477,6 +2494,25 @@ URL:https://jerrywang123454321-maker.github.io/bcm-events/event/19.html
 CATEGORIES:Research
 END:VEVENT
 BEGIN:VEVENT
+UID:eventscan-380@local
+DTSTAMP:20261127T170121Z
+LAST-MODIFIED:20261127T170121Z
+DTSTART:20261202T180000Z
+DTEND:20261202T190000Z
+SUMMARY:SAMSA × HPAIV: Understanding Domestic Violence in South Asian Comm
+ unities
+STATUS:CONFIRMED
+LOCATION:Virtual (Microsoft Teams)
+DESCRIPTION:Dr. Nusrat Ameen\, Senior Director of Legal Services at Daya Ho
+ uston and a domestic violence expert\, discusses violence prevention and a
+ ddressing stigma in South Asian communities for medical students and futur
+ e clinicians. Eligible for 1 SLP education point.\nHost: SAMSA × HPAIV\nO
+ nline option: link in the group chat.\nDetails: https://jerrywang123454321
+ -maker.github.io/bcm-events/event/380.html
+URL:https://jerrywang123454321-maker.github.io/bcm-events/event/380.html
+CATEGORIES:Student org
+END:VEVENT
+BEGIN:VEVENT
 UID:eventscan-314@local
 DTSTAMP:20261127T130052Z
 LAST-MODIFIED:20261127T130052Z
@@ -2494,8 +2530,8 @@ CATEGORIES:Student org
 END:VEVENT
 BEGIN:VEVENT
 UID:eventscan-368@local
-DTSTAMP:20261127T130052Z
-LAST-MODIFIED:20261127T130052Z
+DTSTAMP:20261127T170116Z
+LAST-MODIFIED:20261127T170116Z
 DTSTART:20261204T000000Z
 DTEND:20261204T010000Z
 SUMMARY:APAMSA: Hepatitis Education Talk with Dr. Howard Lee
