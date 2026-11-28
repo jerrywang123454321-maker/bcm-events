@@ -10,24 +10,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT2H
 X-PUBLISHED-TTL:PT2H
 BEGIN:VEVENT
-UID:eventscan-215@local
-DTSTAMP:20261028T120117Z
-LAST-MODIFIED:20261028T120117Z
-DTSTART:20261028T170000Z
-DTEND:20261028T180000Z
-SUMMARY:NMDP Stem Cell Donor Registry Drive: Tabling (Day 2)
-STATUS:CONFIRMED
-LOCATION:2nd floor\, Alkek Building
-DESCRIPTION:Second day of the registry drive with Baylor Students Against C
- ancer and the National Marrow Donor Program. Flyer places this day on the 
- 2nd floor of the Alkek Building.\nHost: Baylor Students Against Cancer (BS
- AC) with NMDP\nRSVP requested: https://docs.google.com/spreadsheets/d/1lU3
- cZBx3Inkx-OpbjqnxpYtRFgNirDZwz99kP1Adn8w/edit?usp=sharing\nDetails: https:
- //jerrywang123454321-maker.github.io/bcm-events/event/215.html
-URL:https://jerrywang123454321-maker.github.io/bcm-events/event/215.html
-CATEGORIES:Student org
-END:VEVENT
-BEGIN:VEVENT
 UID:eventscan-216@local
 DTSTAMP:20261030T121048Z
 LAST-MODIFIED:20261030T121048Z
